@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: dim_orgs
+    columns:
+      - name: org_id
+        tests:
+          - not_null
+          - unique
+  - name: fct_monthly_financials
+    columns:
+      - name: date_month
+        tests:
+          - not_null
+          - unique

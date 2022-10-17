@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: sales_sync
+    columns:
+      - name: org_id
+        tests:
+          - not_null
+          - unique
