@@ -1,9 +1,10 @@
 WITH orgs AS (
     SELECT 
         org_id
-        , MIN(event_timestamp) AS created_at
-    FROM {{ source('EVENTS', 'SIGNED_IN') }}
-    GROUP BY 1
+        , org_name
+        , employee_range
+        , created_at
+    FROM {{ source('EVENTS', 'ORG_CREATED') }}
 )
 
 , user_count AS (
