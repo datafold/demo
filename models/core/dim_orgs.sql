@@ -7,7 +7,7 @@ WITH unioned_orgs AS (
 , orgs AS (
     SELECT
         org_id
-        , org_names
+        , org_name
         , employee_range
         , created_at
     FROM unioned_orgs 
