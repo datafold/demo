@@ -1,18 +1,10 @@
-WITH unioned_orgs AS (
-    SELECT * FROM {{ source('EVENTS', 'ORG_CREATED') }}
-    UNION 
-    SELECT * FROM {{ ref('seed_orgs') }}
-)
-
-, orgs AS (
-    SELECT
+WITH orgs AS (
+    SELECT 
         org_id
-        , org_name
-        , employee_range
-        , created_at
-    FROM unioned_orgs 
+        , MIN(event_timestamp) AS created_at
+    FROM {{ source('EVENTS', 'SIGNED_IN') }}
+    GROUP BY 1
 )
-
 
 , user_count AS (
     SELECT
