@@ -1,0 +1,13 @@
+coalesce_demo:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
+      user: "{{ env_var('SNOWFLAKE_USER') | as_text }}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD') | as_text }}"
+      role: "{{ env_var('SNOWFLAKE_ROLE') | as_text }}"
+      database: COALESCE_DEMO
+      warehouse: INTEGRATION
+      schema: CORE
+      threads: 5
