@@ -52,6 +52,7 @@ jobs:
           SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
           SNOWFLAKE_SCHEMA: "${{ github.ref == 'refs/heads/master' && 'BEERS' || 'BEERS_DEV' }}"
           DATAFOLD_APIKEY: ${{ secrets.DATAFOLD_APIKEY }}
+          SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
 
       - name: dbt build
         run: dbt build --profiles-dir ./
