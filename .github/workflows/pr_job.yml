@@ -31,31 +31,32 @@ jobs:
         uses: jwalton/gh-find-current-pr@v1.3.0
         id: findPR
       
-#       - name: compile prod artifacts
-#         run: |
-#           set -x
-#           git fetch
-#           HEAD=$(git rev-parse HEAD)
-#           PR_HEAD=$(cat $GITHUB_EVENT_PATH | jq -r .pull_request.head.sha)
-#           MERGE_BASE=$(git merge-base $PR_HEAD origin/master)
-#           echo "head: $HEAD"
-#           echo "head: $PR_HEAD"
-#           echo "merge base: $MERGE_BASE"
-#           git checkout $MERGE_BASE
-#           git rev-parse
-#           SNOWFLAKE_SCHEMA='CORE' dbt compile --profiles-dir .
-#           mv target target_prod
-#           datafold dbt upload-and-wait --ci-config-id 146 --run-type production --target-folder ./target_prod/ --commit-sha ${MERGE_BASE}
-#           git checkout $HEAD
-#         env:
-#           SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
-#           SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
-#           SNOWFLAKE_SCHEMA: "${{ github.ref == 'refs/heads/master' && 'BEERS' || 'BEERS_DEV' }}"
-#           DATAFOLD_APIKEY: ${{ secrets.DATAFOLD_APIKEY }}
-#           SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
+      - name: compile prod artifacts
+        run: |
+          set -x
+          git fetch
+          HEAD=$(git rev-parse HEAD)
+          PR_HEAD=$(cat $GITHUB_EVENT_PATH | jq -r .pull_request.head.sha)
+          MERGE_BASE=$(git merge-base $PR_HEAD origin/master)
+          echo "head: $HEAD"
+          echo "head: $PR_HEAD"
+          echo "merge base: $MERGE_BASE"
+          git checkout $MERGE_BASE
+          git rev-parse
+          SNOWFLAKE_SCHEMA='CORE' dbt compile --profiles-dir ./
+          mv target target_prod
+          datafold dbt upload-and-wait --ci-config-id 146 --run-type production --target-folder ./target_prod/ --commit-sha ${MERGE_BASE}
+          git checkout $HEAD
+        env:
+          SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
+          SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
+          SNOWFLAKE_SCHEMA: "${{ format('{0}_{1}', 'PR_NUM', steps.findPr.outputs.pr) }}"
+          DATAFOLD_APIKEY: ${{ secrets.DATAFOLD_APIKEY }}
+          SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
+          SNOWFLAKE_ROLE: ${{ secrets.SNOWFLAKE_ROLE }}
 
       - name: dbt build
-        run: dbt build --profiles-dir ./
+        run: dbt build --select state:modified+ --defer --state target_prod --profiles-dir ./
         env:
           SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
           SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
