@@ -56,7 +56,7 @@ jobs:
           SNOWFLAKE_ROLE: ${{ secrets.SNOWFLAKE_ROLE }}
 
       - name: dbt build
-        run: dbt build --profiles-dir ./
+        run: dbt build --select state:modified+ --defer --state target_prod --profiles-dir ./
         env:
           SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
           SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
