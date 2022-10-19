@@ -45,7 +45,7 @@ jobs:
 #           git rev-parse
 #           SNOWFLAKE_SCHEMA='CORE' dbt compile --profiles-dir .
 #           mv target target_prod
-#           datafold dbt upload-and-wait --ci-config-id 34 --run-type production --target-folder ./target_prod/ --commit-sha ${MERGE_BASE}
+#           datafold dbt upload-and-wait --ci-config-id 146 --run-type production --target-folder ./target_prod/ --commit-sha ${MERGE_BASE}
 #           git checkout $HEAD
 #         env:
 #           SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
