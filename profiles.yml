@@ -9,5 +9,5 @@ coalesce_demo:
       role: "{{ env_var('SNOWFLAKE_ROLE') | as_text }}"
       database: COALESCE_DEMO
       warehouse: INTEGRATION
-      schema: CORE
+      schema: "{{ env_var('SNOWFLAKE_SCHEMA') | as_text }}"
       threads: 5
