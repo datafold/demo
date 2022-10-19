@@ -1,0 +1,72 @@
+name: dbt PR job
+
+on:
+  pull_request:
+  push:
+    branches:
+      - '!main'
+
+jobs:
+  run:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: install requirements
+        run: pip install -q -r requirements.txt
+
+      - name: install datafold-sdk
+        run: pip install -q datafold-sdk
+
+      - name: dbt deps
+        run: dbt deps
+
+      - name: Find Current Pull Request
+        uses: jwalton/gh-find-current-pr@v1.3.0
+        id: findPR
+      
+      - name: compile prod artifacts
+        run: |
+          set -x
+          git fetch
+          HEAD=$(git rev-parse HEAD)
+          PR_HEAD=$(cat $GITHUB_EVENT_PATH | jq -r .pull_request.head.sha)
+          MERGE_BASE=$(git merge-base $PR_HEAD origin/master)
+          echo "head: $HEAD"
+          echo "head: $PR_HEAD"
+          echo "merge base: $MERGE_BASE"
+          git checkout $MERGE_BASE
+          git rev-parse
+          SNOWFLAKE_SCHEMA='CORE' dbt compile --profiles-dir .
+          mv target target_prod
+          datafold dbt upload-and-wait --ci-config-id 34 --run-type production --target-folder ./target_prod/ --commit-sha ${MERGE_BASE}
+          git checkout $HEAD
+        env:
+          SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
+          SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
+          SNOWFLAKE_SCHEMA: "${{ github.ref == 'refs/heads/master' && 'BEERS' || 'BEERS_DEV' }}"
+          DATAFOLD_APIKEY: ${{ secrets.DATAFOLD_APIKEY }}
+
+      - name: dbt build
+        run: dbt build --profiles-dir ./
+        env:
+          SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
+          SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
+          SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
+          SNOWFLAKE_ROLE: ${{ secrets.SNOWFLAKE_ROLE }}
+          SNOWFLAKE_SCHEMA: "${{ format('{0}_{1}', 'PR_NUM', steps.findPr.outputs.pr) }}"
+
+      - name: submit artifacts to datafold
+        run: |
+          set -ex
+          datafold dbt upload --ci-config-id 146 --run-type ${DATAFOLD_RUN_TYPE} --commit-sha ${GIT_SHA}
+        env:
+          DATAFOLD_APIKEY: ${{ secrets.DATAFOLD_APIKEY }}
+          DATAFOLD_RUN_TYPE: "${{ 'pull_request' }}"
+          GIT_SHA: "${{ github.event.pull_request.head.sha }}"
