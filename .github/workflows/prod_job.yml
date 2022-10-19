@@ -3,7 +3,7 @@ name: dbt prod
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   run:
