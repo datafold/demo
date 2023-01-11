@@ -7,3 +7,4 @@ models:
         tests:
           - not_null
           - unique
+        tags: ['primary-key']
