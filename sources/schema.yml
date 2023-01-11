@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: EVENTS
-    database: COALESCE_DEMO
+    database: DEMO
     schema: RAW
     tables:
       - name: USER_CREATED
