@@ -18,7 +18,7 @@ WITH orgs AS (
     SELECT
         org_id
         , event_timestamp AS sub_created_at
-        , plan as sub_plan
+        , case when plan is null then 'Null' else plan end as sub_plan
         , price as sub_price
     FROM {{ source('EVENTS', 'SUBSCRIPTION_CREATED') }}
 )
@@ -28,7 +28,7 @@ WITH orgs AS (
         * 
     FROM orgs
     LEFT JOIN user_count USING (org_id)
-    LEFT JOIN subscriptions USING (org_id)
+    INNER JOIN subscriptions USING (org_id)
 )
 
 SELECT * FROM final
