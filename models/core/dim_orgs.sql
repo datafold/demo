@@ -18,17 +18,22 @@ WITH orgs AS (
     SELECT
         org_id
         , event_timestamp AS sub_created_at
-        , case when plan is null then 'Null' else plan end as sub_plan
+        , plan as sub_plan
         , price as sub_price
     FROM {{ source('EVENTS', 'SUBSCRIPTION_CREATED') }}
 )
 
 , final AS (
     SELECT
-        * 
+        org_id
+        , created_at
+        , num_users
+        , CASE WHEN sub_created_at IS NULL THEN 0::TIMESTAMP_NTZ ELSE sub_created_at END AS sub_created_at
+        , CASE WHEN num_users = 1 THEN 'Individual' ELSE sub_plan END AS sub_plan
+        , sub_price
     FROM orgs
     LEFT JOIN user_count USING (org_id)
-    INNER JOIN subscriptions USING (org_id)
+    LEFT JOIN subscriptions USING (org_id)
 )
 
 SELECT * FROM final
