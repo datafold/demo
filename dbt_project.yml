@@ -40,7 +40,7 @@ models:
   demo:
     core:
       +materialized: table
-      dim_orgs:
+      fct_yearly_financials:
         +meta:
           datafold:
             datadiff:
