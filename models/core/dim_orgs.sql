@@ -37,4 +37,4 @@ WITH orgs AS (
 )
 
 SELECT * FROM final
-limit 150
+limit 140
