@@ -15,7 +15,11 @@ models:
           - not_null
           - unique
         tags: ['primary-key']
-  - name: fct_yearly_financials
+  - name: fct_yearly_financials:
+    +meta:
+      datafold:
+        datadiff:
+          slim_diff: diff_when_downstream
     columns:
       - name: date_year
         tests:
