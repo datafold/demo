@@ -40,8 +40,14 @@ models:
   demo:
     core:
       +materialized: table
+      dim_orgs:
+        +meta:
+          datafold:
+            datadiff:
+              slim_diff: diff_when_downstream
     syncs:
       +materialized: table
+
 
 seeds:
   +schema: seed_data
