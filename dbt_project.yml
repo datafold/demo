@@ -47,6 +47,10 @@ models:
               slim_diff: diff_when_downstream
     syncs:
       +materialized: table
+      +meta:
+        datafold:
+          datadiff:
+            slim_diff: diff_when_downstream
 
 
 seeds:
