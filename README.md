@@ -35,3 +35,7 @@ $ dbt debug
 ```bash
 $ dbt build
 ```
+
+### Using Datafold with this project
+
+Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide)
