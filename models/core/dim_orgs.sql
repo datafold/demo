@@ -6,12 +6,20 @@ WITH orgs AS (
     GROUP BY 1
 )
 
-, user_count AS (
+, raw_user_count AS (
     SELECT
         org_id
         , count(distinct user_id) AS num_users
     FROM {{ ref('user_created') }}
     GROUP BY 1
+)
+
+, user_count AS (
+    SELECT
+        org_id
+        , case when num_users < 5 then 5
+        else num_users end as num_users
+    FROM raw_user_count
 )
 
 , subscriptions AS (
@@ -32,3 +40,4 @@ WITH orgs AS (
 )
 
 SELECT * FROM final
+WHERE sub_created_at > '2022-06-01'
