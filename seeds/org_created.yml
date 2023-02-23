@@ -1,0 +1,9 @@
+version: 2
+
+seeds:
+  - name: org_creatd
+    columns:
+      - name: org_id
+        tests:
+          - not_null
+          - unique
