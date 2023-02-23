@@ -19,7 +19,7 @@ To get up and running with this project:
 
 2. Fork this repository.
 
-3. Change into the `jaffle_shop` directory from the command line:
+3. Change into the `demo` directory from the command line:
 ```bash
 $ cd demo
 ```
