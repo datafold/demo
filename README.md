@@ -38,4 +38,4 @@ $ dbt build
 
 ### Using Datafold with this project
 
-Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide)
+Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to integrate this project with Datafold.
