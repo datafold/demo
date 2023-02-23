@@ -1,0 +1,9 @@
+version: 2
+
+seeds:
+  - name: user_created
+    columns:
+      - name: USER_ID
+        tests:
+          - not_null
+          - unique

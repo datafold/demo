@@ -2,7 +2,7 @@ WITH orgs AS (
     SELECT 
         org_id
         , MIN(event_timestamp) AS created_at
-    FROM {{ source('EVENTS', 'SIGNED_IN') }}
+    FROM {{ ref('signed_in') }}
     GROUP BY 1
 )
 
@@ -10,7 +10,7 @@ WITH orgs AS (
     SELECT
         org_id
         , count(distinct user_id) AS num_users
-    FROM {{ source('EVENTS', 'USER_CREATED') }}
+    FROM {{ ref('user_created') }}
     GROUP BY 1
 )
 
@@ -20,7 +20,7 @@ WITH orgs AS (
         , event_timestamp AS sub_created_at
         , plan as sub_plan
         , price as sub_price
-    FROM {{ source('EVENTS', 'SUBSCRIPTION_CREATED') }}
+    FROM {{ ref('subscription_created') }}
 )
 
 , final AS (
