@@ -12,8 +12,8 @@ WITH org_events AS (
         , count(*) AS usage
     FROM org_events
     WHERE event_timestamp < dateadd('day', 30, created_at)
-        AND event_timestamp > dateadd('day', -21, current_date())
-        AND created_at > dateadd('day', -32, current_date())
+        AND event_timestamp > dateadd('day', -21, '2022-11-09'::date)
+        AND created_at > dateadd('day', -32, '2022-11-09'::date)
     GROUP BY 1
 )
 
