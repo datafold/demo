@@ -1,4 +1,4 @@
-org_id,org_name,domain,employee_name,created_at
+org_id,org_name,domain,employee_range,created_at
 100000012,Crow Bar,crowbar.edu,0-9,2022-04-01T04:00:03Z
 100000013,Dragonfly Inn,dragonflyinn.com,1000+,2022-04-04T04:58:28Z
 100000016,Last Mile Problem,lastmileproblem.com,500-1000,2022-04-09T19:33:04Z
