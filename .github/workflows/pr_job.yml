@@ -32,7 +32,7 @@ jobs:
         id: findPR
 
       - name: dbt build
-        run: dbt build --profiles-dir ./
+        run: dbt build --full-refresh --profiles-dir ./
         env:
           SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
           SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
