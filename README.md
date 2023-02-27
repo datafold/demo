@@ -24,17 +24,19 @@ To get up and running with this project:
 $ cd demo
 ```
 
-4. Set up a profile called `demo` to connect to a data warehouse by following [these instructions](https://docs.getdbt.com/docs/configure-your-profile). 
+4. Set up a profile called `demo` to connect to a data warehouse by following [these instructions](https://docs.getdbt.com/docs/configure-your-profile). You'll need `dev` and `prod` targets in your profile.
 
 5. Ensure your profile is setup correctly from the command line:
 ```bash
 $ dbt debug
 ```
 
-6. Run the models:
+6. Create your `prod` models:
 ```bash
-$ dbt build
+$ dbt run --target prod
 ```
+
+With `prod` models created, you're clear to develop and diff changes between your `dev` and `prod` targets.
 
 ### Using Datafold with this project
 
