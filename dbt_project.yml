@@ -41,6 +41,3 @@ models:
       +materialized: table
     syncs:
       +materialized: table
-
-seeds:
-  +schema: seed_data
