@@ -21,7 +21,7 @@ WITH orgs AS (
         , event_timestamp AS sub_created_at
         , plan as sub_plan
         , price as sub_price
-    FROM {{ ref('subscription_created') }}
+    FROM {{ ref('subscription_created') }} 
 )
 
 , final AS (
