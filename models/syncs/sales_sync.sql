@@ -11,9 +11,11 @@ WITH org_events AS (
         DISTINCT ORG_ID
         , count(*) AS usage
     FROM org_events
-    WHERE event_timestamp < dateadd('day', 30, created_at)
-        AND event_timestamp > dateadd('day', -21, '2022-11-09'::date)
-        AND created_at > dateadd('day', -32, '2022-11-09'::date)
+    WHERE 
+    -- Catalog Error: Scalar Function with name dateadd does not exist!
+        event_timestamp::date <  (created_at::date + 30)
+        AND event_timestamp::date > ('2022-11-09'::date - 21)
+        AND created_at::date > ('2022-11-09'::date - 32)
     GROUP BY 1
 )
 

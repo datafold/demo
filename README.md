@@ -1,43 +1,74 @@
-# Datafold Demo Project
+# data-diff-demo
+Demo of data-diff with a dbt project using dbt-duckdb
 
-This repo contains a demo dbt project suited to leveraging Datafold.
+## Prerequisites
 
-
-### What's in this repo?
-This repo contains [seeds](https://docs.getdbt.com/docs/building-a-dbt-project/seeds) that includes fake raw data from a fictional app.
-
-This project includes raw data from the fictional app, and a few downstream models, as shown in the project DAG:
-
-<p align="center">
-    <img src="img/demo_project_dag.png" width="750">
-</p>
-
-
-### Running this project
-To get up and running with this project:
-1. Install dbt using [these instructions](https://docs.getdbt.com/docs/installation).
-
-2. Fork this repository.
-
-3. Change into the `demo` directory from the command line:
-```bash
-$ cd demo
+Verify that both `python3` and `git` are installed and available:
+```shell
+python3 --version
+git --version
 ```
 
-4. Set up a profile called `demo` to connect to a data warehouse by following [these instructions](https://docs.getdbt.com/docs/configure-your-profile). You'll need `dev` and `prod` targets in your profile.
+## Clone
 
-5. Ensure your profile is setup correctly from the command line:
-```bash
-$ dbt debug
+Clone this repo using HTTPS (or [your method of choice](docs/clone.md)):
+
+```shell
+git clone https://github.com/datafold/demo.git
+cd demo
 ```
 
-6. Create your `prod` models:
-```bash
-$ dbt run --target prod
+</details>
+
+## Install
+Create a virtual environment and install dependencies using `bash`/`zsh` (or [your OS shell of choice](docs/virtual-environment.md)):
+
+```shell
+python3 -m venv env
+source env/bin/activate
+python3 -m pip install --upgrade pip
+python3 -m pip install -r requirements.txt
+source env/bin/activate
 ```
 
-With `prod` models created, you're clear to develop and diff changes between your `dev` and `prod` targets.
+## Setup
 
-### Using Datafold with this project
+Establish the baseline production tables:
+```shell
+dbt build --full-refresh --target prod --profiles-dir ./
+```
 
-Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to integrate this project with Datafold.
+Establish the baseline dev tables:
+```shell
+dbt build --full-refresh --target dev --profiles-dir ./
+```
+
+## Usage
+
+Simulate a change to the table during development:
+```
+dbt run -s dim_orgs+ --target dev --profiles-dir ./ && data-diff --dbt --stats
+```
+
+Example output:
+```diff
+Found 4 successful model runs from the last dbt command.
+146 rows in table A
+157 rows in table B
+0 rows exclusive to table A (not present in B)
+11 rows exclusive to table B (not present in A)
+112 rows updated
+34 rows unchanged
+78.34% difference score
+
+Extra-Info:
+  diff_counts = {'org_id_a': 5, 'num_users_a': 5, 'sub_plan_a': 2, 'sub_created_at_a': 2, 'sub_price_a': 2, 'created_at_a': 5}
+  exclusive_count = 5
+  table1_count = 146
+  table1_sum_num_users = 452
+  table1_sum_sub_price = 13752
+  table2_count = 157
+  table2_sum_num_users = 475
+  table2_sum_sub_price = 14847
+  validated_unique_keys = [['org_id'], ['org_id']]
+```

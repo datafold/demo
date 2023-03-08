@@ -3,3 +3,8 @@ target/
 dbt_packages/
 logs/
 .DS_Store
+.user.yml
+venv/
+env/
+**/*.duckdb
+**/*.duckdb.wal

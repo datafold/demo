@@ -1,9 +1,17 @@
 WITH orgs AS (
-    SELECT 
+-- --prod
+--     SELECT 
+--         org_id
+--         , MIN(event_timestamp) AS created_at
+--     FROM {{ ref('signed_in') }}
+--     GROUP BY 1
+--dev
+   SELECT 
         org_id
-        , MIN(event_timestamp) AS created_at
-    FROM {{ ref('signed_in') }}
-    GROUP BY 1
+        , org_name
+        , employee_range
+        , created_at
+    FROM {{ ref('org_created') }}  
 )
 
 , user_count AS (
