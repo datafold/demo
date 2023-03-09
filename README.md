@@ -40,14 +40,17 @@ dbt build --full-refresh --target prod --profiles-dir ./
 
 Establish the baseline dev tables:
 ```shell
-dbt build --full-refresh --target dev --profiles-dir ./
+dbt build --full-refresh --profiles-dir ./
 ```
 
 ## Usage
 
 Simulate a change to the table during development:
+
+Go to `models/core/dim_orgs.sql` and comment out the `prod` CTE for the `dev` CTE
+
 ```
-dbt run -s dim_orgs+ --target dev --profiles-dir ./ && data-diff --dbt --stats
+dbt run -s dim_orgs+ --profiles-dir ./ && data-diff --dbt --stats
 ```
 
 Example output:
@@ -71,4 +74,11 @@ Extra-Info:
   table2_sum_num_users = 475
   table2_sum_sub_price = 14847
   validated_unique_keys = [['org_id'], ['org_id']]
+```
+
+## Wrap up
+Deactivate the virtual environment when finished:
+
+```shell
+deactivate
 ```
