@@ -1,8 +1,10 @@
 WITH orgs AS (
     SELECT 
         org_id
-        , MIN(event_timestamp) AS created_at
-    FROM {{ ref('signed_in') }}
+        , org_name
+        , employee_range
+        , created_at
+    FROM {{ ref('org_created') }}
     GROUP BY 1
 )
 
