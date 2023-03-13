@@ -5,7 +5,6 @@ WITH orgs AS (
         , employee_range
         , created_at
     FROM {{ ref('org_created') }}
-    GROUP BY 1
 )
 
 , user_count AS (
