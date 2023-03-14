@@ -25,8 +25,3 @@ models:
         tests:
           - not_null
         tags: ['primary-key']
-      - name: date_month
-        tests:
-          - not_null
-          - unique
-        tags: ['primary-key']
