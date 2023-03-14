@@ -12,6 +12,7 @@ WITH org_events AS (
         , count(*) AS usage
     FROM org_events
     WHERE 
+        -- select orgs created within the last 60 days, with usage within the 45 days since creation and in the last 10 days
         event_timestamp::date <  (created_at::date + 45)
         AND event_timestamp::date > ('2022-11-09'::date - 10)
         AND created_at::date > ('2022-11-09'::date - 60)
