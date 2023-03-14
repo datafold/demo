@@ -16,11 +16,13 @@ duckdb_demo:
   target: dev
   outputs:
     dev:
+      catalog: duckdb_demo
       type: duckdb
       schema: dev
       path: 'duckdb_demo.duckdb'
       threads: 24
     prod:
+      catalog: duckdb_demo
       type: duckdb
       schema: prod
       path: 'duckdb_demo.duckdb'

@@ -14,6 +14,7 @@ models:
         tests:
           - not_null
           - unique
+      - name: id
         tags: ['primary-key']
   - name: fct_yearly_financials
     columns:
@@ -21,4 +22,5 @@ models:
         tests:
           - not_null
           - unique
+      - name: id
         tags: ['primary-key']

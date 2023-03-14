@@ -3,6 +3,7 @@ WITH final AS (
         date_trunc('month', sub_created_at) as date_month
         , count(distinct org_id) as cnt_subscribers
         , sum(sub_price) as sum_revenue
+        , hash(date_month) as id
     FROM {{ ref('dim_orgs') }}
     WHERE sub_created_at is not NULL 
     GROUP BY 1 
