@@ -50,7 +50,7 @@ Simulate a change to the table during development:
 Go to `models/core/dim_orgs.sql` and comment out the `prod` CTE for the `dev` CTE
 
 ```
-dbt run -s dim_orgs+ --profiles-dir ./ && data-diff --dbt --stats
+dbt run -s dim_orgs+ --profiles-dir ./ && data-diff --dbt --dbt-profiles-dir .
 ```
 
 Example output:
