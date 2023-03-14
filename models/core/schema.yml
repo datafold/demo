@@ -10,17 +10,23 @@ models:
         tags: ['primary-key']
   - name: fct_monthly_financials
     columns:
+      - name: date_year
+        tests:
+          - not_null
+        tags: ['primary-key']
       - name: date_month
         tests:
           - not_null
           - unique
-      - name: id
         tags: ['primary-key']
   - name: fct_yearly_financials
     columns:
       - name: date_year
         tests:
           - not_null
+        tags: ['primary-key']
+      - name: date_month
+        tests:
+          - not_null
           - unique
-      - name: id
         tags: ['primary-key']
