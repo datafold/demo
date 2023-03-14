@@ -7,7 +7,7 @@ profile: 'duckdb_demo'
 vars:
   # configuration for the data-diff tool
   data_diff:
-    prod_database: main
+    prod_database: duckdb_demo
     prod_schema: prod
 
 models:

@@ -12,10 +12,9 @@ WITH org_events AS (
         , count(*) AS usage
     FROM org_events
     WHERE 
-    -- Catalog Error: Scalar Function with name dateadd does not exist!
-        event_timestamp::date <  (created_at::date + 30)
-        AND event_timestamp::date > ('2022-11-09'::date - 21)
-        AND created_at::date > ('2022-11-09'::date - 32)
+        -- select orgs created within the last 60 days, with usage within the 30 days
+        event_timestamp::date > ('2022-11-01'::date - 30)
+        AND created_at::date > ('2022-11-01'::date - 60)
     GROUP BY 1
 )
 
