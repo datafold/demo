@@ -5,3 +5,4 @@ select
     , sum(sum_revenue)             as yearly_revenue
 from {{ref('fct_monthly_financials')}}
 group by 1
+order by 1
