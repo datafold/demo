@@ -3,8 +3,9 @@ Demo of data-diff with a dbt project using dbt-duckdb
 
 ## Prerequisites
 
-Verify that both `python3` and `git` are installed and available:
+Verify that `dbt`, `python3`, and `git` are installed and available:
 ```shell
+dbt --version
 python3 --version
 git --version
 ```
