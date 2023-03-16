@@ -51,6 +51,12 @@ Simulate a change to the table during development:
 
 Go to `models/core/dim_orgs.sql` and comment out the `prod` CTE for the `dev` CTE
 
+Run a single model & diff
+```
+dbt run -s dim_orgs --profiles-dir ./ && data-diff --dbt --dbt-profiles-dir .
+```
+
+Run model + all downstreams & diff
 ```
 dbt run -s dim_orgs+ --profiles-dir ./ && data-diff --dbt --dbt-profiles-dir .
 ```
