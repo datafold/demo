@@ -1,10 +1,11 @@
 WITH orgs AS (
 --prod
-    SELECT
+   SELECT
         org_id
-        , MIN(event_timestamp) AS created_at
-    FROM {{ ref('signed_in') }}
-    GROUP BY 1
+        , org_name
+        , employee_range
+        , created_at
+    FROM {{ ref('org_created') }}
 
 -- --dev
 --    SELECT
