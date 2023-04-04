@@ -41,4 +41,3 @@ WITH orgs AS (
 )
 
 SELECT * FROM final
-limit 10
