@@ -37,8 +37,6 @@ vars:
 # as tables. These settings can be overridden in the individual model files
 # using the `{{ config(...) }}` macro.
 models:
-  elementary:
-    +schema: "elementary"
   demo:
     core:
       +materialized: table
