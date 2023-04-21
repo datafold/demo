@@ -1,43 +1,74 @@
 # Datafold Demo Project
 
-This repo contains a demo dbt project suited to leveraging Datafold.
+A demo project showcasing Datafold's open source data-diff and Single Player Cloud.
 
+## Prerequisites
 
-### What's in this repo?
-This repo contains [seeds](https://docs.getdbt.com/docs/building-a-dbt-project/seeds) that includes fake raw data from a fictional app.
+1. Ask the PX team for access to our demo organization (Datafold Org: Coalesce Demo).
+2. Verify that `dbt`, `python3`, and `git` are installed and available:
+    ```shell
+    dbt --version
+    python3 --version
+    git --version
+    ```
 
-This project includes raw data from the fictional app, and a few downstream models, as shown in the project DAG:
+***Note***: If you don't have `dbt` installed, follow [these instructions](https://docs.getdbt.com/docs/installation).
 
-<p align="center">
-    <img src="img/demo_project_dag.png" width="750">
-</p>
+## Getting Started
 
+1. Clone this repo
+2. Open the project
+    ```bash
+    cd demo
+    ```
+3. Make a new branch off on this branch
+    ```bash
+    git pull
+    git checkout -b <my_demo_branch> will-dev
+    ```
+4. Set up environment variables
+    - Add Demo Account *Environment Variables* (in PX Team's Password Vault)
+        ```bash
+        export SNOWFLAKE_ACCOUNT=...
+        export SNOWFLAKE_USER=...
+        export SNOWFLAKE_PASSWORD=...
+        export SNOWFLAKE_ROLE=...
+        ```
+    - Generate API Key and add as environment variable
+        - **Settings** -> **Account** then click "Generate API Key". Copy and paste the key with the command below.
+        -   ```bash
+            export DATAFOLD_API_KEY=XXXXXXXXX 
+            ```
 
-### Running this project
-To get up and running with this project:
-1. Install dbt using [these instructions](https://docs.getdbt.com/docs/installation).
+## Setup
 
-2. Fork this repository.
-
-3. Change into the `demo` directory from the command line:
-```bash
-$ cd demo
+Establish the baseline production tables:
+```shell
+dbt build --full-refresh --target prod --profiles-dir ./
 ```
 
-4. Set up a profile called `demo` to connect to a data warehouse by following [these instructions](https://docs.getdbt.com/docs/configure-your-profile). You'll need `dev` and `prod` targets in your profile.
-
-5. Ensure your profile is setup correctly from the command line:
-```bash
-$ dbt debug
+Establish the baseline dev tables:
+```shell
+dbt build --full-refresh --profiles-dir ./
 ```
 
-6. Create your `prod` models:
-```bash
-$ dbt run --target prod
+## Usage
+
+Simulate a change to the table during development:
+
+Go to `models/core/dim_orgs.sql` and comment out the `prod` CTE for the `dev` CTE
+
+Run a single model & diff
+```
+dbt run -s dim_orgs --profiles-dir ./ && data-diff --dbt --dbt-profiles-dir .
 ```
 
-With `prod` models created, you're clear to develop and diff changes between your `dev` and `prod` targets.
+Run model + all downstreams & diff
+```
+dbt run -s dim_orgs+ --profiles-dir ./ && data-diff --dbt --dbt-profiles-dir .
+```
 
-### Using Datafold with this project
-
-Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to integrate this project with Datafold.
+Run a single model & diff with Cloud
+```
+dbt run -s dim_orgs --profiles-dir ./ && data-diff --dbt --cloud --dbt-profiles-dir .
+```
