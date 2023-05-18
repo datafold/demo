@@ -31,18 +31,19 @@ source env/bin/activate
 python3 -m pip install --upgrade pip
 python3 -m pip install -r requirements.txt
 source env/bin/activate
+unset DBT_PROFILES_DIR # applicable if you have a DBT_PROFILES_DIR variable set
 ```
 
 ## Setup
 
 Establish the baseline production tables:
 ```shell
-dbt build --full-refresh --target prod --profiles-dir ./
+dbt build --full-refresh --target prod
 ```
 
 Establish the baseline dev tables:
 ```shell
-dbt build --full-refresh --profiles-dir ./
+dbt build --full-refresh
 ```
 
 ## Usage
@@ -53,12 +54,12 @@ Go to `models/core/dim_orgs.sql` and comment out the `prod` CTE for the `dev` CT
 
 Run a single model & diff
 ```
-dbt run -s dim_orgs --profiles-dir ./ && data-diff --dbt --dbt-profiles-dir .
+dbt run -s dim_orgs && data-diff --dbt
 ```
 
 Run model + all downstreams & diff
 ```
-dbt run -s dim_orgs+ --profiles-dir ./ && data-diff --dbt --dbt-profiles-dir .
+dbt run -s dim_orgs+ && data-diff --dbt
 ```
 
 ## Wrap up
