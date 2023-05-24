@@ -8,6 +8,11 @@ models:
           - not_null
           - unique
         tags: ['primary-key']
+    # meta:
+    #   datafold:
+    #     datadiff:
+    #       filter: "created_at >= '2022-05-01'"
+
   - name: fct_monthly_financials
     columns:
       - name: date_year
