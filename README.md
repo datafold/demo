@@ -71,6 +71,11 @@ Run model + all downstreams & diff
 dbt run -s dim_orgs+ && data-diff --dbt
 ```
 
+Run a single model with a `select`
+```
+data-diff --dbt --select fct_yearly_financials
+```
+
 ## Wrap up
 Deactivate the virtual environment when finished:
 
