@@ -3,3 +3,11 @@ target/
 dbt_packages/
 logs/
 .DS_Store
+
+venv
+.venv
+env
+.env
+
+.history
+.lh
