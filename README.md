@@ -1,6 +1,15 @@
 # data-diff-demo
 Demo of data-diff with a dbt project using dbt-duckdb
 
+### What's in this repo?
+This repo contains [seeds](https://docs.getdbt.com/docs/building-a-dbt-project/seeds) that includes fake raw data from a fictional app.
+
+This project includes raw data from the fictional app, and a few downstream models, as shown in the project DAG:
+
+<p align="center">
+    <img src="img/demo_project_dag.png" width="750">
+</p>
+
 ## Prerequisites
 
 Verify that `dbt`, `python3`, and `git` are installed and available:
@@ -60,6 +69,11 @@ dbt run -s dim_orgs && data-diff --dbt
 Run model + all downstreams & diff
 ```
 dbt run -s dim_orgs+ && data-diff --dbt
+```
+
+Run a single model with a `select`
+```
+data-diff --dbt --select fct_yearly_financials
 ```
 
 ## Wrap up
