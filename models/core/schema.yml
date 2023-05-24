@@ -13,6 +13,12 @@ models:
     #   datafold:
     #     datadiff:
     #       filter: "created_at >= '2022-05-01'"
+    # # example meta exclude columns
+    # meta:
+    #   datafold:
+    #     datadiff:
+    #       exclude_columns:
+    #         - created_at
 
   - name: fct_monthly_financials
     columns:
