@@ -82,3 +82,7 @@ Deactivate the virtual environment when finished:
 ```shell
 deactivate
 ```
+
+## Afterwards
+Use data-diff in your own dbt repo by following the instructions here:
+https://docs.datafold.com/development_testing/open_source
