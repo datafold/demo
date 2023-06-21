@@ -12,9 +12,8 @@ This project includes raw data from the fictional app, and a few downstream mode
 
 ## Prerequisites
 
-Verify that `dbt`, `python3`, and `git` are installed and available:
+Verify that `python3` and `git` are installed and available:
 ```shell
-dbt --version
 python3 --version
 git --version
 ```
