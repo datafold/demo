@@ -20,7 +20,7 @@ git --version
 
 ## Clone
 
-Clone this repo using HTTPS (or [your method of choice](docs/clone.md)):
+Clone this repo using HTTPS:
 
 ```shell
 git clone https://github.com/datafold/demo.git
@@ -31,7 +31,7 @@ git checkout duckdb_demo
 </details>
 
 ## Install
-Create a virtual environment and install dependencies using `bash`/`zsh` (or [your OS shell of choice](docs/virtual-environment.md)):
+Create a virtual environment and install dependencies using `bash`/`zsh`:
 
 ```shell
 python3 -m venv env
