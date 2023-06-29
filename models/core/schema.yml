@@ -4,9 +4,6 @@ models:
   - name: dim_orgs
     columns:
       - name: org_id
-        tests:
-          - not_null
-          - unique
         tags: ['primary-key']
   - name: dim_orgs_test
     columns:
