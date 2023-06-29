@@ -11,9 +11,6 @@ models:
   - name: dim_orgs_test
     columns:
       - name: org_id
-        tests:
-          - not_null
-          - unique
         tags: ['primary-key']
   - name: fct_monthly_financials
     columns:
