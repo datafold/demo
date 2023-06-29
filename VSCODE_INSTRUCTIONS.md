@@ -23,17 +23,17 @@ about its current capabilities.
 
 <img width="400" alt="Screenshot 2023-06-29 at 15 35 48" src="https://github.com/datafold/demo/assets/1799931/809c6580-3853-4673-b7aa-c86405057207">
 
-7. `cd` into your dbt project. `dbt build` or `dbt run` any models that
+7. `cd` into your dbt project. 
+8. `dbt build` or `dbt run` any models that
 you plan to edit or diff, to ensure relevant development
 data models and dbt artifacts exist.
-8. Use the command palate (⌘⇧P on Mac, ⌃⇧P on Windows and Linux) and
-install data-diff if you haven't already by
-searching for "Datafold: Install data-diff package". You'll be walked
-through a few steps including setting up your `dbt_project.yml` and
-setting the path to your `profiles.yml`.
-9. Use the command palate and search for "Datafold: Diff dbt model"
-to diff a specific model.
-10. `dbt run` any arbitary models and then try "Datafold: Diff latest
-dbt run results".
-11. Click on the Datafold bird to select from models to diff using a GUI.
+9. Use the command palate (⌘⇧P on Mac, ⌃⇧P on Windows and Linux) and install data-diff if you haven't already by
+searching for "Datafold: Install data-diff package". 
+- You'll be walked through a few steps including setting up your
+`dbt_project.yml` and setting the path to your `profiles.yml`.
+- If you use custom schemas, just enter any value in the "Enter your schema" step, and then subsequenly reconfigure your
+`dbt_project.yml` following the steps in this guide.
+10. Use the command palate and search for "Datafold: Diff dbt model" to diff a specific model.
+11. `dbt run` any arbitary models and then try "Datafold: Diff latest dbt run results".
+12. Click on the Datafold bird to select from models to diff using a GUI.
 <img width="400" alt="Screenshot 2023-06-29 at 15 48 07" src="https://github.com/datafold/demo/assets/1799931/936be28b-7dce-4df3-aaf0-f8e2e9823cb0">

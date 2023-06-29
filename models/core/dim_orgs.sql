@@ -36,10 +36,11 @@ WITH orgs AS (
 SELECT
     org_id
     , created_at
-    , num_users
+    , case when num_users > 5 then 99 else num_users end as num_users
     , sub_created_at
     , sub_plan
-    , sub_price
+    , sub_price + 1 as sub_price
 FROM orgs
 LEFT JOIN user_count USING (org_id)
 LEFT JOIN subscriptions USING (org_id)
+limit 50
