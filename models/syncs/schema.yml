@@ -2,10 +2,10 @@ version: 2
 
 models:
   - name: sales_sync
-      +meta:
-        datafold:
-          datadiff:
-            slim_diff: diff_when_downstream
+    meta:
+      datafold:
+        datadiff:
+          slim_diff: diff_when_downstream
     columns:
       - name: org_id
         tests:
