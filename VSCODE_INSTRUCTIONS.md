@@ -27,14 +27,18 @@ about its current capabilities.
 7. `dbt build` or `dbt run` any models that
 you plan to edit or diff, to ensure relevant development
 data models and dbt artifacts exist.
-8. Use the command palate (⌘⇧P on Mac, ⌃⇧P on Windows and Linux) and install data-diff if you haven't already by
+8. Use the command palate (⌘⇧P on Mac, ⌃⇧P on Windows and Linux) and install `data-diff` by
 searching for "Datafold: Install data-diff package". 
-- You'll be walked through a few steps including setting up your
-`dbt_project.yml` and setting the path to your `profiles.yml`.
-- If you use custom schemas, just enter any value in the "Enter your schema" step, and then subsequenly reconfigure your
-`dbt_project.yml` following the steps in [this guide](https://docs.datafold.com/development_testing/open_source/).
+- You'll be walked through a few steps including:
+  - setting up your `dbt_project.yml`
+  - setting the path to your `profiles.yml`
+  - selecting a data warehouse
+- **If you use custom schemas**, just enter any text string in the "Enter your schema" step. This will populate the `production_schema`
+  `var` in your `dbt_project.yml` with whatever value you entered. Then, you'll need to adjust your `dbt_project.yml`
+  following the steps in the Custom Schema section in [our documentation](https://docs.datafold.com/development_testing/open_source/).
 
-9. Use the command palate and search for "Datafold: Diff dbt model" to diff a specific model.
-10. `dbt run` any arbitary models and then try "Datafold: Diff latest dbt run results".
-11. Click on the Datafold bird to select from models to diff using a GUI.
+9. Again use the command palate and search for "Datafold: Diff dbt model" to diff a specific model.
+10. `dbt run` any arbitary models. Then, try a new command: "Datafold: Diff latest dbt run results".
+11. Click on the Datafold bird to view diff results from all the models that were diffed by "Diff latest dbt run results". You can click on the
+little icons to view either value-level or summarized diff results.
 <img width="400" alt="Screenshot 2023-06-29 at 15 48 07" src="https://github.com/datafold/demo/assets/1799931/936be28b-7dce-4df3-aaf0-f8e2e9823cb0">
