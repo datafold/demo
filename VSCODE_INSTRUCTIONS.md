@@ -1,34 +1,21 @@
-## Datafold VS Code
-```
-datafold-vscode v0.0.4
-```
+## Datafold VS Code Extension
 
 This is a simple guide for installing the latest version of the VS Code 
 extension. 
 Please reach out to Leo and Jai by emailing leo@datafold.com and 
 jai@datafold.com if you have any questions or feedback!
 
-1. Download the VSIX file the Datafold team provides you.
-2. Open VS Code.
-3. Click on Extensions.
-   
-<img width="400" alt="Screenshot 2023-06-29 at 15 26 29" src="https://github.com/datafold/demo/assets/1799931/0371275e-97ef-49a3-8dfb-74dea1555dba">
+1. Install the Extension using the VS Code Extension tab.
+<img width="320" alt="Screenshot 2023-07-05 at 14 36 46" src="https://github.com/datafold/demo/assets/1799931/ca13bce5-cee4-4c56-998c-a183fe3469df">
 
-4. Click on the three dots and select "Install from VSIX".
+2. `cd` into your dbt project. 
 
-<img width="400" alt="Screenshot 2023-06-29 at 15 27 49" src="https://github.com/datafold/demo/assets/1799931/d07c4cb8-5711-4d4e-9f72-cdb4efedff33">
+3. `dbt build` or `dbt run` any models that you plan to edit or diff, to ensure
+relevant development data models and dbt artifacts exist.
 
-5. Once installed, click on the extension to get oriented and read
-about its current capabilities.
-
-<img width="400" alt="Screenshot 2023-06-29 at 15 35 48" src="https://github.com/datafold/demo/assets/1799931/809c6580-3853-4673-b7aa-c86405057207">
-
-6. `cd` into your dbt project. 
-7. `dbt build` or `dbt run` any models that
-you plan to edit or diff, to ensure relevant development
-data models and dbt artifacts exist.
-8. Use the command palate (⌘⇧P on Mac, ⌃⇧P on Windows and Linux) and install `data-diff` by
+4. Use the command palate (⌘⇧P on Mac, ⌃⇧P on Windows and Linux) and install `data-diff` by
 searching for "Datafold: Install data-diff package". 
+
 - You'll be walked through a few steps including:
   - setting up your `dbt_project.yml`
   - setting the path to your `profiles.yml`
@@ -37,8 +24,15 @@ searching for "Datafold: Install data-diff package".
   `var` in your `dbt_project.yml` with whatever value you entered. Then, you'll need to adjust your `dbt_project.yml`
   following the steps in the Custom Schema section in [our documentation](https://docs.datafold.com/development_testing/open_source/).
 
-9. Again use the command palate and search for "Datafold: Diff dbt model" to diff a specific model.
-10. `dbt run` any arbitary models. Then, try a new command: "Datafold: Diff latest dbt run results".
-11. Click on the Datafold bird to view diff results from all the models that were diffed by "Diff latest dbt run results". You can click on the
+5. Again use the command palate and search for "Datafold: Diff dbt model" to diff a specific model.
+
+6. `dbt run` any models, using any selectors (like `+`). Then, try a new command: "Datafold: Diff latest dbt run results".
+
+7. Click on the Datafold bird to view diff results from all the models that were diffed by "Diff latest dbt run results". You can click on the
 little icons to view either value-level or summarized diff results.
-<img width="400" alt="Screenshot 2023-06-29 at 15 48 07" src="https://github.com/datafold/demo/assets/1799931/936be28b-7dce-4df3-aaf0-f8e2e9823cb0">
+
+<img width="600" alt="Screenshot 2023-07-05 at 14 39 59" src="https://github.com/datafold/demo/assets/1799931/aebc23c3-8e4e-438c-8529-d8fc9d810a7e">
+
+8. Click on "More info" next to "Values" to see value-level differences.
+
+<img width="600" alt="Screenshot 2023-07-05 at 14 40 13" src="https://github.com/datafold/demo/assets/1799931/f389c60d-9d54-4a75-a0c3-d81bbe2ccfc2">
