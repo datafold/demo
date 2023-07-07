@@ -5,7 +5,7 @@ extension.
 Please reach out to Leo and Jai by emailing leo@datafold.com and 
 jai@datafold.com if you have any questions or feedback!
 
-1. Install the Extension using the VS Code Extension tab.
+1. [Install the Extension using the VS Code Extension tab.](https://marketplace.visualstudio.com/items?itemName=Datafold.datafold-vscode)
 <img width="320" alt="Screenshot 2023-07-05 at 14 36 46" src="https://github.com/datafold/demo/assets/1799931/ca13bce5-cee4-4c56-998c-a183fe3469df">
 
 2. `cd` into your dbt project. 
