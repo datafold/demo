@@ -36,7 +36,7 @@ WITH orgs AS (
 SELECT
     org_id
     , created_at
-    , num_users
+    , num_users as number_of_users
     , sub_created_at
     , sub_plan
     , sub_price
