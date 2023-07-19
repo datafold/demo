@@ -3,7 +3,7 @@ WITH final AS (
         date_trunc('month', sub_created_at) as date_month
         , count(distinct org_id) as cnt_subscribers
         -- Remove 10 cents from each price for fees
-        , sum(sub_price-.1) as sum_revenue
+        , sum(sub_price-.10) as sum_revenue
     FROM {{ ref('dim_orgs') }}
     WHERE sub_created_at is not NULL 
     GROUP BY 1 
