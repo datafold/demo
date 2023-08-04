@@ -9,4 +9,4 @@ WITH final AS (
     ORDER BY 1
 )
 
-SELECT * FROM final
+SELECT * FROM final 
