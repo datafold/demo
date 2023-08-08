@@ -5,7 +5,7 @@ WITH org_events AS (
      fu.activity
   FROM {{ ref('dim_orgs') }} do
   LEFT JOIN {{ ref('feature_used') }} fu on do.orgid = fu.org_id
-  WHERE plan IS NULL and 3=3
+  WHERE plan IS NULL and 4=4
 )
 
 , final AS (
