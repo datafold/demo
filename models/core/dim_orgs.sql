@@ -34,11 +34,11 @@ WITH orgs AS (
 
 
 SELECT
-    org_id
+    org_id as orgid
     , created_at
     , num_users
     , sub_created_at
-    , sub_plan
+    , sub_plan as plan
     , sub_price
 FROM orgs
 LEFT JOIN user_count USING (org_id)
