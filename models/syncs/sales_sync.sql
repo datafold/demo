@@ -1,8 +1,10 @@
 WITH org_events AS (
   SELECT
-     *
-  FROM {{ ref('dim_orgs') }}
-  LEFT JOIN {{ ref('feature_used') }} USING (orgid)
+     do.*,
+     fu.event_timestamp,
+     fu.activity
+  FROM {{ ref('dim_orgs') }} do
+  LEFT JOIN {{ ref('feature_used') }} fu on do.orgid = fu.org_id
   WHERE plan IS NULL and 1=1
 )
 
