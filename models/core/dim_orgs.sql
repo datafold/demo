@@ -34,7 +34,7 @@ WITH orgs AS (
 
 
 SELECT
-    org_id
+    org_id as orgid
     , created_at
     , num_users
     , sub_created_at
