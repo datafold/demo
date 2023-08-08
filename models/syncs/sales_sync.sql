@@ -3,7 +3,7 @@ WITH org_events AS (
      *
   FROM {{ ref('dim_orgs') }}
   LEFT JOIN {{ ref('feature_used') }} USING (org_id)
-  WHERE plan IS NULL 
+  WHERE plan IS NULL and 1=1
 )
 
 , final AS (
