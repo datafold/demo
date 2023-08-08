@@ -3,7 +3,7 @@ version: 2
 models:
   - name: dim_orgs
     columns:
-      - name: org_id
+      - name: orgid
         tests:
           - not_null
           - unique

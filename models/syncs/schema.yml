@@ -3,7 +3,7 @@ version: 2
 models:
   - name: sales_sync
     columns:
-      - name: org_id
+      - name: orgid
         tests:
           - not_null
           - unique
