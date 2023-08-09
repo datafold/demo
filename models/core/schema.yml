@@ -4,7 +4,7 @@ models:
   - name: dim_orgs
     columns:
       - name: orgid
-        tests:
+        tests: 
           - not_null
           - unique
         tags: ['primary-key']
