@@ -1,6 +1,6 @@
 WITH org_events AS (
   SELECT
-     *
+     * 
   FROM {{ ref('dim_orgs') }}
   LEFT JOIN {{ ref('feature_used') }} USING (org_id)
   WHERE sub_plan IS NULL 
