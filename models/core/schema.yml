@@ -7,7 +7,6 @@ models:
         tests:
           - not_null
           - unique
-        tags: ['primary-key']
   - name: fct_monthly_financials
     columns:
       - name: date_month
