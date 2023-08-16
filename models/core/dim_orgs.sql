@@ -38,8 +38,8 @@ SELECT
     , created_at
     , num_users
     , sub_created_at
-    , sub_plan
-    , sub_price
+    , case when num_users = 1 then 'Individual' else sub_plan end as sub_plan
+    , sub_price - 1 sub_price
 FROM orgs
 LEFT JOIN user_count USING (org_id)
 LEFT JOIN subscriptions USING (org_id)
