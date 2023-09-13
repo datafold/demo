@@ -40,7 +40,7 @@ models:
   demo:
     core:
       +materialized: table
-      meta:
+      +meta:
         datafold:
           datadiff:
             never_diff: true
