@@ -40,9 +40,6 @@ models:
   demo:
     core:
       +materialized: table
-      meta:
-        datafold:
-          datadiff:
-            never_diff: true
+
     syncs:
       +materialized: table
