@@ -10,4 +10,4 @@ demo:
       database: DEMO
       warehouse: INTEGRATION
       schema: "{{ env_var('SNOWFLAKE_SCHEMA') | as_text }}"
-      threads: 5
+      threads: 24
