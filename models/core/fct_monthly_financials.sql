@@ -9,4 +9,4 @@ WITH final AS (
     ORDER BY 1
 )
 
-SELECT * FROM final limit 10
+SELECT * FROM final
