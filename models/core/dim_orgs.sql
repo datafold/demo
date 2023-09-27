@@ -1,18 +1,10 @@
 WITH orgs AS (
---prod
     SELECT
         org_id
-        , MIN(event_timestamp) AS created_at
-    FROM {{ ref('signed_in') }}
-    GROUP BY 1
-
--- --dev
---    SELECT
---         org_id
---         , org_name
---         , employee_range
---         , created_at
---     FROM {{ ref('org_created') }}
+        , org_name
+        , employee_range
+        , created_at
+    FROM {{ ref('org_created') }}
 )
 
 , user_count AS (
@@ -28,7 +20,7 @@ WITH orgs AS (
         org_id
         , event_timestamp AS sub_created_at
         , plan as sub_plan
-        , price as sub_price
+        , coalesce(price, 0) as sub_price
     FROM {{ ref('subscription_created') }}
 )
 
@@ -38,8 +30,9 @@ SELECT
     , created_at
     , num_users
     , sub_created_at
-    , sub_plan
+    , case when num_users = 1 then 'Individual' else sub_plan end as sub_plan
     , sub_price
 FROM orgs
 LEFT JOIN user_count USING (org_id)
 LEFT JOIN subscriptions USING (org_id)
+LIMIT 100
