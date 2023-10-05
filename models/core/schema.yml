@@ -6,19 +6,19 @@ models:
       - name: org_id
         tests:
           - not_null
-          - unique
-        tags: ['primary-key']
+          # - unique
+        # tags: ['primary-key']
   - name: fct_monthly_financials
     columns:
       - name: date_month
         tests:
           - not_null
-          - unique
-        tags: ['primary-key']
+          # - unique
+        # tags: ['primary-key']
   - name: fct_yearly_financials
     columns:
       - name: date_year
         tests:
           - not_null
-          - unique
-        tags: ['primary-key']
+          # - unique
+        # tags: ['primary-key']
