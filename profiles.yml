@@ -1,5 +1,5 @@
 demo:
-  target: dev
+  target: redshift
   outputs:
     dev:
       type: snowflake
@@ -11,3 +11,29 @@ demo:
       warehouse: INTEGRATION
       schema: "{{ env_var('SNOWFLAKE_SCHEMA') | as_text }}"
       threads: 24
+
+    databricks:
+      type: databricks
+      # catalog: [optional catalog name if you are using Unity Catalog]
+      schema: dbt_sung # Required
+      host: dbc-3c94f763-f2ee.cloud.databricks.com
+      http_path: /sql/1.0/warehouses/1ebc3303fda31656# Required
+      token: "{{ env_var('DATABRICKS_TOKEN') | as_text }}"
+      threads: 24 
+
+    redshift:
+      type: redshift
+      host: redshift-cluster-1.cbhakffy7zpc.us-east-1.redshift.amazonaws.com
+      user: awsuser
+      password: "{{ env_var('REDSHIFT_PASSWORD') | as_text }}"
+      dbname: analytics
+      schema: analytics
+      port: 5439
+
+      # Optional Redshift configs:
+      sslmode: prefer
+      # role: None
+      ra3_node: true 
+      autocommit: true 
+      threads: 24
+      # connect_timeout: None

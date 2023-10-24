@@ -1,0 +1,6 @@
+{
+  "dbt.queryLimit": 500,
+  "dbt.enableNewLineagePanel": true,
+  "python.envFile": "${workspaceFolder}/.env",
+  "dbt.enableNewQueryPanel": true
+}
