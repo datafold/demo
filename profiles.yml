@@ -1,5 +1,5 @@
 demo:
-  target: redshift
+  target: dev
   outputs:
     dev:
       type: snowflake
@@ -23,17 +23,17 @@ demo:
 
     redshift:
       type: redshift
-      host: redshift-cluster-1.cbhakffy7zpc.us-east-1.redshift.amazonaws.com
+      host: redshift-cluster-1.cmdafvsvspdq.us-east-2.redshift.amazonaws.com
       user: awsuser
       password: "{{ env_var('REDSHIFT_PASSWORD') | as_text }}"
-      dbname: analytics
-      schema: analytics
+      dbname: dev
+      schema: dbt_sung
       port: 5439
 
       # Optional Redshift configs:
       sslmode: prefer
       # role: None
-      ra3_node: true 
+      # ra3_node: true 
       autocommit: true 
       threads: 24
       # connect_timeout: None
