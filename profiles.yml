@@ -13,3 +13,13 @@ data_diff_demo:
       schema: production
       path: 'md:data_diff_demo?motherduck_token={{ env_var("MOTHERDUCK_TOKEN") }}'
       threads: 16
+
+    postgres:
+      type: postgres
+      host: ep-shrill-meadow-043325.us-west-2.aws.neon.tech
+      port: 5432
+      dbname: neondb
+      schema: production
+      user: sungwonchung3
+      password: '{{ env_var("POSTGRES_PASSWORD") }}'
+      threads: 16

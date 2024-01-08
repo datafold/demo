@@ -1,0 +1,32 @@
+# datadiff.toml
+# https://docs.datafold.com/reference/open_source/cli#toml-config-file
+
+# example command
+# data-diff --conf datadiff.toml --run demo_xdb_motherduck -k org_id -c org_name -c domain -c employee_range -c created_at --debug
+
+## DATABASE CONNECTION ##
+[database.duckdb_connection]
+driver = "duckdb"
+filepath = "md:data_diff_demo?motherduck_token=${MOTHERDUCK_TOKEN}" # recommended for motherduck connection
+
+[database.postgres_connection]
+driver = "postgresql"
+host = "ep-shrill-meadow-043325.us-west-2.aws.neon.tech"
+database = "neondb"
+user = "sungwonchung3"
+password = "${POSTGRES_PASSWORD}"                        # or "<PASSWORD_STRING>"
+
+## RUN PARAMETERS ##
+[run.default]
+verbose = true
+
+[run.demo_xdb_motherduck]
+# Source 1 ("left")
+1.database = "postgres_connection"
+1.table = "production.org_created"
+
+# Source 2 ("right")
+2.database = "duckdb_connection"
+2.table = "production.org_created"
+
+verbose = false
