@@ -2,12 +2,12 @@
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
-name: 'demo'
+name: 'data_diff_demo'
 version: '1.0.0'
 config-version: 2
 
 # This setting configures which "profile" dbt uses for this project.
-profile: 'demo'
+profile: 'data_diff_demo'
 
 # These configurations specify where dbt should look for different types of files.
 # The `model-paths` config, for example, states that models in this project can be
@@ -26,9 +26,8 @@ clean-targets:         # directories to be removed by `dbt clean`
 
 vars:
   data_diff:
-    prod_database: DEMO
-    prod_schema: CORE
-    datasource_id: 4932
+    prod_database: data_diff_demo
+    prod_schema: production
 
 # Configuring models
 # Full documentation: https://docs.getdbt.com/docs/configuring-models
@@ -37,7 +36,7 @@ vars:
 # as tables. These settings can be overridden in the individual model files
 # using the `{{ config(...) }}` macro.
 models:
-  demo:
+  data_diff_demo:
     core:
       +materialized: table
     syncs:
