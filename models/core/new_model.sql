@@ -1,0 +1,1 @@
+select * from {{ ref('dim_orgs') }} limit 5
