@@ -1,3 +1,9 @@
+{{ 
+  config(
+    unique_key = ['org_id']
+    )
+}}
+
 WITH orgs AS (
 --prod
     SELECT
