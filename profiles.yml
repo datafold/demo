@@ -9,5 +9,15 @@ demo:
       role: "{{ env_var('SNOWFLAKE_ROLE') | as_text }}"
       database: DEMO
       warehouse: INTEGRATION
+      schema: "datafold_dev"
+      threads: 24
+    prod:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
+      user: "{{ env_var('SNOWFLAKE_USER') | as_text }}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD') | as_text }}"
+      role: "{{ env_var('SNOWFLAKE_ROLE') | as_text }}"
+      database: DEMO
+      warehouse: INTEGRATION
       schema: "{{ env_var('SNOWFLAKE_SCHEMA') | as_text }}"
       threads: 24
