@@ -6,6 +6,7 @@ logs/
 *.duckdb
 
 venv/
+.venv/
 env/
 .env
 

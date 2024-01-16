@@ -1,1 +1,5 @@
-dbt-snowflake==1.6.2
+data-diff
+data-diff[snowflake]
+dbt-snowflake
+snowflake-snowpark-python[pandas]
+sqlfluff
