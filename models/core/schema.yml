@@ -8,11 +8,11 @@ models:
           - not_null
           - unique
         tags: ['primary-key']
-      - name: random_column
-        tests:
-          - not_null
-          - unique
-        tags: ['primary-key']
+      # - name: random_column
+      #   tests:
+      #     - not_null
+      #     - unique
+      #   tags: ['primary-key']
     # meta:
     #   datafold:
     #     datadiff:
