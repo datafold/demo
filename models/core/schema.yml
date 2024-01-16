@@ -4,19 +4,26 @@ models:
   - name: dim_orgs
     columns:
       - name: org_id
-        # tests:
-        #   - not_null
-        #   - unique
-        # tags: ['primary-key']
-      # - name: random_column
-      #   tests:
-      #     - not_null
-      #     - unique
-      #   tags: ['primary-key']
+        tests:
+          - not_null
+          - unique
+        tags: ['primary-key']
+      - name: random_column
+        tests:
+          - not_null
+          - unique
+        tags: ['primary-key']
     # meta:
     #   datafold:
     #     datadiff:
     #       filter: "created_at >= current_date() - 7"
+  - name: new_model
+    columns:
+      - name: org_id
+        # tests:
+        #   - not_null
+        #   - unique
+        tags: ['primary-key']
   - name: fct_monthly_financials
     columns:
       - name: date_month
