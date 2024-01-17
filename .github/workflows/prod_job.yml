@@ -15,7 +15,7 @@ jobs:
 
       - uses: actions/setup-python@v2
         with:
-          python-version: '3.8'
+          python-version: "3.8"
 
       - name: install requirements
         run: pip install -q -r requirements.txt
@@ -38,7 +38,7 @@ jobs:
       - name: submit artifacts to datafold
         run: |
           set -ex
-          datafold dbt upload --ci-config-id 146 --run-type ${DATAFOLD_RUN_TYPE} --commit-sha ${GIT_SHA}
+          datafold dbt upload --ci-config-id ${{ secrets.DATAFOLD_CONFIG_ID }} --run-type ${DATAFOLD_RUN_TYPE} --commit-sha ${GIT_SHA}
         env:
           DATAFOLD_APIKEY: ${{ secrets.DATAFOLD_APIKEY }}
           DATAFOLD_RUN_TYPE: "${{ github.ref == 'refs/heads/master' && 'production' || 'pull_request' }}"
