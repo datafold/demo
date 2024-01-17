@@ -36,10 +36,11 @@ WITH orgs AS (
 SELECT
     org_id
     , created_at
-    , num_users
+    , num_users as users
     , sub_created_at
     , sub_plan
     , sub_price
 FROM orgs
 LEFT JOIN user_count USING (org_id)
 LEFT JOIN subscriptions USING (org_id)
+limit 50
