@@ -7,8 +7,8 @@ demo:
       user: "{{ env_var('SNOWFLAKE_USER') | as_text }}"
       password: "{{ env_var('SNOWFLAKE_PASSWORD') | as_text }}"
       role: "{{ env_var('SNOWFLAKE_ROLE') | as_text }}"
-      database: DEMO
-      warehouse: INTEGRATION
+      database: DATAFOLD_DEMO
+      warehouse: DATAFOLD_XS
       schema: "{{ env_var('SNOWFLAKE_SCHEMA') | as_text }}"
       threads: 24
     prod:
@@ -17,7 +17,7 @@ demo:
       user: "{{ env_var('SNOWFLAKE_USER') | as_text }}"
       password: "{{ env_var('SNOWFLAKE_PASSWORD') | as_text }}"
       role: "{{ env_var('SNOWFLAKE_ROLE') | as_text }}"
-      database: DEMO
-      warehouse: INTEGRATION
+      database: DATAFOLD_DEMO
+      warehouse: DATAFOLD_XS
       schema: "{{ env_var('SNOWFLAKE_SCHEMA') | as_text }}"
       threads: 24
