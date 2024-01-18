@@ -25,9 +25,9 @@ clean-targets: # directories to be removed by `dbt clean`
 
 vars:
   data_diff:
-    prod_database: DEMO
-    prod_schema: CORE
-    datasource_id: 7034
+    prod_database: datafold_demo
+    prod_schema: core
+    datasource_id: 7083
 
 # Configuring models
 # Full documentation: https://docs.getdbt.com/docs/configuring-models
