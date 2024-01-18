@@ -28,7 +28,8 @@ vars:
   data_diff:
     prod_database: DEMO
     prod_schema: CORE
-    datasource_id: 4932
+    datasource_id: 7034
+    {# datasource_id: 4932 #}
 
 # Configuring models
 # Full documentation: https://docs.getdbt.com/docs/configuring-models
