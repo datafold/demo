@@ -9,5 +9,6 @@ venv/
 env/
 .env
 
+
 .vscode/
 .history/
