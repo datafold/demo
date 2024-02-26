@@ -28,7 +28,7 @@ WITH orgs AS (
         org_id
         , event_timestamp AS sub_created_at
         , plan as sub_plan
-        , coalesce(price, 0) as sub_price
+        , coalesce(price, 0.01) as sub_price
     FROM {{ ref('subscription_created') }}
 )
 
