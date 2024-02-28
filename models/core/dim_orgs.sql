@@ -38,8 +38,8 @@ SELECT
     , created_at
     , num_users
     , sub_created_at
-    , sub_plan + 1 as sub_plan
-    , sub_price
+    , sub_plan
+    , sub_price + 1 as sub_price
 FROM orgs
 LEFT JOIN user_count USING (org_id)
 LEFT JOIN subscriptions USING (org_id)
