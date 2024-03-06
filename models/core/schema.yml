@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: dim_oRgs
+  - name: dim_orgs
     columns:
       - name: org_id
         tests:
