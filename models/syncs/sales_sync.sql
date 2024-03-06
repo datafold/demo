@@ -3,11 +3,11 @@ WITH org_events AS (
      *
   FROM {{ ref('dim_orgs') }}
   LEFT JOIN {{ ref('feature_used') }} USING (org_id)
-  WHERE sub_plan IS NULL 
+  WHERE sub_plan IS NULL or sub_plan = 'Individual'
 )
 
 , final AS (
-    SELECT 
+    SELECT
         DISTINCT ORG_ID
         , count(*) AS usage
     FROM org_events
