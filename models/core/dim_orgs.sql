@@ -40,6 +40,7 @@ SELECT
     , sub_created_at
     , sub_plan
     , sub_price
+    , NULL as some_new_column
 FROM orgs
 LEFT JOIN user_count USING (org_id)
 LEFT JOIN subscriptions USING (org_id)
