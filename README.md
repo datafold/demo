@@ -42,4 +42,4 @@ With `prod` models created, you're clear to develop and diff changes between you
 
 Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to integrate this project with Datafold.
 
-all hands
+all hands 2
