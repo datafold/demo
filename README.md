@@ -36,6 +36,8 @@ $ dbt debug
 $ dbt run --target prod
 ```
 
+all hands
+
 With `prod` models created, you're clear to develop and diff changes between your `dev` and `prod` targets.
 
 ### Using Datafold with this project
