@@ -41,3 +41,5 @@ With `prod` models created, you're clear to develop and diff changes between you
 ### Using Datafold with this project
 
 Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to integrate this project with Datafold.
+
+trigger
