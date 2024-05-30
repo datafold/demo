@@ -28,7 +28,7 @@ WITH orgs AS (
         org_id
         , event_timestamp AS sub_created_at
         , plan as sub_plan
-        , price as sub_price
+        , 1 as sub_price
     FROM {{ ref('subscription_created') }}
 )
 
@@ -43,3 +43,4 @@ SELECT
 FROM orgs
 LEFT JOIN user_count USING (org_id)
 LEFT JOIN subscriptions USING (org_id)
+LIMIT 50
