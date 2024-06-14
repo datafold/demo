@@ -6,3 +6,4 @@ WITH users AS (
 SELECT
     user_id
 FROM users
+WHERE 1 = 1
