@@ -1,0 +1,17 @@
+unit_tests:
+  - name: test_is_individual_sub_plan
+    description: "Check if individual case when logic categorizes sub plans correctly for num_users equal to 1"
+    model: dim_orgs
+    given:
+      - input: ref('org_created')
+        rows:
+          - {org_id: 100000012,    org_name: Crow Bar, domain: crowbar.edu, employee_range: 0-9, created_at: 2022-04-01 04:00:03}
+      - input: ref('user_created')
+        rows:
+          - {user_id: 100000021, org_id: 100000012, first_name: Tamara, last_name: Herman, email: therman@crowbar.edu, is_first_user: True, created_at: 2022-04-01T04:00:03Z}
+      - input: ref('subscription_created')
+        rows:
+          - {org_id: 100000011, event_timestamp: 2022-05-20T17:45:32Z, activity: subscribed, plan: Team, price: 99, deployment: SaaS}
+    expect:
+      rows:
+        - {org_id: 100000012,    created_at: 2022-04-01 04:00:03, num_users: 1, sub_created_at: null, sub_plan: Individual, sub_price: null}
