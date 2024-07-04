@@ -29,3 +29,14 @@ models:
           - not_null
           - unique
         tags: ['primary-key']
+
+exposures:
+  - name: org_users_report
+    label: Users by organization report
+    type: dashboard
+    depends_on: 
+      - ref('dim_users')
+      - ref('dim_orgs')
+    owner:
+      name: Joe the CEO
+      email: ceo@thisdomaindoesnotexist.not
