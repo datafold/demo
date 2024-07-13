@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: dim__users
+    columns:
+      - name: user_id
+        tests:
+          - not_null
+          - unique
+        tags: ['primary-key']
+  - name: dim__orgs
+    columns:
+      - name: org_id
+        tests:
+          - not_null
+          - unique
+        tags: ['primary-key']
+  - name: fct__monthly__financials
+    columns:
+      - name: date_month
+        tests:
+          - not_null
+          - unique
+        tags: ['primary-key']
+  - name: fct__yearly__financials
+    columns:
+      - name: date_year
+        tests:
+          - not_null
+          - unique
+        tags: ['primary-key']
+
+exposures:
+  - name: org__users__report
+    label: Users by organization report
+    type: dashboard
+    depends_on: 
+      - ref('dim__users')
+      - ref('dim__orgs')
+    owner:
+      name: Joe the CEO
+      email: ceo@thisdomaindoesnotexist.not

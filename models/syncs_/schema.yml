@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: sales__sync
+    columns:
+      - name: org_id
+        tests:
+          - not_null
+          - unique
+        tags: ['primary-key']
