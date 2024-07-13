@@ -408,8 +408,9 @@ def get_random_element_and_rest(input_list):
     return random_element, rest_elements
 
 def break__subscription_created__negative_price(subscription_created_record):
-    subscription_created_record['price'] = round(random.uniform(-1000, 0) * random.choices([0, 1], weights=[0.3, 0.7], k=1)[0])
-    return subscription_created_record
+    result = subscription_created_record.copy()
+    result['price'] = round(random.uniform(-1000, 0) * random.choices([0, 1], weights=[0.3, 0.7], k=1)[0])
+    return result
 
 def break_batch__subscription_created__negative_price(new_subscription_created_batch):
     if new_subscription_created_batch:
@@ -419,8 +420,9 @@ def break_batch__subscription_created__negative_price(new_subscription_created_b
     return new_subscription_created_batch
 
 def break__user_created__damaged_email(user_created_record):
-    user_created_record['email'] = user_created_record['email'].replace('@', '$')
-    return user_created_record
+    result = user_created_record.copy()
+    result['email'] = user_created_record['email'].replace('@', '$')
+    return result
 
 def break_batch__user_created__damaged_email(new_user_batch):
     if new_user_batch:
