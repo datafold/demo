@@ -1,0 +1,4 @@
+openai
+instructor
+pydantic[email]
+pandas

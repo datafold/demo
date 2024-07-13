@@ -1,0 +1,53 @@
+name: datagen
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 13 * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        id: checkout
+        uses: actions/checkout@v2
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r datagen/requirements.txt
+
+      - name: Data generation
+        working-directory: datagen
+        run: |
+          python data_generate.py
+
+      - name: Copy files to seeds
+        run: |
+          cp datagen/org_created_broken.csv seeds/org__created.csv
+          cp datagen/user_created_broken.csv seeds/user__created.csv
+          cp datagen/signed_in_broken.csv seeds/signed__in.csv
+          cp datagen/subscription_created_broken.csv seeds/subscription__created.csv
+          cp datagen/feature_used_broken.csv seeds/feature__used.csv
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'datagen-bot'
+          git config --global user.email 'datagen-bot@users.noreply.github.com'
+
+      - name: Commit new files
+        run: |
+          git add -A
+          git commit -m "New data obtained on $(date)"
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push
