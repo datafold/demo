@@ -36,6 +36,16 @@ jobs:
           cp datagen/subscription_created_broken.csv seeds/subscription__created.csv
           cp datagen/feature_used_broken.csv seeds/feature__used.csv
 
+      - name: Copy data to Postgres
+        working-directory: datagen
+        run: |
+          chmod +x data_to_postgres.sh
+          ./data_to_postgres.sh
+        env:
+          PGHOST: ${{ secrets.PGHOST }}
+          PGUSER: ${{ secrets.PGUSER }}
+          PGPASSWORD: ${{ secrets.PGPASSWORD }}
+          
       - name: Configure Git
         run: |
           git config --global user.name 'datagen-bot'
