@@ -594,3 +594,4 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000593,100000394,Olivia,Clark,olivia.clark@aiworksolutions.com,TRUE,2024-07-13T03:04:16Z
 100000594,100000329,Jacob,Harrison,jacob.harrison@analyticpulse.com,FALSE,2024-07-13T02:13:21Z
 100000595,100000323,Ivy,Alexander,ivy.alexander@datasynth.io,FALSE,2024-07-13T06:01:38Z
+100000596,100000395,Luna,Nguyen,luna.nguyen@dataxceltech.com,TRUE,2024-07-13T21:53:32Z
