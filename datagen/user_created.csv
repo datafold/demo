@@ -606,3 +606,6 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000605,100000408,Oscar,Ramirez,oscar.ramirez@techvance.com,TRUE,2024-07-13T06:07:05Z
 100000606,100000290,Aayan,Cruz,aayan.cruz@codeinnovate.com,FALSE,2024-07-13T23:04:05Z
 100000607,100000253,Michael,Reed,michael.reed@innodatatrends.com,FALSE,2024-07-13T22:33:37Z
+100000608,100000409,Liam,Kumar,liam.kumar@algoraithmsol.com,TRUE,2024-07-14T12:36:49Z
+100000609,100000410,Olivia,Murphy,olivia.murphy@mindspectrum.tech,TRUE,2024-07-14T01:56:00Z
+100000610,100000160,Wyatt,Romero,wyatt.romero@techinsightlabs.com,FALSE,2024-07-14T07:29:28Z
