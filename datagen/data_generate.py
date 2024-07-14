@@ -3,6 +3,7 @@
 import os
 import pandas as pd
 import random
+import math
 from datetime import datetime, timedelta, timezone
 
 
@@ -407,6 +408,7 @@ def get_random_element_and_rest(input_list):
 
     return random_element, rest_elements
 
+
 def break__subscription_created__negative_price(subscription_created_record):
     result = subscription_created_record.copy()
     result['price'] = round(random.uniform(-1000, 0) * random.choices([0, 1], weights=[0.3, 0.7], k=1)[0])
@@ -418,6 +420,7 @@ def break_batch__subscription_created__negative_price(new_subscription_created_b
         broken_element = break__subscription_created__negative_price(element_to_break)
         return [broken_element] + rest
     return new_subscription_created_batch
+
 
 def break__user_created__damaged_email(user_created_record):
     result = user_created_record.copy()
@@ -431,8 +434,27 @@ def break_batch__user_created__damaged_email(new_user_batch):
         return [broken_element] + rest
     return new_user_batch
 
+
+def break__feature_used__activity_null(feature_used_record):
+    result = feature_used_record.copy()
+    result['activity'] = ''
+    return result
+
+def break_batch__feature_used__activity_null(feature_used_batch):
+    if feature_used_batch:
+        element_to_break, rest = get_random_element_and_rest(feature_used_batch)
+        broken_element = break__feature_used__activity_null(element_to_break)
+        return [broken_element] + rest
+    return feature_used_batch
+
+def break_batch_30__feature_used__activity_null(feature_used_batch):
+    for _ in range(0, math.ceil(len(feature_used_batch) / 3.3 * random.uniform(0.7, 1.3))):
+        feature_used_batch = break_batch__feature_used__activity_null(feature_used_batch)
+    return feature_used_batch
+
+
 def break_data(new_org_batch, new_user_batch, new_signed_in_batch, new_subscription_created_batch, new_feature_used_batch):
-    possible_breakage_codes = [1, 2]
+    possible_breakage_codes = [1, 2, 3]
     number_of_breakages_needed = random.randint(0, 1)
     breakage_codes_for_today = []
     for i in range(0, number_of_breakages_needed):
@@ -443,6 +465,8 @@ def break_data(new_org_batch, new_user_batch, new_signed_in_batch, new_subscript
             new_subscription_created_batch = break_batch__subscription_created__negative_price(new_subscription_created_batch)
         elif breakage_code == 2:
             new_user_batch = break_batch__user_created__damaged_email(new_user_batch)
+        elif breakage_code == 3:
+            new_feature_used_batch = break_batch_30__feature_used__activity_null(new_feature_used_batch)
 
     return new_org_batch, new_user_batch, new_signed_in_batch, new_subscription_created_batch, new_feature_used_batch
 
