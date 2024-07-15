@@ -609,3 +609,5 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000608,100000409,Liam,Kumar,liam.kumar@algoraithmsol.com,TRUE,2024-07-14T12:36:49Z
 100000609,100000410,Olivia,Murphy,olivia.murphy@mindspectrum.tech,TRUE,2024-07-14T01:56:00Z
 100000610,100000160,Wyatt,Romero,wyatt.romero@techinsightlabs.com,FALSE,2024-07-14T07:29:28Z
+100000611,100000411,Ella,Verma,ella.verma@datadyniq.com,TRUE,2024-07-14T14:30:16Z
+100000612,100000345,Ashton,Garcia,ashton.garcia@techdatafusion.io,FALSE,2024-07-14T12:56:10Z
