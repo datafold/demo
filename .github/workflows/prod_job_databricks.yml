@@ -33,7 +33,7 @@ jobs:
           DATABRICKS_DEMO_HOST: ${{ secrets.DATABRICKS_DEMO_HOST }}
           DATABRICKS_DEMO_PATH: ${{ secrets.DATABRICKS_DEMO_PATH }}
           DATABRICKS_DEMO_TOKEN: ${{ secrets.DATABRICKS_DEMO_TOKEN }}
-          SNOWFLAKE_SCHEMA: "${{ 'default' }}"
+          DATABRICKS_DEMO_SCHEMA: "${{ 'default' }}"
 
       - name: submit artifacts to datafold
         run: |
