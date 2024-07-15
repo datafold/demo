@@ -13,8 +13,8 @@ WITH org_events AS (
     FROM org_events
     WHERE
         -- select orgs created within the last 60 days, with usage within the 30 days
-        event_timestamp::date > (current_date - 30)
-        AND created_at::date > (current_date - 60)
+        event_timestamp::date > (current_date - 50)
+        AND created_at::date > (current_date - 100)
     GROUP BY 1
 )
 
