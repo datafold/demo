@@ -9,10 +9,10 @@ on:
       - ready_for_review
     branches:
       - master-databricks
-  push:
-    branches-ignore:
-      - master
-      - master-databricks
+  # push:
+  #   branches-ignore:
+  #     - master
+  #     - master-databricks
       
 jobs:
   run:
