@@ -8,7 +8,7 @@ WITH org_events AS (
 
 , final AS (
     SELECT 
-        DISTINCT ORG_ID
+        DISTINCT org_id
         , count(*) AS usage
     FROM org_events
     WHERE
