@@ -1,0 +1,45 @@
+name: dbt prod (Databricks)
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master-databricks
+
+jobs:
+  run:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: install requirements
+        run: pip install -q -r requirements.txt
+
+      - name: install datafold-sdk
+        run: pip install -q datafold-sdk
+
+      - name: dbt deps
+        run: dbt deps
+
+      - name: dbt build
+        run: dbt build --full-refresh --profiles-dir ./ --profile demo_databricks
+        env:
+          DATABRICKS_DEMO_HOST: ${{ secrets.DATABRICKS_DEMO_HOST }}
+          DATABRICKS_DEMO_PATH: ${{ secrets.DATABRICKS_DEMO_PATH }}
+          DATABRICKS_DEMO_TOKEN: ${{ secrets.DATABRICKS_DEMO_TOKEN }}
+          SNOWFLAKE_SCHEMA: "${{ 'default' }}"
+
+      - name: submit artifacts to datafold
+        run: |
+          set -ex
+          datafold dbt upload --ci-config-id 420 --run-type ${DATAFOLD_RUN_TYPE} --commit-sha ${GIT_SHA}
+        env:
+          DATAFOLD_API_KEY: ${{ secrets.DATAFOLD_APIKEY_DATABRICKS }}
+          DATAFOLD_RUN_TYPE: "${{ github.ref == 'refs/heads/master-databricks' && 'production' || 'pull_request' }}"
+          GIT_SHA: "${{ github.ref == 'refs/heads/master-databricks' && github.sha || github.event.pull_request.head.sha }}"
