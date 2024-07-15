@@ -11,3 +11,15 @@ demo:
       warehouse: INTEGRATION
       schema: "{{ env_var('SNOWFLAKE_SCHEMA') | as_text }}"
       threads: 24
+
+demo_databricks:
+  target: dev
+  outputs:
+    dev:
+      type: databricks
+      catalog: demo
+      schema: "{{ env_var('DATABRICKS_DEMO_SCHEMA') | as_text }}"
+      host: "{{ env_var('DATABRICKS_DEMO_HOST') }}"
+      http_path: "{{ env_var('DATABRICKS_DEMO_PATH') }}"
+      token: "{{ env_var('DATABRICKS_DEMO_TOKEN') }}"
+      threads: 5

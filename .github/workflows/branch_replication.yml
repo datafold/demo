@@ -1,0 +1,34 @@
+name: Replicate secondary master branches
+
+on:
+  workflow_dispatch:
+  # push:
+  #   branches:
+  #     - master
+
+jobs:
+  move-branch-pointer:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git user
+        run: |
+          git config --global user.name "github-branch-replicator[bot]"
+          git config --global user.email "github-branch-replicator[bot]@users.noreply.github.com"
+
+      - name: Move branch pointer
+        run: |
+          # Fetch the latest changes
+          git fetch origin
+          # Force move branch 'master-databricks' to 'master'
+          git branch -f master-databricks master
+          # Push the changes to branch 'master-databricks'
+          git push -u origin master-databricks --force
+
+      - name: Verify move
+        run: |
+          git checkout master-databricks
+          git log -1
