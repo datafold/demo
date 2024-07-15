@@ -48,7 +48,8 @@ jobs:
           DATABRICKS_DEMO_HOST: ${{ secrets.DATABRICKS_DEMO_HOST }}
           DATABRICKS_DEMO_PATH: ${{ secrets.DATABRICKS_DEMO_PATH }}
           DATABRICKS_DEMO_TOKEN: ${{ secrets.DATABRICKS_DEMO_TOKEN }}
-          DATABRICKS_DEMO_SCHEMA: "${{ 'PR' }}"
+          # DATABRICKS_DEMO_SCHEMA: "${{ 'PR' }}"
+          DATABRICKS_DEMO_SCHEMA: "${{ format('{0}_{1}', 'PR_NUM', steps.findPr.outputs.pr) }}"
 
       - name: submit artifacts to datafold
         run: |
