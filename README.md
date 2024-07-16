@@ -96,3 +96,26 @@ Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to int
 - corrupted emails in the `user__created` seed (user$somecompany.com)
 - irregular spikes in the workday seasonal daily number of sign-ins in the `signed__in` seed
 - `null` spikes in the `feature__used` seed
+
+## Other
+
+### How to run platform-specific code
+
+```
+-- models/example_model.sql
+
+{% if target.name == 'dev' %}
+    SELECT *
+    FROM dev_table
+{% elif target.name == 'staging' %}
+    SELECT *
+    FROM staging_table
+{% elif target.name == 'prod' %}
+    SELECT *
+    FROM prod_table
+{% else %}
+    SELECT *
+    FROM default_table
+{% endif %}
+
+```
