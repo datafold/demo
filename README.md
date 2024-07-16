@@ -37,7 +37,7 @@ To demonstrate Datafold experience in CI on Databricks - one needs to create PRs
 To demonstrate Datafold functionality for data replication monitoring, a pre-configured Postgres instance is populated with 'correct raw data' (`analytics.data_source.subscription_created` table); the `subscription__created` seed CSV file contains 'corrupted raw data'.
 
 ### Datafold Demo Org structure
-Corresponding Datafold Demo Org contains the following integrations:
+The corresponding Datafold Demo Org contains the following integrations:
 - `Snowflake` data connection
 - `Coalesce-Demo` CI integration for the `Snowflake` data connection and the `master` branch
 - `Databricks-Demo` data connection
@@ -120,5 +120,5 @@ Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to int
 
 ```
 
-### Known issus
+### Known issues
 - PR job fails when the 2nd commit is pushed to a PR branch targeting Databricks. Most likely related to: https://github.com/databricks/dbt-databricks/issues/691.
