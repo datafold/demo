@@ -23,7 +23,7 @@ This repo contains a demo project suited to leveraging Datafold:
 ### Code management
 All actual changes should be commited to the `master` branch, other `master-...` branches are supposed to be reset to the `master` branch daily.
 
-### Demonstration
+### CI demo
 To demonstrate Datafold experience in CI on Snowflake - one needs to create PRs targeting the `master` branch.
 - production schema in Snowflake: `demo.core`
 - PR schemas: `demo.pr_num_<pr_number>`
@@ -32,16 +32,17 @@ To demonstrate Datafold experience in CI on Databricks - one needs to create PRs
 - production schema in Databricks: `demo.default`
 - PR schemas: `demo.pr_num_<pr_number>`
 
+### Data replication demo
+
+To demonstrate Datafold functionality for data replication monitoring, a pre-configured Postgres instance is populated with 'correct raw data' (`analytics.data_source.subscription_created` table); the `subscription__created` seed CSV file contains 'corrupted raw data'.
+
+### Datafold Demo Org structure
 Corresponding Datafold Demo Org contains the following integrations:
 - `Snowflake` data connection
 - `Coalesce-Demo` CI integration for the `Snowflake` data connection and the `master` branch
 - `Databricks-Demo` data connection
 - `Coalesce-Demo-Databricks` CI integration for the `Databricks-Demo` data connection and the `master-databricks` branch
 - `Postgres` data connection for Cross-DB data diff monitors
-
-### Data replication simulation
-
-To demonstrate Datafold functionality for data replication monitoring, a pre-configured Postgres instance is populated with 'correct raw data' (`analytics.data_source.subscription_created` table); the `subscription__created` seed CSV file contains 'corrupted raw data'.
 
 ## Running this project in custom environment
 To get up and running with this project:
