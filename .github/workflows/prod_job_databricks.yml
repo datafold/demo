@@ -5,8 +5,6 @@ on:
   push:
     branches:
       - master-databricks
-  repository_dispatch:
-    types: [trigger_workflow_prod_job_databricks]
 
 jobs:
   run:
@@ -15,8 +13,6 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
-        with:
-          ref: ${{ github.event.client_payload.branch || 'master-databricks' }}
 
       - uses: actions/setup-python@v2
         with:
