@@ -44,7 +44,7 @@ Corresponding Datafold Demo Org contains the following integrations:
 - `Coalesce-Demo-Databricks` CI integration for the `Databricks-Demo` data connection and the `master-databricks` branch
 - `Postgres` data connection for Cross-DB data diff monitors
 
-## Running this project in custom environment
+## Running this project in a custom environment
 To get up and running with this project:
 1. Install dbt using [these instructions](https://docs.getdbt.com/docs/installation).
 
@@ -78,7 +78,7 @@ Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to int
 - `datagen/signed_in_broken.csv` - copied to `seeds/signed__in.csv.csv`
 - `datagen/signed_in.csv`
 - `datagen/subscription_created_broken.csv` - copied to `seeds/subscription__created.csv.csv`
-- `datagen/subscription_created.csv` - pushed to Postgres
+- `datagen/subscription_created.csv` - pushed to Postgres (`analytics.data_source.subscription_created` table)
 - `datagen/user_created_broken.csv` - copied to `seeds/user__created.csv.csv`
 - `datagen/user_created.csv`
 - `datagen/persons_pool.csv` - pool of persons used for user/org generation
