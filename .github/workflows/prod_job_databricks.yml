@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - master-databricks
+  repository_dispatch:
+    types: [trigger_workflow_prod_job_databricks]
 
 jobs:
   run:
