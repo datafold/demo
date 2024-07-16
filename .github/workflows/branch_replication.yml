@@ -2,7 +2,8 @@ name: Replicate secondary master branches
 
 on:
   workflow_dispatch:
-  # push:
+  schedule:
+    - cron: '10 0 * * *'
   #   branches:
   #     - master
 
