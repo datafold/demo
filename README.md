@@ -119,3 +119,6 @@ Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to int
 {% endif %}
 
 ```
+
+### Known issus
+- PR job fails when the 2nd commit is pushed to a PR branch targeting Databricks. Most likely related to: https://github.com/databricks/dbt-databricks/issues/691.
