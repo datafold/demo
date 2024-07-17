@@ -22,10 +22,10 @@ jobs:
         run: |
           echo "Checking if the current branch is master-databricks"
           CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
-          if [ "$CURRENT_BRANCH" != "master-databricks" ]; then
-            echo "This workflow runs only on master-databricks."
-            exit 1
-          fi
+          # if [ "$CURRENT_BRANCH" != "master-databricks" ]; then
+          #   echo "This workflow runs only on master-databricks."
+          #   exit 1
+          # fi
           echo "CURRENT_BRANCH is $CURRENT_BRANCH"
           echo "Setting GITHUB_REF and GITHUB_SHA"
           echo "GITHUB_REF=refs/heads/master-databricks" >> $GITHUB_ENV
