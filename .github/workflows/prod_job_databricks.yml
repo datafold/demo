@@ -13,9 +13,31 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
-      - name: checkout
+      - name: checkout master-databricks
         uses: actions/checkout@v2
+      with:
+        ref: master-databricks
 
+      - name: Verify and set branch and SHA
+        run: |
+          echo "Checking if the current branch is master-databricks"
+          CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          if [ "$CURRENT_BRANCH" != "master-databricks" ]; then
+            echo "This workflow runs only on master-databricks."
+            exit 1
+          fi
+          echo "CURRENT_BRANCH is $CURRENT_BRANCH"
+          echo "Setting GITHUB_REF and GITHUB_SHA"
+          echo "GITHUB_REF=refs/heads/master-databricks" >> $GITHUB_ENV
+          echo "GITHUB_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
+  
+      - name: Verify environment variables
+        run: |
+          echo "GITHUB_REF is $GITHUB_REF"
+          echo "GITHUB_SHA is $GITHUB_SHA"
+          echo "CURRENT_BRANCH is $CURRENT_BRANCH"
+
+        
       - uses: actions/setup-python@v2
         with:
           python-version: '3.8'
@@ -43,5 +65,5 @@ jobs:
           datafold dbt upload --ci-config-id 420 --run-type ${DATAFOLD_RUN_TYPE} --commit-sha ${GIT_SHA}
         env:
           DATAFOLD_API_KEY: ${{ secrets.DATAFOLD_APIKEY_DATABRICKS }}
-          DATAFOLD_RUN_TYPE: "${{ github.ref == 'refs/heads/master-databricks' && 'production' || 'pull_request' }}"
-          GIT_SHA: "${{ github.ref == 'refs/heads/master-databricks' && github.sha || github.event.pull_request.head.sha }}"
+          DATAFOLD_RUN_TYPE: "${{ GITHUB_REF == 'refs/heads/master-databricks' && 'production' || 'pull_request' }}"
+          GIT_SHA: "${{ GITHUB_REF == 'refs/heads/master-databricks' && GITHUB_SHA || github.event.pull_request.head.sha }}"
