@@ -20,22 +20,22 @@ jobs:
 
       - name: Verify and set branch and SHA
         run: |
-          echo "Checking if the current branch is master-databricks"
-          CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          # echo "Checking if the current branch is master-databricks"
+          # CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
           # if [ "$CURRENT_BRANCH" != "master-databricks" ]; then
           #   echo "This workflow runs only on master-databricks."
           #   exit 1
           # fi
-          echo "CURRENT_BRANCH is $CURRENT_BRANCH"
-          echo "Setting GITHUB_REF and GITHUB_SHA"
-          echo "GITHUB_REF=refs/heads/master-databricks" >> $GITHUB_ENV
-          echo "GITHUB_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
+          echo "GH_REF=$(git symbolic-ref HEAD)" >> $GITHUB_ENV
+          echo "GH_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
   
       - name: Verify environment variables
         run: |
-          echo "GITHUB_REF is $GITHUB_REF"
-          echo "GITHUB_SHA is $GITHUB_SHA"
-          echo "CURRENT_BRANCH is $CURRENT_BRANCH"
+          echo "GH_REF is $GH_REF"
+          echo "GH_SHA is $GH_SHA"
+        env:
+          GH_REF: "${{ env.GH_REF }}"
+          GH_SHA: "${{ env.GH_SHA }}"
 
         
       - uses: actions/setup-python@v2
@@ -65,5 +65,5 @@ jobs:
           datafold dbt upload --ci-config-id 420 --run-type ${DATAFOLD_RUN_TYPE} --commit-sha ${GIT_SHA}
         env:
           DATAFOLD_API_KEY: ${{ secrets.DATAFOLD_APIKEY_DATABRICKS }}
-          DATAFOLD_RUN_TYPE: "${{ GITHUB_REF == 'refs/heads/master-databricks' && 'production' || 'pull_request' }}"
-          GIT_SHA: "${{ GITHUB_REF == 'refs/heads/master-databricks' && GITHUB_SHA || github.event.pull_request.head.sha }}"
+          DATAFOLD_RUN_TYPE: "${{ env.GH_REF == 'refs/heads/master-databricks' && 'production' || 'pull_request' }}"
+          GIT_SHA: "${{ env.GH_REF == 'refs/heads/master-databricks' && env.GH_SHA || github.event.pull_request.head.sha }}"
