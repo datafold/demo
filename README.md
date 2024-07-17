@@ -7,12 +7,15 @@ This repo contains a demo project suited to leveraging Datafold:
 - several 'master' branches, corresponding to the various supported cloud data platforms
   - `master` - 'primary' master branch, runs in Snowflake
   - `master-databricks` - 'secondary' master branch, runs in Databricks, is reset to the `master` branch daily or manually when needed via the `branch_replication.yml` workflow
+  - `master-bigquery` - 'secondary' master branch, runs in BigQuery, is reset to the `master` branch daily or manually when needed via the `branch_replication.yml` workflow
 - several GitHub Actions workflows illustrating CI/CD best practices for dbt Core
   - dbt PR job - is triggered on PRs targeting the `master` branch, is executed in Snowflake
   - dbt prod - is triggered on pushes into the `master` branch, is executed in Snowflake
   - dbt PR job (Databricks) - is triggered on PRs targeting the `master-databricks` branch, is executed in Databricks
   - dbt prod (Databricks) - is triggered on pushes into the `master-databricks` branch, is executed in Databricks
-- raw data generation tool to simulate a data flow typical for real existing projects
+  - dbt PR job (BigQuery) - is triggered on PRs targeting the `master-bigquery` branch, is executed in BigQuery
+  - dbt prod (BigQuery) - is triggered on pushes into the `master-bigquery` branch, is executed in BigQuery
+  - raw data generation tool to simulate a data flow typical for real existing projects
 
 <p align="center">
     <img src="img/demo_project_dag.png" width="750">
@@ -32,6 +35,10 @@ To demonstrate Datafold experience in CI on Databricks - one needs to create PRs
 - production schema in Databricks: `demo.default`
 - PR schemas: `demo.pr_num_<pr_number>`
 
+To demonstrate Datafold experience in CI on BigQuery - one needs to create PRs targeting the `master-bigquery` branch.
+- production schema in BigQuery: `demo.default`
+- PR schemas: `demo.pr_num_<pr_number>`
+
 ### Data replication demo
 
 To demonstrate Datafold functionality for data replication monitoring, a pre-configured Postgres instance is populated with 'correct raw data' (`analytics.data_source.subscription_created` table); the `subscription__created` seed CSV file contains 'corrupted raw data'.
@@ -41,7 +48,9 @@ The corresponding Datafold Demo Org contains the following integrations:
 - `Snowflake` data connection
 - `Coalesce-Demo` CI integration for the `Snowflake` data connection and the `master` branch
 - `Databricks-Demo` data connection
+- `BigQuery - Demo` data connection
 - `Coalesce-Demo-Databricks` CI integration for the `Databricks-Demo` data connection and the `master-databricks` branch
+- `Coalesce-Demo-BigQuery` CI integration for the `BigQuery - Demo` data connection and the `master-bigquery` branch
 - `Postgres` data connection for Cross-DB data diff monitors
 
 ## Running this project in a custom environment
