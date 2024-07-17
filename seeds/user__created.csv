@@ -614,3 +614,6 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000613,100000412,Elijah,Tran,elijah_tran@bigdataprofs.com,TRUE,2024-07-16T00:38:01Z
 100000614,100000413,Oliver,Kwan,oliver.kwan@neurologicai.com,TRUE,2024-07-16T09:37:38Z
 100000615,100000135,Henry,Thompson,henry.thompson@analyticworks.com,FALSE,2024-07-16T00:26:32Z
+100000616,100000414,Alexander,Kim,alexander.kim@quantumscape.ai,TRUE,2024-07-16T16:07:23Z
+100000617,100000415,Julia,Xu,julia.xu@dataluminova.com,TRUE,2024-07-16T16:34:51Z
+100000618,100000057,Hadley,Perez,hadley.perez@analyticinsightsco.com,FALSE,2024-07-16T15:24:07Z
