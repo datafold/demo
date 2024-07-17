@@ -15,8 +15,8 @@ jobs:
     steps:
       - name: checkout master-databricks
         uses: actions/checkout@v2
-      with:
-        ref: master-databricks
+        with:
+          ref: master-databricks
 
       - name: Verify and set branch and SHA
         run: |
