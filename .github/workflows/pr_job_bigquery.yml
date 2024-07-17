@@ -1,0 +1,63 @@
+name: dbt PR job (BigQuery)
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - ready_for_review
+    branches:
+      - master-bigquery
+  # push:
+  #   branches-ignore:
+  #     - master
+  #     - master-bigquery
+      
+jobs:
+  run:
+    runs-on: ubuntu-20.04
+    if: ${{ !github.event.pull_request.draft }}
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: true
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: install requirements
+        run: pip install -q -r requirements.txt
+
+      - name: install datafold-sdk
+        run: pip install -q datafold-sdk
+
+      - name: dbt deps
+        run: dbt deps
+
+      - name: Find Current Pull Request
+        uses: jwalton/gh-find-current-pr@v1.3.0
+        id: findPR
+
+      - name: dbt build
+        run: dbt build --full-refresh --profiles-dir ./ --profile demo_bigquery
+        env:
+          BIGQUERY_DEMO_PROJECT_ID: ${{ secrets.BIGQUERY_DEMO_PROJECT_ID}}
+          BIGQUERY_DEMO_PRIVATE_KEY_ID: ${{ secrets.BIGQUERY_DEMO_PRIVATE_KEY_ID}}
+          BIGQUERY_DEMO_PRIVATE_KEY: ${{ secrets.BIGQUERY_DEMO_PRIVATE_KEY}}
+          BIGQUERY_DEMO_CLIENT_EMAIL: ${{ secrets.BIGQUERY_DEMO_CLIENT_EMAIL}}
+          BIGQUERY_DEMO_CLIENT_ID: ${{ secrets.BIGQUERY_DEMO_CLIENT_ID}}
+          BIGQUERY_DEMO_CLIENT_X509_CERT_URL: ${{ secrets.BIGQUERY_DEMO_CLIENT_X509_CERT_URL}}
+          BIGQUERY_DEMO_DATASET: "${{ format('{0}_{1}', 'PR_NUM', steps.findPr.outputs.pr) }}"
+
+      - name: submit artifacts to datafold
+        run: |
+          set -ex
+          datafold dbt upload --ci-config-id 424 --run-type ${DATAFOLD_RUN_TYPE} --commit-sha ${GIT_SHA}
+        env:
+          DATAFOLD_API_KEY: ${{ secrets.DATAFOLD_APIKEY_BIGQUERY }}
+          DATAFOLD_RUN_TYPE: "${{ 'pull_request' }}"
+          GIT_SHA: "${{ github.event.pull_request.head.sha }}"

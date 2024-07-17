@@ -7,3 +7,15 @@ seeds:
         tests:
           - not_null
           - unique
+    config:
+      column_types:
+        created_at: >
+          {%- if target.name == 'sf' -%}
+            TIMESTAMP_NTZ(9)
+          {%- elif target.name == 'db' -%}
+            TIMESTAMP
+          {%- elif target.name == 'bq' -%}
+            TIMESTAMP
+          {%- else -%}
+            STRING
+          {%- endif -%}

@@ -1,7 +1,7 @@
 version: 2
 
 seeds:
-  - name: org_created
+  - name: subscription__created
     columns:
       - name: org_id
         tests:
@@ -9,7 +9,7 @@ seeds:
           - unique
     config:
       column_types:
-        created_at: >
+        event_timestamp: >
           {%- if target.name == 'sf' -%}
             TIMESTAMP_NTZ(9)
           {%- elif target.name == 'db' -%}

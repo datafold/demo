@@ -28,7 +28,11 @@ jobs:
           git branch -f master-databricks master
           # Push the changes to branch 'master-databricks'
           git push -u origin master-databricks --force
+          # BigQuery
+          git branch -f master-bigquery master
+          git push -u origin master-bigquery --force
 
+          
       - name: Verify move
         run: |
           git checkout master-databricks

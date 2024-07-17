@@ -1,12 +1,56 @@
 WITH final AS (
-    SELECT 
-        date_trunc('month', sub_created_at) as date_month
-        , count(distinct org_id) as cnt_subscribers
-        , sum(sub_price) as sum_revenue
-    FROM {{ ref('dim_orgs') }}
-    WHERE sub_created_at is not NULL 
-    GROUP BY 1 
-    ORDER BY 1
+    -- SELECT 
+    --     date_trunc('month', sub_created_at) as date_month
+    --     , count(distinct org_id) as cnt_subscribers
+    --     , sum(sub_price) as sum_revenue
+    -- FROM {{ ref('dim_orgs') }}
+    -- WHERE sub_created_at is not NULL 
+    -- GROUP BY 1 
+    -- ORDER BY 1
+
+    {% if target.name == 'sf' %}
+        SELECT 
+            date_trunc('month', sub_created_at) as date_month
+            , count(distinct org_id) as cnt_subscribers
+            , sum(sub_price) as sum_revenue
+        FROM {{ ref('dim_orgs') }}
+        WHERE sub_created_at is not NULL 
+        GROUP BY 1 
+        ORDER BY 1
+    {% elif target.name == 'db' %}
+        SELECT 
+            date_trunc('month', sub_created_at) as date_month
+            , count(distinct org_id) as cnt_subscribers
+            , sum(sub_price) as sum_revenue
+        FROM {{ ref('dim_orgs') }}
+        WHERE sub_created_at is not NULL 
+        GROUP BY 1 
+        ORDER BY 1
+    {% elif target.name == 'bq' %}
+        SELECT
+          TIMESTAMP_TRUNC(sub_created_at, month) AS date_month,
+          COUNT(DISTINCT org_id) AS cnt_subscribers,
+          SUM(sub_price) AS sum_revenue
+        FROM {{ ref('dim_orgs') }}
+        WHERE NOT sub_created_at IS NULL
+        GROUP BY 1
+        ORDER BY 1 NULLS LAST
+    {% else %}
+        SELECT 
+            date_trunc('month', sub_created_at) as date_month
+            , count(distinct org_id) as cnt_subscribers
+            , sum(sub_price) as sum_revenue
+        FROM {{ ref('dim_orgs') }}
+        WHERE sub_created_at is not NULL 
+        GROUP BY 1 
+        ORDER BY 1
+    {% endif %}
+
 )
 
 SELECT * FROM final
+
+
+
+
+

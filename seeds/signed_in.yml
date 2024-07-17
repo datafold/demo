@@ -1,15 +1,10 @@
 version: 2
 
 seeds:
-  - name: org_created
-    columns:
-      - name: org_id
-        tests:
-          - not_null
-          - unique
+  - name: signed_in
     config:
       column_types:
-        created_at: >
+        event_timestamp: >
           {%- if target.name == 'sf' -%}
             TIMESTAMP_NTZ(9)
           {%- elif target.name == 'db' -%}

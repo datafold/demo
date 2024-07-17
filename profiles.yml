@@ -1,7 +1,7 @@
 demo:
-  target: dev
+  target: sf
   outputs:
-    dev:
+    sf:
       type: snowflake
       account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
       user: "{{ env_var('SNOWFLAKE_USER') | as_text }}"
@@ -13,9 +13,9 @@ demo:
       threads: 24
 
 demo_databricks:
-  target: dev
+  target: db
   outputs:
-    dev:
+    db:
       type: databricks
       catalog: demo
       schema: "{{ env_var('DATABRICKS_DEMO_SCHEMA') | as_text }}"
@@ -23,3 +23,29 @@ demo_databricks:
       http_path: "{{ env_var('DATABRICKS_DEMO_PATH') }}"
       token: "{{ env_var('DATABRICKS_DEMO_TOKEN') }}"
       threads: 5
+
+
+demo_bigquery:
+  target: bq
+  outputs:
+    bq:
+      type: bigquery
+      method: service-account-json
+      project: "{{ env_var('BIGQUERY_DEMO_PROJECT_ID') }}"
+      dataset: "{{ env_var('BIGQUERY_DEMO_DATASET') }}"
+      threads: 5
+      timeout_seconds: 300
+      location: US
+      priority: interactive
+      keyfile_json:
+        type: "service_account"
+        project_id: "{{ env_var('BIGQUERY_DEMO_PROJECT_ID') }}"
+        private_key_id: "{{ env_var('BIGQUERY_DEMO_PRIVATE_KEY_ID') }}"
+        private_key: "{{ env_var('BIGQUERY_DEMO_PRIVATE_KEY') }}"
+        client_email: "{{ env_var('BIGQUERY_DEMO_CLIENT_EMAIL') }}"
+        client_id: "{{ env_var('BIGQUERY_DEMO_CLIENT_ID') }}"
+        auth_uri: "https://accounts.google.com/o/oauth2/auth"
+        token_uri: "https://oauth2.googleapis.com/token"
+        auth_provider_x509_cert_url: "https://www.googleapis.com/oauth2/v1/certs"
+        client_x509_cert_url: "{{ env_var('BIGQUERY_DEMO_CLIENT_X509_CERT_URL') }}"
+        universe_domain: "googleapis.com"

@@ -1,12 +1,7 @@
 version: 2
 
 seeds:
-  - name: org_created
-    columns:
-      - name: org_id
-        tests:
-          - not_null
-          - unique
+  - name: org__created
     config:
       column_types:
         created_at: >

@@ -1,9 +1,9 @@
 version: 2
 
 seeds:
-  - name: org_created
+  - name: user__created
     columns:
-      - name: org_id
+      - name: USER_ID
         tests:
           - not_null
           - unique
