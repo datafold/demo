@@ -617,3 +617,6 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000616,100000414,Alexander,Kim,alexander.kim@quantumscape.ai,TRUE,2024-07-16T16:07:23Z
 100000617,100000415,Julia,Xu,julia.xu@dataluminova.com,TRUE,2024-07-16T16:34:51Z
 100000618,100000057,Hadley,Perez,hadley.perez@analyticinsightsco.com,FALSE,2024-07-16T15:24:07Z
+100000619,100000416,Olivia,Carter,olivia.carter@smartdataco.com,TRUE,2024-07-17T12:40:43Z
+100000620,100000417,Hannah,Griffin,hannah.griffin@datascientia.tech,TRUE,2024-07-17T16:57:51Z
+100000621,100000319,Scarlett,Ramirez,scarlett.ramirez@techvisionary.biz,FALSE,2024-07-17T18:26:33Z
