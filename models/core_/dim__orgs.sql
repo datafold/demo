@@ -24,7 +24,6 @@ WITH orgs AS (
     FROM {{ ref('subscription__created') }}
 )
 
-
 SELECT
     org_id
     , created_at
