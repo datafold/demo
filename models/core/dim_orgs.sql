@@ -5,6 +5,7 @@ WITH orgs AS (
         , MIN(event_timestamp) AS created_at
     FROM {{ ref('signed_in') }}
     GROUP BY 1
+    
 
 -- --dev
 --    SELECT
