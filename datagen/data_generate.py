@@ -602,11 +602,11 @@ def generate_events_days(period_start_datetime: datetime, period_end_datetime: d
     while start_datetime < period_end_datetime:
 
         # 24-h processing
-        print(start_datetime, end_datetime)
+        print('generating events for the time period:', start_datetime, end_datetime)
         generate_events_day(start_datetime, end_datetime)
         # end of 24-h processing
 
-        start_datetime += one_day
+        start_datetime = end_datetime
         end_datetime = min(start_datetime + one_day, period_end_datetime)
 
 
