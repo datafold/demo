@@ -6,6 +6,8 @@ WITH orgs AS (
     FROM {{ ref('signed_in') }}
     GROUP BY 1
 
+
+    
 -- --dev
 --    SELECT
 --         org_id
