@@ -17,10 +17,6 @@ on:
 jobs:
   run:
     runs-on: ubuntu-20.04
-    if: ${{ !github.event.pull_request.draft }}
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-      cancel-in-progress: true
     steps:
       - name: checkout
         uses: actions/checkout@v2
