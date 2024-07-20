@@ -620,3 +620,16 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000619,100000416,Olivia,Carter,olivia.carter@smartdataco.com,TRUE,2024-07-17T12:40:43Z
 100000620,100000417,Hannah,Griffin,hannah.griffin@datascientia.tech,TRUE,2024-07-17T16:57:51Z
 100000621,100000319,Scarlett,Ramirez,scarlett.ramirez@techvisionary.biz,FALSE,2024-07-17T18:26:33Z
+100000626,100000128,Natalie,Zhang,natalie.zhang$datasciencesolutions.com,FALSE,2024-07-18T17:44:15Z
+100000622,100000418,Taylor,Nguyen,taylor.nguyen@dataviewsolutions.com,TRUE,2024-07-18T10:04:46Z
+100000623,100000419,Eve,Chang,eve@dataengeniusco.com,TRUE,2024-07-18T12:36:39Z
+100000624,100000420,Matthew,Vuong,matthew.v@datascientro.net,TRUE,2024-07-18T11:03:00Z
+100000625,100000421,Lucas,Smith,lucas.smith@aiworldcorp.com,TRUE,2024-07-18T21:03:43Z
+100000627,100000076,Aiden,Rajan,aiden.rajan@aihub.pro,FALSE,2024-07-18T06:09:19Z
+100000633,100000406,Harper,Kane,harper.kane$analyzenet.com,FALSE,2024-07-19T00:40:47Z
+100000628,100000422,Natalie,Cook,natalie.cook@logictech.com,TRUE,2024-07-19T15:23:44Z
+100000629,100000423,Ava,Flores,ava.flores@cybervis.com,TRUE,2024-07-19T15:58:03Z
+100000630,100000424,Aria,Vargas,aria.vargas@techdataexpress.com,TRUE,2024-07-19T09:26:48Z
+100000631,100000425,Benjamin,Adams,benjamin.adams@dataflux.io,TRUE,2024-07-19T20:12:30Z
+100000632,100000100,Paige,Brown,paige.brown@datavibesinc.com,FALSE,2024-07-19T11:55:05Z
+100000634,100000006,Daniel,Khan,daniel.khan@aiscape.biz,FALSE,2024-07-19T18:07:01Z
