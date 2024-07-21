@@ -633,3 +633,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000631,100000425,Benjamin,Adams,benjamin.adams@dataflux.io,TRUE,2024-07-19T20:12:30Z
 100000632,100000100,Paige,Brown,paige.brown@datavibesinc.com,FALSE,2024-07-19T11:55:05Z
 100000634,100000006,Daniel,Khan,daniel.khan@aiscape.biz,FALSE,2024-07-19T18:07:01Z
+100000635,100000426,Uriah,Cheng,uriah.cheng@analyticoasis.com,TRUE,2024-07-20T12:37:14Z
+100000636,100000427,Lucas,Torres,lucas.torres@insightechsolutions.com,TRUE,2024-07-20T18:53:50Z
+100000637,100000428,Ava,Lewis,ava.lewis@solvectoai.com,TRUE,2024-07-20T00:48:21Z
+100000638,100000429,Owen,Kelly,owen.kelly@datamindinsight.com,TRUE,2024-07-20T19:35:08Z
+100000639,100000009,Rowan,Li,rowan.li@datainsightsolutions.com,FALSE,2024-07-20T03:26:03Z
+100000640,100000371,Aaron,Smith,aaron.smith@techdatalink.com,FALSE,2024-07-20T15:11:54Z
