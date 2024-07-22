@@ -639,3 +639,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000638,100000429,Owen,Kelly,owen.kelly@datamindinsight.com,TRUE,2024-07-20T19:35:08Z
 100000639,100000009,Rowan,Li,rowan.li@datainsightsolutions.com,FALSE,2024-07-20T03:26:03Z
 100000640,100000371,Aaron,Smith,aaron.smith@techdatalink.com,FALSE,2024-07-20T15:11:54Z
+100000641,100000430,James,Reed,jreed@datagurus.com,TRUE,2024-07-21T12:59:16Z
+100000642,100000431,Ella,Perez,ella.perez@datascripters.com,TRUE,2024-07-21T04:34:26Z
+100000643,100000432,Luna,Wu,luna.wu@techpulse.tech,TRUE,2024-07-21T07:17:17Z
+100000644,100000425,Liam,Lin,liam.lin@dataflux.io,FALSE,2024-07-21T23:39:38Z
+100000645,100000071,Luke,Johnson,luke.johnson@algorithmxco.com,FALSE,2024-07-21T10:25:20Z
