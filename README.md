@@ -45,6 +45,15 @@ To demonstrate Datafold functionality for data replication monitoring, a pre-con
 
 ### BI apps demo
 - Looker view, explore, and dashboard are connected to the `fct__monthly__financials` model in Snowflake, Databricks, and BigQuery.
+  - `fct__monthly__financials` view
+  - `fct__monthly__financials` explore
+  - `Monthly Financials (Demo, Snowflake)` dashboard
+  - `fct__monthly__financials_bigquery` view
+  - `fct__monthly__financials_bigquery` explore
+  - `Monthly Financials (Demo, BigQuery)` dashboard
+  - `fct__monthly__financials_databricks` view
+  - `fct__monthly__financials_databricks` explore
+  - `Monthly Financials (Demo, Databricks)` dashboard
 
 ### Datafold Demo Org structure
 The corresponding Datafold Demo Org contains the following integrations:
