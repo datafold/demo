@@ -113,26 +113,5 @@ Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to int
 
 ## Other
 
-### How to run platform-specific code
-
-```
--- models/example_model.sql
-
-{% if target.name == 'dev' %}
-    SELECT *
-    FROM dev_table
-{% elif target.name == 'staging' %}
-    SELECT *
-    FROM staging_table
-{% elif target.name == 'prod' %}
-    SELECT *
-    FROM prod_table
-{% else %}
-    SELECT *
-    FROM default_table
-{% endif %}
-
-```
-
 ### Known issues
 - PR job fails when the 2nd commit is pushed to a PR branch targeting Databricks. Most likely related to: https://github.com/databricks/dbt-databricks/issues/691.
