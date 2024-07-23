@@ -48,6 +48,7 @@ To demonstrate Datafold functionality for data replication monitoring, a pre-con
 
 ### Datafold Demo Org structure
 The corresponding Datafold Demo Org contains the following integrations:
+- `datafold/demo` repository integration
 - `Snowflake` data connection
 - `Coalesce-Demo` CI integration for the `Snowflake` data connection and the `master` branch
 - `Databricks-Demo` data connection
