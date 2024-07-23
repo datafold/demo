@@ -27,6 +27,8 @@ This repo contains a demo project suited to leveraging Datafold:
 All actual changes should be commited to the `master` branch, other `master-...` branches are supposed to be reset to the `master` branch daily.
 
 ### CI demo
+! To ensure the integrity and isolation of GitHub Actions workflows, it is advisable to create pull requests (PRs) for different 'master' branches from distinct commits. This practice helps prevent cross-PR leakage and ensures that workflows run independently.
+
 To demonstrate Datafold experience in CI on Snowflake - one needs to create PRs targeting the `master` branch.
 - production schema in Snowflake: `demo.core`
 - PR schemas: `demo.pr_num_<pr_number>`
@@ -41,31 +43,38 @@ To demonstrate Datafold experience in CI on BigQuery - one needs to create PRs t
 
 ### Data replication demo
 
-To demonstrate Datafold functionality for data replication monitoring, a pre-configured Postgres instance is populated with 'correct raw data' (`analytics.data_source.subscription_created` table); the `subscription__created` seed CSV file contains 'corrupted raw data'.
+To demonstrate Datafold functionality for data replication monitoring, a pre-configured Postgres instance (simulates transactional database) is populated with 'correct raw data' (`analytics.data_source.subscription_created` table); the `subscription__created` seed CSV file contains 'corrupted raw data'.
 
 ### BI apps demo
 - Looker view, explore, and dashboard are connected to the `fct__monthly__financials` model in Snowflake, Databricks, and BigQuery.
-  - `fct__monthly__financials` view
-  - `fct__monthly__financials` explore
-  - `Monthly Financials (Demo, Snowflake)` dashboard
-  - `fct__monthly__financials_bigquery` view
-  - `fct__monthly__financials_bigquery` explore
-  - `Monthly Financials (Demo, BigQuery)` dashboard
-  - `fct__monthly__financials_databricks` view
-  - `fct__monthly__financials_databricks` explore
-  - `Monthly Financials (Demo, Databricks)` dashboard
+  - Snowflake
+    - `fct__monthly__financials` view
+    - `fct__monthly__financials` explore
+    - `Monthly Financials (Demo, Snowflake)` dashboard
+  - Databricks
+    - `fct__monthly__financials_databricks` view
+    - `fct__monthly__financials_databricks` explore
+    - `Monthly Financials (Demo, Databricks)` dashboard
+  - BigQuery
+    - `fct__monthly__financials_bigquery` view
+    - `fct__monthly__financials_bigquery` explore
+    - `Monthly Financials (Demo, BigQuery)` dashboard
 
 ### Datafold Demo Org structure
 The corresponding Datafold Demo Org contains the following integrations:
-- `datafold/demo` repository integration
-- `Snowflake` data connection
-- `Coalesce-Demo` CI integration for the `Snowflake` data connection and the `master` branch
-- `Databricks-Demo` data connection
-- `Coalesce-Demo-Databricks` CI integration for the `Databricks-Demo` data connection and the `master-databricks` branch
-- `BigQuery - Demo` data connection
-- `Coalesce-Demo-BigQuery` CI integration for the `BigQuery - Demo` data connection and the `master-bigquery` branch
-- `Postgres` data connection for Cross-DB data diff monitors
-- `Looker Public Demo` BI app integration
+- Common
+  - `datafold/demo` repository integration
+  - `Postgres` data connection for Cross-DB data diff monitors
+  - `Looker Public Demo` BI app integration
+- Snowflake specific
+  - `Snowflake` data connection
+  - `Coalesce-Demo` CI integration for the `Snowflake` data connection and the `master` branch
+- Databricks specific
+  - `Databricks-Demo` data connection
+  - `Coalesce-Demo-Databricks` CI integration for the `Databricks-Demo` data connection and the `master-databricks` branch
+- BigQuery specific
+  - `BigQuery - Demo` data connection
+  - `Coalesce-Demo-BigQuery` CI integration for the `BigQuery - Demo` data connection and the `master-bigquery` branch
 
 ## Running this project in a custom environment
 To get up and running with this project:
