@@ -43,15 +43,19 @@ To demonstrate Datafold experience in CI on BigQuery - one needs to create PRs t
 
 To demonstrate Datafold functionality for data replication monitoring, a pre-configured Postgres instance is populated with 'correct raw data' (`analytics.data_source.subscription_created` table); the `subscription__created` seed CSV file contains 'corrupted raw data'.
 
+### BI apps
+- Looker view, explore, and dashboard are connected to the `fct__monthly__financials` model in Snowflake, Databricks, and BigQuery.
+
 ### Datafold Demo Org structure
 The corresponding Datafold Demo Org contains the following integrations:
 - `Snowflake` data connection
 - `Coalesce-Demo` CI integration for the `Snowflake` data connection and the `master` branch
 - `Databricks-Demo` data connection
-- `BigQuery - Demo` data connection
 - `Coalesce-Demo-Databricks` CI integration for the `Databricks-Demo` data connection and the `master-databricks` branch
+- `BigQuery - Demo` data connection
 - `Coalesce-Demo-BigQuery` CI integration for the `BigQuery - Demo` data connection and the `master-bigquery` branch
 - `Postgres` data connection for Cross-DB data diff monitors
+- `Looker Public Demo` BI app integration
 
 ## Running this project in a custom environment
 To get up and running with this project:
