@@ -650,3 +650,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000649,100000436,Emma,Carter,emmac@datascientistsguild.com,TRUE,2024-07-22T19:32:16Z
 100000650,100000402,Carter,Feng,carter.feng@aimind.co,FALSE,2024-07-22T11:07:36Z
 100000651,100000059,Zoe,Miller,zoe.miller@techenabledinsights.com,FALSE,2024-07-22T23:40:29Z
+100000652,100000437,Harper,King,harper.king@quantumdatalabs.com,TRUE,2024-07-23T01:55:25Z
+100000653,100000438,Lana,Huang,lana.huang@sightmindtech.com,TRUE,2024-07-23T02:20:57Z
+100000654,100000439,Henry,Wagner,henry.wagner@datalytx.com,TRUE,2024-07-23T17:54:20Z
+100000655,100000440,Lucas,Garcia,lucasgarcia@infotechvision.com,TRUE,2024-07-23T04:15:41Z
+100000656,100000330,Amelia,Harrison,amelia.harrison@aiaccelerateworks.com,FALSE,2024-07-23T19:36:26Z
+100000657,100000020,Aiden,Prasad,aiden.prasad@techknowlogix.com,FALSE,2024-07-23T23:45:13Z
