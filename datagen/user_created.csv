@@ -656,3 +656,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000655,100000440,Lucas,Garcia,lucasgarcia@infotechvision.com,TRUE,2024-07-23T04:15:41Z
 100000656,100000330,Amelia,Harrison,amelia.harrison@aiaccelerateworks.com,FALSE,2024-07-23T19:36:26Z
 100000657,100000020,Aiden,Prasad,aiden.prasad@techknowlogix.com,FALSE,2024-07-23T23:45:13Z
+100000658,100000441,James,Kang,james.kang@datafusiontechsolutions.io,TRUE,2024-07-24T18:18:26Z
+100000659,100000442,Riley,Russell,riley.russell@insightcloudtech.com,TRUE,2024-07-24T02:30:54Z
+100000660,100000443,Israel,Lee,israel.lee@analyticorps.com,TRUE,2024-07-24T16:24:05Z
+100000661,100000109,Ella,Fletcher,ella.fletcher@techwave.io,FALSE,2024-07-24T12:57:28Z
+100000662,100000105,Zane,Chen,zane.chen@algorithmia.tech,FALSE,2024-07-24T12:09:26Z
