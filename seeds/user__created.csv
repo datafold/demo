@@ -667,3 +667,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000666,100000447,Penelope,Baker,penelope.baker@datavibeinc.com,TRUE,2024-07-25T12:47:55Z
 100000667,100000426,Nova,Murray,nova.murray@analyticoasis.com,FALSE,2024-07-25T20:37:59Z
 100000668,100000037,King,Fleming,king.fleming@datasenseia.com,FALSE,2024-07-25T04:45:39Z
+100000669,100000448,Mason,Kim,mason.kim@infotechfusion.com,TRUE,2024-07-26T19:53:12Z
+100000670,100000449,Nora,Chen,nora.chen@datascinetech.com,TRUE,2024-07-26T15:14:46Z
+100000671,100000450,Jace,Harris,jace.harris@datagistix.com,TRUE,2024-07-26T12:48:09Z
+100000672,100000101,Ella,Gray,ella.gray@machinelearnix.com,FALSE,2024-07-26T05:04:35Z
+100000673,100000055,Charlie,Ocampo,charlie.ocampo@roboticssolutionsinc.com,FALSE,2024-07-26T20:49:01Z
