@@ -18,7 +18,7 @@ WITH orgs AS (
 , user_count AS (
     SELECT
         org_id
-        , count(distinct user_id) AS num_users
+        , count(distinct user_id) + case when random() > 0.5 then 1 else 0 end AS num_users
     FROM {{ ref('user__created') }}
     GROUP BY 1
 )
