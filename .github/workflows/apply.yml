@@ -1,0 +1,26 @@
+name: apply
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.12
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install datafold-sdk
+      - name: Run apply.py
+        run: |
+          datafold monitors provision monitors.yaml
+        env:
+          DATAFOLD_HOST: ${{ secrets.DATAFOLD_HOST }}
+          DATAFOLD_API_KEY: ${{ secrets.DATAFOLD_API_KEY }}
