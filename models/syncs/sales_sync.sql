@@ -1,6 +1,13 @@
 WITH org_events AS (
   SELECT
-     *
+     a.org_id
+     , a.created_at
+     , a.num_users
+     , a.sub_created_at
+     , a.sub_plan
+     , a.sub_price
+     , b.event_timestamp
+     , b.activity
   FROM {{ ref('dim_orgs') }} a
   LEFT JOIN {{ ref('feature_used') }} b on a.org_id = b.org_id
   WHERE sub_plan IS NULL 

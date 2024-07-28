@@ -62,7 +62,7 @@ demo_dremio:
       object_storage_path: "{{ 'alexeydremiobucket.' + env_var('DREMIO_FOLDER') }}"
       dremio_space: demo
       dremio_space_folder: no_schema
-      threads: 1
+      threads: 5
       type: dremio
       use_ssl: true
       user: "{{ env_var('DREMIO_USER') }}"
