@@ -1,0 +1,8 @@
+monitors:
+  nick_test_monitor:
+    type: test
+    schedule:
+      interval:
+        every: hour
+    connection_id: 4932
+    query: select 1
