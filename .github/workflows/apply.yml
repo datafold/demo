@@ -22,5 +22,5 @@ jobs:
         run: |
           datafold monitors provision monitors.yaml
         env:
-          DATAFOLD_HOST: ${{ secrets.DATAFOLD_HOST }}
-          DATAFOLD_API_KEY: ${{ secrets.DATAFOLD_API_KEY }}
+          DATAFOLD_HOST: https://app.datafold.com
+          DATAFOLD_API_KEY: ${{ secrets.DATAFOLD_APIKEY }}
