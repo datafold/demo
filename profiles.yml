@@ -49,3 +49,21 @@ demo_bigquery:
         auth_provider_x509_cert_url: "https://www.googleapis.com/oauth2/v1/certs"
         client_x509_cert_url: "{{ env_var('BIGQUERY_DEMO_CLIENT_X509_CERT_URL') }}"
         universe_domain: "googleapis.com"
+
+demo_dremio:
+  target: dr
+  outputs:
+    dr:
+      cloud_host: api.dremio.cloud
+      cloud_project_id: e94ab14a-43d8-44dd-8f59-cffbb1f0f12f
+      pat: "{{ env_var('DREMIO_TOKEN') }}"
+      object_storage_source: "Alexey S3"
+      # object_storage_path: "alexeydremiobucket.folder2"
+      object_storage_path: "{{ 'alexeydremiobucket.' + env_var('DREMIO_FOLDER') }}"
+      dremio_space: demo
+      dremio_space_folder: no_schema
+      threads: 5
+      type: dremio
+      use_ssl: true
+      user: "{{ env_var('DREMIO_USER') }}"
+

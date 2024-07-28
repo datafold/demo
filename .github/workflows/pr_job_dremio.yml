@@ -1,0 +1,64 @@
+name: dbt PR job (Dremio)
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - ready_for_review
+    branches:
+      - master-dremio
+  # push:
+  #   branches-ignore:
+  #     - master
+  #     - master-dremio
+      
+jobs:
+  run:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: install requirements
+        run: pip install -q -r requirements.txt
+
+      - name: install datafold-sdk
+        run: pip install -q datafold-sdk
+
+      - name: dbt deps
+        run: dbt deps
+
+      - name: Find Current Pull Request
+        uses: jwalton/gh-find-current-pr@v1.3.0
+        id: findPR
+
+      - name: upload seed files outside dbt
+        working-directory: datagen
+        run: |
+          python dremio__upload_seeds.py
+        env:
+          DREMIO_TOKEN: ${{ secrets.DREMIO_TOKEN }}
+          DREMIO_FOLDER: "${{ format('{0}_{1}', 'PR_NUM', steps.findPr.outputs.pr) }}"
+          DREMIO_USER: ${{ secrets.DREMIO_USER }}
+
+      - name: dbt build
+        run: dbt build --full-refresh --profiles-dir ./ --profile demo_dremio --exclude "seeds/"
+        env:
+          DREMIO_TOKEN: ${{ secrets.DREMIO_TOKEN }}
+          DREMIO_FOLDER: "${{ format('{0}_{1}', 'PR_NUM', steps.findPr.outputs.pr) }}"
+          DREMIO_USER: ${{ secrets.DREMIO_USER }}
+
+      - name: submit artifacts to datafold
+        run: |
+          set -ex
+          datafold dbt upload --ci-config-id 434 --run-type ${DATAFOLD_RUN_TYPE} --commit-sha ${GIT_SHA}
+        env:
+          DATAFOLD_API_KEY: ${{ secrets.DATAFOLD_APIKEY_BIGQUERY }}
+          DATAFOLD_RUN_TYPE: "${{ 'pull_request' }}"
+          GIT_SHA: "${{ github.event.pull_request.head.sha }}"

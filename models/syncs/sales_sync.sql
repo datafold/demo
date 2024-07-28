@@ -1,8 +1,15 @@
 WITH org_events AS (
   SELECT
-     *
-  FROM {{ ref('dim_orgs') }}
-  LEFT JOIN {{ ref('feature_used') }} USING (org_id)
+     a.org_id
+     , a.created_at
+     , a.num_users
+     , a.sub_created_at
+     , a.sub_plan
+     , a.sub_price
+     , b.event_timestamp
+     , b.activity
+  FROM {{ ref('dim_orgs') }} a
+  LEFT JOIN {{ ref('feature_used') }} b on a.org_id = b.org_id
   WHERE sub_plan IS NULL 
 )
 
@@ -29,6 +36,9 @@ WITH org_events AS (
             AND CAST(created_at AS DATE) > (
               CAST('2022-11-01' AS DATE) - 60
             )
+        {% elif target.name == 'dr' %}
+            CAST(event_timestamp AS DATE) > DATE_SUB(DATE '2022-11-01', 30)
+            AND CAST(created_at AS DATE) > DATE_SUB(DATE '2022-11-01', 60)
         {% else %}
             event_timestamp::date > ('2022-11-01'::date - 30)
             AND created_at::date > ('2022-11-01'::date - 60)

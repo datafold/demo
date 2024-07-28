@@ -1,0 +1,77 @@
+name: dbt prod (Dremio)
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master-dremio
+  schedule:
+    - cron: '20 0 * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: checkout master-dremio
+        uses: actions/checkout@v2
+        with:
+          ref: master-dremio
+
+      - name: Verify and set branch and SHA
+        run: |
+          # echo "Checking if the current branch is master-dremio"
+          # CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          # if [ "$CURRENT_BRANCH" != "master-dremio" ]; then
+          #   echo "This workflow runs only on master-dremio."
+          #   exit 1
+          # fi
+          echo "GH_REF=$(git symbolic-ref HEAD)" >> $GITHUB_ENV
+          echo "GH_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
+  
+      - name: Verify environment variables
+        run: |
+          echo "GH_REF is $GH_REF"
+          echo "GH_SHA is $GH_SHA"
+        env:
+          GH_REF: "${{ env.GH_REF }}"
+          GH_SHA: "${{ env.GH_SHA }}"
+
+        
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: install requirements
+        run: pip install -q -r requirements.txt
+
+      - name: install datafold-sdk
+        run: pip install -q datafold-sdk
+
+      - name: dbt deps
+        run: dbt deps
+
+      - name: upload seed files outside dbt
+        working-directory: datagen
+        run: |
+          python dremio__upload_seeds.py
+        env:
+          DREMIO_TOKEN: ${{ secrets.DREMIO_TOKEN }}
+          DREMIO_FOLDER: ${{ 'prod' }}
+          DREMIO_USER: ${{ secrets.DREMIO_USER }}
+        
+      - name: dbt build
+        run: dbt build --full-refresh --profiles-dir ./ --profile demo_dremio --exclude "seeds/"
+        env:
+          DREMIO_TOKEN: ${{ secrets.DREMIO_TOKEN }}
+          DREMIO_FOLDER: ${{ 'prod' }}
+          DREMIO_USER: ${{ secrets.DREMIO_USER }}
+
+      - name: submit artifacts to datafold
+        run: |
+          set -ex
+          datafold dbt upload --ci-config-id 434 --run-type ${DATAFOLD_RUN_TYPE} --commit-sha ${GIT_SHA}
+        env:
+          DATAFOLD_API_KEY: ${{ secrets.DATAFOLD_APIKEY_BIGQUERY }}
+          DATAFOLD_RUN_TYPE: "${{ env.GH_REF == 'refs/heads/master-dremio' && 'production' || 'pull_request' }}"
+          GIT_SHA: "${{ env.GH_REF == 'refs/heads/master-dremio' && env.GH_SHA || github.event.pull_request.head.sha }}"

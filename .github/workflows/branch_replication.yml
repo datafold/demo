@@ -31,6 +31,9 @@ jobs:
           # BigQuery
           git branch -f master-bigquery master
           git push -u origin master-bigquery --force
+          # Dremio
+          git branch -f master-dremio master
+          git push -u origin master-dremio --force
 
           
       - name: Verify move
