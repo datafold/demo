@@ -22,6 +22,8 @@ jobs:
 
       - name: install requirements
         run: |
+          echo "setuptools<72" > constraints.txt
+          export PIP_CONSTRAINT=constraints.txt
           pip install --upgrade pip
           pip install -q -r requirements.txt
 
