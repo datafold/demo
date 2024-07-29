@@ -20,6 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: |
+          echo "setuptools<72" > constraints.txt
+          export PIP_CONSTRAINT=constraints.txt
           python -m pip install --upgrade pip
           pip install -r datagen/requirements.txt
 
@@ -53,6 +55,7 @@ jobs:
 
       - name: Commit new files
         run: |
+          rm constraints.txt
           git add -A
           git commit -m "New data obtained on $(date)"
 
