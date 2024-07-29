@@ -23,7 +23,7 @@ jobs:
           pip install --upgrade pip
           python -m pip install --upgrade pip
           pip install datafold-sdk
-      - name: Run apply.py
+      - name: Update monitors
         run: |
           datafold monitors provision monitors.yaml
         env:
