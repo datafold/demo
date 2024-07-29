@@ -21,7 +21,9 @@ jobs:
           python-version: '3.8'
 
       - name: install requirements
-        run: pip install -q -r requirements.txt
+        run: |
+          pip install --upgrade pip
+          pip install -q -r requirements.txt
 
       - name: install datafold-sdk
         run: pip install -q datafold-sdk
