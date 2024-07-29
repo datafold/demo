@@ -8,13 +8,17 @@ This repo contains a demo project suited to leveraging Datafold:
   - `master` - 'primary' master branch, runs in Snowflake
   - `master-databricks` - 'secondary' master branch, runs in Databricks, is reset to the `master` branch daily or manually when needed via the `branch_replication.yml` workflow
   - `master-bigquery` - 'secondary' master branch, runs in BigQuery, is reset to the `master` branch daily or manually when needed via the `branch_replication.yml` workflow
+  - `master-dremio` - 'secondary' master branch, runs in Dremio, is reset to the `master` branch daily or manually when needed via the `branch_replication.yml` workflow
 - several GitHub Actions workflows illustrating CI/CD best practices for dbt Core
-  - dbt PR job - is triggered on PRs targeting the `master` branch, is executed in Snowflake
-  - dbt prod - is triggered on pushes into the `master` branch, is executed in Snowflake
-  - dbt PR job (Databricks) - is triggered on PRs targeting the `master-databricks` branch, is executed in Databricks
-  - dbt prod (Databricks) - is triggered on pushes into the `master-databricks` branch, is executed in Databricks
-  - dbt PR job (BigQuery) - is triggered on PRs targeting the `master-bigquery` branch, is executed in BigQuery
-  - dbt prod (BigQuery) - is triggered on pushes into the `master-bigquery` branch, is executed in BigQuery
+  - dbt PR job - is triggered on PRs targeting the `master` branch, runs dbt project in Snowflake
+  - dbt prod - is triggered on pushes into the `master` branch, runs dbt project in Snowflake
+  - dbt PR job (Databricks) - is triggered on PRs targeting the `master-databricks` branch, runs dbt project in Databricks
+  - dbt prod (Databricks) - is triggered on pushes into the `master-databricks` branch, runs dbt project in Databricks
+  - dbt PR job (BigQuery) - is triggered on PRs targeting the `master-bigquery` branch, runs dbt project in BigQuery
+  - dbt prod (BigQuery) - is triggered on pushes into the `master-bigquery` branch, runs dbt project in BigQuery
+  - dbt PR job (Dremio) - is triggered on PRs targeting the `master-dremio` branch, runs dbt project in BigQuery
+  - dbt prod (Dremio) - is triggered on pushes into the `master-dremio` branch, runs dbt project in BigQuery
+  - Apply monitors.yaml configuration to Datafold app - applies monitor-as-code configuration to Datafold application
   - raw data generation tool to simulate a data flow typical for real existing projects
 
 <p align="center">
@@ -40,6 +44,10 @@ To demonstrate Datafold experience in CI on Databricks - one needs to create PRs
 To demonstrate Datafold experience in CI on BigQuery - one needs to create PRs targeting the `master-bigquery` branch.
 - production schema in BigQuery: `demo.default`
 - PR schemas: `demo.pr_num_<pr_number>`
+
+To demonstrate Datafold experience in CI on Dremio - one needs to create PRs targeting the `master-dremio` branch.
+- production schema in BigQuery: `"Alexey S3".alexeydremiobucket.prod`
+- PR schemas: `"Alexey S3".alexeydremiobucket.pr_num_<pr_number>`
 
 ### Data replication demo
 
@@ -75,6 +83,9 @@ The corresponding Datafold Demo Org contains the following integrations:
 - BigQuery specific
   - `BigQuery - Demo` data connection
   - `Coalesce-Demo-BigQuery` CI integration for the `BigQuery - Demo` data connection and the `master-bigquery` branch
+- Dremio specific
+  - `Dremio-Demo` data connection
+  - `Coalesce-Demo-Dremio` CI integration for the `Dremio-Demo` data connection and the `master-dremio` branch
 
 ## Running this project in a custom environment
 To get up and running with this project:
@@ -121,7 +132,7 @@ Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to int
 - `datagen/data_to_postgres.sh` - pushes generated data to Postgres 
 - `datagen/persons_pool_replenish.py` - replenishes the pool of persons using ChatGPT
 - `datagen/data_delete.sh` - deletes data for further re-generation
-
+- `datagen/dremio__upload_seeds.py` - uploads seed files to Dremio (due to limitations in the starndard dbt-dremio connector)
 
 ### Data anomaly types
 - zero on negative prices in the `subscription__created` seed

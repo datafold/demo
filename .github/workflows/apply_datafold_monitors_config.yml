@@ -1,9 +1,11 @@
-name: apply
+name: Apply monitors.yaml configuration to Datafold app
 
 on:
   push:
     branches:
       - master
+    paths:
+      - 'monitors.yaml'
 
 jobs:
   apply:
