@@ -679,3 +679,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000678,100000455,James,Gonzalez,james.gonzalez@dataaiacademy.com,TRUE,2024-07-27T23:12:44Z
 100000679,100000330,Oliver,White,oliver.white@aiaccelerateworks.com,FALSE,2024-07-27T16:36:40Z
 100000680,100000038,Ian,Clark,ian.clark@datasolv.com,FALSE,2024-07-27T11:35:50Z
+100000681,100000456,Mason,Clark,masonclark@smarttechsolutions.com,TRUE,2024-07-28T05:04:52Z
+100000682,100000457,Zara,Analytics,zara.analytics@datascionics.biz,TRUE,2024-07-28T15:01:13Z
+100000683,100000458,Brody,Malik,bmalik@applieddatainsight.com,TRUE,2024-07-28T18:06:58Z
+100000684,100000459,Rowan,Vargas,rowan.vargas@cogntechgroup.com,TRUE,2024-07-28T08:58:40Z
+100000685,100000334,Gavin,Huang,gavin.huang@datagigantica.com,FALSE,2024-07-28T17:56:11Z
+100000686,100000207,Gabriel,Diaz,gabriel.diaz@codenova.com,FALSE,2024-07-28T00:19:41Z
