@@ -693,3 +693,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000691,100000464,Henry,Verma,henry.verma@techviatech.net,TRUE,2024-07-29T09:24:31Z
 100000692,100000056,Daniel,Jiang,daniel.jiang@techbrightai.com,FALSE,2024-07-29T10:23:00Z
 100000693,100000235,Christopher,Chow,christopher.chow@techinsightgroup.com,FALSE,2024-07-29T07:46:42Z
+100000695,100000465,Willa,Liu,willaliu@datakinetix.com,TRUE,2024-07-30T22:13:36Z
+100000696,100000466,Luna,Baker,luna.baker@analytitech.io,TRUE,2024-07-30T14:08:31Z
+100000697,100000467,Piper,Roy,piper.roy@datalyticai.com,TRUE,2024-07-30T07:50:56Z
+100000698,100000468,Luna,Wong,luna.wong@techsparkz.com,TRUE,2024-07-30T17:00:05Z
+100000699,100000242,Daisy,Yu,daisy.yu@datawise.com,FALSE,2024-07-30T13:58:00Z
+100000700,100000063,Connor,Morris,connor.morris@techmind.io,FALSE,2024-07-30T06:13:02Z
