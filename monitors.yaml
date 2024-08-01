@@ -61,3 +61,56 @@ monitors:
       AND event_timestamp >= DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL -1 DAY);
 
   
+  invalid_user_emails_snowflake:
+    type: test
+    schedule:
+      interval:
+        every: day
+        utc_at: '00:00'
+    connection_id: 4932
+    query: |
+      SELECT *
+      FROM demo.core.user__created
+      WHERE not email RLIKE '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$'
+      and created_at >= dateadd(day, -1, current_timestamp)
+
+  invalid_user_emails_databricks:
+    type: test
+    schedule:
+      interval:
+        every: day
+        utc_at: '00:00'
+    connection_id: 8357
+    query: |
+      SELECT *
+      FROM demo.default.user__created
+      WHERE not email RLIKE '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$'
+      and created_at >= dateadd(day, -1, current_timestamp)
+
+  invalid_user_emails_bigquery:
+    type: test
+    schedule:
+      interval:
+        every: day
+        utc_at: '00:00'
+    connection_id: 8377
+    query: |
+      SELECT *
+      FROM demo.default.user__created
+      WHERE NOT REGEXP_CONTAINS(email, '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$')
+      AND created_at >= DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL -1 DAY);
+
+  invalid_user_emails_dremio:
+    type: test
+    schedule:
+      interval:
+        every: day
+        utc_at: '00:00'
+    connection_id: 8452
+    query: |
+      SELECT *
+      FROM "Alexey S3".alexeydremiobucket.prod.user__created
+      WHERE NOT REGEXP_CONTAINS(email, '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$')
+      AND created_at >= DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL -1 DAY);
+
+  
