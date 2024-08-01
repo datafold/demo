@@ -1,4 +1,5 @@
 monitors:
+
   nick_test_monitor:
     type: test
     schedule:
@@ -6,3 +7,16 @@ monitors:
         every: hour
     connection_id: 4932
     query: select 1
+
+  subscription_price_greater_0_databricks:
+    type: test
+    schedule:
+      interval:
+        every: day
+        utc_at: '00:00'
+    connection_id: 8357
+    query: |
+      select *
+      from demo.default.subscription__created
+      where price <= 0
+      and event_timestamp >= dateadd(day, -1, current_timestamp)
