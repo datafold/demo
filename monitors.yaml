@@ -20,3 +20,31 @@ monitors:
       from demo.default.subscription__created
       where price <= 0
       and event_timestamp >= dateadd(day, -1, current_timestamp)
+
+  subscription_price_greater_0_bigquery:
+    type: test
+    schedule:
+      interval:
+        every: day
+        utc_at: '00:00'
+    connection_id: 8377
+    query: |
+      SELECT *
+      FROM demo.default.subscription__created
+      WHERE price <= 0
+      AND event_timestamp >= DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL -1 DAY);
+
+    subscription_price_greater_0_dremio:
+    type: test
+    schedule:
+      interval:
+        every: day
+        utc_at: '00:00'
+    connection_id: 8452
+    query: |
+      SELECT *
+      FROM "Alexey S3".alexeydremiobucket.prod.subscription__created
+      WHERE price <= 0
+      AND event_timestamp >= DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL -1 DAY);
+
+  
