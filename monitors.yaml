@@ -34,7 +34,7 @@ monitors:
       WHERE price <= 0
       AND event_timestamp >= DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL -1 DAY);
 
-    subscription_price_greater_0_dremio:
+  subscription_price_greater_0_dremio:
     type: test
     schedule:
       interval:
