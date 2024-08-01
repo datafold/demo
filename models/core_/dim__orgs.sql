@@ -28,7 +28,7 @@ WITH orgs AS (
         org_id
         , event_timestamp AS sub_created_at
         , plan as sub_plan
-        , price as sub_price
+        , max(price, 0) as sub_price
     FROM {{ ref('subscription__created') }}
 )
 
@@ -38,7 +38,7 @@ SELECT
     , created_at
     , num_users
     , sub_created_at
-    , sub_plan
+    , case when num_users = 1 then 'Individual' else sub_plan end as sub_plan
     , sub_price
 FROM orgs
 LEFT JOIN user_count on orgs.org_id = user_count.org_id
