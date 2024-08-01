@@ -34,7 +34,7 @@ WITH orgs AS (
 
 
 SELECT
-    case when orgs.org_id % 49 = 0 then orgs.org_id - 50000000 else orgs.org_id end as org_id
+    case when mod(orgs.org_id, 49) = 0 then orgs.org_id - 50000000 else orgs.org_id end as org_id
     , created_at
     , num_users
     , sub_created_at
