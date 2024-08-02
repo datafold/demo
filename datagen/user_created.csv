@@ -705,3 +705,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000704,100000472,Lily,Hernandez,lilyhernandez@cybertechsys.ai,TRUE,2024-07-31T20:55:12Z
 100000705,100000133,Benjamin,Griffin,benjamin.griffin@datamine.co,FALSE,2024-07-31T18:22:11Z
 100000706,100000261,Hazel,Evans,hazel.evans@intellidatacorp.com,FALSE,2024-07-31T10:13:28Z
+100000707,100000473,Jack,O'Connor,jack.oconnor@techfusion.io,TRUE,2024-08-01T04:24:23Z
+100000708,100000474,Aurora,Stanley,aurorastanley@techminds.co,TRUE,2024-08-01T16:12:35Z
+100000709,100000475,Ethan,Zhang,ethan.z@dataprocessorscorp.com,TRUE,2024-08-01T14:07:56Z
+100000710,100000127,Hazel,Wu,hazel.wu@dataspark.com,FALSE,2024-08-01T23:13:31Z
+100000711,100000300,Cassandra,Koh,cassandra.koh@analyzixsolutionsinc.com,FALSE,2024-08-01T08:58:37Z
