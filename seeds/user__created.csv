@@ -710,3 +710,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000709,100000475,Ethan,Zhang,ethan.z@dataprocessorscorp.com,TRUE,2024-08-01T14:07:56Z
 100000710,100000127,Hazel,Wu,hazel.wu@dataspark.com,FALSE,2024-08-01T23:13:31Z
 100000711,100000300,Cassandra,Koh,cassandra.koh@analyzixsolutionsinc.com,FALSE,2024-08-01T08:58:37Z
+100000712,100000476,Isla,Mohan,isla.mohan@cloudgeniustech.com,TRUE,2024-08-02T10:25:09Z
+100000713,100000477,Grayson,Watson,grayson.watson@techdynasty.com,TRUE,2024-08-02T07:18:20Z
+100000714,100000478,Gabriel,Stevens,gabriel@cybertechexperts.com,TRUE,2024-08-02T22:35:56Z
+100000715,100000479,Caleb,Wong,caleb.wong@neuralabs.com,TRUE,2024-08-02T10:29:36Z
+100000716,100000013,Oliver,Yang,oliver.yang@dataviseinc.com,FALSE,2024-08-02T15:30:29Z
+100000717,100000331,Jack,Wu,jack.wu@datumtechnologies.com,FALSE,2024-08-02T15:48:00Z
