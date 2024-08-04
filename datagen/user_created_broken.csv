@@ -716,3 +716,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000715,100000479,Caleb,Wong,caleb.wong@neuralabs.com,TRUE,2024-08-02T10:29:36Z
 100000716,100000013,Oliver,Yang,oliver.yang@dataviseinc.com,FALSE,2024-08-02T15:30:29Z
 100000717,100000331,Jack,Wu,jack.wu@datumtechnologies.com,FALSE,2024-08-02T15:48:00Z
+100000718,100000480,Mateo,Li,mateo.li@datariseinc.com,TRUE,2024-08-03T07:56:57Z
+100000719,100000481,Layla,Brooks,layla.brooks@brightdatainsights.com,TRUE,2024-08-03T08:48:41Z
+100000720,100000482,William,Chen,williamc@infosystemsintel.com,TRUE,2024-08-03T20:43:29Z
+100000721,100000483,Brooklyn,Shah,brooklynshah@techpulsecorp.com,TRUE,2024-08-03T15:59:08Z
+100000722,100000484,Skylar,Bao,skylar.bao@datagyre.co,TRUE,2024-08-03T15:51:40Z
+100000723,100000319,Dylan,Gao,dylan.gao@techvisionary.biz,FALSE,2024-08-03T19:20:56Z
+100000724,100000060,Landon,Lu,landon.lu@datavisionary.io,FALSE,2024-08-03T13:56:50Z
