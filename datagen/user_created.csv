@@ -730,3 +730,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000729,100000489,Aria,Zhou,aria.zhou@datascope360.com,TRUE,2024-08-04T22:18:40Z
 100000730,100000247,Joseph,Nguyen,joseph.nguyen@datacoretech.com,FALSE,2024-08-04T20:53:04Z
 100000731,100000185,Theo,Fischer,theo.fischer@technodatagroup.com,FALSE,2024-08-04T02:56:03Z
+100000732,100000490,Alice,Smith,alice.smith@dataglobeinc.com,TRUE,2024-08-05T00:51:41Z
+100000733,100000491,Clara,King,clara.king@techdatainnovationsinc.com,TRUE,2024-08-05T04:31:06Z
+100000734,100000492,Elijah,Chin,elijah.chin@neurondrive.com,TRUE,2024-08-05T09:36:03Z
+100000735,100000493,James,Scott,james.scott@techquantum.co,TRUE,2024-08-05T07:41:05Z
+100000736,100000494,Luna,Gupta,luna.gupta@datavera.co,TRUE,2024-08-05T16:25:07Z
+100000737,100000451,Andrew,Newton,andrew.newton@dataspace.ai,FALSE,2024-08-05T08:04:30Z
+100000738,100000106,Charlotte,Lee,charlotte.lee@intellisync.com,FALSE,2024-08-05T18:00:54Z
