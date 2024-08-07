@@ -737,3 +737,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000736,100000494,Luna,Gupta,luna.gupta@datavera.co,TRUE,2024-08-05T16:25:07Z
 100000737,100000451,Andrew,Newton,andrew.newton@dataspace.ai,FALSE,2024-08-05T08:04:30Z
 100000738,100000106,Charlotte,Lee,charlotte.lee@intellisync.com,FALSE,2024-08-05T18:00:54Z
+100000739,100000495,Leo,Kumar,leo.kumar@statistechs.com,TRUE,2024-08-06T07:54:16Z
+100000740,100000496,Xander,Lau,xander.lau@infodynamicstech.com,TRUE,2024-08-06T12:59:33Z
+100000741,100000497,Quinn,Cameron,q.cameron@cloudminds.com,TRUE,2024-08-06T02:22:23Z
+100000742,100000410,Jack,Stone,jack.stone@mindspectrum.tech,FALSE,2024-08-06T21:27:25Z
+100000743,100000305,Amelia,Flores,amelia.flores@techvisionary.co,FALSE,2024-08-06T18:21:53Z
