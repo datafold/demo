@@ -749,3 +749,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000748,100000502,Ethan,Gomez,ethangomez@computedata.com,TRUE,2024-08-07T06:18:02Z
 100000749,100000199,Scarlett,Singh,scarlett.singh@innovatechcorp.co,FALSE,2024-08-07T12:02:26Z
 100000750,100000394,Joseph,Sinha,joseph.sinha@datavisionaryco.com,FALSE,2024-08-07T09:31:07Z
+100000751,100000503,Sophie,Gonzalez,sophiegonzalez@thedataagency.co,TRUE,2024-08-08T17:48:33Z
+100000752,100000504,Luna,AI,luna.ai@aiinnovators.com,TRUE,2024-08-08T23:38:18Z
+100000753,100000505,Michael,Carter,michael.carter@analytico.com,TRUE,2024-08-08T06:23:13Z
+100000754,100000506,Eli,Mitchell,eli.mitchell@techlogicanalytics.com,TRUE,2024-08-08T06:42:52Z
+100000755,100000052,Michael,Kim,michael.kim@datavisionaire.com,FALSE,2024-08-08T00:33:33Z
