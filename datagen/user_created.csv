@@ -754,3 +754,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000753,100000505,Michael,Carter,michael.carter@analytico.com,TRUE,2024-08-08T06:23:13Z
 100000754,100000506,Eli,Mitchell,eli.mitchell@techlogicanalytics.com,TRUE,2024-08-08T06:42:52Z
 100000755,100000052,Michael,Kim,michael.kim@datavisionaire.com,FALSE,2024-08-08T00:33:33Z
+100000756,100000507,Parker,Sullivan,parker.sullivan@datagraminstitute.com,TRUE,2024-08-09T01:06:33Z
+100000757,100000508,Alexander,Tan,alex.tan@datatechworks.com,TRUE,2024-08-09T09:41:57Z
+100000758,100000509,Grayson,Rodriguez,grayson.rodriguez@algothinklabs.com,TRUE,2024-08-09T01:22:24Z
+100000759,100000510,Grayson,Luna,grayson.luna@dataflux.com,TRUE,2024-08-09T11:36:14Z
+100000760,100000040,Mia,Le,mia.le@techvistix.ai,FALSE,2024-08-09T19:30:51Z
