@@ -767,3 +767,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000766,100000516,Nora,Scott,nora.scott@analyticalgorithm.com,TRUE,2024-08-10T01:58:02Z
 100000767,100000219,Luke,Malik,luke.malik@datavanceco.com,FALSE,2024-08-10T16:07:22Z
 100000768,100000006,Lucas,Cloud,lucas.cloud@aiscape.biz,FALSE,2024-08-10T09:18:12Z
+100000769,100000517,Ethan,Carter,ecarter@cloudinsightsolutions.com,TRUE,2024-08-11T07:56:23Z
+100000770,100000518,Abigail,Collins,abigail.collins@datavisionaries.io,TRUE,2024-08-11T21:41:36Z
+100000771,100000519,Elizabeth,Reed,e.reed@analytixio.net,TRUE,2024-08-11T04:18:22Z
+100000772,100000520,Theo,Byte,theo.byte@bytebrainz.com,TRUE,2024-08-11T22:53:07Z
+100000773,100000052,Roman,Vyas,roman.vyas@datavisionaire.com,FALSE,2024-08-11T10:56:02Z
+100000774,100000079,Emma,Scott,emma.scott@datariseai.com,FALSE,2024-08-11T21:02:32Z
