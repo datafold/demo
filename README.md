@@ -33,20 +33,24 @@ All actual changes should be commited to the `master` branch, other `master-...`
 ### CI demo
 ! To ensure the integrity and isolation of GitHub Actions workflows, it is advisable to create pull requests (PRs) for different 'master' branches from distinct commits. This practice helps prevent cross-PR leakage and ensures that workflows run independently.
 
+#### Snowflake
 To demonstrate Datafold experience in CI on Snowflake - one needs to create PRs targeting the `master` branch.
 - production schema in Snowflake: `demo.core`
 - PR schemas: `demo.pr_num_<pr_number>`
 
+#### Databricks
 To demonstrate Datafold experience in CI on Databricks - one needs to create PRs targeting the `master-databricks` branch.
 - production schema in Databricks: `demo.default`
 - PR schemas: `demo.pr_num_<pr_number>`
 
+#### BigQuery
 To demonstrate Datafold experience in CI on BigQuery - one needs to create PRs targeting the `master-bigquery` branch.
 - production schema in BigQuery: `datafold-demo-429713.prod`
 - PR schemas: `datafold-demo-429713.pr_num_<pr_number>`
 
+#### Dremio
 To demonstrate Datafold experience in CI on Dremio - one needs to create PRs targeting the `master-dremio` branch.
-- production schema in BigQuery: `"Alexey S3".alexeydremiobucket.prod`
+- production schema in Dremio: `"Alexey S3".alexeydremiobucket.prod`
 - PR schemas: `"Alexey S3".alexeydremiobucket.pr_num_<pr_number>`
 
 ### Data replication demo
