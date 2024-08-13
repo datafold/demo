@@ -42,8 +42,8 @@ To demonstrate Datafold experience in CI on Databricks - one needs to create PRs
 - PR schemas: `demo.pr_num_<pr_number>`
 
 To demonstrate Datafold experience in CI on BigQuery - one needs to create PRs targeting the `master-bigquery` branch.
-- production schema in BigQuery: `demo.default`
-- PR schemas: `demo.pr_num_<pr_number>`
+- production schema in BigQuery: `datafold-demo-429713.prod`
+- PR schemas: `datafold-demo-429713.pr_num_<pr_number>`
 
 To demonstrate Datafold experience in CI on Dremio - one needs to create PRs targeting the `master-dremio` branch.
 - production schema in BigQuery: `"Alexey S3".alexeydremiobucket.prod`
