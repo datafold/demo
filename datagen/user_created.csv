@@ -773,3 +773,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000772,100000520,Theo,Byte,theo.byte@bytebrainz.com,TRUE,2024-08-11T22:53:07Z
 100000773,100000052,Roman,Vyas,roman.vyas@datavisionaire.com,FALSE,2024-08-11T10:56:02Z
 100000774,100000079,Emma,Scott,emma.scott@datariseai.com,FALSE,2024-08-11T21:02:32Z
+100000775,100000521,Jack,Phillips,jack.phillips@techdatainsights.com,TRUE,2024-08-12T18:14:40Z
+100000776,100000522,Sarah,Morris,sarah.morris@intellitronix.com,TRUE,2024-08-12T13:09:28Z
+100000777,100000523,Jeremiah,Reed,jeremiah.reed@datadreamio.com,TRUE,2024-08-12T14:07:34Z
+100000778,100000524,Skylar,Murray,skylar.murray@datagroveinc.com,TRUE,2024-08-12T02:15:48Z
+100000779,100000525,Henry,Green,henry.green@datasciencesolutionscorp.com,TRUE,2024-08-12T19:40:20Z
+100000780,100000469,Penny,Ward,penny.ward@smarttechco.com,FALSE,2024-08-12T07:10:38Z
+100000781,100000464,Katherine,Rao,katherine.rao@techviatech.net,FALSE,2024-08-12T07:43:19Z
