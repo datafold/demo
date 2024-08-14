@@ -15,6 +15,7 @@ WITH orgs AS (
 --     FROM {{ ref('org__created') }}
 )
 
+
 , user_count AS (
     SELECT
         org_id
