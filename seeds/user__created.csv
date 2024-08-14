@@ -780,3 +780,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000779,100000525,Henry,Green,henry.green@datasciencesolutionscorp.com,TRUE,2024-08-12T19:40:20Z
 100000780,100000469,Penny,Ward,penny.ward@smarttechco.com,FALSE,2024-08-12T07:10:38Z
 100000781,100000464,Katherine,Rao,katherine.rao@techviatech.net,FALSE,2024-08-12T07:43:19Z
+100000782,100000526,Hazel,Lu,hazel.lu@analytica.biz,TRUE,2024-08-13T05:11:19Z
+100000783,100000527,Stella,Huang,stellah@aiinnovateco.com,TRUE,2024-08-13T04:23:34Z
+100000784,100000528,Evelyn,Kim,evelynkim@datavisionariesgroup.com,TRUE,2024-08-13T10:26:50Z
+100000785,100000296,Maya,Gomez,maya.gomez@infotechforge.com,FALSE,2024-08-13T17:26:34Z
+100000786,100000067,Penny,Moore,penny.moore@techspark.ai,FALSE,2024-08-13T19:33:58Z
