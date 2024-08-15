@@ -1,6 +1,7 @@
 name: Apply monitors.yaml configuration to Datafold app
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
