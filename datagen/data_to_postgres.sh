@@ -9,7 +9,7 @@ TABLE="data_source.subscription_created"
 CSV_FILE="subscription_created.csv"
 
 # Drop table if exists and create table
-psql -h $PGHOST -U $PGUSER -d $DATABASE -c "DROP TABLE IF EXISTS $TABLE;"
+psql -h $PGHOST -U $PGUSER -d $DATABASE -c "DROP TABLE IF EXISTS $TABLE CASCADE;"
 
 psql -h $PGHOST -U $PGUSER -d $DATABASE -c "CREATE TABLE IF NOT EXISTS $TABLE (
     org_id BIGINT,
