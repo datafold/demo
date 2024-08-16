@@ -792,3 +792,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000791,100000533,Zara,Kumar,z.kumar@logicwaretech.com,TRUE,2024-08-14T02:31:32Z
 100000792,100000102,Mateo,Liu,mateo.liu@intellisofttechs.com,FALSE,2024-08-14T04:22:06Z
 100000793,100000475,Jake,Chang,jake.chang@dataprocessorscorp.com,FALSE,2024-08-14T19:16:15Z
+100000794,100000534,Ava,Liu,ava.liu@insightcloud.net,TRUE,2024-08-14T20:49:49Z
+100000795,100000535,Kai,Infer,kai.infer@inferdataco.com,TRUE,2024-08-15T00:05:44Z
+100000796,100000536,Isaac,Wright,isaac.wright@dataminds.co,TRUE,2024-08-15T22:59:45Z
+100000797,100000537,Luke,Herrera,luke.herrera@quanticorp.net,TRUE,2024-08-15T23:57:44Z
+100000798,100000258,Nina,Perry,nina.perry@datadirectconnect.com,FALSE,2024-08-15T09:52:03Z
+100000799,100000258,Naomi,Kim,naomi.kim@datadirectconnect.com,FALSE,2024-08-15T16:59:32Z
