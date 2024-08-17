@@ -798,3 +798,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000797,100000537,Luke,Herrera,luke.herrera@quanticorp.net,TRUE,2024-08-15T23:57:44Z
 100000798,100000258,Nina,Perry,nina.perry@datadirectconnect.com,FALSE,2024-08-15T09:52:03Z
 100000799,100000258,Naomi,Kim,naomi.kim@datadirectconnect.com,FALSE,2024-08-15T16:59:32Z
+100000800,100000538,Finn,Flores,finn.flores@datalyticsedge.com,TRUE,2024-08-16T10:53:57Z
+100000801,100000539,Aria,Lee,aria.lee@neurallinktech.com,TRUE,2024-08-16T05:18:10Z
+100000802,100000540,Clara,Harrison,clara.harrison@techcrunchlabs.com,TRUE,2024-08-16T13:11:59Z
+100000803,100000541,Amelia,Lopez,amelia.lopez@dataglide.co,TRUE,2024-08-16T02:30:11Z
+100000804,100000188,Lincoln,Patel,lincoln.patel@algorhythmix.com,FALSE,2024-08-16T22:42:02Z
+100000805,100000157,Hazel,Gordon,hazel.gordon@datainsightsguru.com,FALSE,2024-08-16T11:59:11Z
