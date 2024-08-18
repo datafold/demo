@@ -804,3 +804,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000803,100000541,Amelia,Lopez,amelia.lopez@dataglide.co,TRUE,2024-08-16T02:30:11Z
 100000804,100000188,Lincoln,Patel,lincoln.patel@algorhythmix.com,FALSE,2024-08-16T22:42:02Z
 100000805,100000157,Hazel,Gordon,hazel.gordon@datainsightsguru.com,FALSE,2024-08-16T11:59:11Z
+100000806,100000542,Eva,Chen,eva.chen@datalytics.co,TRUE,2024-08-17T13:09:58Z
+100000807,100000543,Giselle,Stevens,g.stevens@intellidataworks.com,TRUE,2024-08-17T23:41:25Z
+100000808,100000544,Levi,Murray,levi.murray@logixinsight.com,TRUE,2024-08-17T23:04:23Z
+100000809,100000545,Bella,Li,bella.li@algoindustries.com,TRUE,2024-08-17T15:26:35Z
+100000810,100000095,Sophia,Techie,sophia.techie@datasolutionsgroup.com,FALSE,2024-08-17T22:35:28Z
+100000811,100000380,Ivy,Harvey,ivy.harvey@algoanalytics.io,FALSE,2024-08-17T11:29:56Z
