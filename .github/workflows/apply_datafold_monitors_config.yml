@@ -26,7 +26,7 @@ jobs:
           pip install datafold-sdk
       - name: Run apply.py
         run: |
-          datafold monitors provision monitors.yaml
+          datafold monitors provision monitors.yaml --dangling-monitors-strategy delete
         env:
           DATAFOLD_HOST: https://app.datafold.com
           DATAFOLD_API_KEY: ${{ secrets.DATAFOLD_APIKEY }}
