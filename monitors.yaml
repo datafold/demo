@@ -1,13 +1,5 @@
 monitors:
 
-  nick_test_monitor:
-    type: test
-    schedule:
-      interval:
-        every: hour
-    connection_id: 4932
-    query: select 1
-
   subscription_price_greater_0_snowflake:
     type: test
     schedule:
