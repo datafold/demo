@@ -810,3 +810,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000809,100000545,Bella,Li,bella.li@algoindustries.com,TRUE,2024-08-17T15:26:35Z
 100000810,100000095,Sophia,Techie,sophia.techie@datasolutionsgroup.com,FALSE,2024-08-17T22:35:28Z
 100000811,100000380,Ivy,Harvey,ivy.harvey@algoanalytics.io,FALSE,2024-08-17T11:29:56Z
+100000812,100000546,Isla,Wu,islawu@insightfultech.pro,TRUE,2024-08-18T21:56:59Z
+100000813,100000547,Alice,Stone,alice.stone@dataunitech.com,TRUE,2024-08-18T19:41:45Z
+100000814,100000548,Oliver,Hartman,oliverhartman@datavantage.ai,TRUE,2024-08-18T19:42:36Z
+100000815,100000508,Ella,Zhang,ella.zhang@datatechworks.com,FALSE,2024-08-18T08:11:06Z
+100000816,100000118,Owen,Cruz,owen.cruz@cyberdata.co,FALSE,2024-08-18T04:15:34Z
