@@ -610,6 +610,23 @@ def generate_events_days(period_start_datetime: datetime, period_end_datetime: d
         end_datetime = min(start_datetime + one_day, period_end_datetime)
 
 
+def modify_duration_column(csv_file, trigger):
+    """
+    Removes/adds duration column to simulate schema change
+    """
+    csv_df = pd.read_csv(csv_file)
+
+    if 'duration' in csv_df.columns:
+        csv_df.drop(columns=['duration'], inplace=True)
+        print(f"'duration' column removed from {csv_file}")
+
+    if trigger:
+        csv_df['duration'] = [None] * len(csv_df)
+        print(f"Empty 'duration' column added to {csv_file}")
+
+    csv_df.to_csv(csv_file, index=False)
+
+
 if __name__ == "__main__":
 
     if os.path.exists('org_created.csv') or os.path.exists('user_created.csv') or os.path.exists('signed_in.csv') or os.path.exists('subscription_created.csv') or os.path.exists('feature_used.csv'):
@@ -645,3 +662,10 @@ if __name__ == "__main__":
     # period_end_datetime = datetime(2024, 7, 11, 2, 0, 0, tzinfo=timezone.utc)
 
     generate_events_days(period_start_datetime, period_end_datetime)
+
+
+    # Schema change simulation
+    schema_change_trigger = random.random() < 0.12
+    modify_duration_column('signed_in.csv', schema_change_trigger)
+    modify_duration_column('signed_in_broken.csv', schema_change_trigger)
+    # End of Schema change simulation

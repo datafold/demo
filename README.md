@@ -143,6 +143,7 @@ Follow the [quickstart guide](https://docs.datafold.com/quickstart_guide) to int
 - corrupted emails in the `user__created` seed (user$somecompany.com)
 - irregular spikes in the workday seasonal daily number of sign-ins in the `signed__in` seed
 - `null` spikes in the `feature__used` seed
+- schema change: a 'wandering' column appears ~weekly in the `signed__in` seed
 
 ## Other
 
