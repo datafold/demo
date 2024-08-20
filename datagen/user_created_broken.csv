@@ -815,3 +815,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000814,100000548,Oliver,Hartman,oliverhartman@datavantage.ai,TRUE,2024-08-18T19:42:36Z
 100000815,100000508,Ella,Zhang,ella.zhang@datatechworks.com,FALSE,2024-08-18T08:11:06Z
 100000816,100000118,Owen,Cruz,owen.cruz@cyberdata.co,FALSE,2024-08-18T04:15:34Z
+100000817,100000549,Hannah,Nguyen,hannah.nguyen@datadreamteam.com,TRUE,2024-08-19T06:53:55Z
+100000818,100000550,Jaxon,Chu,jaxon.chu@techsavvyware.com,TRUE,2024-08-19T21:28:23Z
+100000819,100000551,Riley,Wu,rileywu@analytisphere.com,TRUE,2024-08-19T09:03:47Z
+100000820,100000552,Ivy,Chang,ivy.chang@datumdynasty.com,TRUE,2024-08-19T00:27:20Z
+100000821,100000154,Gabriel,Bennett,gabriel.bennett@datasense.ai,FALSE,2024-08-19T16:16:46Z
+100000822,100000060,Landon,Harris,landon.harris@datavisionary.io,FALSE,2024-08-19T03:47:01Z
