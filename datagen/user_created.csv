@@ -828,3 +828,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000827,100000405,Lillian,Dhillon,lillian.dhillon@infolytical.com,FALSE,2024-08-20T17:54:15Z
 100000828,100000216,Liam,Cooper,liam.cooper@datalytics.biz,FALSE,2024-08-20T21:12:30Z
 100000829,100000018,Daniel,Thompson,daniel.thompson@logicodesigns.com,FALSE,2024-08-20T14:06:07Z
+100000830,100000557,Sofia,Lee,sofia.lee@datarootanalytix.com,TRUE,2024-08-21T11:31:37Z
+100000831,100000558,Gabriel,Chen,gabrielc@datascienceworks.com,TRUE,2024-08-21T06:05:59Z
+100000832,100000559,Oliver,Cruz,olivercruz@analytixinnovate.co,TRUE,2024-08-21T07:48:28Z
+100000833,100000560,Olivia,Nelson,onelson@quanticadataco.com,TRUE,2024-08-21T11:31:46Z
+100000834,100000561,Sawyer,Cunningham,sawyer.cunningham@datasparkcorp.com,TRUE,2024-08-21T12:18:37Z
+100000835,100000058,Juniper,Sinha,juniper.sinha@datasenseinsight.com,FALSE,2024-08-21T16:05:44Z
+100000836,100000105,Roman,Desai,roman.desai@algorithmia.tech,FALSE,2024-08-21T16:45:36Z
