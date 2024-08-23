@@ -102,7 +102,7 @@ monitors:
     query: |
       SELECT *
       FROM "Alexey S3".alexeydremiobucket.prod.user__created
-      WHERE NOT REGEXP_CONTAINS(email, '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$')
-      AND created_at >= DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL -1 DAY);
+      WHERE NOT REGEXP_LIKE(email, '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$')
+      AND created_at >= CURRENT_TIMESTAMP - INTERVAL '1' DAY;
 
   
