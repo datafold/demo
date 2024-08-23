@@ -88,9 +88,9 @@ monitors:
     connection_id: 8377
     query: |
       SELECT *
-      FROM demo.default.user__created
-      WHERE NOT REGEXP_CONTAINS(email, '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$')
-      AND created_at >= DATE_ADD(CURRENT_TIMESTAMP(), INTERVAL -1 DAY);
+      FROM `datafold-demo-429713.prod.user__created`
+      WHERE NOT REGEXP_CONTAINS(email, r'^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$')
+      AND created_at >= TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 1 DAY);
 
   invalid_user_emails_dremio:
     type: test
