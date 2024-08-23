@@ -5,7 +5,7 @@ monitors:
     schedule:
       interval:
         every: day
-        utc_at: '00:00'
+        utc_at: '01:00'
     connection_id: 4932
     query: |
       select *
@@ -18,7 +18,7 @@ monitors:
     schedule:
       interval:
         every: day
-        utc_at: '00:00'
+        utc_at: '01:00'
     connection_id: 8357
     query: |
       select *
@@ -31,7 +31,7 @@ monitors:
     schedule:
       interval:
         every: day
-        utc_at: '00:00'
+        utc_at: '01:00'
     connection_id: 8377
     query: |
       SELECT *
@@ -44,7 +44,7 @@ monitors:
     schedule:
       interval:
         every: day
-        utc_at: '00:00'
+        utc_at: '01:00'
     connection_id: 8452
     query: |
       SELECT *
@@ -58,7 +58,7 @@ monitors:
     schedule:
       interval:
         every: day
-        utc_at: '00:00'
+        utc_at: '01:00'
     connection_id: 4932
     query: |
       SELECT *
@@ -71,7 +71,7 @@ monitors:
     schedule:
       interval:
         every: day
-        utc_at: '00:00'
+        utc_at: '01:00'
     connection_id: 8357
     query: |
       SELECT *
@@ -84,7 +84,7 @@ monitors:
     schedule:
       interval:
         every: day
-        utc_at: '00:00'
+        utc_at: '01:00'
     connection_id: 8377
     query: |
       SELECT *
@@ -97,7 +97,7 @@ monitors:
     schedule:
       interval:
         every: day
-        utc_at: '00:00'
+        utc_at: '01:00'
     connection_id: 8452
     query: |
       SELECT *
