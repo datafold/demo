@@ -835,3 +835,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000834,100000561,Sawyer,Cunningham,sawyer.cunningham@datasparkcorp.com,TRUE,2024-08-21T12:18:37Z
 100000835,100000058,Juniper,Sinha,juniper.sinha@datasenseinsight.com,FALSE,2024-08-21T16:05:44Z
 100000836,100000105,Roman,Desai,roman.desai@algorithmia.tech,FALSE,2024-08-21T16:45:36Z
+100000837,100000562,Amelia,Ibrahim,amelia.ibrahim@databrightsolutions.com,TRUE,2024-08-22T02:14:43Z
+100000838,100000563,Emery,Wang,emery.wang@datarobotix.com,TRUE,2024-08-22T09:03:34Z
+100000839,100000564,Zara,Wong,zara.wong@insightize.com,TRUE,2024-08-22T13:37:50Z
+100000840,100000021,Ivy,Fisher,ivy.fisher@algozon.ai,FALSE,2024-08-22T14:08:22Z
+100000841,100000117,Emilia,Sharma,emilia.sharma@technodriveai.com,FALSE,2024-08-22T14:40:43Z
