@@ -840,3 +840,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000839,100000564,Zara,Wong,zara.wong@insightize.com,TRUE,2024-08-22T13:37:50Z
 100000840,100000021,Ivy,Fisher,ivy.fisher@algozon.ai,FALSE,2024-08-22T14:08:22Z
 100000841,100000117,Emilia,Sharma,emilia.sharma@technodriveai.com,FALSE,2024-08-22T14:40:43Z
+100000842,100000565,Skyler,Tan,skyler.tan@techwiseinc.com,TRUE,2024-08-23T22:51:50Z
+100000843,100000566,Clara,Kumar,clara.kumar@datadiveco.com,TRUE,2024-08-23T08:35:51Z
+100000844,100000567,Zara,Kumar,zara_kumar@cloudiaconsulting.com,TRUE,2024-08-23T14:15:58Z
+100000845,100000568,Amelia,King,amelia.king@aiadvancesolutions.org,TRUE,2024-08-23T05:34:59Z
+100000846,100000569,Leo,Nguyen,leo.nguyen@analytixsol.com,TRUE,2024-08-23T21:42:22Z
+100000847,100000066,Mila,Gu,mila.gu@quantifytechgroup.com,FALSE,2024-08-23T17:46:28Z
+100000848,100000113,Chloe,Patel,chloe.patel@datamindset.com,FALSE,2024-08-23T09:55:27Z
