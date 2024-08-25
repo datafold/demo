@@ -847,3 +847,7 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000846,100000569,Leo,Nguyen,leo.nguyen@analytixsol.com,TRUE,2024-08-23T21:42:22Z
 100000847,100000066,Mila,Gu,mila.gu@quantifytechgroup.com,FALSE,2024-08-23T17:46:28Z
 100000848,100000113,Chloe,Patel,chloe.patel@datamindset.com,FALSE,2024-08-23T09:55:27Z
+100000849,100000570,Connor,Powell,connor.powell$smarttechtrends.com,TRUE,2024-08-24T06:17:38Z
+100000850,100000571,Maria,Perkins,maria.perkins@techstrivegroup.com,TRUE,2024-08-24T16:52:47Z
+100000851,100000572,Jacob,Gomez,jacobg@datasynapse.net,TRUE,2024-08-24T18:26:55Z
+100000852,100000223,Charlotte,Jiang,charlotte.jiang@techdatafusion.com,FALSE,2024-08-24T07:53:01Z
