@@ -876,3 +876,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000875,100000590,Levi,Chu,levichu@dataengineeringco.com,TRUE,2024-08-28T13:23:46Z
 100000876,100000527,David,Hill,david.hill@aiinnovateco.com,FALSE,2024-08-28T22:06:32Z
 100000877,100000241,Nova,Singh,nova.singh@techsmartcode.com,FALSE,2024-08-28T20:14:23Z
+100000881,100000227,Lincoln,Young,lincoln.young$dataskillsnet.com,FALSE,2024-08-29T22:28:56Z
+100000878,100000591,Mira,Chen,mira_chen@neuralenetiq.com,TRUE,2024-08-29T09:40:40Z
+100000879,100000592,Lucas,Reed,lucas.reed@analyticgen.com,TRUE,2024-08-29T04:09:20Z
+100000880,100000593,Charlotte,Chen,charlotte.chen@quantumdynamicsinc.com,TRUE,2024-08-29T22:23:57Z
+100000882,100000164,Isabella,Zhang,isabella.zhang@aiexpertssolutions.com,FALSE,2024-08-29T18:50:24Z
