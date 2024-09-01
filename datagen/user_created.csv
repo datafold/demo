@@ -886,3 +886,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000885,100000596,Titus,Chen,titus.chen@techcipher.biz,TRUE,2024-08-30T18:00:40Z
 100000886,100000155,Ivy,Rodriguez,ivy.rodriguez@datagrandtech.com,FALSE,2024-08-30T04:08:46Z
 100000887,100000274,Sarah,Gonzalez,sarah.gonzalez@techsphereinc.com,FALSE,2024-08-30T22:48:51Z
+100000888,100000597,Aiden,AI,aiden.ai@aiontechsolutions.com,TRUE,2024-08-31T18:00:25Z
+100000889,100000598,Finn,Cloud,finn.cloud@cloudtechlabs.com,TRUE,2024-08-31T11:50:43Z
+100000890,100000599,Stella,McDonald,stella.mcdonald@analyticallabsinc.com,TRUE,2024-08-31T11:54:37Z
+100000891,100000600,Andy,Choi,andyc@datalytics.net,TRUE,2024-08-31T11:53:51Z
+100000892,100000601,Aaliyah,Barnes,aaliyah.barnes@datasciencewave.com,TRUE,2024-08-31T04:45:49Z
+100000893,100000479,Michael,Garcia,michael.garcia@neuralabs.com,FALSE,2024-08-31T00:00:04Z
+100000894,100000301,Zoe,Sharma,zoe.sharma@datagilityinc.com,FALSE,2024-08-31T08:21:25Z
