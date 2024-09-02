@@ -893,3 +893,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000892,100000601,Aaliyah,Barnes,aaliyah.barnes@datasciencewave.com,TRUE,2024-08-31T04:45:49Z
 100000893,100000479,Michael,Garcia,michael.garcia@neuralabs.com,FALSE,2024-08-31T00:00:04Z
 100000894,100000301,Zoe,Sharma,zoe.sharma@datagilityinc.com,FALSE,2024-08-31T08:21:25Z
+100000895,100000602,Elijah,Rogers,elijahrogers@bigdatasciences.com,TRUE,2024-09-01T23:26:06Z
+100000896,100000603,Aria,Saunders,aria.saunders@cyberops.net,TRUE,2024-09-01T22:58:59Z
+100000897,100000604,Riley,Kang,riley.kang@dataforgegroup.com,TRUE,2024-09-01T02:57:09Z
+100000898,100000605,Sophia,Wong,sophia.wong@techgenixco.com,TRUE,2024-09-01T04:11:29Z
+100000899,100000282,Nova,Kim,nova.kim@techsync.com,FALSE,2024-09-01T23:37:11Z
+100000900,100000348,Logan,Lam,logan.lam@datafusiontechs.com,FALSE,2024-09-01T19:12:46Z
