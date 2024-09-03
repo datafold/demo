@@ -899,3 +899,11 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000898,100000605,Sophia,Wong,sophia.wong@techgenixco.com,TRUE,2024-09-01T04:11:29Z
 100000899,100000282,Nova,Kim,nova.kim@techsync.com,FALSE,2024-09-01T23:37:11Z
 100000900,100000348,Logan,Lam,logan.lam@datafusiontechs.com,FALSE,2024-09-01T19:12:46Z
+100000901,100000606,Henry,Davis,hdavis@datavisionary.com,TRUE,2024-09-02T01:40:27Z
+100000902,100000607,Samantha,Patel,samanthapatel@analytictechsol.com,TRUE,2024-09-02T10:00:57Z
+100000903,100000608,Jacob,Hernandez,jacob.hernandez@quantumdemo.io,TRUE,2024-09-02T22:01:01Z
+100000904,100000609,Lila,Chan,lila.chan@neuralab.com,TRUE,2024-09-02T10:38:02Z
+100000905,100000610,Ethan,Anderson,ethan@autonomotivegroup.com,TRUE,2024-09-02T19:21:17Z
+100000906,100000293,Isabella,Mitchell,isabella.mitchell@bigbrainanalytics.com,FALSE,2024-09-02T12:21:17Z
+100000907,100000558,Madison,Collins,madison.collins@datascienceworks.com,FALSE,2024-09-02T04:41:50Z
+100000908,100000454,Mia,Ramirez,mia.ramirez@techsolutions-inc.com,FALSE,2024-09-02T03:07:21Z
