@@ -111,15 +111,15 @@ monitors:
     schedule:
       # interval:
       #   every: hour
-      cron: 50 * * * *
+      cron: 55 * * * *
     datadiff:
       dataset_a:
         connection_id: 8824
         table: demo.diff.transactions_v1_10m
       dataset_b:
         connection_id: 4932
-        # table: DEMO.DIFF.TRANSACTIONS_V2_10M
-        table: demo.diff.transactions_v2_10m
+        table: DEMO.DIFF.TRANSACTIONS_V2_10M
+        # table: demo.diff.transactions_v2_10m
       primary_key:
         - transaction_id
       columns_to_compare:
@@ -146,15 +146,15 @@ monitors:
     schedule:
       # interval:
       #   every: hour
-      cron: 50 * * * *
+      cron: 55 * * * *
     datadiff:
       dataset_a:
         connection_id: 8824
         table: demo.diff.transactions_v1_10m
       dataset_b:
         connection_id: 4932
-        # table: DEMO.DIFF.TRANSACTIONS_V2_10M
-        table: demo.diff.transactions_v2_10m
+        table: DEMO.DIFF.TRANSACTIONS_V2_10M
+        # table: demo.diff.transactions_v2_10m
       primary_key:
         - transaction_id
       columns_to_compare:
