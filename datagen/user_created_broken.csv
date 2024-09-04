@@ -907,3 +907,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000906,100000293,Isabella,Mitchell,isabella.mitchell@bigbrainanalytics.com,FALSE,2024-09-02T12:21:17Z
 100000907,100000558,Madison,Collins,madison.collins@datascienceworks.com,FALSE,2024-09-02T04:41:50Z
 100000908,100000454,Mia,Ramirez,mia.ramirez@techsolutions-inc.com,FALSE,2024-09-02T03:07:21Z
+100000909,100000611,Penelope,Tran,penelope.tran@digimindworks.com,TRUE,2024-09-03T23:47:00Z
+100000910,100000612,Nora,Wang,nora.wang@intellidataco.com,TRUE,2024-09-03T11:15:05Z
+100000911,100000613,John,Baker,john.baker@dataforge.net,TRUE,2024-09-03T05:11:18Z
+100000912,100000277,Zara,Fisher,zara.fisher@datascienceprof.com,FALSE,2024-09-03T16:19:59Z
+100000913,100000217,Nova,Tan,nova.tan@datamind.com,FALSE,2024-09-03T18:09:59Z

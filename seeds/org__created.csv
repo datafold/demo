@@ -609,3 +609,6 @@ org_id,org_name,domain,employee_range,created_at
 100000608,Quantum Demo,quantumdemo.io,50-99,2024-09-02T22:01:01Z
 100000609,Neura Lab,neuralab.com,500-1000,2024-09-02T10:38:02Z
 100000610,Autonomotive Group,autonomotivegroup.com,250-499,2024-09-02T19:21:17Z
+100000611,DigiMind Works,digimindworks.com,25-49,2024-09-03T23:47:00Z
+100000612,Intelli Data Co,intellidataco.com,1000+,2024-09-03T11:15:05Z
+100000613,Data Forge,dataforge.net,250-499,2024-09-03T05:11:18Z
