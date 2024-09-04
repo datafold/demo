@@ -111,7 +111,7 @@ monitors:
     schedule:
       # interval:
       #   every: hour
-      cron: 30 * * * *
+      cron: 40 * * * *
     datadiff:
       dataset_a:
         connection_id: 8824
