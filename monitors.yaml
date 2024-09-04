@@ -135,4 +135,6 @@ monitors:
       egress_limit: 10000000
       # sampling:
       #   rate: 0.1
-
+    alert:
+      different_rows_count: 10
+      different_rows_percent: 10
