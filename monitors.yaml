@@ -104,3 +104,23 @@ monitors:
       FROM "Alexey S3".alexeydremiobucket.prod.user__created
       WHERE NOT REGEXP_LIKE(email, '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$')
       AND created_at >= CURRENT_TIMESTAMP - INTERVAL '1' DAY
+
+
+  xdb_diff__redshift_showflake__egress_10M:
+    type: diff
+    schedule:
+      interval:
+        every: hour
+    datadiff:
+      dataset_a:
+        connection_id: 8824
+        table: demo.diff.transactions_v1_10m
+      dataset_b:
+        connection_id: 4932
+        table: DEMO.DIFF.TRANSACTIONS_V2_10M
+      primary_key:
+        - transaction_id
+      egress_limit: 10000000
+      # sampling:
+      #   rate: 0.1
+
