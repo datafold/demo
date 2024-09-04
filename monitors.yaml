@@ -109,8 +109,9 @@ monitors:
   xdb_diff__redshift_showflake__egress_10M:
     type: diff
     schedule:
-      interval:
-        every: hour
+      # interval:
+      #   every: hour
+      cron: 30 * * * *
     datadiff:
       dataset_a:
         connection_id: 8824
