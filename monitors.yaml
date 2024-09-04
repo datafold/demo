@@ -106,7 +106,7 @@ monitors:
       AND created_at >= CURRENT_TIMESTAMP - INTERVAL '1' DAY
 
 
-  xdb_diff__redshift_showflake__egress_10M:
+  xdb_diff__redshift_showflake__egress_10M_:
     type: diff
     schedule:
       # interval:
@@ -118,7 +118,8 @@ monitors:
         table: demo.diff.transactions_v1_10m
       dataset_b:
         connection_id: 4932
-        table: DEMO.DIFF.TRANSACTIONS_V2_10M
+        # table: DEMO.DIFF.TRANSACTIONS_V2_10M
+        table: demo.diff.transactions_v2_10m
       primary_key:
         - transaction_id
       columns_to_compare:
