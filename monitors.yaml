@@ -111,7 +111,8 @@ monitors:
     schedule:
       # interval:
       #   every: hour
-      cron: 55 * * * *
+      # cron: 55 * * * *
+      cron: 15 15 * * *
     datadiff:
       dataset_a:
         connection_id: 8824
@@ -146,7 +147,8 @@ monitors:
     schedule:
       # interval:
       #   every: hour
-      cron: 55 * * * *
+      # cron: 55 * * * *
+      cron: 15 15 * * *
     datadiff:
       dataset_a:
         connection_id: 8824
