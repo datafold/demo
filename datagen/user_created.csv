@@ -912,3 +912,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000911,100000613,John,Baker,john.baker@dataforge.net,TRUE,2024-09-03T05:11:18Z
 100000912,100000277,Zara,Fisher,zara.fisher@datascienceprof.com,FALSE,2024-09-03T16:19:59Z
 100000913,100000217,Nova,Tan,nova.tan@datamind.com,FALSE,2024-09-03T18:09:59Z
+100000914,100000614,Wyatt,Huang,wyatthuang@neuralcodesystems.com,TRUE,2024-09-04T17:16:50Z
+100000915,100000615,Amelia,Torres,amelia.torres@dataglobalsync.com,TRUE,2024-09-04T16:24:12Z
+100000916,100000616,Nova,Mittal,nova.mittal@bigdatasensei.com,TRUE,2024-09-04T17:54:14Z
+100000917,100000557,William,Ferguson,william.ferguson@datarootanalytix.com,FALSE,2024-09-04T18:40:03Z
+100000918,100000536,Scarlett,Li,scarlett.li@dataminds.co,FALSE,2024-09-04T00:52:33Z
