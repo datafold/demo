@@ -923,3 +923,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000922,100000620,Aurora,Chen,aurora.chen@analyticinsightlab.com,TRUE,2024-09-05T23:38:34Z
 100000923,100000502,Hunter,Blake,hunter.blake@computedata.com,FALSE,2024-09-05T12:37:29Z
 100000924,100000016,Henry,Stone,henry.stone@techdevgroup.com,FALSE,2024-09-05T20:05:02Z
+100000925,100000621,Zoe,Ibrahim,zoe.ibrahim@datameridian.com,TRUE,2024-09-06T14:54:04Z
+100000926,100000622,Liam,King,liam.king@datarise.co,TRUE,2024-09-06T03:09:30Z
+100000927,100000623,Ethan,Wilson,ethan.wilson@cyberdatapros.com,TRUE,2024-09-06T06:25:13Z
+100000928,100000063,James,Garcia,james.garcia@techmind.io,FALSE,2024-09-06T13:02:49Z
+100000929,100000129,Willow,Hsu,willow.hsu@datamaze.ai,FALSE,2024-09-06T06:39:11Z
