@@ -934,3 +934,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000933,100000627,James,Nguyen,james.nguyen@datamindz.ai,TRUE,2024-09-07T06:58:32Z
 100000934,100000081,Hudson,Delgado,hudson.delgado@bigdatacomerce.ai,FALSE,2024-09-07T09:10:59Z
 100000935,100000359,Zoe,Brighton,zoe.brighton@techlogix.com,FALSE,2024-09-07T21:56:04Z
+100000936,100000628,Mia,Wright,mia.wright@datamindset.co,TRUE,2024-09-08T13:28:04Z
+100000937,100000629,Lily,Chu,lily.chu@aiexpertise.com,TRUE,2024-09-08T21:49:01Z
+100000938,100000630,Lucy,Gonzalez,lucy.gonzalez@infinitrends.com,TRUE,2024-09-08T06:25:17Z
+100000939,100000187,Nora,Skye,nora.skye@cyberlinktech.com,FALSE,2024-09-08T23:14:19Z
+100000940,100000079,Ari,Baker,ari.baker@datariseai.com,FALSE,2024-09-08T09:57:42Z
