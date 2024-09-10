@@ -939,3 +939,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000938,100000630,Lucy,Gonzalez,lucy.gonzalez@infinitrends.com,TRUE,2024-09-08T06:25:17Z
 100000939,100000187,Nora,Skye,nora.skye@cyberlinktech.com,FALSE,2024-09-08T23:14:19Z
 100000940,100000079,Ari,Baker,ari.baker@datariseai.com,FALSE,2024-09-08T09:57:42Z
+100000941,100000631,Orion,Rai,orion.rai@analyticodeco.com,TRUE,2024-09-09T23:43:28Z
+100000942,100000632,Abigail,Kaur,abigailkaur@techcodelabs.com,TRUE,2024-09-09T14:09:11Z
+100000943,100000633,Ivy,Mendoza,ivymendoza@nerveanalytics.co,TRUE,2024-09-09T03:45:31Z
+100000944,100000634,Blake,Huynh,blake.huynh@datarobotix.io,TRUE,2024-09-09T23:36:13Z
+100000945,100000635,Scarlett,Mitchell,scarlett.mitchell@datapathfinder.com,TRUE,2024-09-09T23:47:44Z
+100000946,100000216,Violet,Chen,violet.chen@datalytics.biz,FALSE,2024-09-09T07:47:02Z
+100000947,100000008,Penelope,Fisher,penelope.fisher@datadrivenlabs.com,FALSE,2024-09-09T07:46:29Z
