@@ -946,3 +946,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000945,100000635,Scarlett,Mitchell,scarlett.mitchell@datapathfinder.com,TRUE,2024-09-09T23:47:44Z
 100000946,100000216,Violet,Chen,violet.chen@datalytics.biz,FALSE,2024-09-09T07:47:02Z
 100000947,100000008,Penelope,Fisher,penelope.fisher@datadrivenlabs.com,FALSE,2024-09-09T07:46:29Z
+100000948,100000636,Avery,Flores,avery.flores@neuraledgeco.com,TRUE,2024-09-10T22:10:17Z
+100000949,100000637,Benjamin,Murray,benjamin.murray@datadrift.com,TRUE,2024-09-10T18:05:41Z
+100000950,100000638,Elijah,Patel,elijah.patel@datanova.net,TRUE,2024-09-10T05:31:24Z
+100000951,100000639,Sophia,Lee,sophia.lee@techinsights.ai,TRUE,2024-09-10T19:00:06Z
+100000952,100000244,Nolan,Chen,nolan.chen@dataxcelerate.biz,FALSE,2024-09-10T11:33:49Z
+100000953,100000064,Ethan,Hernandez,ethan.hernandez@datamindset.org,FALSE,2024-09-10T17:05:02Z
