@@ -952,3 +952,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000951,100000639,Sophia,Lee,sophia.lee@techinsights.ai,TRUE,2024-09-10T19:00:06Z
 100000952,100000244,Nolan,Chen,nolan.chen@dataxcelerate.biz,FALSE,2024-09-10T11:33:49Z
 100000953,100000064,Ethan,Hernandez,ethan.hernandez@datamindset.org,FALSE,2024-09-10T17:05:02Z
+100000954,100000640,Noah,Brown,noah.brown@datamindsolutions.com,TRUE,2024-09-11T06:01:28Z
+100000955,100000641,Olivia,Zhang,ozhang@intelliverseai.com,TRUE,2024-09-11T16:56:30Z
+100000956,100000642,Peter,Yu,pyu@digilabsolutions.com,TRUE,2024-09-11T14:34:18Z
+100000957,100000643,Leo,Ngo,leen@analyzware.com,TRUE,2024-09-11T14:34:41Z
+100000958,100000240,Grace,Rodriguez,grace.rodriguez@byteburst.com,FALSE,2024-09-11T09:42:13Z
+100000959,100000470,William,Chung,william.chung@techdataspace.com,FALSE,2024-09-11T07:40:52Z
