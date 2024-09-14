@@ -965,3 +965,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000964,100000648,Hannah,Deshpande,hannah.deshpande@techmetry.io,TRUE,2024-09-12T11:49:01Z
 100000965,100000606,Alexander,Zhang,alexander.zhang@datavisionary.com,FALSE,2024-09-12T06:46:09Z
 100000966,100000447,Carter,Grant,carter.grant@datavibeinc.com,FALSE,2024-09-12T10:08:10Z
+100000967,100000649,Violet,Ross,violet.ross@intelladev.com,TRUE,2024-09-13T15:39:38Z
+100000968,100000650,Carter,Wong,carter.wong@analyticalgenius.com,TRUE,2024-09-13T03:23:57Z
+100000969,100000651,Maya,Singh,maya.singh@datalabsolutions.com,TRUE,2024-09-13T20:01:23Z
+100000970,100000551,Lena,Davis,lena.davis@analytisphere.com,FALSE,2024-09-13T10:52:39Z
+100000971,100000486,Nora,Kim,nora.kim@datasparkle.net,FALSE,2024-09-13T12:04:14Z
