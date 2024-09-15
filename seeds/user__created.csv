@@ -970,3 +970,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000968,100000650,Carter,Wong,carter.wong@analyticalgenius.com,TRUE,2024-09-13T03:23:57Z
 100000969,100000651,Maya,Singh,maya.singh@datalabsolutions.com,TRUE,2024-09-13T20:01:23Z
 100000970,100000551,Lena,Davis,lena.davis@analytisphere.com,FALSE,2024-09-13T10:52:39Z
+100000972,100000652,Zara,Harrison,zara.harrison@cyberdatawatch.com,TRUE,2024-09-14T21:43:09Z
+100000973,100000653,Phoenix,Storm,phoenix.storm@databright.com,TRUE,2024-09-14T03:05:35Z
+100000974,100000654,Elijah,Green,elijahg@datasciencelabs.com,TRUE,2024-09-14T09:46:40Z
+100000975,100000655,Avery,Rivera,avery.rivera@techwaretech.com,TRUE,2024-09-14T02:14:01Z
+100000976,100000551,Remy,Brown,remy.brown@analytisphere.com,FALSE,2024-09-14T11:54:17Z
