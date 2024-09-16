@@ -189,6 +189,17 @@ monitors:
         table: DEMO.DIFF.TRANSACTIONS_V2_10M
       primary_key:
         - transaction_id
+      columns_to_compare:
+        - amount
+        - amount_base
+        - created_at
+        - discount
+        - first_name
+        - last_name
+        - number_of_attempts
+        - number_of_products
+        - score
+        - updated_at
       egress_limit: 10000000
     alert:
       different_rows_count: 10
@@ -209,6 +220,17 @@ monitors:
         table: DEMO.DIFF.TRANSACTIONS_V2_10M
       primary_key:
         - transaction_id
+      columns_to_compare:
+        - amount
+        - amount_base
+        - created_at
+        - discount
+        - first_name
+        - last_name
+        - number_of_attempts
+        - number_of_products
+        - score
+        - updated_at
       egress_limit: 10000000
       sampling:
         rate: 0.001
