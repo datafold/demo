@@ -178,7 +178,7 @@ monitors:
   xdb_diff__mssqlserver_showflake__egress_10M_:
     type: diff
     schedule:
-      cron: 55 * * * *
+      cron: 10 * * * *
       # cron: 15 15 * * *
     datadiff:
       dataset_a:
@@ -209,7 +209,7 @@ monitors:
   xdb_diff__mssqlserver_showflake__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 55 * * * *
+      cron: 10 * * * *
       # cron: 15 15 * * *
     datadiff:
       dataset_a:
