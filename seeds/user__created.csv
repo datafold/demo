@@ -988,3 +988,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000987,100000664,Emma,Smith,emma.smith@datasync.com,TRUE,2024-09-16T14:19:34Z
 100000988,100000183,Nina,Ngo,nina.ngo@datasciquest.com,FALSE,2024-09-16T12:24:18Z
 100000989,100000377,Ethan,Ong,ethan.ong@algoritechnet.com,FALSE,2024-09-16T05:34:28Z
+100000990,100000665,Mars,Huang,mars.huang@analytixadept.com,TRUE,2024-09-17T15:09:36Z
+100000991,100000666,Kai,Patel,patel.kai@datasciencelab.com,TRUE,2024-09-17T15:00:37Z
+100000992,100000667,Louie,Chow,louie.chow@neuronymics.com,TRUE,2024-09-17T23:05:03Z
+100000993,100000586,Luna,Wells,luna.wells@analyticspot.com,FALSE,2024-09-17T23:46:02Z
+100000994,100000321,Liam,Sanchez,liam.sanchez@botwiseinc.com,FALSE,2024-09-17T14:24:32Z
