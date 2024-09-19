@@ -993,3 +993,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000992,100000667,Louie,Chow,louie.chow@neuronymics.com,TRUE,2024-09-17T23:05:03Z
 100000993,100000586,Luna,Wells,luna.wells@analyticspot.com,FALSE,2024-09-17T23:46:02Z
 100000994,100000321,Liam,Sanchez,liam.sanchez@botwiseinc.com,FALSE,2024-09-17T14:24:32Z
+100000995,100000668,Isabella,Adams,isabella.adams@datasense.net,TRUE,2024-09-18T02:05:20Z
+100000996,100000669,Isaac,Lau,isaaclau@dataspire.com,TRUE,2024-09-18T17:16:17Z
+100000997,100000670,Nova,Tran,nova.tran@techbytes.ai,TRUE,2024-09-18T07:10:05Z
+100000998,100000671,Emily,Wang,emily.wang@neuralnetdata.com,TRUE,2024-09-18T22:59:23Z
+100000999,100000672,Emmett,Verma,emmett.verma@datasciencedrive.com,TRUE,2024-09-18T22:50:21Z
+100001000,100000635,Liam,Chow,liam.chow@datapathfinder.com,FALSE,2024-09-18T19:24:53Z
+100001001,100000168,Olivia,Kim,olivia.kim@datascico.com,FALSE,2024-09-18T12:10:47Z
