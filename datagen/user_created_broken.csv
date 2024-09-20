@@ -1000,3 +1000,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100000999,100000672,Emmett,Verma,emmett.verma@datasciencedrive.com,TRUE,2024-09-18T22:50:21Z
 100001000,100000635,Liam,Chow,liam.chow@datapathfinder.com,FALSE,2024-09-18T19:24:53Z
 100001001,100000168,Olivia,Kim,olivia.kim@datascico.com,FALSE,2024-09-18T12:10:47Z
+100001002,100000673,Zara,Lin,zaralin@techdatalab.co,TRUE,2024-09-19T19:26:59Z
+100001003,100000674,Jayden,Fletcher,jayden.fletcher@dataclevermind.com,TRUE,2024-09-19T11:16:30Z
+100001004,100000675,Layla,Park,layla.park@techdatastrat.com,TRUE,2024-09-19T09:38:58Z
+100001005,100000554,Milo,Raj,milo.raj@technolab.com,FALSE,2024-09-19T02:34:53Z
+100001006,100000333,Aaron,Ho,aaron.ho@datumindustries.com,FALSE,2024-09-19T20:55:21Z
