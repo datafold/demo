@@ -1005,3 +1005,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001004,100000675,Layla,Park,layla.park@techdatastrat.com,TRUE,2024-09-19T09:38:58Z
 100001005,100000554,Milo,Raj,milo.raj@technolab.com,FALSE,2024-09-19T02:34:53Z
 100001006,100000333,Aaron,Ho,aaron.ho@datumindustries.com,FALSE,2024-09-19T20:55:21Z
+100001007,100000676,Michael,Martin,michael.martin@axionautics.io,TRUE,2024-09-20T03:53:54Z
+100001008,100000677,Bella,Ahmed,b.ahmed@anymousdata.io,TRUE,2024-09-20T21:33:53Z
+100001009,100000678,Milo,Zimmerman,mzimmerman@digiforge.com,TRUE,2024-09-20T10:04:51Z
+100001010,100000574,Owen,Lin,owen.lin@datavedicsolutions.com,FALSE,2024-09-20T00:01:52Z
+100001011,100000111,Landon,Ling,landon.ling@intellidatafusion.com,FALSE,2024-09-20T01:26:49Z
