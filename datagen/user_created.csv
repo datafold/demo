@@ -1016,3 +1016,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001015,100000682,Elijah,Khan,elijah.khan@synthogenix.com,TRUE,2024-09-21T19:17:30Z
 100001016,100000494,David,Chang,david.chang@datavera.co,FALSE,2024-09-21T11:11:22Z
 100001017,100000314,Sophia,Rajan,sophia.rajan@algoinsight.io,FALSE,2024-09-21T07:08:11Z
+100001018,100000683,David,Wong,david.wong@datascriptltd.com,TRUE,2024-09-22T20:23:05Z
+100001019,100000684,Aaron,Roberts,aaron.roberts@algoinsights.ai,TRUE,2024-09-22T00:59:54Z
+100001020,100000685,Mike,Chen,mike.chen@datagloryhub.com,TRUE,2024-09-22T23:50:13Z
+100001021,100000397,Benjamin,Smith,benjamin.smith@datasolve.com,FALSE,2024-09-22T17:34:58Z
+100001022,100000101,Gabriella,Brighton,gabriella.brighton@machinelearnix.com,FALSE,2024-09-22T17:58:01Z
