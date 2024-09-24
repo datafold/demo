@@ -1021,3 +1021,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001020,100000685,Mike,Chen,mike.chen@datagloryhub.com,TRUE,2024-09-22T23:50:13Z
 100001021,100000397,Benjamin,Smith,benjamin.smith@datasolve.com,FALSE,2024-09-22T17:34:58Z
 100001022,100000101,Gabriella,Brighton,gabriella.brighton@machinelearnix.com,FALSE,2024-09-22T17:58:01Z
+100001023,100000686,Eliana,Zhao,eliana.zhao@dataspire.ai,TRUE,2024-09-23T06:37:57Z
+100001024,100000687,Peter,Tan,peter.tan@aiconnectech.com,TRUE,2024-09-23T10:56:48Z
+100001025,100000688,Sofia,Kim,s.kim@techbrainwave.com,TRUE,2024-09-23T20:31:29Z
+100001026,100000689,Avery,Lee,avery.lee@techmindsetgroup.com,TRUE,2024-09-23T07:20:59Z
+100001027,100000313,Noah,Davis,noah.davis@infobridge.co,FALSE,2024-09-23T13:28:08Z
+100001028,100000092,Amelia,Garcia,amelia.garcia@analyzegroup.com,FALSE,2024-09-23T21:57:37Z
