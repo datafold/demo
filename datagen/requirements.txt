@@ -2,3 +2,7 @@ openai
 instructor
 pydantic[email]
 pandas
+snowflake-connector-python
+snowflake-connector-python[pandas]
+snowflake-snowpark-python
+snowflake-sqlalchemy

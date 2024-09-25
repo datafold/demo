@@ -1,0 +1,36 @@
+name: dbt prod
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: install requirements
+        run: |
+          echo "setuptools<72" > constraints.txt
+          export PIP_CONSTRAINT=constraints.txt
+          pip install --upgrade pip
+          pip install -r datagen/requirements.txt
+
+      - name: regenerate the monitor
+        run: python live_monitor.py
+        env:
+          SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
+          SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
+          SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
+          SNOWFLAKE_ROLE: ${{ secrets.SNOWFLAKE_ROLE }}
