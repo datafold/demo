@@ -1027,3 +1027,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001026,100000689,Avery,Lee,avery.lee@techmindsetgroup.com,TRUE,2024-09-23T07:20:59Z
 100001027,100000313,Noah,Davis,noah.davis@infobridge.co,FALSE,2024-09-23T13:28:08Z
 100001028,100000092,Amelia,Garcia,amelia.garcia@analyzegroup.com,FALSE,2024-09-23T21:57:37Z
+100001029,100000690,Zoe,Chin,zoe.chin@datalyzerpro.com,TRUE,2024-09-24T07:14:27Z
+100001030,100000691,Cassia,Jordan,c.jordan@techcortexai.com,TRUE,2024-09-24T04:32:22Z
+100001031,100000692,Mia,Yuan,mia.yuan@digianalytics.com,TRUE,2024-09-24T22:45:51Z
+100001032,100000693,Hazel,Ma,hazelma@cloudmindtech.org,TRUE,2024-09-24T07:24:36Z
+100001033,100000694,Carter,Owens,carter.owens@techsilo.io,TRUE,2024-09-24T22:28:01Z
+100001034,100000409,Jacob,Hudson,jacob.hudson@algoraithmsol.com,FALSE,2024-09-24T05:12:16Z
+100001035,100000264,Penelope,Wu,penelope.wu@datafusioncorp.com,FALSE,2024-09-24T20:40:59Z
