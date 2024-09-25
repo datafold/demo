@@ -1,5 +1,6 @@
 from snowflake.connector import connect
 import random
+import os
 
 
 # %% Execute query without reading data
