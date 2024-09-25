@@ -28,6 +28,7 @@ jobs:
           pip install -r datagen/requirements.txt
 
       - name: regenerate the monitor
+        working-directory: datagen
         run: python live_monitor.py
         env:
           SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
