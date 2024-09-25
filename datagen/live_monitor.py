@@ -11,7 +11,8 @@ def run_query_in_sf(sql_query):
         user = os.environ['SNOWFLAKE_USER'],
         password = os.environ['SNOWFLAKE_PASSWORD'],
         account = os.environ['SNOWFLAKE_ACCOUNT'],
-        role = os.environ['SNOWFLAKE_ROLE']
+        role = os.environ['SNOWFLAKE_ROLE'],
+        warehouse = 'INTEGRATION'
         )
 
     cursor = conn.cursor()
