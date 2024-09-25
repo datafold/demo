@@ -1,4 +1,4 @@
-name: dbt prod
+name: live monitor data update
 
 on:
   workflow_dispatch:
