@@ -1034,3 +1034,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001033,100000694,Carter,Owens,carter.owens@techsilo.io,TRUE,2024-09-24T22:28:01Z
 100001034,100000409,Jacob,Hudson,jacob.hudson@algoraithmsol.com,FALSE,2024-09-24T05:12:16Z
 100001035,100000264,Penelope,Wu,penelope.wu@datafusioncorp.com,FALSE,2024-09-24T20:40:59Z
+100001036,100000695,Evelyn,Cheng,e.v.cheng@innovativedatacorp.com,TRUE,2024-09-25T14:01:03Z
+100001037,100000696,Isabella,Price,isabella.price@techvisionaryinc.com,TRUE,2024-09-25T18:27:45Z
+100001038,100000697,Ian,Kwok,ian.kwok@datasafevault.io,TRUE,2024-09-25T18:37:40Z
+100001039,100000690,Nova,Perez,nova.perez@datalyzerpro.com,FALSE,2024-09-25T19:44:37Z
+100001040,100000271,Violet,Thomas,violet.thomas@datadash.co,FALSE,2024-09-25T13:35:59Z
