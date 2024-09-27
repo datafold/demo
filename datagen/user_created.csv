@@ -1039,3 +1039,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001038,100000697,Ian,Kwok,ian.kwok@datasafevault.io,TRUE,2024-09-25T18:37:40Z
 100001039,100000690,Nova,Perez,nova.perez@datalyzerpro.com,FALSE,2024-09-25T19:44:37Z
 100001040,100000271,Violet,Thomas,violet.thomas@datadash.co,FALSE,2024-09-25T13:35:59Z
+100001041,100000698,Daniel,Gonzalez,d.gonzalez@cyberinsightai.com,TRUE,2024-09-26T09:31:46Z
+100001042,100000699,Bella,Hamilton,bella.hamilton@datatechnologyinc.com,TRUE,2024-09-26T16:12:08Z
+100001043,100000700,Sofia,Fisher,sofia.fisher@intellisync.io,TRUE,2024-09-26T09:39:53Z
+100001044,100000701,Sebastian,Tran,stran@dataplatformlabs.com,TRUE,2024-09-26T14:12:14Z
+100001045,100000117,Ethan,Wong,ethan.wong@technodriveai.com,FALSE,2024-09-26T05:37:58Z
+100001046,100000464,William,Ramirez,william.ramirez@techviatech.net,FALSE,2024-09-26T18:04:56Z
