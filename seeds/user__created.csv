@@ -1050,3 +1050,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001049,100000704,Zachary,Sethi,zachary.sethi@digitalinsightai.com,TRUE,2024-09-27T09:20:46Z
 100001050,100000004,Emma,Gill,emma.gill@datadigmgroup.com,FALSE,2024-09-27T10:19:42Z
 100001051,100000298,Ashton,Rodriguez,ashton.rodriguez@datadigmcorp.com,FALSE,2024-09-27T19:17:25Z
+100001052,100000705,Ava,Gonzalez,ava.gonzalez@techgeniuslabs.io,TRUE,2024-09-28T06:38:40Z
+100001053,100000706,Xavier,Lee,xavier.lee@datagyrox.com,TRUE,2024-09-28T12:51:28Z
+100001054,100000707,Greyson,Luo,greyson.luo@techluminous.com,TRUE,2024-09-28T12:45:46Z
+100001055,100000708,Winston,Bailey,winston.bailey@datadrivedevelopersco.com,TRUE,2024-09-28T02:44:40Z
+100001056,100000709,Elias,Fernandez,elias.fernandez@synapticflow.com,TRUE,2024-09-28T07:47:45Z
+100001057,100000003,Claire,Lam,claire.lam@infinitiinsightsco.com,FALSE,2024-09-28T00:24:37Z
+100001058,100000283,Nina,Fisher,nina.fisher@datadive.co,FALSE,2024-09-28T03:03:35Z
