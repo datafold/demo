@@ -1062,3 +1062,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001061,100000712,Layla,Murphy,layla.murphy@innovatechub.com,TRUE,2024-09-29T22:52:45Z
 100001062,100000181,Stella,Rodriguez,stella.rodriguez@smartlayerai.com,FALSE,2024-09-29T01:29:23Z
 100001063,100000035,Max,Hughes,max.hughes@smartanalystlabs.com,FALSE,2024-09-29T04:01:27Z
+100001064,100000713,Emma,Brown,emma.brown@datascienceworldwide.com,TRUE,2024-09-30T20:46:45Z
+100001065,100000714,Zara,Garcia,zara.garcia@datafusioninsights.io,TRUE,2024-09-30T18:19:21Z
+100001066,100000715,Alexander,Torres,alexander.torres@neurodatalabs.org,TRUE,2024-09-30T07:49:02Z
+100001067,100000716,Roman,Grant,roman.grant@datalyticstech.io,TRUE,2024-09-30T02:46:50Z
+100001068,100000220,Logan,Cheng,logan.cheng@datamindsinc.com,FALSE,2024-09-30T06:24:39Z
+100001069,100000555,Gideon,Chen,gideon.chen@intellitronixai.com,FALSE,2024-09-30T05:52:11Z
