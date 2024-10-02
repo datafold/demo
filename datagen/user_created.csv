@@ -1068,3 +1068,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001067,100000716,Roman,Grant,roman.grant@datalyticstech.io,TRUE,2024-09-30T02:46:50Z
 100001068,100000220,Logan,Cheng,logan.cheng@datamindsinc.com,FALSE,2024-09-30T06:24:39Z
 100001069,100000555,Gideon,Chen,gideon.chen@intellitronixai.com,FALSE,2024-09-30T05:52:11Z
+100001070,100000717,Milo,Wu,milo.wu@cyberdataco.com,TRUE,2024-10-01T22:55:27Z
+100001071,100000718,Sofia,Hernandez,sofia.h@intuitiveware.com,TRUE,2024-10-01T22:24:24Z
+100001072,100000719,Charlotte,Young,cyoung@datalearnersco.com,TRUE,2024-10-01T21:25:29Z
+100001073,100000720,Aubrey,Bradley,aubreyb@techdatacloud.com,TRUE,2024-10-01T15:03:01Z
+100001074,100000603,Sarah,Perry,sarah.perry@cyberops.net,FALSE,2024-10-01T01:11:29Z
+100001075,100000287,Nora,Evans,nora.evans@digitaldataworks.com,FALSE,2024-10-01T08:31:53Z
