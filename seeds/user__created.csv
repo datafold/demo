@@ -1074,3 +1074,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001073,100000720,Aubrey,Bradley,aubreyb@techdatacloud.com,TRUE,2024-10-01T15:03:01Z
 100001074,100000603,Sarah,Perry,sarah.perry@cyberops.net,FALSE,2024-10-01T01:11:29Z
 100001075,100000287,Nora,Evans,nora.evans@digitaldataworks.com,FALSE,2024-10-01T08:31:53Z
+100001076,100000721,Oliver,Davis,oliver.davis@aiinsight.tech,TRUE,2024-10-02T05:40:35Z
+100001077,100000722,Colton,Goh,colton.goh@sciencemindzcorp.net,TRUE,2024-10-02T03:58:03Z
+100001078,100000723,Lillian,Stewart,lillian.stewart@techmindset.co,TRUE,2024-10-02T23:04:00Z
+100001079,100000078,Harper,Jennings,harper.jennings@dataanalyticsolutions.com,FALSE,2024-10-02T01:23:24Z
+100001080,100000237,Isla,Sanders,isla.sanders@cybersynapse.com,FALSE,2024-10-02T11:47:54Z
+100001081,100000667,Emilia,Reyes,emilia.reyes@neuronymics.com,FALSE,2024-10-02T02:36:47Z
