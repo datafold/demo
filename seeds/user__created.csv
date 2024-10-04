@@ -1080,3 +1080,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001079,100000078,Harper,Jennings,harper.jennings@dataanalyticsolutions.com,FALSE,2024-10-02T01:23:24Z
 100001080,100000237,Isla,Sanders,isla.sanders@cybersynapse.com,FALSE,2024-10-02T11:47:54Z
 100001081,100000667,Emilia,Reyes,emilia.reyes@neuronymics.com,FALSE,2024-10-02T02:36:47Z
+100001082,100000724,Mabel,Wang,mabelw@datastitch.com,TRUE,2024-10-03T01:06:04Z
+100001083,100000725,Noah,Moore,noah.moore@brainwaretechsolutions.com,TRUE,2024-10-03T20:33:57Z
+100001084,100000726,Riley,Diaz,riley.diaz@techsight.com,TRUE,2024-10-03T22:33:24Z
+100001085,100000057,Levi,Smith,levi.smith@analyticinsightsco.com,FALSE,2024-10-03T00:49:49Z
+100001086,100000018,Caleb,Black,caleb.black@logicodesigns.com,FALSE,2024-10-03T23:51:29Z
+100001087,100000442,Emilia,Iyer,emilia.iyer@insightcloudtech.com,FALSE,2024-10-03T11:12:09Z
