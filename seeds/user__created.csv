@@ -1086,3 +1086,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001085,100000057,Levi,Smith,levi.smith@analyticinsightsco.com,FALSE,2024-10-03T00:49:49Z
 100001086,100000018,Caleb,Black,caleb.black@logicodesigns.com,FALSE,2024-10-03T23:51:29Z
 100001087,100000442,Emilia,Iyer,emilia.iyer@insightcloudtech.com,FALSE,2024-10-03T11:12:09Z
+100001088,100000727,Liam,Martinez,liam.martinez@techdatasolutions.com,TRUE,2024-10-04T06:07:38Z
+100001089,100000728,Josiah,Butler,josiah.butler@datavolve.io,TRUE,2024-10-04T10:44:31Z
+100001090,100000729,Luna,Sharma,luna.sharma@datafusionia.com,TRUE,2024-10-04T20:53:15Z
+100001091,100000730,Sarah,Tran,sarahtran@techoptimize.org,TRUE,2024-10-04T03:14:16Z
+100001092,100000206,Nathan,Ward,nathan.ward@bigdatacorp.com,FALSE,2024-10-04T12:39:24Z
+100001093,100000124,Aiden,Kaur,aiden.kaur@datadreams.org,FALSE,2024-10-04T17:22:21Z
