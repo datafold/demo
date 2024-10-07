@@ -1099,3 +1099,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001098,100000735,Maya,Chow,mchow@dataimpactus.com,TRUE,2024-10-05T10:21:45Z
 100001099,100000583,Sophia,Rossi,sophia.rossi@datagroovetech.com,FALSE,2024-10-05T21:44:52Z
 100001100,100000643,Harper,Loh,harper.loh@analyzware.com,FALSE,2024-10-05T23:24:24Z
+100001101,100000736,Riley,Adams,riley.adams@datageniustech.io,TRUE,2024-10-06T01:05:59Z
+100001102,100000737,Emma,Martinez,emma.martinez@datascientiadynamics.com,TRUE,2024-10-06T14:42:05Z
+100001103,100000738,Julian,Wu,julian.wu@cybersecuritycorp.com,TRUE,2024-10-06T09:46:31Z
+100001104,100000739,Luna,Hill,luna.hill@datainnovate.io,TRUE,2024-10-06T07:55:51Z
+100001105,100000695,Aurora,Ganesh,aurora.ganesh@innovativedatacorp.com,FALSE,2024-10-06T16:06:08Z
+100001106,100000617,Benjamin,Anderson,benjamin.anderson@datasciencepros.com,FALSE,2024-10-06T15:52:54Z
