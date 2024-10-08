@@ -1105,3 +1105,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001104,100000739,Luna,Hill,luna.hill@datainnovate.io,TRUE,2024-10-06T07:55:51Z
 100001105,100000695,Aurora,Ganesh,aurora.ganesh@innovativedatacorp.com,FALSE,2024-10-06T16:06:08Z
 100001106,100000617,Benjamin,Anderson,benjamin.anderson@datasciencepros.com,FALSE,2024-10-06T15:52:54Z
+100001107,100000740,Grayson,Kim,grayson.k@datasolutionsco.com,TRUE,2024-10-07T09:29:07Z
+100001108,100000741,Aurora,Howard,aurora.howard@datasciencesync.com,TRUE,2024-10-07T02:48:13Z
+100001109,100000742,Kylie,Chen,kylie.chen@techforge.ai,TRUE,2024-10-07T05:04:30Z
+100001110,100000743,Ainsley,Ma,ainsleyma@cybersightsolutions.com,TRUE,2024-10-07T15:51:45Z
+100001111,100000195,Zane,Cheng,zane.cheng@neuronova.com,FALSE,2024-10-07T13:59:03Z
+100001112,100000136,Benjamin,Lee,benjamin.lee@anavolve.com,FALSE,2024-10-07T19:11:09Z
