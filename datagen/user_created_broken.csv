@@ -1111,3 +1111,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001110,100000743,Ainsley,Ma,ainsleyma@cybersightsolutions.com,TRUE,2024-10-07T15:51:45Z
 100001111,100000195,Zane,Cheng,zane.cheng@neuronova.com,FALSE,2024-10-07T13:59:03Z
 100001112,100000136,Benjamin,Lee,benjamin.lee@anavolve.com,FALSE,2024-10-07T19:11:09Z
+100001113,100000744,Avery,Brown,avery.brown@techinsight.pro,TRUE,2024-10-08T14:53:06Z
+100001114,100000745,Alice,Williams,alice.williams@dataforge.com,TRUE,2024-10-08T15:00:12Z
+100001115,100000746,Elara,Zhang,elara.zhang@influxdatasolutions.com,TRUE,2024-10-08T09:08:46Z
+100001116,100000747,Lyra,Rainier,lyra_rainier@techfusion.com,TRUE,2024-10-08T05:57:55Z
+100001117,100000748,William,Martinez,william.martinez@visualtechsolutions.com,TRUE,2024-10-08T02:27:40Z
+100001118,100000074,Elena,Torres,elena.torres@datamind.io,FALSE,2024-10-08T13:00:52Z
+100001119,100000570,Oscar,Patel,oscar.patel@smarttechtrends.com,FALSE,2024-10-08T10:44:18Z

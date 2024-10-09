@@ -371,3 +371,5 @@ org_id,event_timestamp,activity,plan,price,deployment
 100000430,2024-10-06T05:24:27Z,subscribed,Team,99,On-prem
 100000457,2024-10-07T00:27:24Z,subscribed,Team,99,SaaS
 100000705,2024-10-07T20:25:13Z,subscribed,Business,399,On-prem
+100000644,2024-10-08T05:16:01Z,subscribed,Team,99,SaaS
+100000295,2024-10-08T17:30:46Z,subscribed,Team,99,SaaS
