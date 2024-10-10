@@ -1118,3 +1118,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001117,100000748,William,Martinez,william.martinez@visualtechsolutions.com,TRUE,2024-10-08T02:27:40Z
 100001118,100000074,Elena,Torres,elena.torres@datamind.io,FALSE,2024-10-08T13:00:52Z
 100001119,100000570,Oscar,Patel,oscar.patel@smarttechtrends.com,FALSE,2024-10-08T10:44:18Z
+100001120,100000749,Charlotte,Evans,charlotte.evans@cognicode.com,TRUE,2024-10-09T08:44:08Z
+100001121,100000750,Isabella,Sharma,isabella.sharma@datavisionaries.com,TRUE,2024-10-09T00:40:09Z
+100001122,100000751,Ivy,Bhatia,ibhatia@techdataquest.com,TRUE,2024-10-09T20:39:53Z
+100001123,100000752,Penelope,Li,penelope.li@brainiacinsights.com,TRUE,2024-10-09T12:49:56Z
+100001124,100000753,James,Chung,jchung@infoquester.com,TRUE,2024-10-09T11:25:35Z
+100001125,100000476,Madison,Lee,madison.lee@cloudgeniustech.com,FALSE,2024-10-09T13:47:44Z
+100001126,100000666,Aria,Patel,aria.patel@datasciencelab.com,FALSE,2024-10-09T23:55:17Z
