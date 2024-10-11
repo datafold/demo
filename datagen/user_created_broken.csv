@@ -1125,3 +1125,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001124,100000753,James,Chung,jchung@infoquester.com,TRUE,2024-10-09T11:25:35Z
 100001125,100000476,Madison,Lee,madison.lee@cloudgeniustech.com,FALSE,2024-10-09T13:47:44Z
 100001126,100000666,Aria,Patel,aria.patel@datasciencelab.com,FALSE,2024-10-09T23:55:17Z
+100001127,100000754,Harper,Techie,harper.techie@techtrendco.com,TRUE,2024-10-10T22:10:29Z
+100001128,100000755,Cleo,Tran,cleo.tran@safetechdata.com,TRUE,2024-10-10T21:42:32Z
+100001129,100000756,Matthew,Lin,matthew.lin@bigdataconsult.com,TRUE,2024-10-10T03:20:43Z
+100001130,100000757,Harper,Jones,harper.jones@neuralinksys.com,TRUE,2024-10-10T12:21:25Z
+100001131,100000758,Mia,Flores,mia.flores@analytica.tech,TRUE,2024-10-10T03:56:49Z
+100001132,100000413,Piper,Gonzalez,piper.gonzalez@neurologicai.com,FALSE,2024-10-10T12:01:57Z
+100001133,100000202,Isabella,Fisher,isabella.fisher@cybermindtech.com,FALSE,2024-10-10T18:35:38Z
