@@ -1132,3 +1132,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001131,100000758,Mia,Flores,mia.flores@analytica.tech,TRUE,2024-10-10T03:56:49Z
 100001132,100000413,Piper,Gonzalez,piper.gonzalez@neurologicai.com,FALSE,2024-10-10T12:01:57Z
 100001133,100000202,Isabella,Fisher,isabella.fisher@cybermindtech.com,FALSE,2024-10-10T18:35:38Z
+100001134,100000759,Sophia,Lopez,sophia.lopez@datavisionworks.com,TRUE,2024-10-11T11:00:09Z
+100001135,100000760,Willow,Garcia,willow.garcia@datadexa.ai,TRUE,2024-10-11T22:25:13Z
+100001136,100000761,Nina,Reyes,nina.reyes@techdatasolveco.com,TRUE,2024-10-11T05:18:14Z
+100001137,100000762,Ella,Smith,ella.smith@techdata.co,TRUE,2024-10-11T02:31:50Z
+100001138,100000339,Sophia,Sinha,sophia.sinha@dataiqtechno.com,FALSE,2024-10-11T17:03:27Z
