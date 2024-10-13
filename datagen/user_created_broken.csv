@@ -1137,3 +1137,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001136,100000761,Nina,Reyes,nina.reyes@techdatasolveco.com,TRUE,2024-10-11T05:18:14Z
 100001137,100000762,Ella,Smith,ella.smith@techdata.co,TRUE,2024-10-11T02:31:50Z
 100001138,100000339,Sophia,Sinha,sophia.sinha@dataiqtechno.com,FALSE,2024-10-11T17:03:27Z
+100001139,100000763,Stella,Jiang,stellajiang@compudatasci.com,TRUE,2024-10-12T18:15:06Z
+100001140,100000764,Scarlett,Bell,scarlett.bell@intellicorpsolutions.com,TRUE,2024-10-12T06:25:13Z
+100001141,100000765,Mia,Harris,miaharris@neuralnetworksolutions.com,TRUE,2024-10-12T19:12:41Z
+100001142,100000766,Ava,Liu,avaliu@alphadatapros.com,TRUE,2024-10-12T00:09:37Z
+100001143,100000199,Ava,Zhang,ava.zhang@innovatechcorp.co,FALSE,2024-10-12T23:03:31Z
+100001144,100000192,Nathan,Taylor,nathan.taylor@brainwaveai.com,FALSE,2024-10-12T17:10:43Z
