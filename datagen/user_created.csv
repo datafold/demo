@@ -1149,3 +1149,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001148,100000770,Lucy,Sharma,lucy.sharma@infinitumtechs.com,TRUE,2024-10-13T16:16:36Z
 100001149,100000698,Sofia,Martinez,sofia.martinez@cyberinsightai.com,FALSE,2024-10-13T06:02:29Z
 100001150,100000746,Blake,Chowdhury,blake.chowdhury@influxdatasolutions.com,FALSE,2024-10-13T15:15:26Z
+100001151,100000771,Adeline,Mendoza,adeline.mendoza@datawave.io,TRUE,2024-10-14T08:25:18Z
+100001152,100000772,Avery,Morris,avery.morris@techmindlab.com,TRUE,2024-10-14T12:25:36Z
+100001153,100000773,Sasha,Adams,sasha.adams@neurocloudsys.com,TRUE,2024-10-14T21:33:06Z
+100001154,100000774,Emma,Gonzalez,emmagonzalez@techvisionary.net,TRUE,2024-10-14T14:04:36Z
+100001155,100000646,Natalie,Tanaka,natalie.tanaka@visionarytechlabs.com,FALSE,2024-10-14T08:39:56Z
+100001156,100000297,Zoe,Chen,zoe.chen@cyberdefensesol.com,FALSE,2024-10-14T15:51:55Z
