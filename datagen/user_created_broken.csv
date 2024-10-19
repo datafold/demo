@@ -1175,3 +1175,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001174,100000788,Jack,Morgan,jack.morgan@datasciencepartnersinc.com,TRUE,2024-10-17T08:05:35Z
 100001175,100000666,Lucy,Santos,lucy.santos@datasciencelab.com,FALSE,2024-10-17T05:34:14Z
 100001176,100000046,Finn,Garcia,finn.garcia@analyticssol.com,FALSE,2024-10-17T07:01:50Z
+100001177,100000789,Nyx,Hsu,nyx.hsu@neurodataco.com,TRUE,2024-10-18T04:45:18Z
+100001178,100000790,Julia,Richardson,juliarichardson@datalyticspro.com,TRUE,2024-10-18T15:19:56Z
+100001179,100000791,Rose,Morris,rose.morris@datavantageltd.com,TRUE,2024-10-18T14:21:50Z
+100001180,100000394,Ezra,Stone,ezra.stone@datavisionaryco.com,FALSE,2024-10-18T23:59:33Z
+100001181,100000725,Ethan,Chen,ethan.chen@brainwaretechsolutions.com,FALSE,2024-10-18T13:13:03Z
