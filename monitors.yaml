@@ -1787,10 +1787,10 @@ monitors:
       cron: 15 15 * * *
     datadiff:
       dataset_a:
-        connection_id: 9171
+        connection_id: 8452
         table: "Alexey S3"."alexeydremiobucket"."diff"."transactions_v1_10m"
       dataset_b:
-        connection_id: 8377
+        connection_id: 8896
         table: "Alexey S3"."alexeydremiobucket"."diff"."transactions_v2_10m"
       primary_key:
         - transaction_id
