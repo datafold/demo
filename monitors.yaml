@@ -1441,3 +1441,363 @@ monitors:
       different_rows_count: 10
       different_rows_percent: 10
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ####################################################
+# OOO -> DREMIO
+# ####################################################
+
+# # Redshift<>Dremio XDB DIFF monitors
+
+#   xdb_diff__redshift_dremio__egress_10M_:
+#     type: diff
+#     schedule:
+#       cron: 15 15 * * *
+#     datadiff:
+#       dataset_a:
+#         connection_id: 8824
+#         table: demo.diff.transactions_v1_10m
+#       dataset_b:
+#         connection_id: 8377
+#         table: datafold-demo-429713.diff.transactions_v2_10m
+#       primary_key:
+#         - transaction_id
+#       columns_to_compare:
+#         - amount
+#         - amount_base
+#         - created_at
+#         - discount
+#         - first_name
+#         - last_name
+#         - number_of_attempts
+#         - number_of_products
+#         - score
+#         - updated_at
+#       egress_limit: 10000000
+#     alert:
+#       different_rows_count: 10
+#       different_rows_percent: 10
+
+
+#   xdb_diff__redshift_dremio__egress_10M__sampling_0_001:
+#     type: diff
+#     schedule:
+#       cron: 15 15 * * *
+#     datadiff:
+#       dataset_a:
+#         connection_id: 8824
+#         table: demo.diff.transactions_v1_10m
+#       dataset_b:
+#         connection_id: 8377
+#         table: datafold-demo-429713.diff.transactions_v2_10m
+#       primary_key:
+#         - transaction_id
+#       columns_to_compare:
+#         - amount
+#         - amount_base
+#         - created_at
+#         - discount
+#         - first_name
+#         - last_name
+#         - number_of_attempts
+#         - number_of_products
+#         - score
+#         - updated_at
+#       egress_limit: 10000000
+#       sampling:
+#         rate: 0.001
+#     alert:
+#       different_rows_count: 10
+#       different_rows_percent: 10
+
+
+
+# # Microsoft SQL Server<>Dremio XDB DIFF monitors
+
+#   xdb_diff__mssqlserver_dremio__egress_10M_:
+#     type: diff
+#     schedule:
+#       cron: 15 15 * * *
+#     datadiff:
+#       dataset_a:
+#         connection_id: 8182
+#         table: demo.demo.transactions_v1_10m
+#       dataset_b:
+#         connection_id: 8377
+#         table: datafold-demo-429713.diff.transactions_v2_10m
+#       primary_key:
+#         - transaction_id
+#       columns_to_compare:
+#         - amount
+#         - amount_base
+#         - created_at
+#         - discount
+#         - first_name
+#         - last_name
+#         - number_of_attempts
+#         - number_of_products
+#         - score
+#         - updated_at
+#       egress_limit: 10000000
+#     alert:
+#       different_rows_count: 10
+#       different_rows_percent: 10
+
+
+#   xdb_diff__mssqlserver_dremio__egress_10M__sampling_0_001:
+#     type: diff
+#     schedule:
+#       cron: 15 15 * * *
+#     datadiff:
+#       dataset_a:
+#         connection_id: 8182
+#         table: demo.demo.transactions_v1_10m
+#       dataset_b:
+#         connection_id: 8377
+#         table: datafold-demo-429713.diff.transactions_v2_10m
+#       primary_key:
+#         - transaction_id
+#       columns_to_compare:
+#         - amount
+#         - amount_base
+#         - created_at
+#         - discount
+#         - first_name
+#         - last_name
+#         - number_of_attempts
+#         - number_of_products
+#         - score
+#         - updated_at
+#       egress_limit: 10000000
+#       sampling:
+#         rate: 0.001
+#     alert:
+#       different_rows_count: 10
+#       different_rows_percent: 10
+
+
+
+# # Databricks<>Dremio XDB DIFF monitors
+
+#   xdb_diff__databricks_dremio__egress_10M_:
+#     type: diff
+#     schedule:
+#       cron: 15 15 * * *
+#     datadiff:
+#       dataset_a:
+#         connection_id: 8357
+#         table: demo.diff.transactions_v1_10m
+#       dataset_b:
+#         connection_id: 8377
+#         table: datafold-demo-429713.diff.transactions_v2_10m
+#       primary_key:
+#         - transaction_id
+#       columns_to_compare:
+#         - amount
+#         - amount_base
+#         - created_at
+#         - discount
+#         - first_name
+#         - last_name
+#         - number_of_attempts
+#         - number_of_products
+#         - score
+#         - updated_at
+#       egress_limit: 10000000
+#     alert:
+#       different_rows_count: 10
+#       different_rows_percent: 10
+
+
+#   xdb_diff__databricks_dremio__egress_10M__sampling_0_001:
+#     type: diff
+#     schedule:
+#       cron: 15 15 * * *
+#     datadiff:
+#       dataset_a:
+#         connection_id: 8357
+#         table: demo.diff.transactions_v1_10m
+#       dataset_b:
+#         connection_id: 8377
+#         table: datafold-demo-429713.diff.transactions_v2_10m
+#       primary_key:
+#         - transaction_id
+#       columns_to_compare:
+#         - amount
+#         - amount_base
+#         - created_at
+#         - discount
+#         - first_name
+#         - last_name
+#         - number_of_attempts
+#         - number_of_products
+#         - score
+#         - updated_at
+#       egress_limit: 10000000
+#       sampling:
+#         rate: 0.001
+#     alert:
+#       different_rows_count: 10
+#       different_rows_percent: 10
+
+
+
+# # Snowflake<>Dremio XDB DIFF monitors
+
+#   xdb_diff__snowflake_dremio__egress_10M_:
+#     type: diff
+#     schedule:
+#       cron: 15 15 * * *
+#     datadiff:
+#       dataset_a:
+#         connection_id: 4932
+#         table: DEMO.DIFF.TRANSACTIONS_V1_10M
+#       dataset_b:
+#         connection_id: 8377
+#         table: datafold-demo-429713.diff.transactions_v2_10m
+#       primary_key:
+#         - transaction_id
+#       columns_to_compare:
+#         - amount
+#         - amount_base
+#         - created_at
+#         - discount
+#         - first_name
+#         - last_name
+#         - number_of_attempts
+#         - number_of_products
+#         - score
+#         - updated_at
+#       egress_limit: 10000000
+#     alert:
+#       different_rows_count: 10
+#       different_rows_percent: 10
+
+
+#   xdb_diff__snowflake_dremio__egress_10M__sampling_0_001:
+#     type: diff
+#     schedule:
+#       cron: 15 15 * * *
+#     datadiff:
+#       dataset_a:
+#         connection_id: 4932
+#         table: DEMO.DIFF.TRANSACTIONS_V1_10M
+#       dataset_b:
+#         connection_id: 8377
+#         table: datafold-demo-429713.diff.transactions_v2_10m
+#       primary_key:
+#         - transaction_id
+#       columns_to_compare:
+#         - amount
+#         - amount_base
+#         - created_at
+#         - discount
+#         - first_name
+#         - last_name
+#         - number_of_attempts
+#         - number_of_products
+#         - score
+#         - updated_at
+#       egress_limit: 10000000
+#       sampling:
+#         rate: 0.001
+#     alert:
+#       different_rows_count: 10
+#       different_rows_percent: 10
+
+
+# Dremio<>Dremio XDB DIFF monitors
+
+  xdb_diff__dremio_dremio__egress_10M_:
+    type: diff
+    schedule:
+      cron: 15 15 * * *
+    datadiff:
+      dataset_a:
+        connection_id: 8452
+        table: "Alexey S3".alexeydremiobucket.diff."transactions_v1_10m”
+      dataset_b:
+        connection_id: 8896
+        table: "Alexey S3".alexeydremiobucket.diff."transactions_v2_10m”
+      primary_key:
+        - transaction_id
+      egress_limit: 10000000
+    alert:
+      different_rows_count: 10
+      different_rows_percent: 10
+
+
+  xdb_diff__dremio_dremio__egress_10M__sampling_0_001:
+    type: diff
+    schedule:
+      cron: 15 15 * * *
+    datadiff:
+      dataset_a:
+        connection_id: 9171
+        table: "Alexey S3".alexeydremiobucket.diff."transactions_v1_10m”
+      dataset_b:
+        connection_id: 8377
+        table: "Alexey S3".alexeydremiobucket.diff."transactions_v2_10m”
+      primary_key:
+        - transaction_id
+      egress_limit: 10000000
+      sampling:
+        rate: 0.001
+    alert:
+      different_rows_count: 10
+      different_rows_percent: 10
+
