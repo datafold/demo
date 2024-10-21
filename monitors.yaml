@@ -1760,44 +1760,44 @@ monitors:
 #       different_rows_percent: 10
 
 
-# Dremio<>Dremio XDB DIFF monitors
+# # Dremio<>Dremio XDB DIFF monitors
 
-  xdb_diff__dremio_dremio__egress_10M_:
-    type: diff
-    schedule:
-      cron: 15 15 * * *
-    datadiff:
-      dataset_a:
-        connection_id: 8452
-        table: "Alexey S3"."alexeydremiobucket"."diff"."transactions_v1_10m"
-      dataset_b:
-        connection_id: 8896
-        table: "Alexey S3"."alexeydremiobucket"."diff"."transactions_v2_10m"
-      primary_key:
-        - transaction_id
-      egress_limit: 10000000
-    alert:
-      different_rows_count: 10
-      different_rows_percent: 10
+#   xdb_diff__dremio_dremio__egress_10M_:
+#     type: diff
+#     schedule:
+#       cron: 15 15 * * *
+#     datadiff:
+#       dataset_a:
+#         connection_id: 8452
+#         table: "Alexey S3"."alexeydremiobucket"."diff"."transactions_v1_10m"
+#       dataset_b:
+#         connection_id: 8896
+#         table: "Alexey S3"."alexeydremiobucket"."diff"."transactions_v2_10m"
+#       primary_key:
+#         - transaction_id
+#       egress_limit: 10000000
+#     alert:
+#       different_rows_count: 10
+#       different_rows_percent: 10
 
 
-  xdb_diff__dremio_dremio__egress_10M__sampling_0_001:
-    type: diff
-    schedule:
-      cron: 15 15 * * *
-    datadiff:
-      dataset_a:
-        connection_id: 8452
-        table: "Alexey S3"."alexeydremiobucket"."diff"."transactions_v1_10m"
-      dataset_b:
-        connection_id: 8896
-        table: "Alexey S3"."alexeydremiobucket"."diff"."transactions_v2_10m"
-      primary_key:
-        - transaction_id
-      egress_limit: 10000000
-      sampling:
-        rate: 0.001
-    alert:
-      different_rows_count: 10
-      different_rows_percent: 10
+#   xdb_diff__dremio_dremio__egress_10M__sampling_0_001:
+#     type: diff
+#     schedule:
+#       cron: 15 15 * * *
+#     datadiff:
+#       dataset_a:
+#         connection_id: 8452
+#         table: "Alexey S3"."alexeydremiobucket"."diff"."transactions_v1_10m"
+#       dataset_b:
+#         connection_id: 8896
+#         table: "Alexey S3"."alexeydremiobucket"."diff"."transactions_v2_10m"
+#       primary_key:
+#         - transaction_id
+#       egress_limit: 10000000
+#       sampling:
+#         rate: 0.001
+#     alert:
+#       different_rows_count: 10
+#       different_rows_percent: 10
 
