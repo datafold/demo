@@ -34,7 +34,7 @@ WITH orgs AS (
 
 
 SELECT
-    org_id
+    orgs.org_id
     , created_at
     , case when num_users > 4 then 4 else num_users end as num_users
     , sub_created_at
