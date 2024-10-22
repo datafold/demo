@@ -1194,3 +1194,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001193,100000801,Noah,Patel,noah.patel@analytixhub.com,TRUE,2024-10-20T07:23:15Z
 100001194,100000346,Isabel,Morrison,isabel.morrison@datafoundry.pro,FALSE,2024-10-20T09:03:11Z
 100001195,100000153,Mia,Martinez,mia.martinez@techmindgroup.io,FALSE,2024-10-20T22:18:07Z
+100001196,100000802,Zoe,Feng,zoe.feng@intellidatapulse.com,TRUE,2024-10-21T00:44:30Z
+100001197,100000803,Aria,Ford,ariaford@datalyze.info,TRUE,2024-10-21T23:05:56Z
+100001198,100000804,Marcus,Chen,chen.marcus@aiinnovations.com,TRUE,2024-10-21T04:38:32Z
+100001199,100000387,Michael,Wu,michael.wu@datadiveai.com,FALSE,2024-10-21T02:33:34Z
+100001200,100000172,Maxwell,Liu,maxwell.liu@datasciencenter.com,FALSE,2024-10-21T16:55:34Z
