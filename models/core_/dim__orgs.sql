@@ -39,7 +39,8 @@ SELECT
     , case when num_users > 4 then 4 else num_users end as num_users
     , sub_created_at
     , case when num_users = 1 then 'Individual' else sub_plan end as sub_plan
-    , case when sub_price = 99 then 100 else sub_price end as sub_price
+    , case when sub_price = 99 then 101 else sub_price end as sub_price
 FROM orgs
 LEFT JOIN user_count on orgs.org_id = user_count.org_id
 LEFT JOIN subscriptions on orgs.org_id = subscriptions.org_id
+
