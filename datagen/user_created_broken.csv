@@ -1211,3 +1211,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001210,100000811,Claire,Nelson,claire.nelson@aidevtechgroup.tech,TRUE,2024-10-23T09:02:07Z
 100001211,100000478,Mia,Williams,mia.williams@cybertechexperts.com,FALSE,2024-10-23T06:43:54Z
 100001212,100000713,Finn,Harris,finn.harris@datascienceworldwide.com,FALSE,2024-10-23T15:15:26Z
+100001217,100000286,Scarlett,Ganapathy,scarlett.ganapathy$dataomega.ai,FALSE,2024-10-24T09:36:25Z
+100001213,100000812,Sophia,Gomez,sophia.gomez@aiinnovationsllc.com,TRUE,2024-10-24T16:57:16Z
+100001214,100000813,Gabriel,Hernandez,gabriel.hernandez@predictworksolutions.net,TRUE,2024-10-24T00:13:04Z
+100001215,100000814,Violet,Wang,violet.wang@aiinnovationscorp.com,TRUE,2024-10-24T23:14:09Z
+100001216,100000815,James,Lopez,james.lopez@infotechlabs.com,TRUE,2024-10-24T20:18:02Z
+100001218,100000505,Ivy,Choi,ivy.choi@analytico.com,FALSE,2024-10-24T22:51:48Z
