@@ -1217,3 +1217,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001216,100000815,James,Lopez,james.lopez@infotechlabs.com,TRUE,2024-10-24T20:18:02Z
 100001217,100000286,Scarlett,Ganapathy,scarlett.ganapathy@dataomega.ai,FALSE,2024-10-24T09:36:25Z
 100001218,100000505,Ivy,Choi,ivy.choi@analytico.com,FALSE,2024-10-24T22:51:48Z
+100001219,100000816,Milo,Iyer,milioyer@datanovaconsulting.com,TRUE,2024-10-25T16:35:31Z
+100001220,100000817,Samuel,Adams,samuel.adams@cyberfusion.com,TRUE,2024-10-25T14:57:27Z
+100001221,100000818,Hannah,Leung,hleung@aiwizardtech.com,TRUE,2024-10-25T00:50:01Z
+100001222,100000764,Lucy,Roberts,lucy.roberts@intellicorpsolutions.com,FALSE,2024-10-25T06:45:35Z
+100001223,100000370,Wyatt,Li,wyatt.li@cybermind.biz,FALSE,2024-10-25T14:42:51Z
