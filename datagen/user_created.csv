@@ -1222,3 +1222,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001221,100000818,Hannah,Leung,hleung@aiwizardtech.com,TRUE,2024-10-25T00:50:01Z
 100001222,100000764,Lucy,Roberts,lucy.roberts@intellicorpsolutions.com,FALSE,2024-10-25T06:45:35Z
 100001223,100000370,Wyatt,Li,wyatt.li@cybermind.biz,FALSE,2024-10-25T14:42:51Z
+100001224,100000819,Luna,Rao,luna.rao@quantumbyteinc.com,TRUE,2024-10-25T23:14:43Z
+100001225,100000820,Ella,Bell,ella.bell@byteintel.com,TRUE,2024-10-26T10:27:08Z
+100001226,100000821,Maisie,Chang,maisie.chang@databridge.co,TRUE,2024-10-26T02:25:18Z
+100001227,100000822,Kian,Lam,kian_lam@robosenseai.com,TRUE,2024-10-26T03:59:00Z
+100001228,100000693,Noah,Liu,noah.liu@cloudmindtech.org,FALSE,2024-10-26T06:10:05Z
+100001229,100000125,Tristan,Chung,tristan.chung@aiinsightsco.com,FALSE,2024-10-26T04:34:06Z
