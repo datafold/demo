@@ -1228,3 +1228,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001227,100000822,Kian,Lam,kian_lam@robosenseai.com,TRUE,2024-10-26T03:59:00Z
 100001228,100000693,Noah,Liu,noah.liu@cloudmindtech.org,FALSE,2024-10-26T06:10:05Z
 100001229,100000125,Tristan,Chung,tristan.chung@aiinsightsco.com,FALSE,2024-10-26T04:34:06Z
+100001230,100000823,James,Lee,james.lee@datasculpture.io,TRUE,2024-10-27T04:56:00Z
+100001231,100000824,Charlotte,Torres,charlotte.torres@bitproanalytics.com,TRUE,2024-10-27T00:48:06Z
+100001232,100000825,Jameson,Dean,jamesondean@datanovasystems.com,TRUE,2024-10-27T13:54:13Z
+100001233,100000826,Bella,Kim,kim.bella@techforwardtech.com,TRUE,2024-10-27T16:40:27Z
+100001234,100000388,Matthew,Jenkins,matthew.jenkins@analytixsystems.com,FALSE,2024-10-27T03:39:27Z
+100001235,100000590,Parker,Haven,parker.haven@dataengineeringco.com,FALSE,2024-10-27T03:06:19Z
