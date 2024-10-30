@@ -1241,3 +1241,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001240,100000831,Cora,Upadhyaya,c.upadhyaya@neurosciencesys.com,TRUE,2024-10-28T16:39:31Z
 100001241,100000054,Gabriel,King,gabriel.king@intellidata.org,FALSE,2024-10-28T00:44:31Z
 100001242,100000330,David,Gordon,david.gordon@aiaccelerateworks.com,FALSE,2024-10-28T20:49:59Z
+100001243,100000832,Logan,Knight,loganknight@cloudbrainiacs.com,TRUE,2024-10-29T04:58:41Z
+100001244,100000833,Julian,Liu,julian.liu@datamerge.ai,TRUE,2024-10-29T06:57:43Z
+100001245,100000834,Grace,Chow,grace.chow@neurosynergy.com,TRUE,2024-10-29T18:38:44Z
+100001246,100000835,Madison,Scott,madisonscott@datasynapsis.ai,TRUE,2024-10-29T19:54:12Z
+100001247,100000836,Louis,Lau,louis.lau@datadiscoverysolutions.com,TRUE,2024-10-29T05:22:25Z
+100001248,100000254,Michael,Tran,michael.tran@insightdatalabs.com,FALSE,2024-10-29T10:55:15Z
+100001249,100000768,Charlotte,Rogers,charlotte.rogers@bigdataanalytixco.com,FALSE,2024-10-29T10:10:55Z
