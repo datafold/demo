@@ -1248,3 +1248,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001247,100000836,Louis,Lau,louis.lau@datadiscoverysolutions.com,TRUE,2024-10-29T05:22:25Z
 100001248,100000254,Michael,Tran,michael.tran@insightdatalabs.com,FALSE,2024-10-29T10:55:15Z
 100001249,100000768,Charlotte,Rogers,charlotte.rogers@bigdataanalytixco.com,FALSE,2024-10-29T10:10:55Z
+100001250,100000837,Ethan,Li,ethan.li@innovativeai.io,TRUE,2024-10-30T23:10:52Z
+100001251,100000838,Ethan,Smith,ethan.smith@datavision.com,TRUE,2024-10-30T08:26:45Z
+100001252,100000839,Grace,Nguyen,grace.nguyen@visiondataconsulting.com,TRUE,2024-10-30T08:34:06Z
+100001253,100000371,Julian,Chen,julian.chen@techdatalink.com,FALSE,2024-10-30T16:57:59Z
+100001254,100000802,Indigo,Kawasaki,indigo.kawasaki@intellidatapulse.com,FALSE,2024-10-30T19:49:59Z
