@@ -1253,3 +1253,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001252,100000839,Grace,Nguyen,grace.nguyen@visiondataconsulting.com,TRUE,2024-10-30T08:34:06Z
 100001253,100000371,Julian,Chen,julian.chen@techdatalink.com,FALSE,2024-10-30T16:57:59Z
 100001254,100000802,Indigo,Kawasaki,indigo.kawasaki@intellidatapulse.com,FALSE,2024-10-30T19:49:59Z
+100001255,100000840,Madison,Trivedi,mtrivedi@dataquest.co,TRUE,2024-10-31T07:25:11Z
+100001256,100000841,Jacob,Martinez,jacob.martinez@smartlogiqsolutions.com,TRUE,2024-10-31T03:41:03Z
+100001257,100000842,Charlotte,Zheng,charlottezheng@datastrivecorp.com,TRUE,2024-10-31T12:49:00Z
+100001258,100000089,Ivy,Wu,ivy.wu@techinsightify.tech,FALSE,2024-10-31T18:55:46Z
+100001259,100000046,Matthew,Xu,matthew.xu@analyticssol.com,FALSE,2024-10-31T20:09:46Z
