@@ -1258,3 +1258,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001257,100000842,Charlotte,Zheng,charlottezheng@datastrivecorp.com,TRUE,2024-10-31T12:49:00Z
 100001258,100000089,Ivy,Wu,ivy.wu@techinsightify.tech,FALSE,2024-10-31T18:55:46Z
 100001259,100000046,Matthew,Xu,matthew.xu@analyticssol.com,FALSE,2024-10-31T20:09:46Z
+100001260,100000843,Penelope,Ngo,penelopengo@dataloop.tech,TRUE,2024-11-01T23:01:47Z
+100001261,100000844,Layla,Roberts,layla.roberts@datavisiontech.com,TRUE,2024-11-01T12:56:01Z
+100001262,100000845,Molly,Wang,molly.wang@aifusion.co,TRUE,2024-11-01T04:22:19Z
+100001263,100000846,Ethan,Vargas,evargas@cyberbrainco.com,TRUE,2024-11-01T04:01:24Z
+100001264,100000106,Emilia,Jones,emilia.jones@intellisync.com,FALSE,2024-11-01T09:21:47Z
+100001265,100000337,Anastasia,Venkatesan,anastasia.venkatesan@datasciencelabsinc.com,FALSE,2024-11-01T23:47:31Z
