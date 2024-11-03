@@ -420,3 +420,4 @@ org_id,event_timestamp,activity,plan,price,deployment
 100000609,2024-10-31T11:30:32Z,subscribed,Business,399,SaaS
 100000580,2024-11-01T01:29:03Z,subscribed,Business,399,SaaS
 100000699,2024-11-01T04:17:50Z,subscribed,Business,399,SaaS
+100000673,2024-11-02T06:40:58Z,subscribed,Team,99,On-prem
