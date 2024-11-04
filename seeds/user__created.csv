@@ -1269,3 +1269,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001268,100000849,Mila,Cruz,mila.cruz@innovativedata.tech,TRUE,2024-11-02T05:28:09Z
 100001269,100000099,Victoria,Rodriguez,victoria.rodriguez@techanalyze.net,FALSE,2024-11-02T09:17:37Z
 100001270,100000170,Luna,Chang,luna.chang@datadynamicsinc.com,FALSE,2024-11-02T22:04:35Z
+100001271,100000850,Piper,Reed,piper.reed@datametrica.com,TRUE,2024-11-03T11:28:48Z
+100001272,100000851,Sophie,Chen,sophie.chen@analytechsol.com,TRUE,2024-11-03T16:39:12Z
+100001273,100000852,Lucas,Bell,lucas.bell@techdataflux.co,TRUE,2024-11-03T19:27:21Z
+100001274,100000853,Aaron,Chen,aaronc@datavant.net,TRUE,2024-11-03T20:16:39Z
+100001275,100000772,Nathan,Cooper,nathan.cooper@techmindlab.com,FALSE,2024-11-03T04:43:53Z
