@@ -1274,3 +1274,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001273,100000852,Lucas,Bell,lucas.bell@techdataflux.co,TRUE,2024-11-03T19:27:21Z
 100001274,100000853,Aaron,Chen,aaronc@datavant.net,TRUE,2024-11-03T20:16:39Z
 100001275,100000772,Nathan,Cooper,nathan.cooper@techmindlab.com,FALSE,2024-11-03T04:43:53Z
+100001276,100000854,Maya,Knight,maya.knight@techinfra.ai,TRUE,2024-11-03T22:20:08Z
+100001277,100000855,Dominic,Wu,dominic@infodata.ai,TRUE,2024-11-04T07:32:13Z
+100001278,100000856,William,Nguyen,william.nguyen@visionaryai.tech,TRUE,2024-11-04T07:07:04Z
+100001279,100000857,Aaron,Goh,agoh@technovatecorp.com,TRUE,2024-11-04T14:11:50Z
+100001280,100000858,Oliver,Jones,oliverj@infoinsightcorp.com,TRUE,2024-11-04T03:02:29Z
+100001281,100000208,Caleb,Mittal,caleb.mittal@datadivegroup.com,FALSE,2024-11-04T11:33:01Z
+100001282,100000287,Eva,Nelson,eva.nelson@digitaldataworks.com,FALSE,2024-11-04T08:34:57Z
