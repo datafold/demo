@@ -1286,3 +1286,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001285,100000861,Sophia,Garcia,sophia.garcia@analyticore.com,TRUE,2024-11-05T17:09:10Z
 100001286,100000047,Evan,Chu,evan.chu@algorhythmix.io,FALSE,2024-11-05T18:56:16Z
 100001287,100000556,Nora,Hughes,nora.hughes@techintellects.com,FALSE,2024-11-05T05:13:57Z
+100001288,100000862,Astrid,Chang,astrid.chang@cyberinsightlabs.com,TRUE,2024-11-06T23:52:00Z
+100001289,100000863,Kevin,Wong,kevinwong@datascientistco.com,TRUE,2024-11-06T10:14:12Z
+100001290,100000864,Ryder,Singh,ryder.singh@empoweranalytics.com,TRUE,2024-11-06T18:40:56Z
+100001291,100000865,Asher,Hudson,asher.hudson@prodataminds.io,TRUE,2024-11-06T14:18:01Z
+100001292,100000866,Ava,Tran,ava.tran@aicore.com,TRUE,2024-11-06T08:40:49Z
+100001293,100000642,Grace,Green,grace.green@digilabsolutions.com,FALSE,2024-11-06T14:01:52Z
+100001294,100000841,George,Ngo,george.ngo@smartlogiqsolutions.com,FALSE,2024-11-06T14:08:21Z
