@@ -1293,3 +1293,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001292,100000866,Ava,Tran,ava.tran@aicore.com,TRUE,2024-11-06T08:40:49Z
 100001293,100000642,Grace,Green,grace.green@digilabsolutions.com,FALSE,2024-11-06T14:01:52Z
 100001294,100000841,George,Ngo,george.ngo@smartlogiqsolutions.com,FALSE,2024-11-06T14:08:21Z
+100001295,100000867,Samantha,Jones,samantha.jones@analytixcloudtech.com,TRUE,2024-11-07T11:42:21Z
+100001296,100000868,Owen,Scott,owenscott@softwaredataco.com,TRUE,2024-11-07T20:27:30Z
+100001297,100000869,Aiden,Roy,aiden.roy@smartanalyticslab.net,TRUE,2024-11-07T03:15:45Z
+100001298,100000870,Gavin,Lincoln,gavin.lincoln@techcorenet.org,TRUE,2024-11-07T09:42:41Z
+100001299,100000094,Owen,Price,owen.price@virtualdatagurus.com,FALSE,2024-11-07T13:22:42Z
+100001300,100000197,William,Kang,william.kang@infosightdata.com,FALSE,2024-11-07T02:54:26Z
