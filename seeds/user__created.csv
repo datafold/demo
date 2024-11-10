@@ -1306,3 +1306,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001305,100000875,Aria,Gutierrez,aria.gutierrez@innovisionlabs.com,TRUE,2024-11-08T10:05:37Z
 100001306,100000147,Ryan,Nguyen,ryan.nguyen@datafuture.co,FALSE,2024-11-08T15:26:28Z
 100001307,100000640,Andrew,Kumar,andrew.kumar@datamindsolutions.com,FALSE,2024-11-08T09:38:15Z
+100001313,100000832,Oscar,Saunders,oscar.saunders$cloudbrainiacs.com,FALSE,2024-11-09T07:52:58Z
+100001308,100000876,Nina,Rajan,nina.rajan@bytecraftco.com,TRUE,2024-11-09T10:44:30Z
+100001309,100000877,Sophia,Johnson,sophia.johnson@datascienceco.com,TRUE,2024-11-09T19:51:24Z
+100001310,100000878,Rachel,Nguyen,rachel.nguyen@dynodatahub.com,TRUE,2024-11-09T16:08:35Z
+100001311,100000879,Aria,Gupta,aria.gupta@datamatrixpros.com,TRUE,2024-11-09T11:50:50Z
+100001312,100000880,Alexander,Chang,alexander.chang@datawaveai.com,TRUE,2024-11-09T19:37:50Z
+100001314,100000470,Benjamin,Algorithm,benjamin.algorithm@techdataspace.com,FALSE,2024-11-09T15:19:11Z
