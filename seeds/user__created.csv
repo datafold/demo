@@ -1313,3 +1313,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001311,100000879,Aria,Gupta,aria.gupta@datamatrixpros.com,TRUE,2024-11-09T11:50:50Z
 100001312,100000880,Alexander,Chang,alexander.chang@datawaveai.com,TRUE,2024-11-09T19:37:50Z
 100001314,100000470,Benjamin,Algorithm,benjamin.algorithm@techdataspace.com,FALSE,2024-11-09T15:19:11Z
+100001315,100000881,Kai,Chen,kai.chen@datavines.io,TRUE,2024-11-10T05:59:34Z
+100001316,100000882,Victoria,Huang,victoria.huang@datasafezone.com,TRUE,2024-11-10T21:21:49Z
+100001317,100000883,Zoe,Gupta,zoe.gupta@brainwaretech.com,TRUE,2024-11-10T06:59:47Z
+100001318,100000884,Eva,Kaur,eva.kaur@techgeniusesinc.com,TRUE,2024-11-10T22:04:57Z
+100001319,100000603,Hannah,Knight,hannah.knight@cyberops.net,FALSE,2024-11-10T19:25:28Z
+100001320,100000329,Isabella,Jones,isabella.jones@techgeniusdata.com,FALSE,2024-11-10T17:57:43Z
