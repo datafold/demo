@@ -44,3 +44,4 @@ SELECT
 FROM orgs
 LEFT JOIN user_count on orgs.org_id = user_count.org_id
 LEFT JOIN subscriptions on orgs.org_id = subscriptions.org_id
+
