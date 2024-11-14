@@ -1333,3 +1333,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001332,100000894,Henry,Baker,henry.baker@datatechinstitute.com,TRUE,2024-11-12T15:41:02Z
 100001333,100000619,Layla,Chin,layla.chin@techinsightsolution.com,FALSE,2024-11-12T05:57:52Z
 100001334,100000603,Henry,Lopez,henry.lopez@cyberops.net,FALSE,2024-11-12T20:18:14Z
+100001335,100000895,Victoria,Romero,victoriar@insightfultechsolutions.com,TRUE,2024-11-13T08:47:22Z
+100001336,100000896,Zoey,Mitra,zoey.mitra@smartdataiq.com,TRUE,2024-11-13T23:23:52Z
+100001337,100000897,Sebastian,Hernandez,sebastianh@datavolvetech.com,TRUE,2024-11-13T04:33:27Z
+100001338,100000898,Lucas,Patil,lucas.patil@datamergeinc.com,TRUE,2024-11-13T10:51:04Z
+100001339,100000548,David,Wu,david.wu@datavantage.ai,FALSE,2024-11-13T10:34:17Z
