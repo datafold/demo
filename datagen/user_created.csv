@@ -1338,3 +1338,7 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001337,100000897,Sebastian,Hernandez,sebastianh@datavolvetech.com,TRUE,2024-11-13T04:33:27Z
 100001338,100000898,Lucas,Patil,lucas.patil@datamergeinc.com,TRUE,2024-11-13T10:51:04Z
 100001339,100000548,David,Wu,david.wu@datavantage.ai,FALSE,2024-11-13T10:34:17Z
+100001340,100000899,Harper,Wright,harper.wright@visionairetech.com,TRUE,2024-11-14T11:23:56Z
+100001341,100000900,Zoey,Chowdhury,zoey.chowdhury@dataview.io,TRUE,2024-11-14T19:59:49Z
+100001342,100000901,Ava,Jones,ava.jones@analyticatrends.org,TRUE,2024-11-14T10:20:35Z
+100001343,100000647,Daniel,Watson,daniel.watson@techmindworks.com,FALSE,2024-11-14T07:13:12Z
