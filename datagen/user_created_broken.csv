@@ -1342,3 +1342,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001341,100000900,Zoey,Chowdhury,zoey.chowdhury@dataview.io,TRUE,2024-11-14T19:59:49Z
 100001342,100000901,Ava,Jones,ava.jones@analyticatrends.org,TRUE,2024-11-14T10:20:35Z
 100001343,100000647,Daniel,Watson,daniel.watson@techmindworks.com,FALSE,2024-11-14T07:13:12Z
+100001344,100000902,Ella,Nguyen,ella.nguyen@codecrafters.com,TRUE,2024-11-15T17:09:21Z
+100001345,100000903,Poppy,Lorenzo,plorenzo@datadreamers.com,TRUE,2024-11-15T01:23:17Z
+100001346,100000904,Penelope,Low,plow@techpulse.io,TRUE,2024-11-15T10:13:42Z
+100001347,100000788,Michael,Young,michael.young@datasciencepartnersinc.com,FALSE,2024-11-15T00:44:33Z
+100001348,100000616,Ella,Mitchell,ella.mitchell@bigdatasensei.com,FALSE,2024-11-15T07:46:18Z
