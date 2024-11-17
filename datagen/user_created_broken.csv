@@ -1347,3 +1347,7 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001346,100000904,Penelope,Low,plow@techpulse.io,TRUE,2024-11-15T10:13:42Z
 100001347,100000788,Michael,Young,michael.young@datasciencepartnersinc.com,FALSE,2024-11-15T00:44:33Z
 100001348,100000616,Ella,Mitchell,ella.mitchell@bigdatasensei.com,FALSE,2024-11-15T07:46:18Z
+100001349,100000905,Henry,Murray,henry.murray@braindatatech.com,TRUE,2024-11-16T04:44:36Z
+100001350,100000906,Aiden,Brighton,aiden_b@alchemyinsights.ai,TRUE,2024-11-16T20:28:08Z
+100001351,100000907,Justin,Pham,justin.pham@thinkdatasolutions.com,TRUE,2024-11-16T09:59:52Z
+100001352,100000710,Jayden,Gomez,jayden.gomez@aialgorithmics.com,FALSE,2024-11-16T19:56:25Z
