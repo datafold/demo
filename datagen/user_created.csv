@@ -1356,3 +1356,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001355,100000910,Lincoln,Rao,lincoln.rao@aiinsights.com,TRUE,2024-11-17T00:35:22Z
 100001356,100000638,Victoria,Howard,victoria.howard@datanova.net,FALSE,2024-11-17T18:58:53Z
 100001357,100000306,Nora,Chen,nora.chen@smartbytegroup.com,FALSE,2024-11-17T04:58:35Z
+100001358,100000911,Maya,Sullivan,maya.sullivan@datamindtechsolutions.com,TRUE,2024-11-18T14:04:36Z
+100001359,100000912,Amelia,Singh,amelia.singh@datasynapse.com,TRUE,2024-11-18T03:48:51Z
+100001360,100000913,Liam,Chong,liam.chong@visionarydata.com,TRUE,2024-11-18T04:27:57Z
+100001361,100000914,Rhett,Rogers,rhett.rogers@dataradixtech.com,TRUE,2024-11-18T07:00:08Z
+100001362,100000689,Wilder,Price,wilder.price@techmindsetgroup.com,FALSE,2024-11-18T19:30:06Z
+100001363,100000646,Sebastian,Xu,sebastian.xu@visionarytechlabs.com,FALSE,2024-11-18T19:38:11Z
