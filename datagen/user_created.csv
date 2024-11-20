@@ -1362,3 +1362,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001361,100000914,Rhett,Rogers,rhett.rogers@dataradixtech.com,TRUE,2024-11-18T07:00:08Z
 100001362,100000689,Wilder,Price,wilder.price@techmindsetgroup.com,FALSE,2024-11-18T19:30:06Z
 100001363,100000646,Sebastian,Xu,sebastian.xu@visionarytechlabs.com,FALSE,2024-11-18T19:38:11Z
+100001364,100000915,Owen,Chua,owen.chua@infosense.co,TRUE,2024-11-19T13:41:49Z
+100001365,100000916,Mason,Gupta,mgupta@datasynapse.io,TRUE,2024-11-19T00:55:04Z
+100001366,100000917,Harper,Tang,harper.tang@dataroboticsco.com,TRUE,2024-11-19T15:44:41Z
+100001367,100000391,Hannah,Hu,hannah.hu@techcogentia.com,FALSE,2024-11-19T00:57:14Z
+100001368,100000130,Madison,Desai,madison.desai@smartdataexperts.com,FALSE,2024-11-19T05:42:03Z
