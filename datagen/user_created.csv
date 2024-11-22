@@ -1374,3 +1374,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001373,100000922,Ivy,Lim,ivy.lim@datatrendex.com,TRUE,2024-11-20T10:15:32Z
 100001374,100000214,Nora,Ramirez,nora.ramirez@intelligentdata.com,FALSE,2024-11-20T18:16:27Z
 100001375,100000349,Oliver,Parker,oliver.parker@datametricsteam.com,FALSE,2024-11-20T05:40:08Z
+100001376,100000923,Evelyn,Peterson,evelyn.peterson@logiqinsight.co,TRUE,2024-11-21T13:30:14Z
+100001377,100000924,Jackson,Kulkarni,jackson.kulkarni@techgenius.co,TRUE,2024-11-21T12:13:02Z
+100001378,100000925,Jacob,Kwon,jacob.kwon@intellisagecorp.com,TRUE,2024-11-21T02:44:13Z
+100001379,100000376,Ella,Richardson,ella.richardson@datadynamics.org,FALSE,2024-11-21T13:58:33Z
+100001380,100000899,Gabriel,Chavez,gabriel.chavez@visionairetech.com,FALSE,2024-11-21T23:17:49Z
