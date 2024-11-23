@@ -1379,3 +1379,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001378,100000925,Jacob,Kwon,jacob.kwon@intellisagecorp.com,TRUE,2024-11-21T02:44:13Z
 100001379,100000376,Ella,Richardson,ella.richardson@datadynamics.org,FALSE,2024-11-21T13:58:33Z
 100001380,100000899,Gabriel,Chavez,gabriel.chavez@visionairetech.com,FALSE,2024-11-21T23:17:49Z
+100001381,100000926,Harper,Sun,hsun@analyticinsight.io,TRUE,2024-11-22T05:20:09Z
+100001382,100000927,Michael,Liu,m.liu@neuralnetics.com,TRUE,2024-11-22T10:09:10Z
+100001383,100000928,Mia,Patel,mia.patel@datamagicai.com,TRUE,2024-11-22T20:10:01Z
+100001384,100000929,Talia,Rathore,talia.rathore@techgenicsol.com,TRUE,2024-11-22T16:44:29Z
+100001385,100000238,Aria,Mills,aria.mills@datavisionco.com,FALSE,2024-11-22T12:30:18Z
+100001386,100000858,Penelope,West,penelope.west@infoinsightcorp.com,FALSE,2024-11-22T05:42:57Z
