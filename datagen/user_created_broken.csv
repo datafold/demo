@@ -1405,3 +1405,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001404,100000943,Colton,Choi,colton.choi@datadextronicsco.com,TRUE,2024-11-25T18:07:18Z
 100001405,100000385,Ellie,Sharma,ellie.sharma@infooptima.io,FALSE,2024-11-25T12:05:10Z
 100001406,100000238,Jasper,Smith,jasper.smith@datavisionco.com,FALSE,2024-11-25T04:07:04Z
+100001407,100000944,Abigail,Torres,abigail.torres@analyticinsighttech.com,TRUE,2024-11-26T20:34:42Z
+100001408,100000945,Ava,Garcia,avagarcia@techgeniusco.com,TRUE,2024-11-26T13:28:46Z
+100001409,100000946,Ethan,Miller,ethanmiller@datadrivenco.com,TRUE,2024-11-26T14:09:38Z
+100001410,100000947,Hazel,Brewer,hazel.brewer@techsagegroup.ai,TRUE,2024-11-26T20:53:05Z
+100001411,100000948,Archer,Patil,archer.patil@techsavvysolutions.com,TRUE,2024-11-26T17:22:36Z
+100001412,100000021,Levi,Cheng,levi.cheng@algozon.ai,FALSE,2024-11-26T02:04:54Z
+100001413,100000858,Michael,Subramanian,michael.subramanian@infoinsightcorp.com,FALSE,2024-11-26T01:06:05Z
