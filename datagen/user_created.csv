@@ -1412,3 +1412,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001411,100000948,Archer,Patil,archer.patil@techsavvysolutions.com,TRUE,2024-11-26T17:22:36Z
 100001412,100000021,Levi,Cheng,levi.cheng@algozon.ai,FALSE,2024-11-26T02:04:54Z
 100001413,100000858,Michael,Subramanian,michael.subramanian@infoinsightcorp.com,FALSE,2024-11-26T01:06:05Z
+100001414,100000949,Avery,Mitchell,avery.mitchell@cyberdatum.com,TRUE,2024-11-27T07:23:23Z
+100001415,100000950,Stella,Evans,stella.evans@datasoftworks.com,TRUE,2024-11-27T11:03:46Z
+100001416,100000951,Lucas,Yip,lucas.yip@digitalinsightlabs.com,TRUE,2024-11-27T23:39:06Z
+100001417,100000952,Ella,Zhang,ella.zhang@cipherdata.co,TRUE,2024-11-27T05:59:38Z
+100001418,100000953,Zack,Foo,zack.foo@techbrainedge.com,TRUE,2024-11-27T23:52:24Z
+100001419,100000763,Sullivan,Haven,sullivan.haven@compudatasci.com,FALSE,2024-11-27T16:11:48Z
+100001420,100000718,Henry,Chung,henry.chung@intuitiveware.com,FALSE,2024-11-27T05:08:34Z
