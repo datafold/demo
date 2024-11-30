@@ -1425,3 +1425,7 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001424,100000957,Penelope,Ali,penelope.ali@datalyticslabs.com,TRUE,2024-11-28T18:28:49Z
 100001425,100000194,Liam,Sullivan,liam.sullivan@insightech.com,FALSE,2024-11-28T18:41:15Z
 100001426,100000924,Liam,Kim,liam.kim@techgenius.co,FALSE,2024-11-28T19:53:39Z
+100001428,100000959,Madison,Hernandez,madison.h$aiwaveinsights.com,TRUE,2024-11-29T12:25:46Z
+100001427,100000958,Ivy,Cheung,ivy.cheung@insightfulco.net,TRUE,2024-11-29T07:26:49Z
+100001429,100000960,Aurora,Cheng,aurora.cheng@digitalinsight.co,TRUE,2024-11-29T10:45:17Z
+100001430,100000594,Lila,Harris,lila.harris@neurodataworks.com,FALSE,2024-11-29T12:40:37Z
