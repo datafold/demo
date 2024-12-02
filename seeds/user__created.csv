@@ -1436,3 +1436,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001435,100000965,Asher,Rodriguez,asher.rodriguez@innovationtechlabs.com,TRUE,2024-11-30T03:56:39Z
 100001436,100000392,David,Wang,david.wang@bitwisesystems.com,FALSE,2024-11-30T02:46:36Z
 100001437,100000717,Nathan,Wong,nathan.wong@cyberdataco.com,FALSE,2024-11-30T22:09:33Z
+100001441,100000044,Luna,Raj,luna.raj$datagenie.com,FALSE,2024-12-01T14:18:49Z
+100001438,100000966,Nia,Tan,nia.tan@datalyticus.com,TRUE,2024-12-01T17:34:59Z
+100001439,100000967,Ethan,Chandra,echandra@techbriteai.com,TRUE,2024-12-01T18:05:01Z
+100001440,100000968,Bella,Lopez,bella.l@anatomixtech.com,TRUE,2024-12-01T09:12:36Z
+100001442,100000594,Jack,Davis,jack.davis@neurodataworks.com,FALSE,2024-12-01T23:22:12Z
