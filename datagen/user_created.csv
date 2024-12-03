@@ -1441,3 +1441,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001440,100000968,Bella,Lopez,bella.l@anatomixtech.com,TRUE,2024-12-01T09:12:36Z
 100001441,100000044,Luna,Raj,luna.raj@datagenie.com,FALSE,2024-12-01T14:18:49Z
 100001442,100000594,Jack,Davis,jack.davis@neurodataworks.com,FALSE,2024-12-01T23:22:12Z
+100001443,100000969,Avery,Choi,avery.choi@datavantagex.com,TRUE,2024-12-02T11:18:15Z
+100001444,100000970,Zane,Patel,zane.patel@seyntelligence.com,TRUE,2024-12-02T18:16:25Z
+100001445,100000971,Nina,Bai,nina.bai@smarttechai.com,TRUE,2024-12-02T21:05:06Z
+100001446,100000972,Zoey,Russell,zoey.russell@infinidata.com,TRUE,2024-12-02T17:28:04Z
+100001447,100000973,Theo,Ma,theo.ma@aiinspire.biz,TRUE,2024-12-02T23:36:07Z
+100001448,100000895,Lucas,Patel,lucas.patel@insightfultechsolutions.com,FALSE,2024-12-02T16:15:59Z
+100001449,100000387,Sofia,Adams,sofia.adams@datadiveai.com,FALSE,2024-12-02T21:11:15Z
