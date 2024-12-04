@@ -1448,3 +1448,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001447,100000973,Theo,Ma,theo.ma@aiinspire.biz,TRUE,2024-12-02T23:36:07Z
 100001448,100000895,Lucas,Patel,lucas.patel@insightfultechsolutions.com,FALSE,2024-12-02T16:15:59Z
 100001449,100000387,Sofia,Adams,sofia.adams@datadiveai.com,FALSE,2024-12-02T21:11:15Z
+100001450,100000974,Daniel,Mitchell,danielmitchell@intellianalytix.com,TRUE,2024-12-03T18:12:05Z
+100001451,100000975,Ava,Patel,ava.patel@datascriptlabs.com,TRUE,2024-12-03T02:28:11Z
+100001452,100000976,Mila,Harrison,mila.harrison@datasyncro.com,TRUE,2024-12-03T23:30:09Z
+100001453,100000672,Charlotte,Kumar,charlotte.kumar@datasciencedrive.com,FALSE,2024-12-03T01:16:55Z
+100001454,100000217,Sophia,Sanchez,sophia.sanchez@datamind.com,FALSE,2024-12-03T21:43:58Z
