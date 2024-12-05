@@ -1453,3 +1453,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001452,100000976,Mila,Harrison,mila.harrison@datasyncro.com,TRUE,2024-12-03T23:30:09Z
 100001453,100000672,Charlotte,Kumar,charlotte.kumar@datasciencedrive.com,FALSE,2024-12-03T01:16:55Z
 100001454,100000217,Sophia,Sanchez,sophia.sanchez@datamind.com,FALSE,2024-12-03T21:43:58Z
+100001455,100000977,Zane,Jiang,zane.jiang@aisolve.io,TRUE,2024-12-04T05:46:24Z
+100001456,100000978,Natalie,Garcia,natalie.garcia@cloudtechworld.com,TRUE,2024-12-04T05:51:04Z
+100001457,100000979,Amelia,Martinez,amartinez@bigdatasolutionsinc.com,TRUE,2024-12-04T14:58:40Z
+100001458,100000980,Harper,Choudhury,harper.choudhury@datagearco.com,TRUE,2024-12-04T09:01:54Z
+100001459,100000981,Avery,Cheng,avery.cheng@cybermindconsulting.com,TRUE,2024-12-04T03:39:33Z
+100001460,100000230,Isaac,Lee,isaac.lee@aiempowertech.com,FALSE,2024-12-04T21:46:17Z
+100001461,100000275,Sofia,Scott,sofia.scott@computervisiontechs.com,FALSE,2024-12-04T06:58:09Z
