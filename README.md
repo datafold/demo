@@ -72,12 +72,43 @@ To demonstrate Datafold functionality for data replication monitoring, a pre-con
     - `fct__monthly__financials_bigquery` explore
     - `Monthly Financials (Demo, BigQuery)` dashboard
 
+- Tableau data source, workbook, and dashboard are connected to the `fct__yearly__financials` model in Snowflake, Databricks, and BigQuery.
+  - Snowflake
+    - `FCT__YEARLY__FINANCIALS (DEMO.FCT__YEARLY__FINANCIALS) (CORE)` data source
+    - `Yearly Financials (Snowflake)` workbook
+    - `Yearly Financials Dashboard (Snowflake)` dashboard
+  - Databricks
+    - `fct__yearly__financials (demo.default.fct__yearly__financials) (default)` data source
+    - `Yearly Financials (Databricks)` workbook
+    - `Yearly Financials Dashboard (Databricks)` dashboard
+  - BigQuery
+    - `fct__yearly__financials (prod)` data source
+    - `Yearly Financials (BigQuery)` workbook
+    - `Yearly Financials Dashboard (BigQuery)` dashboard
+
+- Power BI table, report, and dashboard are connected to the `fct__monthly__financials` model in Snowflake, Databricks, and BigQuery.
+  - Snowflake
+    - `FCT__MONTHLY__FINANCIALS` table
+    - `Monthly Financials Snowflake` report
+    - `Monthly Financials Snowflake` dashboard
+  - Databricks
+    - `fct__monthly__financials` table
+    - `fact-monthly-financials-databricks` report
+    - `Fact Monthly Financials Databricks` dashboard
+  - BigQuery
+    - `fct__monthly__financials` table
+    - `Monthly Financials BigQuery` report
+    - `Monthly Financials BigQuery` dashboard
+
+
 ### Datafold Demo Org structure
 The corresponding Datafold Demo Org contains the following integrations:
 - Common
   - `datafold/demo` repository integration
   - `Postgres` data connection for Cross-DB data diff monitors
   - `Looker Public Demo` BI app integration
+  - `Power BI` BI app integration
+  - `Tableau Public Demo` BI app integration
 - Snowflake specific
   - `Snowflake` data connection
   - `Coalesce-Demo` CI integration for the `Snowflake` data connection and the `master` branch
