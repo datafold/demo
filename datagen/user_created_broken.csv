@@ -1460,3 +1460,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001459,100000981,Avery,Cheng,avery.cheng@cybermindconsulting.com,TRUE,2024-12-04T03:39:33Z
 100001460,100000230,Isaac,Lee,isaac.lee@aiempowertech.com,FALSE,2024-12-04T21:46:17Z
 100001461,100000275,Sofia,Scott,sofia.scott@computervisiontechs.com,FALSE,2024-12-04T06:58:09Z
+100001462,100000982,Blake,Parker,blake.parker@datawaveinc.com,TRUE,2024-12-05T21:19:59Z
+100001463,100000983,Wendy,Lo,wendy.lo@techbytefusion.com,TRUE,2024-12-05T10:36:25Z
+100001464,100000984,Mason,Baker,m.baker@algorithma.com,TRUE,2024-12-05T15:28:35Z
+100001465,100000494,Benjamin,Mittal,benjamin.mittal@datavera.co,FALSE,2024-12-05T03:33:44Z
+100001466,100000570,Dominic,Lim,dominic.lim@smarttechtrends.com,FALSE,2024-12-05T10:41:44Z
