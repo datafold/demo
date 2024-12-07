@@ -1465,3 +1465,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001464,100000984,Mason,Baker,m.baker@algorithma.com,TRUE,2024-12-05T15:28:35Z
 100001465,100000494,Benjamin,Mittal,benjamin.mittal@datavera.co,FALSE,2024-12-05T03:33:44Z
 100001466,100000570,Dominic,Lim,dominic.lim@smarttechtrends.com,FALSE,2024-12-05T10:41:44Z
+100001467,100000985,Ethan,Patel,ethan.patel@technodata.co,TRUE,2024-12-06T04:43:15Z
+100001468,100000986,Leo,Nguyen,leo.nguyen@innovateai.com,TRUE,2024-12-06T10:38:39Z
+100001469,100000987,Avery,Gupta,avery.gupta@datatriotinc.com,TRUE,2024-12-06T13:34:58Z
+100001470,100000988,Grace,Perez,graceperez@digianalyze.com,TRUE,2024-12-06T16:55:37Z
+100001471,100000989,Owen,Hayes,owen.hayes@dataviews.com,TRUE,2024-12-06T13:58:41Z
+100001472,100000678,Elias,White,elias.white@digiforge.com,FALSE,2024-12-06T18:50:23Z
+100001473,100000688,Aurora,Parker,aurora.parker@techbrainwave.com,FALSE,2024-12-06T00:54:58Z
