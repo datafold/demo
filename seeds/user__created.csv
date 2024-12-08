@@ -1472,3 +1472,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001471,100000989,Owen,Hayes,owen.hayes@dataviews.com,TRUE,2024-12-06T13:58:41Z
 100001472,100000678,Elias,White,elias.white@digiforge.com,FALSE,2024-12-06T18:50:23Z
 100001473,100000688,Aurora,Parker,aurora.parker@techbrainwave.com,FALSE,2024-12-06T00:54:58Z
+100001476,100000992,Gabriella,Hudson,gabriellahudson$techvolt.ai,TRUE,2024-12-07T15:54:27Z
+100001474,100000990,Lucas,Vargas,lucas.vargas@cipherdatacorp.com,TRUE,2024-12-07T10:12:15Z
+100001475,100000991,Chloe,James,chloe.j@metricsurge.com,TRUE,2024-12-07T16:56:58Z
+100001477,100000993,Dylan,Patel,dylan.patel@solveitdata.com,TRUE,2024-12-07T03:49:14Z
+100001478,100000994,Levi,Mendoza,levi.mendoza@datanetforge.com,TRUE,2024-12-07T13:59:25Z
+100001479,100000751,Elijah,Naidu,elijah.naidu@techdataquest.com,FALSE,2024-12-07T23:45:59Z
+100001480,100000307,Emma,Ibrahim,emma.ibrahim@techbytes.com,FALSE,2024-12-07T18:48:48Z
