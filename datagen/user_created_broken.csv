@@ -1479,3 +1479,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001478,100000994,Levi,Mendoza,levi.mendoza@datanetforge.com,TRUE,2024-12-07T13:59:25Z
 100001479,100000751,Elijah,Naidu,elijah.naidu@techdataquest.com,FALSE,2024-12-07T23:45:59Z
 100001480,100000307,Emma,Ibrahim,emma.ibrahim@techbytes.com,FALSE,2024-12-07T18:48:48Z
+100001481,100000995,Harper,Yen,harper_yen@automatedinsightsco.com,TRUE,2024-12-08T00:00:05Z
+100001482,100000996,Ella,Adams,ella.adams@bytebrain.com,TRUE,2024-12-08T22:59:57Z
+100001483,100000997,Penelope,Flores,penelope.flores@futuretechdata.io,TRUE,2024-12-08T00:56:21Z
+100001484,100000998,Hazel,Xu,hazel.xu@logicbyte.co,TRUE,2024-12-08T17:44:16Z
+100001485,100000664,Gabriella,Davis,gabriella.davis@datasync.com,FALSE,2024-12-08T10:34:09Z
+100001486,100000601,David,Ward,david.ward@datasciencewave.com,FALSE,2024-12-08T13:55:38Z
