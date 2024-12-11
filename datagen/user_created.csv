@@ -1491,3 +1491,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001490,100001002,Mason,He,mason.he@arcanalytics.com,TRUE,2024-12-09T22:58:30Z
 100001491,100000574,Emma,Wang,emma.wang@datavedicsolutions.com,FALSE,2024-12-09T14:43:10Z
 100001492,100000720,Willow,Martinez,willow.martinez@techdatacloud.com,FALSE,2024-12-09T14:45:56Z
+100001493,100001003,William,Garcia,william.garcia@techfusioncorp.com,TRUE,2024-12-10T09:04:37Z
+100001494,100001004,Isabella,Dutta,isabella.dutta@quantuminsightsinc.com,TRUE,2024-12-10T06:48:22Z
+100001495,100001005,Carter,Liu,carter.liu@datadynamix.com,TRUE,2024-12-10T18:58:07Z
+100001496,100000043,Sebastian,Soh,sebastian.soh@futuretechlabs.com,FALSE,2024-12-10T20:39:37Z
+100001497,100000428,Wilson,Gupta,wilson.gupta@solvectoai.com,FALSE,2024-12-10T20:30:12Z
