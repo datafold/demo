@@ -1506,3 +1506,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001505,100001011,Aria,Rivera,ariarivera@aiimpactgroup.io,TRUE,2024-12-12T06:08:57Z
 100001506,100001012,Dylan,Singh,dylan.singh@intellectica.com,TRUE,2024-12-12T12:32:11Z
 100001507,100000446,Frank,Nguyen,frank.nguyen@datasciencesystems.com,FALSE,2024-12-12T14:11:21Z
+100001508,100001013,Nathan,Huynh,nathan.huynh@aimergizeco.com,TRUE,2024-12-13T11:03:17Z
+100001509,100001014,Lydia,Yin,lydia.yin@techmindalliance.com,TRUE,2024-12-13T23:32:38Z
+100001510,100001015,Chloe,Rivera,chloe.rivera@dataguideco.com,TRUE,2024-12-13T19:22:02Z
+100001511,100001016,Leo,Fischer,leo.fischer@aiwavegroup.com,TRUE,2024-12-13T03:23:48Z
+100001512,100001017,Lily,Gonzalez,lily.gonzalez@datasystemsco.com,TRUE,2024-12-13T22:01:30Z
+100001513,100000875,Lucas,Liu,lucas.liu@innovisionlabs.com,FALSE,2024-12-13T07:12:47Z
+100001514,100000248,Julia,Kim,julia.kim@datasensecorp.com,FALSE,2024-12-13T15:15:27Z
