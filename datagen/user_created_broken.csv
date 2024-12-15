@@ -1513,3 +1513,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001512,100001017,Lily,Gonzalez,lily.gonzalez@datasystemsco.com,TRUE,2024-12-13T22:01:30Z
 100001513,100000875,Lucas,Liu,lucas.liu@innovisionlabs.com,FALSE,2024-12-13T07:12:47Z
 100001514,100000248,Julia,Kim,julia.kim@datasensecorp.com,FALSE,2024-12-13T15:15:27Z
+100001515,100001018,Asher,Rodriguez,asher.rodriguez@datasciencegeniuses.com,TRUE,2024-12-14T17:38:56Z
+100001516,100001019,Levi,Shah,levi.shah@infobit.com,TRUE,2024-12-14T04:43:49Z
+100001517,100001020,Emma,Garcia,emma.garcia@datasciencesys.com,TRUE,2024-12-14T00:51:11Z
+100001518,100001021,Liam,Turner,liam.turner@intelligentsystems.io,TRUE,2024-12-14T20:12:48Z
+100001519,100001022,Natalie,Wong,nataliew@techgenie.io,TRUE,2024-12-14T18:52:25Z
+100001520,100000147,Simon,Huang,simon.huang@datafuture.co,FALSE,2024-12-14T19:43:52Z
+100001521,100000577,Elijah,Reign,elijah.reign@aiinnova.com,FALSE,2024-12-14T04:08:06Z
