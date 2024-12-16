@@ -504,3 +504,5 @@ org_id,event_timestamp,activity,plan,price,deployment
 100000440,2024-12-13T14:26:51Z,subscribed,Business,399,On-prem
 100000560,2024-12-14T12:55:02Z,subscribed,Team,99,On-prem
 100000955,2024-12-14T01:20:06Z,subscribed,Team,99,On-prem
+100000873,2024-12-15T06:49:17Z,subscribed,Business,399,On-prem
+100000902,2024-12-15T17:41:59Z,subscribed,Business,399,On-prem
