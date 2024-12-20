@@ -1540,3 +1540,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001539,100001034,Benjamin,Hill,benjamin.hill@datavolt.ai,TRUE,2024-12-18T18:44:38Z
 100001540,100000863,Jackson,King,jackson.king@datascientistco.com,FALSE,2024-12-18T02:38:14Z
 100001541,100000024,Sophie,Rossi,sophie.rossi@digitaldataexperts.com,FALSE,2024-12-18T17:36:56Z
+100001542,100001035,Scarlett,Rivera,scarlett.rivera@intellidataio.com,TRUE,2024-12-19T13:01:11Z
+100001543,100001036,Max,Smith,maxsmith@algorithmia.net,TRUE,2024-12-19T09:32:27Z
+100001544,100001037,Sebastian,Fu,sebastian.fu@datascopes.io,TRUE,2024-12-19T20:02:50Z
+100001545,100001038,Gabriel,Chu,gabriel.chu@mindfuldataworks.com,TRUE,2024-12-19T15:33:46Z
+100001546,100001039,Neveah,Barua,neveah.barua@dataprodigytechs.com,TRUE,2024-12-19T13:48:56Z
+100001547,100000842,Mateo,Tran,mateo.tran@datastrivecorp.com,FALSE,2024-12-19T23:41:30Z
+100001548,100000597,Aiden,Chen,aiden.chen@aiontechsolutions.com,FALSE,2024-12-19T06:45:59Z
