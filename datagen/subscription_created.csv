@@ -513,3 +513,5 @@ org_id,event_timestamp,activity,plan,price,deployment
 100000321,2024-12-18T10:39:21Z,subscribed,Business,399,On-prem
 100000529,2024-12-19T01:46:39Z,subscribed,Business,399,On-prem
 100000808,2024-12-19T10:04:31Z,subscribed,Team,99,On-prem
+100000804,2024-12-20T21:58:38Z,subscribed,Business,399,On-prem
+100000685,2024-12-20T20:01:40Z,subscribed,Team,99,On-prem
