@@ -1553,3 +1553,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001552,100001043,Luna,Sullivan,luna.sullivan@techmeld.com,TRUE,2024-12-20T13:29:21Z
 100001553,100000273,Amelia,Gan,amelia.gan@datavisionix.com,FALSE,2024-12-20T00:19:09Z
 100001554,100000694,Oliver,Martinez,oliver.martinez@techsilo.io,FALSE,2024-12-20T10:20:19Z
+100001555,100001044,James,Kim,james.kim@techlogic.io,TRUE,2024-12-21T19:02:22Z
+100001556,100001045,Charlotte,Tran,charlotte.tran@databrainiacs.net,TRUE,2024-12-21T00:34:53Z
+100001557,100001046,Madison,Peterson,madison.peterson@techvedainc.com,TRUE,2024-12-21T00:17:53Z
+100001558,100000222,Grace,Lopez,grace.lopez@techdataintelligenceinc.com,FALSE,2024-12-21T22:27:51Z
+100001559,100000166,Maya,Wang,maya.wang@analytxsolutions.com,FALSE,2024-12-21T01:35:07Z
