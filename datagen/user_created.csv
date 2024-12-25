@@ -1570,3 +1570,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001569,100001054,James,Baker,james.baker@bigdataforge.com,TRUE,2024-12-23T17:34:56Z
 100001570,100000692,Caleb,Young,caleb.young@digianalytics.com,FALSE,2024-12-23T15:36:16Z
 100001571,100000281,Violet,Martinez,violet.martinez@datafusionworks.com,FALSE,2024-12-23T23:21:16Z
+100001572,100001055,Penelope,Sinha,penelope@datascript.com,TRUE,2024-12-24T15:37:51Z
+100001573,100001056,Jaxon,Costa,j.costa@smartdataforge.com,TRUE,2024-12-24T18:15:31Z
+100001574,100001057,Benjamin,Smith,benjamin.smith@aiinovatecorp.com,TRUE,2024-12-24T00:03:19Z
+100001575,100001058,Tyler,Bautista,tyler.bautista@datasync.ai,TRUE,2024-12-24T03:32:00Z
+100001576,100000951,Oscar,Sharma,oscar.sharma@digitalinsightlabs.com,FALSE,2024-12-24T01:25:19Z
