@@ -1575,3 +1575,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001574,100001057,Benjamin,Smith,benjamin.smith@aiinovatecorp.com,TRUE,2024-12-24T00:03:19Z
 100001575,100001058,Tyler,Bautista,tyler.bautista@datasync.ai,TRUE,2024-12-24T03:32:00Z
 100001576,100000951,Oscar,Sharma,oscar.sharma@digitalinsightlabs.com,FALSE,2024-12-24T01:25:19Z
+100001577,100001059,Isla,Lee,isla.lee@datavistaai.com,TRUE,2024-12-25T00:04:08Z
+100001578,100001060,Isaac,Nguyen,isaac.nguyen@synthetixsolutions.com,TRUE,2024-12-25T15:17:24Z
+100001579,100001061,Ava,Martinez,ava.martinez@analytechgroup.com,TRUE,2024-12-25T10:05:58Z
+100001580,100000748,Amelia,Gonzalez,amelia.gonzalez@visualtechsolutions.com,FALSE,2024-12-25T07:46:16Z
+100001581,100000195,Leon,Ngo,leon.ngo@neuronova.com,FALSE,2024-12-25T16:43:15Z
