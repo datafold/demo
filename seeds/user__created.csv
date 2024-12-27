@@ -1580,3 +1580,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001579,100001061,Ava,Martinez,ava.martinez@analytechgroup.com,TRUE,2024-12-25T10:05:58Z
 100001580,100000748,Amelia,Gonzalez,amelia.gonzalez@visualtechsolutions.com,FALSE,2024-12-25T07:46:16Z
 100001581,100000195,Leon,Ngo,leon.ngo@neuronova.com,FALSE,2024-12-25T16:43:15Z
+100001582,100001062,Eva,Johnson,eva.johnson@datalyticspace.com,TRUE,2024-12-26T19:04:01Z
+100001583,100001063,Sofia,Douglas,sofia@datalytixco.com,TRUE,2024-12-26T01:56:50Z
+100001584,100001064,Emily,Thompson,emily.thompson@dataviewsdirect.com,TRUE,2024-12-26T15:11:10Z
+100001585,100001065,Griffin,Fletcher,griffin.fletcher@codebytehub.co,TRUE,2024-12-26T03:32:48Z
+100001586,100000007,Lucy,Yang,lucy.yang@datamindlabs.com,FALSE,2024-12-26T11:46:36Z
+100001587,100000580,Elena,Raj,elena.raj@quantumdataworks.com,FALSE,2024-12-26T05:07:01Z
