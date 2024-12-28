@@ -1586,3 +1586,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001585,100001065,Griffin,Fletcher,griffin.fletcher@codebytehub.co,TRUE,2024-12-26T03:32:48Z
 100001586,100000007,Lucy,Yang,lucy.yang@datamindlabs.com,FALSE,2024-12-26T11:46:36Z
 100001587,100000580,Elena,Raj,elena.raj@quantumdataworks.com,FALSE,2024-12-26T05:07:01Z
+100001588,100001066,William,Ma,william.ma@techbrain.co,TRUE,2024-12-27T06:24:37Z
+100001589,100001067,Nathan,Patel,nathan.patel@datascala.com,TRUE,2024-12-27T01:46:34Z
+100001590,100001068,Natalie,Diaz,n.t.diaz@cognoquest.ai,TRUE,2024-12-27T02:36:21Z
+100001591,100001069,Landon,Patel,landon.patel@visionarydataworks.com,TRUE,2024-12-27T12:34:29Z
+100001592,100001070,Michael,Reyes,michaelr@techlogyworks.com,TRUE,2024-12-27T02:20:17Z
+100001593,100000237,Milo,Zhang,milo.zhang@cybersynapse.com,FALSE,2024-12-27T02:03:08Z
+100001594,100000057,Elijah,Wu,elijah.wu@analyticinsightsco.com,FALSE,2024-12-27T13:55:55Z
