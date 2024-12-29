@@ -1593,3 +1593,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001592,100001070,Michael,Reyes,michaelr@techlogyworks.com,TRUE,2024-12-27T02:20:17Z
 100001593,100000237,Milo,Zhang,milo.zhang@cybersynapse.com,FALSE,2024-12-27T02:03:08Z
 100001594,100000057,Elijah,Wu,elijah.wu@analyticinsightsco.com,FALSE,2024-12-27T13:55:55Z
+100001595,100001071,Ethan,Wong,ethan.wong@techspark.biz,TRUE,2024-12-28T00:47:29Z
+100001596,100001072,Colin,Sato,colin.sato@datavortexsys.com,TRUE,2024-12-28T22:15:03Z
+100001597,100001073,Yvonne,Lee,ylee@visionarydatainc.com,TRUE,2024-12-28T07:05:46Z
+100001598,100001074,Margaret,Ford,margaret.ford@analytify.net,TRUE,2024-12-28T16:37:01Z
+100001599,100000734,Jackson,Zhu,jackson.zhu@analyticai.com,FALSE,2024-12-28T12:26:18Z
+100001600,100000678,Nora,Patel,nora.patel@digiforge.com,FALSE,2024-12-28T18:27:02Z
