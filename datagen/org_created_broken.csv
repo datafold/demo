@@ -1080,3 +1080,7 @@ org_id,org_name,domain,employee_range,created_at
 100001079,Data Dash Inc,datadashinc.com,100-249,2024-12-30T17:17:56Z
 100001080,Data Tech Corp,datatechcorp.com,100-249,2024-12-30T17:32:10Z
 100001081,InfoCog,infocog.com,250-499,2024-12-30T07:03:39Z
+100001082,Data Minds,dataminds.io,25-49,2024-12-31T16:24:25Z
+100001083,Analytech Solutions,analytechsolutions.com,50-99,2024-12-31T14:30:56Z
+100001084,Algorithmica,algorithmica.co,25-49,2024-12-31T23:36:09Z
+100001085,Data Synaptic Labs,datasynapticlabs.com,100-249,2024-12-31T08:04:08Z
