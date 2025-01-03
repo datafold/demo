@@ -1621,3 +1621,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001620,100001088,Sofia,Rao,sofia.rao@techfusionlabs.com,TRUE,2025-01-01T00:58:10Z
 100001621,100000257,Sage,Rathore,sage.rathore@techdataco.com,FALSE,2025-01-01T06:42:35Z
 100001622,100001018,Emma,Sanders,emma.sanders@datasciencegeniuses.com,FALSE,2025-01-01T04:17:59Z
+100001627,100000611,Carter,Gomez,carter.gomez$digimindworks.com,FALSE,2025-01-02T09:38:34Z
+100001623,100001089,Benjamin,Wright,benjamin.wright@aiinsighttech.com,TRUE,2025-01-02T23:30:08Z
+100001624,100001090,Ivy,Lam,ivy.lam@analytixtech.io,TRUE,2025-01-02T08:51:46Z
+100001625,100001091,Michael,Lee,michael.lee@machinelearningsolutions.com,TRUE,2025-01-02T09:51:28Z
+100001626,100000939,Abigail,Khan,abigail.khan@innov8tech.net,FALSE,2025-01-02T23:27:24Z
