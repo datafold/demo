@@ -1633,3 +1633,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001632,100001096,Amelia,Phan,amelia.phan@analytex.ai,TRUE,2025-01-03T05:48:49Z
 100001633,100000024,Max,Rose,max.rose@digitaldataexperts.com,FALSE,2025-01-03T10:49:06Z
 100001634,100000191,Aria,Lau,aria.lau@digilytics.net,FALSE,2025-01-03T06:55:17Z
+100001635,100001097,Ethan,Sharma,ethan.sharma@datalyze.ai,TRUE,2025-01-04T20:17:31Z
+100001636,100001098,Allison,Rajan,allison.rajan@datamerge.co,TRUE,2025-01-04T02:48:19Z
+100001637,100001099,Simon,Raj,simonraj@techstratadata.com,TRUE,2025-01-04T13:11:43Z
+100001638,100001100,Grace,Price,grace.price@datatechconsult.com,TRUE,2025-01-04T14:43:19Z
+100001639,100000789,Michael,Bai,michael.bai@neurodataco.com,FALSE,2025-01-04T13:17:30Z
