@@ -1638,3 +1638,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001637,100001099,Simon,Raj,simonraj@techstratadata.com,TRUE,2025-01-04T13:11:43Z
 100001638,100001100,Grace,Price,grace.price@datatechconsult.com,TRUE,2025-01-04T14:43:19Z
 100001639,100000789,Michael,Bai,michael.bai@neurodataco.com,FALSE,2025-01-04T13:17:30Z
+100001640,100001101,Richard,Sharma,richard.sharma@advancedatasci.com,TRUE,2025-01-05T17:33:46Z
+100001641,100001102,Alexander,Garcia,alexandergarcia@intellectechs.com,TRUE,2025-01-05T17:27:46Z
+100001642,100001103,David,Martinez,david.martinez@datascape.net,TRUE,2025-01-05T21:37:46Z
+100001643,100000463,Milo,Pham,milo.pham@neuralscope.com,FALSE,2025-01-05T13:20:31Z
+100001644,100000100,Maya,Bush,maya.bush@datavibesinc.com,FALSE,2025-01-05T01:34:54Z
