@@ -1643,3 +1643,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001642,100001103,David,Martinez,david.martinez@datascape.net,TRUE,2025-01-05T21:37:46Z
 100001643,100000463,Milo,Pham,milo.pham@neuralscope.com,FALSE,2025-01-05T13:20:31Z
 100001644,100000100,Maya,Bush,maya.bush@datavibesinc.com,FALSE,2025-01-05T01:34:54Z
+100001645,100001104,Sofia,Hernandez,s.hernandez@bigdataexperts.com,TRUE,2025-01-06T11:39:53Z
+100001646,100001105,Zara,Patel,zara.patel@infotechai.com,TRUE,2025-01-06T09:55:17Z
+100001647,100001106,Vincent,Wang,vincent@datadreamworks.com,TRUE,2025-01-06T23:16:16Z
+100001648,100001107,Olivia,Wang,olivia.wang@aihub.tech,TRUE,2025-01-06T01:02:10Z
+100001649,100001108,Gabriel,Naidu,gabriel.naidu@analytricity.io,TRUE,2025-01-06T04:00:15Z
+100001650,100000960,Mia,Adams,mia.adams@digitalinsight.co,FALSE,2025-01-06T10:18:29Z
+100001651,100000544,Eliana,Tran,eliana.tran@logixinsight.com,FALSE,2025-01-06T23:31:20Z
