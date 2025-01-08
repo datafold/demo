@@ -1650,3 +1650,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001649,100001108,Gabriel,Naidu,gabriel.naidu@analytricity.io,TRUE,2025-01-06T04:00:15Z
 100001650,100000960,Mia,Adams,mia.adams@digitalinsight.co,FALSE,2025-01-06T10:18:29Z
 100001651,100000544,Eliana,Tran,eliana.tran@logixinsight.com,FALSE,2025-01-06T23:31:20Z
+100001652,100001109,Marco,Chang,marco.chang@codebrainiacs.io,TRUE,2025-01-07T14:21:35Z
+100001653,100001110,Aaron,Watson,aaron.watson@innovatexdata.com,TRUE,2025-01-07T18:40:37Z
+100001654,100001111,Aria,Tran,aria.tran@datasciencelabs.org,TRUE,2025-01-07T00:55:44Z
+100001655,100001112,Mason,Liu,mason.liu@techsparkle.net,TRUE,2025-01-07T01:11:38Z
+100001656,100001113,Daniel,Klein,d.klein@bigdataops.com,TRUE,2025-01-07T21:52:46Z
+100001657,100000368,Elijah,Rossi,elijah.rossi@quantuminsight.com,FALSE,2025-01-07T12:18:29Z
+100001658,100000328,Riley,Kim,riley.kim@techveya.com,FALSE,2025-01-07T20:20:15Z
