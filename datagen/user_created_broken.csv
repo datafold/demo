@@ -1657,3 +1657,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001656,100001113,Daniel,Klein,d.klein@bigdataops.com,TRUE,2025-01-07T21:52:46Z
 100001657,100000368,Elijah,Rossi,elijah.rossi@quantuminsight.com,FALSE,2025-01-07T12:18:29Z
 100001658,100000328,Riley,Kim,riley.kim@techveya.com,FALSE,2025-01-07T20:20:15Z
+100001659,100001114,Matthew,Nguyen,matthew.nguyen@techinsightslab.net,TRUE,2025-01-08T19:11:22Z
+100001660,100001115,William,Brown,william.brown@techanalytica.com,TRUE,2025-01-08T11:37:46Z
+100001661,100001116,Owen,Wallace,owen.wallace@artificialintellicorp.com,TRUE,2025-01-08T15:44:48Z
+100001662,100001117,Aurora,Park,aurora.park@datomatrixsolutions.com,TRUE,2025-01-08T02:07:50Z
+100001663,100000543,Henry,James,henry.james@intellidataworks.com,FALSE,2025-01-08T15:53:04Z
+100001664,100000245,Victor,Yan,victor.yan@analytiverse.co,FALSE,2025-01-08T18:24:29Z
