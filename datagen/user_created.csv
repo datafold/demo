@@ -1663,3 +1663,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001662,100001117,Aurora,Park,aurora.park@datomatrixsolutions.com,TRUE,2025-01-08T02:07:50Z
 100001663,100000543,Henry,James,henry.james@intellidataworks.com,FALSE,2025-01-08T15:53:04Z
 100001664,100000245,Victor,Yan,victor.yan@analytiverse.co,FALSE,2025-01-08T18:24:29Z
+100001665,100001118,Harper,Lim,harper.lim@cyberbyte.io,TRUE,2025-01-09T01:28:44Z
+100001666,100001119,Joseph,Collins,joseph.collins@aidrift.net,TRUE,2025-01-09T18:49:10Z
+100001667,100001120,Elle,Yang,elle.yang@techstractor.com,TRUE,2025-01-09T22:08:07Z
+100001668,100001121,Olivia,Brown,olivia.brown@aiinnovates.com,TRUE,2025-01-09T10:13:07Z
+100001669,100000899,Eli,Roberts,eli.roberts@visionairetech.com,FALSE,2025-01-09T00:48:54Z
+100001670,100000422,Eli,Singh,eli.singh@logictech.com,FALSE,2025-01-09T08:02:10Z
