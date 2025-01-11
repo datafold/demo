@@ -1669,3 +1669,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001668,100001121,Olivia,Brown,olivia.brown@aiinnovates.com,TRUE,2025-01-09T10:13:07Z
 100001669,100000899,Eli,Roberts,eli.roberts@visionairetech.com,FALSE,2025-01-09T00:48:54Z
 100001670,100000422,Eli,Singh,eli.singh@logictech.com,FALSE,2025-01-09T08:02:10Z
+100001671,100001122,Leo,Perez,leo.perez@insightlens.co,TRUE,2025-01-10T02:06:00Z
+100001672,100001123,Cameron,Singh,cameron.singh@techengineerco.com,TRUE,2025-01-10T10:20:39Z
+100001673,100001124,Claire,Ng,claire.ng@dataninja.io,TRUE,2025-01-10T17:41:58Z
+100001674,100000831,Penelope,Adams,penelope.adams@neurosciencesys.com,FALSE,2025-01-10T22:24:09Z
+100001675,100000950,Ben,Techtonic,ben.techtonic@datasoftworks.com,FALSE,2025-01-10T07:12:19Z
