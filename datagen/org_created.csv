@@ -1123,3 +1123,6 @@ org_id,org_name,domain,employee_range,created_at
 100001122,Insight Lens,insightlens.co,1000+,2025-01-10T02:06:00Z
 100001123,Tech Engineer Co,techengineerco.com,1000+,2025-01-10T10:20:39Z
 100001124,Data Ninja,dataninja.io,100-249,2025-01-10T17:41:58Z
+100001125,Analytical Data Solve,analyticaldatasolve.com,10-24,2025-01-11T05:10:57Z
+100001126,Deep Data Labs,deepdatalabs.com,50-99,2025-01-11T04:12:02Z
+100001127,Datascript,datascript.io,25-49,2025-01-11T10:20:15Z

@@ -1674,3 +1674,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001673,100001124,Claire,Ng,claire.ng@dataninja.io,TRUE,2025-01-10T17:41:58Z
 100001674,100000831,Penelope,Adams,penelope.adams@neurosciencesys.com,FALSE,2025-01-10T22:24:09Z
 100001675,100000950,Ben,Techtonic,ben.techtonic@datasoftworks.com,FALSE,2025-01-10T07:12:19Z
+100001676,100001125,Emerson,Mak,emerson.mak@analyticaldatasolve.com,TRUE,2025-01-11T05:10:57Z
+100001677,100001126,Everly,Lin,elin@deepdatalabs.com,TRUE,2025-01-11T04:12:02Z
+100001678,100001127,Ryan,Griffin,ryan.griffin@datascript.io,TRUE,2025-01-11T10:20:15Z
+100001679,100000629,Daniel,Patel,daniel.patel@aiexpertise.com,FALSE,2025-01-11T00:41:36Z
+100001680,100000260,David,Rivera,david.rivera@cyberhub.io,FALSE,2025-01-11T16:25:24Z
