@@ -1679,3 +1679,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001678,100001127,Ryan,Griffin,ryan.griffin@datascript.io,TRUE,2025-01-11T10:20:15Z
 100001679,100000629,Daniel,Patel,daniel.patel@aiexpertise.com,FALSE,2025-01-11T00:41:36Z
 100001680,100000260,David,Rivera,david.rivera@cyberhub.io,FALSE,2025-01-11T16:25:24Z
+100001681,100001128,Grace,Alexander,grace.alexander@datablueprintinc.com,TRUE,2025-01-12T14:44:25Z
+100001682,100001129,Landon,Fisher,landon.fisher@datalytix.com,TRUE,2025-01-12T13:51:26Z
+100001683,100001130,Liam,Morris,liam.morris@techmavenanalytics.com,TRUE,2025-01-12T10:00:59Z
+100001684,100001038,Sophia,Nova,sophia.nova@mindfuldataworks.com,FALSE,2025-01-12T21:33:25Z
+100001685,100000285,Mia,Ooi,mia.ooi@cyberinovate.com,FALSE,2025-01-12T08:00:05Z
