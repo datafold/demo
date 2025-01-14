@@ -1684,3 +1684,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001683,100001130,Liam,Morris,liam.morris@techmavenanalytics.com,TRUE,2025-01-12T10:00:59Z
 100001684,100001038,Sophia,Nova,sophia.nova@mindfuldataworks.com,FALSE,2025-01-12T21:33:25Z
 100001685,100000285,Mia,Ooi,mia.ooi@cyberinovate.com,FALSE,2025-01-12T08:00:05Z
+100001686,100001131,Rowan,Ironwood,rowan.ironwood@kognitif.ai,TRUE,2025-01-13T15:00:35Z
+100001687,100001132,Luke,Perez,luke.perez@techdatawave.com,TRUE,2025-01-13T21:45:03Z
+100001688,100001133,Chloe,Jain,chloe.jain@bytechain.com,TRUE,2025-01-13T03:42:01Z
+100001689,100001134,Christopher,Mendoza,christopher.mendoza@databurst.net,TRUE,2025-01-13T06:24:37Z
+100001690,100001135,Hazel,Gupta,hazel.gupta@datagrove.com,TRUE,2025-01-13T15:16:59Z
+100001691,100000749,Grace,Chen,grace.chen@cognicode.com,FALSE,2025-01-13T13:27:51Z
+100001692,100000445,Oliver,Chung,oliver.chung@datafusiontechs.org,FALSE,2025-01-13T11:29:00Z
