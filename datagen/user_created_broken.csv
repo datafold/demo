@@ -1691,3 +1691,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001690,100001135,Hazel,Gupta,hazel.gupta@datagrove.com,TRUE,2025-01-13T15:16:59Z
 100001691,100000749,Grace,Chen,grace.chen@cognicode.com,FALSE,2025-01-13T13:27:51Z
 100001692,100000445,Oliver,Chung,oliver.chung@datafusiontechs.org,FALSE,2025-01-13T11:29:00Z
+100001693,100001136,Daniel,Lee,daniel.lee@quantumdata.ai,TRUE,2025-01-14T10:16:41Z
+100001694,100001137,Julian,Tse,julian.tse@algorithmspace.com,TRUE,2025-01-14T08:31:31Z
+100001695,100001138,Madison,Liu,madison.liu@cognitivetechsolutions.com,TRUE,2025-01-14T22:40:12Z
+100001696,100000044,Hazel,Ironwood,hazel.ironwood@datagenie.com,FALSE,2025-01-14T16:45:11Z
+100001697,100000877,Nora,Heng,nora.heng@datascienceco.com,FALSE,2025-01-14T10:19:50Z

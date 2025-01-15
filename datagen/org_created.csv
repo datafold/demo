@@ -1134,3 +1134,6 @@ org_id,org_name,domain,employee_range,created_at
 100001133,Byte Chain,bytechain.com,50-99,2025-01-13T03:42:01Z
 100001134,Data Burst,databurst.net,250-499,2025-01-13T06:24:37Z
 100001135,Data Grove,datagrove.com,25-49,2025-01-13T15:16:59Z
+100001136,Quantum Data,quantumdata.ai,1000+,2025-01-14T10:16:41Z
+100001137,Algorithm Space,algorithmspace.com,250-499,2025-01-14T08:31:31Z
+100001138,Cognitive Tech Solutions,cognitivetechsolutions.com,100-249,2025-01-14T22:40:12Z
