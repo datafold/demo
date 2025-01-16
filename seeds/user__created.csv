@@ -1696,3 +1696,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001695,100001138,Madison,Liu,madison.liu@cognitivetechsolutions.com,TRUE,2025-01-14T22:40:12Z
 100001696,100000044,Hazel,Ironwood,hazel.ironwood@datagenie.com,FALSE,2025-01-14T16:45:11Z
 100001697,100000877,Nora,Heng,nora.heng@datascienceco.com,FALSE,2025-01-14T10:19:50Z
+100001700,100001141,Joshua,Lim,joshualim$techbeam.co,TRUE,2025-01-15T05:40:55Z
+100001698,100001139,Kai,Sanchez,kaisanchez@datamapworks.com,TRUE,2025-01-15T18:04:12Z
+100001699,100001140,Gabriella,Chowdhury,gabriella.chowdhury@datamavenlab.com,TRUE,2025-01-15T15:50:14Z
+100001701,100000387,Isabella,Price,isabella.price@datadiveai.com,FALSE,2025-01-15T11:31:58Z
+100001702,100000021,Isla,Kumar,isla.kumar@algozon.ai,FALSE,2025-01-15T03:04:07Z
