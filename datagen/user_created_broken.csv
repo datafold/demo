@@ -1701,3 +1701,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001699,100001140,Gabriella,Chowdhury,gabriella.chowdhury@datamavenlab.com,TRUE,2025-01-15T15:50:14Z
 100001701,100000387,Isabella,Price,isabella.price@datadiveai.com,FALSE,2025-01-15T11:31:58Z
 100001702,100000021,Isla,Kumar,isla.kumar@algozon.ai,FALSE,2025-01-15T03:04:07Z
+100001703,100001142,Levi,Ramirez,levi.ramirez@techdataworks.io,TRUE,2025-01-16T10:14:48Z
+100001704,100001143,Luna,Murray,luna.murray@aidynamics.com,TRUE,2025-01-16T10:39:44Z
+100001705,100001144,James,Gupta,james.gupta@datamatrixsol.com,TRUE,2025-01-16T21:18:43Z
+100001706,100001145,Cassian,Kwok,ckwok@datasphere.com,TRUE,2025-01-16T20:44:23Z
+100001707,100000500,Ariana,Baker,ariana.baker@logicanalyticspro.com,FALSE,2025-01-16T10:06:52Z
+100001708,100001131,Lucy,Martinez,lucy.martinez@kognitif.ai,FALSE,2025-01-16T20:35:02Z
