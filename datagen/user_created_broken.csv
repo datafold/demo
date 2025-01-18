@@ -1707,3 +1707,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001706,100001145,Cassian,Kwok,ckwok@datasphere.com,TRUE,2025-01-16T20:44:23Z
 100001707,100000500,Ariana,Baker,ariana.baker@logicanalyticspro.com,FALSE,2025-01-16T10:06:52Z
 100001708,100001131,Lucy,Martinez,lucy.martinez@kognitif.ai,FALSE,2025-01-16T20:35:02Z
+100001709,100001146,Ivy,Thompson,ithompson@smartdatainsight.com,TRUE,2025-01-17T09:39:38Z
+100001710,100001147,Olivia,Chen,chen.olivia@techspark.io,TRUE,2025-01-17T20:27:51Z
+100001711,100001148,Nova,Hsu,nova.hsu@futuremindtech.com,TRUE,2025-01-17T01:57:55Z
+100001712,100001149,Ethan,Wilson,ethan.wilson@analyticinsightinc.com,TRUE,2025-01-17T21:16:48Z
+100001713,100000923,Mateo,Lam,mateo.lam@logiqinsight.co,FALSE,2025-01-17T01:52:26Z
+100001714,100000369,Zoe,Martinez,zoe.martinez@analyticdatalabs.com,FALSE,2025-01-17T10:39:11Z
