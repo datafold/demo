@@ -1713,3 +1713,11 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001712,100001149,Ethan,Wilson,ethan.wilson@analyticinsightinc.com,TRUE,2025-01-17T21:16:48Z
 100001713,100000923,Mateo,Lam,mateo.lam@logiqinsight.co,FALSE,2025-01-17T01:52:26Z
 100001714,100000369,Zoe,Martinez,zoe.martinez@analyticdatalabs.com,FALSE,2025-01-17T10:39:11Z
+100001715,100001150,Lucas,Murray,lucas.murray@dataxprtsgroup.com,TRUE,2025-01-18T22:40:11Z
+100001716,100001151,Zara,Wang,zarawang@bigdatadive.com,TRUE,2025-01-18T16:22:16Z
+100001717,100001152,Noah,Chu,noah.chu@datadynamiqz.com,TRUE,2025-01-18T15:00:12Z
+100001718,100001153,Avery,Gonzalez,avery.gonzalez@techcognitivesolutions.com,TRUE,2025-01-18T07:30:02Z
+100001719,100001154,Henry,Morris,henry.morris@maestroanalytics.com,TRUE,2025-01-18T13:31:59Z
+100001720,100000741,Ethan,Ramirez,ethan.ramirez@datasciencesync.com,FALSE,2025-01-18T20:42:45Z
+100001721,100001058,Emma,Estrada,emma.estrada@datasync.ai,FALSE,2025-01-18T20:11:13Z
+100001722,100000024,William,Tran,william.tran@digitaldataexperts.com,FALSE,2025-01-18T01:42:59Z
