@@ -1721,3 +1721,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001720,100000741,Ethan,Ramirez,ethan.ramirez@datasciencesync.com,FALSE,2025-01-18T20:42:45Z
 100001721,100001058,Emma,Estrada,emma.estrada@datasync.ai,FALSE,2025-01-18T20:11:13Z
 100001722,100000024,William,Tran,william.tran@digitaldataexperts.com,FALSE,2025-01-18T01:42:59Z
+100001723,100001155,Madison,Price,madison.price@techpulseco.com,TRUE,2025-01-19T17:53:54Z
+100001724,100001156,Lily,Kaur,l.kaur@techmaticsolutions.com,TRUE,2025-01-19T00:53:43Z
+100001725,100001157,Max,Porter,max.porter@aiadvance.com,TRUE,2025-01-19T17:30:18Z
+100001726,100000397,Mason,Gordon,mason.gordon@datasolve.com,FALSE,2025-01-19T17:54:18Z
+100001727,100000719,Amelia,Lin,amelia.lin@datalearnersco.com,FALSE,2025-01-19T07:47:36Z
