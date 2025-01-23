@@ -1812,4 +1812,5 @@ nc_test_row_count:
       table: DEMO.CORE.DIM__ORGS
       metric: row_count
     schedule:
-      cron: 0 0 * * *
+      interval:
+        every: hour
