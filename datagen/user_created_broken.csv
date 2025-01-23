@@ -1739,3 +1739,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001738,100001165,Lily,Foster,lily.foster@cyberworks.com,TRUE,2025-01-21T21:29:10Z
 100001739,100000888,Julian,Tang,julian.tang@datadash.ai,FALSE,2025-01-21T03:52:22Z
 100001740,100000182,Amelia,Iyer,amelia.iyer@analyzestreamsinc.com,FALSE,2025-01-21T20:56:59Z
+100001746,100000377,Lily,Fisher,lily.fisher$algoritechnet.com,FALSE,2025-01-22T18:39:31Z
+100001741,100001166,Felix,Phoenix,felixp@cyberdyno.io,TRUE,2025-01-22T15:24:33Z
+100001742,100001167,Gabriel,Shah,gabriel.shah@datadashinsight.com,TRUE,2025-01-22T01:33:24Z
+100001743,100001168,Elise,Patel,elise.patel@datadex.tech,TRUE,2025-01-22T04:21:12Z
+100001744,100001169,Leo,Tech,leo.tech@analytitechdata.com,TRUE,2025-01-22T07:40:59Z
+100001745,100000995,Margaret,Babu,margaret.babu@automatedinsightsco.com,FALSE,2025-01-22T01:46:18Z
