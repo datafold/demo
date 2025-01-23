@@ -1804,13 +1804,13 @@ monitors:
 ### NICK TESTS ###
 
   nc_test_row_count:
-      type: metric
-      enabled: true
-      connection_id: 4932
-      metric:
-        type: table
-        table: DEMO.CORE.DIM__ORGS
-        metric: row_count
-      schedule:
-        interval:
-          every: hour
+    type: metric
+    enabled: true
+    connection_id: 4932
+    metric:
+      type: table
+      table: DEMO.CORE.DIM__ORGS
+      metric: row_count
+    schedule:
+      interval:
+        every: hour
