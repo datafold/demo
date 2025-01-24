@@ -1745,3 +1745,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001744,100001169,Leo,Tech,leo.tech@analytitechdata.com,TRUE,2025-01-22T07:40:59Z
 100001745,100000995,Margaret,Babu,margaret.babu@automatedinsightsco.com,FALSE,2025-01-22T01:46:18Z
 100001746,100000377,Lily,Fisher,lily.fisher@algoritechnet.com,FALSE,2025-01-22T18:39:31Z
+100001747,100001170,James,Khan,james.khan@techmonix.com,TRUE,2025-01-23T07:11:34Z
+100001748,100001171,Christopher,Bailey,christopher.bailey@datascientistech.com,TRUE,2025-01-23T16:59:53Z
+100001749,100001172,Bella,Patel,bella.patel@codeanalyticspro.com,TRUE,2025-01-23T10:35:06Z
+100001750,100001173,Alice,Smith,alice.smith@datatechcorps.com,TRUE,2025-01-23T02:00:58Z
+100001751,100000990,Simon,Baker,simon.baker@cipherdatacorp.com,FALSE,2025-01-23T10:33:29Z
+100001752,100000399,Rowan,Watson,rowan.watson@analytixsphere.com,FALSE,2025-01-23T12:46:03Z
