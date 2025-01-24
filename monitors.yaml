@@ -1812,5 +1812,4 @@ monitors:
       table: DEMO.CORE.DIM__ORGS
       metric: row_count
     schedule:
-      interval:
-        every: hour
+      cron: 0 0 * * *
