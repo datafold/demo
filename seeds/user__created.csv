@@ -1751,3 +1751,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001750,100001173,Alice,Smith,alice.smith@datatechcorps.com,TRUE,2025-01-23T02:00:58Z
 100001751,100000990,Simon,Baker,simon.baker@cipherdatacorp.com,FALSE,2025-01-23T10:33:29Z
 100001752,100000399,Rowan,Watson,rowan.watson@analytixsphere.com,FALSE,2025-01-23T12:46:03Z
+100001753,100001174,Scarlett,Mitchell,scarlettm@techblaze.com,TRUE,2025-01-24T19:44:56Z
+100001754,100001175,Mason,Lee,mason.lee@roboticdataco.com,TRUE,2025-01-24T22:44:23Z
+100001755,100001176,William,Stewart,william.stewart@cloudsoftwaresolutions.com,TRUE,2025-01-24T17:27:13Z
+100001756,100001177,Maya,Nguyen,maya.nguyen@analytixio.com,TRUE,2025-01-24T10:33:46Z
+100001757,100000131,Emma,Das,emma.das@techdataalgorithmssystems.com,FALSE,2025-01-24T06:22:47Z
+100001758,100000066,Zoe,Rodriguez,zoe.rodriguez@quantifytechgroup.com,FALSE,2025-01-24T07:41:56Z
