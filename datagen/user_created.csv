@@ -1757,3 +1757,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001756,100001177,Maya,Nguyen,maya.nguyen@analytixio.com,TRUE,2025-01-24T10:33:46Z
 100001757,100000131,Emma,Das,emma.das@techdataalgorithmssystems.com,FALSE,2025-01-24T06:22:47Z
 100001758,100000066,Zoe,Rodriguez,zoe.rodriguez@quantifytechgroup.com,FALSE,2025-01-24T07:41:56Z
+100001759,100001178,Grace,Collins,gcollins@aiwavez.org,TRUE,2025-01-25T06:44:19Z
+100001760,100001179,Ella,Lim,ella.lim@bytecore.com,TRUE,2025-01-25T12:56:16Z
+100001761,100001180,Zara,Chow,zara@neuroshiftco.com,TRUE,2025-01-25T16:36:22Z
+100001762,100001181,Leo,Liu,leoliu@cloudanalytica.com,TRUE,2025-01-25T11:59:49Z
+100001763,100001182,Sebastian,Cooper,sebastian.cooper@datasciencehub.com,TRUE,2025-01-25T19:46:32Z
+100001764,100000567,Rina,Williams,rina.williams@cloudiaconsulting.com,FALSE,2025-01-25T13:26:43Z
+100001765,100000743,Harper,Joyner,harper.joyner@cybersightsolutions.com,FALSE,2025-01-25T07:20:46Z
