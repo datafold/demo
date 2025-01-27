@@ -1764,3 +1764,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001762,100001181,Leo,Liu,leoliu@cloudanalytica.com,TRUE,2025-01-25T11:59:49Z
 100001763,100001182,Sebastian,Cooper,sebastian.cooper@datasciencehub.com,TRUE,2025-01-25T19:46:32Z
 100001764,100000567,Rina,Williams,rina.williams@cloudiaconsulting.com,FALSE,2025-01-25T13:26:43Z
+100001766,100001183,Vincent,Ho,vincent.ho@datavigorai.com,TRUE,2025-01-26T21:38:35Z
+100001767,100001184,Isabella,Clark,isabellaclark@intellicoresystem.com,TRUE,2025-01-26T06:06:02Z
+100001768,100001185,Joseph,Gonzalez,joseph.g@datalynxai.com,TRUE,2025-01-26T22:23:00Z
+100001769,100001186,Zara,Huang,zara.huang@analyzercloud.com,TRUE,2025-01-26T15:00:31Z
+100001770,100000290,Finn,Price,finn.price@codeinnovate.com,FALSE,2025-01-26T00:38:25Z
+100001771,100000345,Eva,Leung,eva.leung@techdatafusion.io,FALSE,2025-01-26T11:48:43Z
+100001772,100000772,Mason,Chang,mason.chang@techmindlab.com,FALSE,2025-01-26T11:40:11Z
