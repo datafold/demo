@@ -1771,3 +1771,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001770,100000290,Finn,Price,finn.price@codeinnovate.com,FALSE,2025-01-26T00:38:25Z
 100001771,100000345,Eva,Leung,eva.leung@techdatafusion.io,FALSE,2025-01-26T11:48:43Z
 100001772,100000772,Mason,Chang,mason.chang@techmindlab.com,FALSE,2025-01-26T11:40:11Z
+100001773,100001187,Theodore,Morgan,t.morgan@dataroboticsai.com,TRUE,2025-01-27T22:05:52Z
+100001774,100001188,Nova,Choi,nova.choi@datatrialtech.com,TRUE,2025-01-27T07:50:58Z
+100001775,100001189,Ryan,Liu,ryan.liu@datavizionary.com,TRUE,2025-01-27T00:18:50Z
+100001776,100000695,Finn,Morris,finn.morris@innovativedatacorp.com,FALSE,2025-01-27T08:10:21Z
+100001777,100000254,Elijah,Rivera,elijah.rivera@insightdatalabs.com,FALSE,2025-01-27T10:34:32Z
