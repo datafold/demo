@@ -1776,3 +1776,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001775,100001189,Ryan,Liu,ryan.liu@datavizionary.com,TRUE,2025-01-27T00:18:50Z
 100001776,100000695,Finn,Morris,finn.morris@innovativedatacorp.com,FALSE,2025-01-27T08:10:21Z
 100001777,100000254,Elijah,Rivera,elijah.rivera@insightdatalabs.com,FALSE,2025-01-27T10:34:32Z
+100001778,100001190,Sophia,Zhang,sophia.zhang@solutionsphere.com,TRUE,2025-01-28T06:34:15Z
+100001779,100001191,Emma,Patel,emma.patel@datascientifyinc.com,TRUE,2025-01-28T05:46:59Z
+100001780,100001192,Hadley,Brooks,hadley.brooks@analyscape.com,TRUE,2025-01-28T04:25:31Z
+100001781,100001193,Elena,Lin,elinalin@codeinfinitum.com,TRUE,2025-01-28T10:34:09Z
+100001782,100001097,Mia,Wong,mia.wong@datalyze.ai,FALSE,2025-01-28T11:25:00Z
+100001783,100000220,Nathan,Wilson,nathan.wilson@datamindsinc.com,FALSE,2025-01-28T21:22:28Z
