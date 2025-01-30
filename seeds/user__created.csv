@@ -1782,3 +1782,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001781,100001193,Elena,Lin,elinalin@codeinfinitum.com,TRUE,2025-01-28T10:34:09Z
 100001782,100001097,Mia,Wong,mia.wong@datalyze.ai,FALSE,2025-01-28T11:25:00Z
 100001783,100000220,Nathan,Wilson,nathan.wilson@datamindsinc.com,FALSE,2025-01-28T21:22:28Z
+100001784,100001194,Elise,Shah,e.shah@techsolutionspro.co,TRUE,2025-01-29T13:57:01Z
+100001785,100001195,Owen,Das,odas@bigdatastrategix.com,TRUE,2025-01-29T14:44:01Z
+100001786,100001196,Sebastian,Harris,sebh@dataquesters.org,TRUE,2025-01-29T20:10:23Z
+100001787,100001197,Leo,Wang,leowang@datasenseco.com,TRUE,2025-01-29T08:09:44Z
+100001788,100000235,Paige,Sharma,paige.sharma@techinsightgroup.com,FALSE,2025-01-29T03:51:59Z
+100001789,100000196,Mason,Morgan,mason.morgan@techfusioninsight.com,FALSE,2025-01-29T20:19:37Z
