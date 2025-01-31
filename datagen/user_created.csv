@@ -1788,3 +1788,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001787,100001197,Leo,Wang,leowang@datasenseco.com,TRUE,2025-01-29T08:09:44Z
 100001788,100000235,Paige,Sharma,paige.sharma@techinsightgroup.com,FALSE,2025-01-29T03:51:59Z
 100001789,100000196,Mason,Morgan,mason.morgan@techfusioninsight.com,FALSE,2025-01-29T20:19:37Z
+100001790,100001198,Ethan,Bennett,ethan.bennett@datadreamteam.biz,TRUE,2025-01-30T02:21:38Z
+100001791,100001199,Ethan,Hayes,ethan.hayes@datalinktech.com,TRUE,2025-01-30T17:47:58Z
+100001792,100001200,Alice,Smith,alice.smith@dataengineersinc.com,TRUE,2025-01-30T10:49:01Z
+100001793,100001201,Joseph,Chu,joseph_chu@aiengineersinc.com,TRUE,2025-01-30T05:18:46Z
+100001794,100001202,Wyatt,Mitchell,wyatt.mitchell@datasystemsolutionsinc.com,TRUE,2025-01-30T12:41:29Z
+100001795,100000939,Ava,Khan,ava.khan@innov8tech.net,FALSE,2025-01-30T03:16:32Z
+100001796,100000332,Scarlett,Das,scarlett.das@datamerge.com,FALSE,2025-01-30T16:55:42Z
