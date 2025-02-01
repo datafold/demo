@@ -1795,3 +1795,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001794,100001202,Wyatt,Mitchell,wyatt.mitchell@datasystemsolutionsinc.com,TRUE,2025-01-30T12:41:29Z
 100001795,100000939,Ava,Khan,ava.khan@innov8tech.net,FALSE,2025-01-30T03:16:32Z
 100001796,100000332,Scarlett,Das,scarlett.das@datamerge.com,FALSE,2025-01-30T16:55:42Z
+100001797,100001203,Simon,Park,simon.park@datacore.co,TRUE,2025-01-31T20:29:56Z
+100001798,100001204,Nora,Klein,nora.klein@analytixpros.com,TRUE,2025-01-31T00:15:30Z
+100001799,100001205,Mila,Ward,milaward@datasolvtech.net,TRUE,2025-01-31T09:09:31Z
+100001800,100001206,Michael,Bell,michael.bell@analytixwave.co,TRUE,2025-01-31T05:36:40Z
+100001801,100001207,Amelia,Powell,amelia.powell@bigbraininsight.com,TRUE,2025-01-31T03:07:32Z
+100001802,100000306,Charlotte,Patel,charlotte.patel@smartbytegroup.com,FALSE,2025-01-31T14:36:23Z
+100001803,100000190,James,Fisher,james.fisher@thedatahub.org,FALSE,2025-01-31T01:19:02Z
