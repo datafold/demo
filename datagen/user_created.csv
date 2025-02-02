@@ -1802,3 +1802,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001801,100001207,Amelia,Powell,amelia.powell@bigbraininsight.com,TRUE,2025-01-31T03:07:32Z
 100001802,100000306,Charlotte,Patel,charlotte.patel@smartbytegroup.com,FALSE,2025-01-31T14:36:23Z
 100001803,100000190,James,Fisher,james.fisher@thedatahub.org,FALSE,2025-01-31T01:19:02Z
+100001804,100001208,Alice,Xu,alicexu@datagenius.io,TRUE,2025-02-01T21:17:59Z
+100001805,100001209,Avery,Young,avery.young@analytixlab.com,TRUE,2025-02-01T17:54:28Z
+100001806,100001210,Hannah,Gordon,hannah.gordon@aihaven.com,TRUE,2025-02-01T20:14:51Z
+100001807,100001211,Madelyn,Khan,madelyn.khan@datascienceaccelerate.com,TRUE,2025-02-01T23:58:54Z
+100001808,100000201,Logan,Sullivan,logan.sullivan@techmeta.com,FALSE,2025-02-01T07:26:50Z
+100001809,100000210,Sasha,Hughes,sasha.hughes@datadronix.co,FALSE,2025-02-01T11:58:57Z
