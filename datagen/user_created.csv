@@ -1820,3 +1820,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001819,100001220,Madison,Patil,madison.patil@dataplusplus.co,TRUE,2025-02-03T12:45:01Z
 100001820,100000824,Chloe,Gonzalez,chloe.gonzalez@bitproanalytics.com,FALSE,2025-02-03T02:39:15Z
 100001821,100000353,Sienna,Lam,sienna.lam@datanetixs.co,FALSE,2025-02-03T14:01:35Z
+100001822,100001221,Julia,Sanchez,julia.sanchez@dataflowspro.tech,TRUE,2025-02-04T11:01:23Z
+100001823,100001222,Oscar,Gupta,oscar.gupta@aiwaretech.com,TRUE,2025-02-04T02:07:11Z
+100001824,100001223,Henry,Chow,henrychow@datalyfeio.com,TRUE,2025-02-04T22:29:54Z
+100001825,100000734,Ivy,Santos,ivy.santos@analyticai.com,FALSE,2025-02-04T08:33:34Z
+100001826,100000127,Amelia,Chang,amelia.chang@dataspark.com,FALSE,2025-02-04T21:12:50Z
