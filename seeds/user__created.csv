@@ -1825,3 +1825,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001824,100001223,Henry,Chow,henrychow@datalyfeio.com,TRUE,2025-02-04T22:29:54Z
 100001825,100000734,Ivy,Santos,ivy.santos@analyticai.com,FALSE,2025-02-04T08:33:34Z
 100001826,100000127,Amelia,Chang,amelia.chang@dataspark.com,FALSE,2025-02-04T21:12:50Z
+100001827,100001224,Isabella,Thomas,isabella.thomas@algoventures.com,TRUE,2025-02-05T07:37:44Z
+100001828,100001225,Ella,Zhang,ellazhang@aiwise.tech,TRUE,2025-02-05T09:42:42Z
+100001829,100001226,William,Taylor,william.taylor@datalabs.com,TRUE,2025-02-05T23:53:59Z
+100001830,100001017,Joseph,Smith,joseph.smith@datasystemsco.com,FALSE,2025-02-05T12:50:48Z
+100001831,100000252,Aria,Ramirez,aria.ramirez@adaptivemind.ai,FALSE,2025-02-05T11:22:46Z

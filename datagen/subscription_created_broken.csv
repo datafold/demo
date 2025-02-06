@@ -608,3 +608,4 @@ org_id,event_timestamp,activity,plan,price,deployment
 100000879,2025-02-03T15:20:43Z,subscribed,Team,99,On-prem
 100000076,2025-02-04T16:01:58Z,subscribed,Team,-354,On-prem
 100001033,2025-02-04T23:27:28Z,subscribed,Business,399,SaaS
+100000473,2025-02-05T18:54:40Z,subscribed,Team,0,SaaS
