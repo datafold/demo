@@ -1830,3 +1830,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001829,100001226,William,Taylor,william.taylor@datalabs.com,TRUE,2025-02-05T23:53:59Z
 100001830,100001017,Joseph,Smith,joseph.smith@datasystemsco.com,FALSE,2025-02-05T12:50:48Z
 100001831,100000252,Aria,Ramirez,aria.ramirez@adaptivemind.ai,FALSE,2025-02-05T11:22:46Z
+100001832,100001227,Aria,Ho,aria@techscanlabs.com,TRUE,2025-02-06T04:01:14Z
+100001833,100001228,Jasmine,Shah,jasmine.shah@techfuturix.com,TRUE,2025-02-06T12:16:18Z
+100001834,100001229,Owen,Lee,owen.lee@brainwaveinstitute.com,TRUE,2025-02-06T05:56:29Z
+100001835,100001230,Stella,Liu,stella.liu@clouddatalyst.com,TRUE,2025-02-06T03:05:25Z
+100001836,100000164,Alexander,Bell,alexander.bell@aiexpertssolutions.com,FALSE,2025-02-06T20:08:04Z
+100001837,100000022,Brooklyn,Watson,brooklyn.watson@datarevolvesolutions.com,FALSE,2025-02-06T07:45:48Z
