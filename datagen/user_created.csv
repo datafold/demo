@@ -1836,3 +1836,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001835,100001230,Stella,Liu,stella.liu@clouddatalyst.com,TRUE,2025-02-06T03:05:25Z
 100001836,100000164,Alexander,Bell,alexander.bell@aiexpertssolutions.com,FALSE,2025-02-06T20:08:04Z
 100001837,100000022,Brooklyn,Watson,brooklyn.watson@datarevolvesolutions.com,FALSE,2025-02-06T07:45:48Z
+100001838,100001231,Sienna,Gupta,sienna.g@techcruise.net,TRUE,2025-02-07T16:52:43Z
+100001839,100001232,Silas,Frost,silasfrost@algorithmica.com,TRUE,2025-02-07T00:08:47Z
+100001840,100001233,Nora,Johnston,nora.j@datasynaptix.io,TRUE,2025-02-07T06:59:52Z
+100001841,100001234,Isla,Santos,isla.santos@datamindshift.com,TRUE,2025-02-07T00:33:11Z
+100001842,100001235,Ava,Thomas,ava.thomas@digianalytics.ai,TRUE,2025-02-07T23:38:42Z
+100001843,100001070,James,Gupta,james.gupta@techlogyworks.com,FALSE,2025-02-07T02:15:13Z
+100001844,100000895,Mia,Wu,mia.wu@insightfultechsolutions.com,FALSE,2025-02-07T04:40:33Z
