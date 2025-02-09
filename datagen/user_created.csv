@@ -1843,3 +1843,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001842,100001235,Ava,Thomas,ava.thomas@digianalytics.ai,TRUE,2025-02-07T23:38:42Z
 100001843,100001070,James,Gupta,james.gupta@techlogyworks.com,FALSE,2025-02-07T02:15:13Z
 100001844,100000895,Mia,Wu,mia.wu@insightfultechsolutions.com,FALSE,2025-02-07T04:40:33Z
+100001845,100001236,Hannah,Chen,hannahchen@datadiscoverylab.co,TRUE,2025-02-08T12:16:27Z
+100001846,100001237,Harrison,Nguyen,harrison@cyberbytegroup.com,TRUE,2025-02-08T16:07:57Z
+100001847,100001238,Isla,Fisher,isla.fisher@datascripts.org,TRUE,2025-02-08T11:08:23Z
+100001848,100001239,Amelia,Harrison,amelia.harrison@analytickedu.com,TRUE,2025-02-08T22:17:29Z
+100001849,100000142,Noah,Kim,noah.kim@techbrainiacsco.com,FALSE,2025-02-08T21:32:45Z
