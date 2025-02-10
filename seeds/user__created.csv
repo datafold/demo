@@ -1848,3 +1848,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001847,100001238,Isla,Fisher,isla.fisher@datascripts.org,TRUE,2025-02-08T11:08:23Z
 100001848,100001239,Amelia,Harrison,amelia.harrison@analytickedu.com,TRUE,2025-02-08T22:17:29Z
 100001849,100000142,Noah,Kim,noah.kim@techbrainiacsco.com,FALSE,2025-02-08T21:32:45Z
+100001850,100001240,Hannah,Gao,hannah.gao@insightera.biz,TRUE,2025-02-09T23:20:24Z
+100001851,100001241,Isla,Ng,isla.ng@insightdatalabs.org,TRUE,2025-02-09T19:13:59Z
+100001852,100001242,Gabriella,Torres,gtorres@topdataexperts.com,TRUE,2025-02-09T08:31:44Z
+100001853,100000595,Ethan,Vargas,ethan.vargas@techdatagrp.com,FALSE,2025-02-09T15:26:31Z
+100001854,100001120,Logan,Hu,logan.hu@techstractor.com,FALSE,2025-02-09T10:29:09Z
