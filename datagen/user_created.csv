@@ -1853,3 +1853,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001852,100001242,Gabriella,Torres,gtorres@topdataexperts.com,TRUE,2025-02-09T08:31:44Z
 100001853,100000595,Ethan,Vargas,ethan.vargas@techdatagrp.com,FALSE,2025-02-09T15:26:31Z
 100001854,100001120,Logan,Hu,logan.hu@techstractor.com,FALSE,2025-02-09T10:29:09Z
+100001855,100001243,Victoria,Jenkins,victoria.jenkins@aianalyticsforge.tech,TRUE,2025-02-10T13:55:44Z
+100001856,100001244,Charlotte,Gomez,charlotte.gomez@synthetixlaboratories.com,TRUE,2025-02-10T06:56:57Z
+100001857,100001245,Henry,Mathur,henry.mathur@techcoreinsights.com,TRUE,2025-02-10T21:19:36Z
+100001858,100001246,Zane,Jordan,zane.jordan@aisolutionsgroup.com,TRUE,2025-02-10T05:32:36Z
+100001859,100000366,Mila,Haven,mila.haven@databricksolutions.com,FALSE,2025-02-10T15:57:10Z
