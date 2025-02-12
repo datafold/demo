@@ -1858,3 +1858,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001857,100001245,Henry,Mathur,henry.mathur@techcoreinsights.com,TRUE,2025-02-10T21:19:36Z
 100001858,100001246,Zane,Jordan,zane.jordan@aisolutionsgroup.com,TRUE,2025-02-10T05:32:36Z
 100001859,100000366,Mila,Haven,mila.haven@databricksolutions.com,FALSE,2025-02-10T15:57:10Z
+100001860,100001247,Sebastian,Wu,sebastian.wu@datanova.ai,TRUE,2025-02-11T17:17:45Z
+100001861,100001248,Harper,Wong,harper.wong@techinsights.io,TRUE,2025-02-11T19:01:46Z
+100001862,100001249,Nora,Kapadia,nora.kapadia@dataspectraia.com,TRUE,2025-02-11T23:23:07Z
+100001863,100000818,Felix,Feng,felix.feng@aiwizardtech.com,FALSE,2025-02-11T10:42:00Z
+100001864,100001234,Julian,Ong,julian.ong@datamindshift.com,FALSE,2025-02-11T13:15:16Z
