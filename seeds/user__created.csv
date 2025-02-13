@@ -1863,3 +1863,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001862,100001249,Nora,Kapadia,nora.kapadia@dataspectraia.com,TRUE,2025-02-11T23:23:07Z
 100001863,100000818,Felix,Feng,felix.feng@aiwizardtech.com,FALSE,2025-02-11T10:42:00Z
 100001864,100001234,Julian,Ong,julian.ong@datamindshift.com,FALSE,2025-02-11T13:15:16Z
+100001865,100001250,Emma,Smith,emma.smith@datadynamics.com,TRUE,2025-02-12T14:14:54Z
+100001866,100001251,Layla,Lopez,laylal@datamastersinc.com,TRUE,2025-02-12T06:09:13Z
+100001867,100001252,Owen,Venkat,owen.venkat@techcore.com,TRUE,2025-02-12T21:23:37Z
+100001868,100001031,Victoria,Smith,victoria.smith@algorise.net,FALSE,2025-02-12T10:06:39Z
+100001869,100000642,Eva,Patel,eva.patel@digilabsolutions.com,FALSE,2025-02-12T08:16:50Z
