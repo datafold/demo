@@ -1868,3 +1868,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001867,100001252,Owen,Venkat,owen.venkat@techcore.com,TRUE,2025-02-12T21:23:37Z
 100001868,100001031,Victoria,Smith,victoria.smith@algorise.net,FALSE,2025-02-12T10:06:39Z
 100001869,100000642,Eva,Patel,eva.patel@digilabsolutions.com,FALSE,2025-02-12T08:16:50Z
+100001870,100001253,Elizabeth,Wong,elizabethwong@datascapecorp.com,TRUE,2025-02-13T14:28:04Z
+100001871,100001254,Hannah,Kim,hannah.kim@aiwayz.com,TRUE,2025-02-13T07:39:16Z
+100001872,100001255,Mason,Chan,masonch@datascopeai.tech,TRUE,2025-02-13T04:15:14Z
+100001873,100000419,Aria,Thompson,aria.thompson@dataengeniusco.com,FALSE,2025-02-13T23:29:58Z
+100001874,100000585,Avery,Lopez,avery.lopez@datafusiontech.io,FALSE,2025-02-13T15:30:30Z
