@@ -39,7 +39,7 @@ SELECT
     , created_at
     , num_users
     , sub_created_at
-    , case when num_users <= 1 then 'Individual' else sub_plan end as sub_plan
+    , case when num_users <= 2 then 'Individual' else sub_plan end as sub_plan
     , coalesce(price, 0) as sub_price
 FROM orgs
 LEFT JOIN user_count on orgs.org_id = user_count.org_id
