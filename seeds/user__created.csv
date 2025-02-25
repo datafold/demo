@@ -1933,3 +1933,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001932,100001296,Nathan,Martinez,nathan.martinez@intellibit.tech,TRUE,2025-02-23T04:19:59Z
 100001933,100000521,Amelia,Mills,amelia.mills@techdatainsights.com,FALSE,2025-02-23T05:04:38Z
 100001934,100000558,Easton,Hawkins,easton.hawkins@datascienceworks.com,FALSE,2025-02-23T04:38:46Z
+100001935,100001297,Archer,Das,archer.das@datagenix.com,TRUE,2025-02-24T08:34:50Z
+100001936,100001298,Easton,Chavez,eastonc@datanetworkers.com,TRUE,2025-02-24T03:37:49Z
+100001937,100001299,Jack,Gupta,jackgupta@bigdatafusionco.com,TRUE,2025-02-24T21:49:34Z
+100001938,100001300,Zoe,Tay,ztay@techmachina.io,TRUE,2025-02-24T04:26:07Z
+100001939,100001301,Grace,Ao,grace.ao@insightscapeai.com,TRUE,2025-02-24T23:21:37Z
+100001940,100001216,Amelia,Zhang,amelia.zhang@intellitrendco.com,FALSE,2025-02-24T23:42:40Z
+100001941,100000273,Elena,Hawthorne,elena.hawthorne@datavisionix.com,FALSE,2025-02-24T02:31:38Z
