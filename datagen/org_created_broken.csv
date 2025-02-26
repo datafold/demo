@@ -1300,3 +1300,6 @@ org_id,org_name,domain,employee_range,created_at
 100001299,Big Data Fusion Co,bigdatafusionco.com,250-499,2025-02-24T21:49:34Z
 100001300,Tech Machina,techmachina.io,50-99,2025-02-24T04:26:07Z
 100001301,InsightScape AI,insightscapeai.com,0-9,2025-02-24T23:21:37Z
+100001302,Datadex,datadex.co,250-499,2025-02-25T11:25:22Z
+100001303,Cluster Tech Solutions,clustertechsolutions.com,500-1000,2025-02-25T12:26:47Z
+100001304,Datalytics Tech,datalysticstech.com,50-99,2025-02-25T15:48:35Z

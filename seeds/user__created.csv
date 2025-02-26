@@ -1940,3 +1940,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001939,100001301,Grace,Ao,grace.ao@insightscapeai.com,TRUE,2025-02-24T23:21:37Z
 100001940,100001216,Amelia,Zhang,amelia.zhang@intellitrendco.com,FALSE,2025-02-24T23:42:40Z
 100001941,100000273,Elena,Hawthorne,elena.hawthorne@datavisionix.com,FALSE,2025-02-24T02:31:38Z
+100001945,100000287,Cora,Luo,cora.luo$digitaldataworks.com,FALSE,2025-02-25T22:50:11Z
+100001942,100001302,Lucy,Mittal,lucy.mittal@datadex.co,TRUE,2025-02-25T11:25:22Z
+100001943,100001303,Ivy,Cluster,ivy.cluster@clustertechsolutions.com,TRUE,2025-02-25T12:26:47Z
+100001944,100001304,Wendy,Price,w.price@datalysticstech.com,TRUE,2025-02-25T15:48:35Z
+100001946,100000432,Benjamin,Garcia,benjamin.garcia@techpulse.tech,FALSE,2025-02-25T05:44:18Z
+100001947,100000083,Evelyn,Gomez,evelyn.gomez@analyticcloudsolutions.org,FALSE,2025-02-25T20:02:18Z
