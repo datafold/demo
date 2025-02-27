@@ -1946,3 +1946,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001945,100000287,Cora,Luo,cora.luo@digitaldataworks.com,FALSE,2025-02-25T22:50:11Z
 100001946,100000432,Benjamin,Garcia,benjamin.garcia@techpulse.tech,FALSE,2025-02-25T05:44:18Z
 100001947,100000083,Evelyn,Gomez,evelyn.gomez@analyticcloudsolutions.org,FALSE,2025-02-25T20:02:18Z
+100001948,100001305,Theo,Hernandez,t.hernandez@infoinsight.com,TRUE,2025-02-26T17:50:52Z
+100001949,100001306,Maverick,King,maverick.king@techpulse.com,TRUE,2025-02-26T05:08:43Z
+100001950,100001307,Olivia,Martinez,olivia.martinez@databridgecorp.com,TRUE,2025-02-26T17:31:55Z
+100001951,100001308,Hudson,Jones,hudsonjones@infomatica.ai,TRUE,2025-02-26T13:29:49Z
+100001952,100000656,Victoria,Perez,victoria.perez@valorizedata.com,FALSE,2025-02-26T12:34:37Z
+100001953,100000832,James,Wu,james.wu@cloudbrainiacs.com,FALSE,2025-02-26T06:04:34Z
+100001954,100000426,Isabel,Tan,isabel.tan@analyticoasis.com,FALSE,2025-02-26T14:14:58Z
