@@ -1953,3 +1953,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001952,100000656,Victoria,Perez,victoria.perez@valorizedata.com,FALSE,2025-02-26T12:34:37Z
 100001953,100000832,James,Wu,james.wu@cloudbrainiacs.com,FALSE,2025-02-26T06:04:34Z
 100001954,100000426,Isabel,Tan,isabel.tan@analyticoasis.com,FALSE,2025-02-26T14:14:58Z
+100001955,100001309,Nova,Tang,nova.tang@futureai.co,TRUE,2025-02-27T17:24:50Z
+100001956,100001310,Lincoln,Srivastava,lincoln.srivastava@algorise.com,TRUE,2025-02-27T16:40:55Z
+100001957,100001311,Xavier,Yang,xavier.yang@analyticaflow.com,TRUE,2025-02-27T07:41:16Z
+100001958,100001312,Ella,Scott,ella.scott@cloudcomputech.com,TRUE,2025-02-27T22:59:51Z
+100001959,100001313,James,Wong,james.wong@analyticinsights.com,TRUE,2025-02-27T23:55:24Z
+100001960,100000662,Amelia,Wu,amelia.wu@algorithmixlabs.com,FALSE,2025-02-27T10:27:51Z
+100001961,100001168,Astra,Garcia,astra.garcia@datadex.tech,FALSE,2025-02-27T23:13:59Z
