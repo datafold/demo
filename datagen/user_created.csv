@@ -1960,3 +1960,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001959,100001313,James,Wong,james.wong@analyticinsights.com,TRUE,2025-02-27T23:55:24Z
 100001960,100000662,Amelia,Wu,amelia.wu@algorithmixlabs.com,FALSE,2025-02-27T10:27:51Z
 100001961,100001168,Astra,Garcia,astra.garcia@datadex.tech,FALSE,2025-02-27T23:13:59Z
+100001962,100001314,Matthew,Araujo,matthew.araujo@datasurge.com,TRUE,2025-02-28T03:40:32Z
+100001963,100001315,Ella,Singh,ella.singh@techtron.com,TRUE,2025-02-28T15:47:48Z
+100001964,100001316,Oliver,Garcia,oliver@cyberneticsystems.com,TRUE,2025-02-28T15:27:49Z
+100001965,100001317,Harper,Singh,hsingh@dataminehub.io,TRUE,2025-02-28T05:33:26Z
+100001966,100001318,Michael,Jenkins,michael.jenkins@datastreamlabs.com,TRUE,2025-02-28T01:50:14Z
+100001967,100001034,Cole,Jenkins,cole.jenkins@datavolt.ai,FALSE,2025-02-28T00:06:35Z
+100001968,100001168,Rachel,Garcia,rachel.garcia@datadex.tech,FALSE,2025-02-28T05:59:08Z
