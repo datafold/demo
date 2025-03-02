@@ -1967,3 +1967,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001966,100001318,Michael,Jenkins,michael.jenkins@datastreamlabs.com,TRUE,2025-02-28T01:50:14Z
 100001967,100001034,Cole,Jenkins,cole.jenkins@datavolt.ai,FALSE,2025-02-28T00:06:35Z
 100001968,100001168,Rachel,Garcia,rachel.garcia@datadex.tech,FALSE,2025-02-28T05:59:08Z
+100001972,100001322,Alice,Smith,alice.smith$dataverseco.com,TRUE,2025-03-01T00:43:50Z
+100001969,100001319,Jacob,Cooper,jcooper@dataaneurons.com,TRUE,2025-03-01T17:31:57Z
+100001970,100001320,Ivy,Huang,ivy.huang@innovatacorp.com,TRUE,2025-03-01T18:17:18Z
+100001971,100001321,Amelia,Wilson,amelia.wilson@computechlab.net,TRUE,2025-03-01T12:37:01Z
+100001973,100001072,Maya,Smith,maya.smith@datavortexsys.com,FALSE,2025-03-01T01:01:35Z
+100001974,100001152,Landon,Ho,landon.ho@datadynamiqz.com,FALSE,2025-03-01T14:35:10Z
