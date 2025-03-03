@@ -1973,3 +1973,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001971,100001321,Amelia,Wilson,amelia.wilson@computechlab.net,TRUE,2025-03-01T12:37:01Z
 100001973,100001072,Maya,Smith,maya.smith@datavortexsys.com,FALSE,2025-03-01T01:01:35Z
 100001974,100001152,Landon,Ho,landon.ho@datadynamiqz.com,FALSE,2025-03-01T14:35:10Z
+100001975,100001323,Henry,Ramirez,henry.ramirez@insightboldtech.com,TRUE,2025-03-02T04:22:41Z
+100001976,100001324,Peter,Scott,p.scott@machinelearningcorp.com,TRUE,2025-03-02T10:18:39Z
+100001977,100001325,Violet,Chen,violet.chen@mindfuldata.io,TRUE,2025-03-02T21:05:56Z
+100001978,100001017,Hannah,Kang,hannah.kang@datasystemsco.com,FALSE,2025-03-02T00:44:31Z
+100001979,100000917,William,Sinha,william.sinha@dataroboticsco.com,FALSE,2025-03-02T23:38:39Z
