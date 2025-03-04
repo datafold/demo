@@ -21,10 +21,10 @@ feature_usage AS (
 )
 
 SELECT 
-    COUNT(f.ORG_ID)::NUMBER(10,0) AS org_cnt,
-    ANY_VALUE(f.ORG_ID) AS fu_ORG_ID,
-    f.ACTIVITY AS fu_ACTIVITY,
-    s.PLAN AS sc_PLAN
+    COUNT(f.ORG_ID)::NUMBER(10,0) AS "org_cnt",
+    ANY_VALUE(f.ORG_ID)::NUMBER(38,0) AS "fu_ORG_ID",
+    f.ACTIVITY::VARCHAR(16777216) AS "fu_ACTIVITY",
+    s.PLAN::VARCHAR(16777216) AS "sc_PLAN"
 FROM subscription_data s
 JOIN feature_usage f ON f.ORG_ID = s.ORG_ID
 GROUP BY s.PLAN, f.ACTIVITY 
