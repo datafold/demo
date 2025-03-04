@@ -1978,3 +1978,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001977,100001325,Violet,Chen,violet.chen@mindfuldata.io,TRUE,2025-03-02T21:05:56Z
 100001978,100001017,Hannah,Kang,hannah.kang@datasystemsco.com,FALSE,2025-03-02T00:44:31Z
 100001979,100000917,William,Sinha,william.sinha@dataroboticsco.com,FALSE,2025-03-02T23:38:39Z
+100001980,100001326,Natalie,Hsieh,nh@datasystemsinc.com,TRUE,2025-03-03T02:17:05Z
+100001981,100001327,Elijah,Das,edas@brainwaveanalytic.com,TRUE,2025-03-03T14:53:31Z
+100001982,100001328,Ezra,Ferguson,ezra.ferguson@datavoltio.com,TRUE,2025-03-03T01:46:29Z
+100001983,100001329,Isabella,Kim,isabella.kim@aiintelligence.io,TRUE,2025-03-03T18:00:46Z
+100001984,100000540,Aaron,Hudson,aaron.hudson@techcrunchlabs.com,FALSE,2025-03-03T13:42:34Z
+100001985,100001318,Zoey,Liu,zoey.liu@datastreamlabs.com,FALSE,2025-03-03T10:40:07Z
