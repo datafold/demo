@@ -13,6 +13,6 @@ WITH subscription_revenue AS (
 )
 
 SELECT 
-    month::VARCHAR(10) AS month,
-    revenue::NUMBER(10,0) AS revenue
+    revenue::NUMBER(10,0) AS revenue,
+    month::VARCHAR(10) AS month
 FROM subscription_revenue 
