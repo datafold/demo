@@ -1991,3 +1991,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001990,100001334,Jack,Chandra,jack.chandra@techgenix.com,TRUE,2025-03-04T23:24:45Z
 100001991,100000953,Michael,Diaz,michael.diaz@techbrainedge.com,FALSE,2025-03-04T05:54:23Z
 100001992,100001242,Alice,Tan,alice.tan@topdataexperts.com,FALSE,2025-03-04T07:19:02Z
+100001996,100001338,Ivy,Zhao,izhao$dataspark.net,TRUE,2025-03-05T18:36:46Z
+100001993,100001335,Wyatt,Nair,wnair@intellidata.io,TRUE,2025-03-05T14:13:13Z
+100001994,100001336,James,Li,james.li@bytegenix.com,TRUE,2025-03-05T12:08:41Z
+100001995,100001337,Nova,Ferguson,nova.ferguson@datamergeco.net,TRUE,2025-03-05T10:06:03Z
+100001997,100001339,Liam,Perez,liam.perez@analyticstechnologiescorp.com,TRUE,2025-03-05T05:50:20Z
+100001998,100000440,Aaron,Garcia,aaron.garcia@infotechvision.com,FALSE,2025-03-05T19:20:20Z
+100001999,100000850,Colin,Johnson,colin.johnson@datametrica.com,FALSE,2025-03-05T10:46:23Z
