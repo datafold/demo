@@ -1,10 +1,10 @@
-select 1 as col
+{{
+  config(
+    materialized='table'
+  )
+}}
 
--- {{
---   config(
---     materialized='table'
---   )
--- }}
+select 1 as col
 
 -- WITH subscription_revenue AS (
 --     SELECT 
