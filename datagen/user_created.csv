@@ -1998,3 +1998,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100001997,100001339,Liam,Perez,liam.perez@analyticstechnologiescorp.com,TRUE,2025-03-05T05:50:20Z
 100001998,100000440,Aaron,Garcia,aaron.garcia@infotechvision.com,FALSE,2025-03-05T19:20:20Z
 100001999,100000850,Colin,Johnson,colin.johnson@datametrica.com,FALSE,2025-03-05T10:46:23Z
+100002000,100001340,Leo,Cooper,leo.cooper@smartlogic.co,TRUE,2025-03-05T22:32:16Z
+100002001,100001341,Sarah,Garcia,sarahg@datamergeco.com,TRUE,2025-03-06T06:26:19Z
+100002002,100001342,Nora,James,nora.james@analyticinsightgroup.com,TRUE,2025-03-06T03:46:24Z
+100002003,100001343,Roman,Tech,roman.tech@techprosolutions.com,TRUE,2025-03-06T02:33:02Z
+100002004,100001344,Elijah,Santos,elijah.santos@techhub.com,TRUE,2025-03-06T19:04:05Z
+100002005,100000345,Nova,Thomas,nova.thomas@techdatafusion.io,FALSE,2025-03-06T01:52:33Z
+100002006,100000930,Phoenix,Chavez,phoenix.chavez@aiimpact.tech,FALSE,2025-03-06T16:35:51Z
