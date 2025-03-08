@@ -2005,3 +2005,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002004,100001344,Elijah,Santos,elijah.santos@techhub.com,TRUE,2025-03-06T19:04:05Z
 100002005,100000345,Nova,Thomas,nova.thomas@techdatafusion.io,FALSE,2025-03-06T01:52:33Z
 100002006,100000930,Phoenix,Chavez,phoenix.chavez@aiimpact.tech,FALSE,2025-03-06T16:35:51Z
+100002007,100001345,Isabella,Jenkins,isabellaj@dataspacecorp.com,TRUE,2025-03-07T10:48:08Z
+100002008,100001346,Isabella,Thompson,isabella.thompson@cybermindworks.com,TRUE,2025-03-07T03:34:22Z
+100002009,100001347,Ian,Wong,iwong@datalayersolutions.com,TRUE,2025-03-07T02:56:25Z
+100002010,100001348,Sophia,Chen,sophia.chen@codemind.com,TRUE,2025-03-07T18:17:53Z
+100002011,100001349,Oliver,Bailey,o.bailey@dataquesterco.com,TRUE,2025-03-07T20:01:22Z
+100002012,100000305,Harper,Wang,harper.wang@techvisionary.co,FALSE,2025-03-07T21:58:53Z
+100002013,100000824,Aurora,Xu,aurora.xu@bitproanalytics.com,FALSE,2025-03-07T15:37:37Z
