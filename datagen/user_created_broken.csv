@@ -2012,3 +2012,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002011,100001349,Oliver,Bailey,o.bailey@dataquesterco.com,TRUE,2025-03-07T20:01:22Z
 100002012,100000305,Harper,Wang,harper.wang@techvisionary.co,FALSE,2025-03-07T21:58:53Z
 100002013,100000824,Aurora,Xu,aurora.xu@bitproanalytics.com,FALSE,2025-03-07T15:37:37Z
+100002014,100001350,Ryan,Chan,ryan.chan@dataquesters.com,TRUE,2025-03-08T17:32:27Z
+100002015,100001351,Isabella,Lewis,isabella.lewis@uberlogic.ai,TRUE,2025-03-08T21:30:22Z
+100002016,100001352,Emma,Davis,emma.davis@analtyxgroup.com,TRUE,2025-03-08T16:02:43Z
+100002017,100001353,Hannah,Lee,hannah.lee@algoritech.com,TRUE,2025-03-08T10:11:35Z
+100002018,100001354,David,Lee,david.lee@intellipathai.com,TRUE,2025-03-08T23:08:01Z
+100002019,100000266,Harper,Martinez,harper.martinez@smartdatafusiontech.com,FALSE,2025-03-08T09:50:03Z
+100002020,100000414,Olivia,Lam,olivia.lam@quantumscape.ai,FALSE,2025-03-08T01:09:15Z
