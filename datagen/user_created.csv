@@ -2019,3 +2019,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002018,100001354,David,Lee,david.lee@intellipathai.com,TRUE,2025-03-08T23:08:01Z
 100002019,100000266,Harper,Martinez,harper.martinez@smartdatafusiontech.com,FALSE,2025-03-08T09:50:03Z
 100002020,100000414,Olivia,Lam,olivia.lam@quantumscape.ai,FALSE,2025-03-08T01:09:15Z
+100002021,100001355,Camila,Perez,camila.perez@analyticorp.co,TRUE,2025-03-09T07:56:39Z
+100002022,100001356,Mason,Guo,masonguo@intellidatabrain.com,TRUE,2025-03-09T02:10:34Z
+100002023,100001357,Charlotte,Singh,charlotte.singh@aiexcellab.com,TRUE,2025-03-09T00:47:57Z
+100002024,100000627,Rowan,Huang,rowan.huang@datamindz.ai,FALSE,2025-03-09T07:24:50Z
+100002025,100000916,Mia,Ross,mia.ross@datasynapse.io,FALSE,2025-03-09T10:46:39Z
