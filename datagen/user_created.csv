@@ -2024,3 +2024,7 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002023,100001357,Charlotte,Singh,charlotte.singh@aiexcellab.com,TRUE,2025-03-09T00:47:57Z
 100002024,100000627,Rowan,Huang,rowan.huang@datamindz.ai,FALSE,2025-03-09T07:24:50Z
 100002025,100000916,Mia,Ross,mia.ross@datasynapse.io,FALSE,2025-03-09T10:46:39Z
+100002026,100001358,Penelope,Price,penelope.price@insightfulai.com,TRUE,2025-03-10T17:17:56Z
+100002027,100001359,Elijah,Adams,eadams@devdatalabs.com,TRUE,2025-03-10T17:16:07Z
+100002028,100001360,Samuel,Parker,samuel.parker@datalinktechies.com,TRUE,2025-03-10T02:01:05Z
+100002029,100001116,Olivia,Lee,olivia.lee@artificialintellicorp.com,FALSE,2025-03-10T06:13:19Z
