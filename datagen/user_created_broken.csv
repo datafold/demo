@@ -2028,3 +2028,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002027,100001359,Elijah,Adams,eadams@devdatalabs.com,TRUE,2025-03-10T17:16:07Z
 100002028,100001360,Samuel,Parker,samuel.parker@datalinktechies.com,TRUE,2025-03-10T02:01:05Z
 100002029,100001116,Olivia,Lee,olivia.lee@artificialintellicorp.com,FALSE,2025-03-10T06:13:19Z
+100002030,100001361,Beckett,Rao,beckett.rao@techfluentai.com,TRUE,2025-03-11T05:26:54Z
+100002031,100001362,Avery,Perez,avery.perez@datasavvysolutions.com,TRUE,2025-03-11T01:29:00Z
+100002032,100001363,Luna,Zhang,luna.zhang@quantuminsight.co,TRUE,2025-03-11T01:57:12Z
+100002033,100001364,Daniel,Gomez,daniel.gomez@formulogic.co,TRUE,2025-03-11T21:12:26Z
+100002034,100001314,Aurora,Hsu,aurora.hsu@datasurge.com,FALSE,2025-03-11T07:54:21Z
+100002035,100001072,Samantha,Smith,samantha.smith@datavortexsys.com,FALSE,2025-03-11T16:15:40Z
