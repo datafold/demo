@@ -2034,3 +2034,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002033,100001364,Daniel,Gomez,daniel.gomez@formulogic.co,TRUE,2025-03-11T21:12:26Z
 100002034,100001314,Aurora,Hsu,aurora.hsu@datasurge.com,FALSE,2025-03-11T07:54:21Z
 100002035,100001072,Samantha,Smith,samantha.smith@datavortexsys.com,FALSE,2025-03-11T16:15:40Z
+100002036,100001365,Leo,Russell,leo.russell@techlogixgroup.com,TRUE,2025-03-12T06:53:17Z
+100002037,100001366,Daniel,Gomez,daniel.gomez@datascientistsinc.com,TRUE,2025-03-12T21:32:06Z
+100002038,100001367,Luna,Chen,luna.chen@aiinsightful.com,TRUE,2025-03-12T21:05:41Z
+100002039,100001368,Amelia,Baker,amelia.baker@intellectdatasolutions.com,TRUE,2025-03-12T09:49:21Z
+100002040,100001369,Adam,Jones,adamjones@cloudinsights.org,TRUE,2025-03-12T21:45:20Z
+100002041,100000964,James,Fisher,james.fisher@bitsanalytics.com,FALSE,2025-03-12T05:26:57Z
+100002042,100000949,Luna,Sun,luna.sun@cyberdatum.com,FALSE,2025-03-12T12:31:17Z
