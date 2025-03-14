@@ -2041,3 +2041,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002040,100001369,Adam,Jones,adamjones@cloudinsights.org,TRUE,2025-03-12T21:45:20Z
 100002041,100000964,James,Fisher,james.fisher@bitsanalytics.com,FALSE,2025-03-12T05:26:57Z
 100002042,100000949,Luna,Sun,luna.sun@cyberdatum.com,FALSE,2025-03-12T12:31:17Z
+100002043,100001370,Ethan,Nguyen,enguyen@datamindco.com,TRUE,2025-03-13T04:01:58Z
+100002044,100001371,Owen,Wang,owen.wang@analytixtech.co,TRUE,2025-03-13T12:22:08Z
+100002045,100001372,Elijah,Reed,elijah.reed@dataviztechlabs.com,TRUE,2025-03-13T12:17:41Z
+100002046,100001373,Kai,Hsu,kai.hsu@intelliconsultech.com,TRUE,2025-03-13T01:14:14Z
+100002047,100001374,Matthew,Cruz,matthew.cruz@solvitechs.com,TRUE,2025-03-13T01:22:18Z
+100002048,100000389,Daniel,White,daniel.white@dataviewer.net,FALSE,2025-03-13T05:50:46Z
+100002049,100000833,Bella,Kumar,bella.kumar@datamerge.ai,FALSE,2025-03-13T14:44:10Z
