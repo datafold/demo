@@ -2053,3 +2053,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002052,100001377,Gabriel,Choi,gchoi@datadash.com,TRUE,2025-03-14T10:05:11Z
 100002053,100000588,Aria,Analytics,aria.analytics@techvisionarystech.com,FALSE,2025-03-14T06:02:56Z
 100002054,100000908,Grace,Gonzalez,grace.gonzalez@infodatawave.com,FALSE,2025-03-14T13:46:54Z
+100002055,100001378,Audrey,Yeoh,audreyyeoh@datamindsinnovate.com,TRUE,2025-03-15T11:28:28Z
+100002056,100001379,Ellie,Garcia,ellie.garcia@datajive.co,TRUE,2025-03-15T11:48:53Z
+100002057,100001380,Scarlett,Smith,scarlett.smith@digitalinsights.tech,TRUE,2025-03-15T09:08:17Z
+100002058,100000041,Audrey,Lucas,audrey.lucas@brainwaveinsight.com,FALSE,2025-03-15T14:04:48Z
+100002059,100000637,Avery,Weber,avery.weber@datadrift.com,FALSE,2025-03-15T14:44:40Z
