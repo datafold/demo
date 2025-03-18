@@ -4,6 +4,7 @@
   )
 }}
 
+{% if target.name == 'sf' %}
 WITH subscription_revenue AS (
     SELECT 
         SUBSTR(TO_CHAR((EVENT_TIMESTAMP::TIMESTAMPNTZ)::TIMESTAMPNTZ, 'YYYY-MM'), 0, 10) AS month,
@@ -16,3 +17,8 @@ SELECT
     revenue::NUMBER(10,0) AS revenue,
     month::VARCHAR(10) AS month
 FROM subscription_revenue 
+
+
+{% else %}
+SELECT 1 as a
+{% endif %}

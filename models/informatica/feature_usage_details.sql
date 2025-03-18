@@ -4,6 +4,7 @@
   )
 }}
 
+{% if target.name == 'sf' %}
 WITH org_data AS (
     SELECT 
         ORG_ID::DOUBLE AS ORG_ID,
@@ -33,3 +34,8 @@ SELECT
     o.CREATED_AT::TIMESTAMPNTZ AS "OC_CREATED_AT"
 FROM feature_usage f
 JOIN org_data o ON f.ORG_ID = o.ORG_ID 
+
+
+{% else %}
+SELECT 1 as a
+{% endif %}

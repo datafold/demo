@@ -4,6 +4,7 @@
   )
 }}
 
+{% if target.name == 'sf' %}
 WITH subscription_data AS (
     SELECT 
         ORG_ID::DOUBLE AS ORG_ID,
@@ -28,3 +29,8 @@ SELECT
 FROM subscription_data s
 JOIN feature_usage f ON f.ORG_ID = s.ORG_ID
 GROUP BY s.PLAN, f.ACTIVITY 
+
+
+{% else %}
+SELECT 1 as a
+{% endif %}
