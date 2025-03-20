@@ -2077,3 +2077,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002076,100001393,Hazel,Kang,hazel.kang@insightdatamind.com,TRUE,2025-03-18T08:54:34Z
 100002077,100000777,Wade,Taylor,wade.taylor@synthiadatagroup.com,FALSE,2025-03-18T02:34:25Z
 100002078,100000653,Mila,Davis,mila.davis@databright.com,FALSE,2025-03-18T05:10:39Z
+100002079,100001394,Iris,Li,iris.li@analyzcoretech.com,TRUE,2025-03-19T06:10:01Z
+100002080,100001395,Luna,Nguyen,luna.nguyen@datavisionaries.net,TRUE,2025-03-19T18:22:35Z
+100002081,100001396,Aria,Li,aria.li@techanalytix.co,TRUE,2025-03-19T17:04:57Z
+100002082,100001397,Grace,Lai,grace.lai@intellitronics.io,TRUE,2025-03-19T04:37:33Z
+100002083,100001398,Max,Mitchell,max.mitchell@quantumtechs.io,TRUE,2025-03-19T23:34:31Z
+100002084,100000654,Charlotte,Huang,charlotte.huang@datasciencelabs.com,FALSE,2025-03-19T09:09:40Z
+100002085,100000114,Harper,Brown,harper.brown@spacedataco.com,FALSE,2025-03-19T03:54:32Z
