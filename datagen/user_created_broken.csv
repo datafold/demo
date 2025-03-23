@@ -2095,3 +2095,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002094,100001406,Mia,Torres,mia.torres@quantafys.io,TRUE,2025-03-21T22:39:48Z
 100002095,100001054,Dylan,Adams,dylan.adams@bigdataforge.com,FALSE,2025-03-21T18:37:37Z
 100002096,100001382,Jasper,Sanders,jasper.sanders@datalyticsgrid.com,FALSE,2025-03-21T17:27:23Z
+100002097,100001407,Aria,Ramirez,aria.ramirez@technolytix.net,TRUE,2025-03-22T22:09:54Z
+100002098,100001408,Scarlett,Reyes,scarlett.reyes@datumtechnologiesco.com,TRUE,2025-03-22T07:48:07Z
+100002099,100001409,Kaiden,Bryant,kaiden.bryant@datavantagelab.com,TRUE,2025-03-22T14:51:47Z
+100002100,100001410,Ella,Shen,ellashen@dataventuresco.com,TRUE,2025-03-22T08:34:08Z
+100002101,100000934,Avery,Johnson,avery.johnson@aiaccelerate.com,FALSE,2025-03-22T23:35:01Z
+100002102,100000821,Liam,Hsieh,liam.hsieh@databridge.co,FALSE,2025-03-22T00:05:06Z
+100002103,100000618,Sophia,Johnson,sophia.johnson@techalytics.io,FALSE,2025-03-22T23:55:33Z
