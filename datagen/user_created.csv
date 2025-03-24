@@ -2102,3 +2102,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002101,100000934,Avery,Johnson,avery.johnson@aiaccelerate.com,FALSE,2025-03-22T23:35:01Z
 100002102,100000821,Liam,Hsieh,liam.hsieh@databridge.co,FALSE,2025-03-22T00:05:06Z
 100002103,100000618,Sophia,Johnson,sophia.johnson@techalytics.io,FALSE,2025-03-22T23:55:33Z
+100002104,100001411,Sophia,Chang,sophia@datasciencetechs.com,TRUE,2025-03-23T18:36:04Z
+100002105,100001412,Ariana,Kapoor,ariana.kapoor@datanamics.io,TRUE,2025-03-23T00:32:36Z
+100002106,100001413,Ava,Wilson,ava.wilson@intelligenttechsolutions.com,TRUE,2025-03-23T20:40:51Z
+100002107,100001414,James,Lopez,james.lopez@cyberdatasync.com,TRUE,2025-03-23T22:00:24Z
+100002108,100001415,Olivia,Singh,olivia.singh@datagilitytech.com,TRUE,2025-03-23T13:38:21Z
+100002109,100000895,Nina,Fisher,nina.fisher@insightfultechsolutions.com,FALSE,2025-03-23T20:15:53Z
+100002110,100000264,Aurora,Grant,aurora.grant@datafusioncorp.com,FALSE,2025-03-23T07:01:13Z
