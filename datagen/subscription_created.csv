@@ -700,3 +700,5 @@ org_id,event_timestamp,activity,plan,price,deployment
 100001100,2025-03-22T14:31:50Z,subscribed,Business,399,On-prem
 100000188,2025-03-23T00:32:14Z,subscribed,Business,399,SaaS
 100001204,2025-03-24T01:31:32Z,subscribed,Business,399,On-prem
+100000793,2025-03-25T17:49:16Z,subscribed,Business,399,On-prem
+100000939,2025-03-25T15:21:54Z,subscribed,Business,399,On-prem
