@@ -2120,3 +2120,12 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002119,100001422,Avery,Nguyen,averynguyen@datifyx.co,TRUE,2025-03-25T17:43:46Z
 100002120,100000390,Reagan,Martinez,reagan.martinez@techfuturistics.co,FALSE,2025-03-25T07:38:47Z
 100002121,100001169,Hazel,Martinez,hazel.martinez@analytitechdata.com,FALSE,2025-03-25T00:59:22Z
+100002122,100001423,Maya,Kumar,maya.kumar@neurifytech.com,TRUE,2025-03-25T22:24:32Z
+100002123,100000103,Dylan,Brown,dylan.brown@bitbrainztech.com,FALSE,2025-03-25T19:43:06Z
+100002124,100001424,Hazel,Han,hazel.han@teledatacorp.com,TRUE,2025-03-26T05:29:52Z
+100002125,100001425,Raegan,Kwok,raegank@innowrap.com,TRUE,2025-03-26T12:21:04Z
+100002126,100001426,Amelia,Patel,ameliapatel@algoritechlab.com,TRUE,2025-03-26T22:00:08Z
+100002127,100001427,Violet,Tan,violet.tan@spectradata.com,TRUE,2025-03-26T11:18:35Z
+100002128,100001428,Hannah,Tyson,hannah.tyson@analyticaster.com,TRUE,2025-03-26T17:53:22Z
+100002129,100000768,Thomas,Tan,thomas.tan@bigdataanalytixco.com,FALSE,2025-03-26T17:06:44Z
+100002130,100000872,Wyatt,Kaur,wyatt.kaur@techrainlab.net,FALSE,2025-03-26T12:09:51Z
