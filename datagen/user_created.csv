@@ -2129,3 +2129,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002128,100001428,Hannah,Tyson,hannah.tyson@analyticaster.com,TRUE,2025-03-26T17:53:22Z
 100002129,100000768,Thomas,Tan,thomas.tan@bigdataanalytixco.com,FALSE,2025-03-26T17:06:44Z
 100002130,100000872,Wyatt,Kaur,wyatt.kaur@techrainlab.net,FALSE,2025-03-26T12:09:51Z
+100002131,100001429,Penelope,Huang,penelope.huang@datablazeinc.com,TRUE,2025-03-27T23:46:05Z
+100002132,100001430,Theo,Nguyen,theo.nguyen@datafusionlabs.com,TRUE,2025-03-27T06:20:33Z
+100002133,100001431,Asher,Ng,asher.ng@techvizionconsulting.com,TRUE,2025-03-27T02:29:34Z
+100002134,100001024,Stella,Yeo,stella.yeo@datascopic.ai,FALSE,2025-03-27T14:59:09Z
+100002135,100001063,Marissa,Barnes,marissa.barnes@datalytixco.com,FALSE,2025-03-27T06:37:22Z
