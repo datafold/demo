@@ -2116,7 +2116,7 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002115,100001224,Abigail,Ma,abigail.ma@algoventures.com,FALSE,2025-03-24T09:08:45Z
 100002116,100001419,Ava,Chung,ava.chung@imagineerdataworks.com,TRUE,2025-03-25T02:28:05Z
 100002117,100001420,Lincoln,Hawkins,lincoln.hawkins@datadesignsolutions.net,TRUE,2025-03-25T09:47:37Z
-100002118,100001421,Owen,Trần,owentran@datatrust.io,TRUE,2025-03-25T15:53:19Z
+100002118,100001421,Owen,Tran,owentran@datatrust.io,TRUE,2025-03-25T15:53:19Z
 100002119,100001422,Avery,Nguyen,averynguyen@datifyx.co,TRUE,2025-03-25T17:43:46Z
 100002120,100000390,Reagan,Martinez,reagan.martinez@techfuturistics.co,FALSE,2025-03-25T07:38:47Z
 100002121,100001169,Hazel,Martinez,hazel.martinez@analytitechdata.com,FALSE,2025-03-25T00:59:22Z
