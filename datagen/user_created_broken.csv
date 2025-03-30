@@ -2141,3 +2141,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002140,100001436,Zoe,Green,z.green@deepmindai.com,TRUE,2025-03-28T07:01:48Z
 100002141,100001022,Hazel,Lam,hazel.lam@techgenie.io,FALSE,2025-03-28T11:41:54Z
 100002142,100000405,Levi,Subramanian,levi.subramanian@infolytical.com,FALSE,2025-03-28T08:47:41Z
+100002143,100001437,Jade,Huang,jadeh@datasensegroup.com,TRUE,2025-03-29T07:28:09Z
+100002144,100001438,Mia,Rivera,mrivera@aiacceleratesolutions.com,TRUE,2025-03-29T00:54:18Z
+100002145,100001439,Marco,Yao,marcoyao@smartcitydata.com,TRUE,2025-03-29T05:06:09Z
+100002146,100001440,Scarlett,Gupta,scarlett.gupta@brainydataco.com,TRUE,2025-03-29T12:37:53Z
+100002147,100000668,Celeste,Lopez,celeste.lopez@datasense.net,FALSE,2025-03-29T02:52:08Z
+100002148,100001247,Elias,Datapro,elias.datapro@datanova.ai,FALSE,2025-03-29T15:15:12Z
