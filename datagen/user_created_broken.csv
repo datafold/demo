@@ -2147,3 +2147,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002146,100001440,Scarlett,Gupta,scarlett.gupta@brainydataco.com,TRUE,2025-03-29T12:37:53Z
 100002147,100000668,Celeste,Lopez,celeste.lopez@datasense.net,FALSE,2025-03-29T02:52:08Z
 100002148,100001247,Elias,Datapro,elias.datapro@datanova.ai,FALSE,2025-03-29T15:15:12Z
+100002150,100001442,Finn,Chow,finn.chow$dynamicinsight.net,TRUE,2025-03-30T07:12:18Z
+100002149,100001441,Avery,Park,averypark@datavanture.com,TRUE,2025-03-30T08:30:38Z
+100002151,100001443,Carter,Kumar,carter.kumar@innovatedataspace.com,TRUE,2025-03-30T16:24:41Z
+100002152,100001017,Mila,Luna,mila.luna@datasystemsco.com,FALSE,2025-03-30T13:31:19Z
+100002153,100001396,Amelia,Patel,amelia.patel@techanalytix.co,FALSE,2025-03-30T18:26:44Z
