@@ -2152,3 +2152,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002151,100001443,Carter,Kumar,carter.kumar@innovatedataspace.com,TRUE,2025-03-30T16:24:41Z
 100002152,100001017,Mila,Luna,mila.luna@datasystemsco.com,FALSE,2025-03-30T13:31:19Z
 100002153,100001396,Amelia,Patel,amelia.patel@techanalytix.co,FALSE,2025-03-30T18:26:44Z
+100002154,100001444,River,Wang,river.wang@smartinsightdata.com,TRUE,2025-03-31T21:19:01Z
+100002155,100001445,Reid,Wu,reid.wu@sensorydataai.com,TRUE,2025-03-31T17:35:15Z
+100002156,100001446,Daniel,Nguyen,daniel.nguyen@cyberdata.tech,TRUE,2025-03-31T12:00:03Z
+100002157,100000829,Ava,Das,ava.das@quantumdatasystems.com,FALSE,2025-03-31T20:12:35Z
+100002158,100001436,Sofia,Kim,sofia.kim@deepmindai.com,FALSE,2025-03-31T09:05:43Z
