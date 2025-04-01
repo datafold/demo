@@ -128,7 +128,7 @@ monitors:
   xdb_diff__redshift_showflake__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8824
@@ -158,7 +158,7 @@ monitors:
   xdb_diff__redshift_showflake__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8824
@@ -194,7 +194,7 @@ monitors:
     type: diff
     schedule:
       # cron: 10 * * * *
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8182
@@ -225,7 +225,7 @@ monitors:
     type: diff
     schedule:
       # cron: 10 * * * *
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8182
@@ -261,7 +261,7 @@ monitors:
     type: diff
     schedule:
       # cron: 10 * * * *
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8357
@@ -292,7 +292,7 @@ monitors:
     type: diff
     schedule:
       # cron: 10 * * * *
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8357
@@ -328,7 +328,7 @@ monitors:
     type: diff
     schedule:
       # cron: 10 * * * *
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 4932
@@ -359,7 +359,7 @@ monitors:
     type: diff
     schedule:
       # cron: 10 * * * *
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 4932
@@ -394,7 +394,7 @@ monitors:
     type: diff
     schedule:
       # cron: 10 * * * *
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8377
@@ -414,7 +414,7 @@ monitors:
     type: diff
     schedule:
       # cron: 10 * * * *
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8377
@@ -467,7 +467,7 @@ monitors:
   xdb_diff__redshift_databricks__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8824
@@ -497,7 +497,7 @@ monitors:
   xdb_diff__redshift_databricks__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8824
@@ -532,7 +532,7 @@ monitors:
   xdb_diff__mssqlserver_databricks__egress_10M_:
     type: diff
     schedule:
-      cron: 15 15 15 * *
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8182
@@ -562,7 +562,7 @@ monitors:
   xdb_diff__mssqlserver_databricks__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 15 15 15 * *
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8182
@@ -597,7 +597,7 @@ monitors:
   xdb_diff__databricks_databricks__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8357
@@ -627,7 +627,7 @@ monitors:
   xdb_diff__databricks_databricks__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8357
@@ -662,7 +662,7 @@ monitors:
   xdb_diff__snowflake_databricks__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 4932
@@ -692,7 +692,7 @@ monitors:
   xdb_diff__snowflake_databricks__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 4932
@@ -726,7 +726,7 @@ monitors:
   xdb_diff__bigquery_databricks__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8377
@@ -756,7 +756,7 @@ monitors:
   xdb_diff__bigquery_databricks__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8377
@@ -826,7 +826,7 @@ monitors:
   xdb_diff__redshift_redshift__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8824
@@ -856,7 +856,7 @@ monitors:
   xdb_diff__redshift_redshift__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8824
@@ -891,7 +891,7 @@ monitors:
   xdb_diff__mssqlserver_redshift__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8182
@@ -921,7 +921,7 @@ monitors:
   xdb_diff__mssqlserver_redshift__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8182
@@ -956,7 +956,7 @@ monitors:
   xdb_diff__databricks_redshift__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8357
@@ -986,7 +986,7 @@ monitors:
   xdb_diff__databricks_redshift__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8357
@@ -1021,7 +1021,7 @@ monitors:
   xdb_diff__snowflake_redshift__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 4932
@@ -1051,7 +1051,7 @@ monitors:
   xdb_diff__snowflake_redshift__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 4932
@@ -1085,7 +1085,7 @@ monitors:
   xdb_diff__bigquery_redshift__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8377
@@ -1104,7 +1104,7 @@ monitors:
   xdb_diff__bigquery_redshift__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8377
@@ -1146,7 +1146,7 @@ monitors:
   xdb_diff__redshift_bigquery__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8824
@@ -1176,7 +1176,7 @@ monitors:
   xdb_diff__redshift_bigquery__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8824
@@ -1211,7 +1211,7 @@ monitors:
   xdb_diff__mssqlserver_bigquery__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8182
@@ -1241,7 +1241,7 @@ monitors:
   xdb_diff__mssqlserver_bigquery__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8182
@@ -1276,7 +1276,7 @@ monitors:
   xdb_diff__databricks_bigquery__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8357
@@ -1306,7 +1306,7 @@ monitors:
   xdb_diff__databricks_bigquery__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 8357
@@ -1341,7 +1341,7 @@ monitors:
   xdb_diff__snowflake_bigquery__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 4932
@@ -1371,7 +1371,7 @@ monitors:
   xdb_diff__snowflake_bigquery__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 4932
@@ -1405,7 +1405,7 @@ monitors:
   xdb_diff__bigquery_bigquery__egress_10M_:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 9171
@@ -1424,7 +1424,7 @@ monitors:
   xdb_diff__bigquery_bigquery__egress_10M__sampling_0_001:
     type: diff
     schedule:
-      cron: 0 12 * * 1
+      cron: 0 12 1 * *
     datadiff:
       dataset_a:
         connection_id: 9171
@@ -1506,7 +1506,7 @@ monitors:
 #   xdb_diff__redshift_dremio__egress_10M_:
 #     type: diff
 #     schedule:
-#       cron: 0 12 * * 1
+#       cron: 0 12 1 * *
 #     datadiff:
 #       dataset_a:
 #         connection_id: 8824
@@ -1536,7 +1536,7 @@ monitors:
 #   xdb_diff__redshift_dremio__egress_10M__sampling_0_001:
 #     type: diff
 #     schedule:
-#       cron: 0 12 * * 1
+#       cron: 0 12 1 * *
 #     datadiff:
 #       dataset_a:
 #         connection_id: 8824
@@ -1571,7 +1571,7 @@ monitors:
 #   xdb_diff__mssqlserver_dremio__egress_10M_:
 #     type: diff
 #     schedule:
-#       cron: 0 12 * * 1
+#       cron: 0 12 1 * *
 #     datadiff:
 #       dataset_a:
 #         connection_id: 8182
@@ -1601,7 +1601,7 @@ monitors:
 #   xdb_diff__mssqlserver_dremio__egress_10M__sampling_0_001:
 #     type: diff
 #     schedule:
-#       cron: 0 12 * * 1
+#       cron: 0 12 1 * *
 #     datadiff:
 #       dataset_a:
 #         connection_id: 8182
@@ -1636,7 +1636,7 @@ monitors:
 #   xdb_diff__databricks_dremio__egress_10M_:
 #     type: diff
 #     schedule:
-#       cron: 0 12 * * 1
+#       cron: 0 12 1 * *
 #     datadiff:
 #       dataset_a:
 #         connection_id: 8357
@@ -1666,7 +1666,7 @@ monitors:
 #   xdb_diff__databricks_dremio__egress_10M__sampling_0_001:
 #     type: diff
 #     schedule:
-#       cron: 0 12 * * 1
+#       cron: 0 12 1 * *
 #     datadiff:
 #       dataset_a:
 #         connection_id: 8357
@@ -1701,7 +1701,7 @@ monitors:
 #   xdb_diff__snowflake_dremio__egress_10M_:
 #     type: diff
 #     schedule:
-#       cron: 0 12 * * 1
+#       cron: 0 12 1 * *
 #     datadiff:
 #       dataset_a:
 #         connection_id: 4932
@@ -1731,7 +1731,7 @@ monitors:
 #   xdb_diff__snowflake_dremio__egress_10M__sampling_0_001:
 #     type: diff
 #     schedule:
-#       cron: 0 12 * * 1
+#       cron: 0 12 1 * *
 #     datadiff:
 #       dataset_a:
 #         connection_id: 4932
@@ -1765,7 +1765,7 @@ monitors:
   # xdb_diff__dremio_dremio__egress_10M_:
   #   type: diff
   #   schedule:
-  #     cron: 0 12 * * 1
+  #     cron: 0 12 1 * *
   #   datadiff:
   #     dataset_a:
   #       connection_id: 8452
@@ -1784,7 +1784,7 @@ monitors:
   # xdb_diff__dremio_dremio__egress_10M__sampling_0_001:
   #   type: diff
   #   schedule:
-  #     cron: 0 12 * * 1
+  #     cron: 0 12 1 * *
   #   datadiff:
   #     dataset_a:
   #       connection_id: 8452
