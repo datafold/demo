@@ -2157,3 +2157,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002156,100001446,Daniel,Nguyen,daniel.nguyen@cyberdata.tech,TRUE,2025-03-31T12:00:03Z
 100002157,100000829,Ava,Das,ava.das@quantumdatasystems.com,FALSE,2025-03-31T20:12:35Z
 100002158,100001436,Sofia,Kim,sofia.kim@deepmindai.com,FALSE,2025-03-31T09:05:43Z
+100002159,100001447,Christian,Hernandez,chernandez@datamatrixcorp.com,TRUE,2025-04-01T07:09:41Z
+100002160,100001448,Dylan,Zhou,dylan.zhou@datavantix.com,TRUE,2025-04-01T23:14:16Z
+100002161,100001449,Luna,Lin,luna.lin@knowledgify.net,TRUE,2025-04-01T20:24:11Z
+100002162,100000769,Mia,Chen,mia.chen@dataspacelabs.com,FALSE,2025-04-01T14:24:12Z
+100002163,100000196,Ivy,Rogers,ivy.rogers@techfusioninsight.com,FALSE,2025-04-01T19:15:59Z
