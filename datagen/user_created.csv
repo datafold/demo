@@ -2180,3 +2180,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002179,100001462,Milo,Wu,milo.wu@cloudalogic.com,TRUE,2025-04-04T15:03:33Z
 100002180,100000921,Grayson,Lopez,grayson.lopez@technoanalyticsinc.com,FALSE,2025-04-04T14:24:31Z
 100002181,100000708,Aiden,Tang,aiden.tang@datadrivedevelopersco.com,FALSE,2025-04-04T12:22:10Z
+100002182,100001463,Lily,Hawkins,l.hawkins@techpulsegroup.com,TRUE,2025-04-05T17:42:36Z
+100002183,100001464,Benjamin,Nair,ben.nair@logicstridecorp.com,TRUE,2025-04-05T00:27:15Z
+100002184,100001465,Leah,Guo,lguo@datatribeinc.com,TRUE,2025-04-05T21:34:47Z
+100002185,100000555,Grace,Gan,grace.gan@intellitronixai.com,FALSE,2025-04-05T18:31:06Z
+100002186,100000998,Charlotte,Chan,charlotte.chan@logicbyte.co,FALSE,2025-04-05T06:19:01Z
