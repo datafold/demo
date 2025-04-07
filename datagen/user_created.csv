@@ -2185,3 +2185,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002184,100001465,Leah,Guo,lguo@datatribeinc.com,TRUE,2025-04-05T21:34:47Z
 100002185,100000555,Grace,Gan,grace.gan@intellitronixai.com,FALSE,2025-04-05T18:31:06Z
 100002186,100000998,Charlotte,Chan,charlotte.chan@logicbyte.co,FALSE,2025-04-05T06:19:01Z
+100002187,100001466,Mia,Lim,mia.lim@datasphereinc.com,TRUE,2025-04-06T00:37:35Z
+100002188,100001467,Benjamin,Fisher,bfisher@neuraltechworks.com,TRUE,2025-04-06T02:31:28Z
+100002189,100001468,Nora,Long,nora.long@datasciencedevelopersco.com,TRUE,2025-04-06T00:27:16Z
+100002190,100001469,Amelia,Roy,amelia.roy@techmachinelearningco.com,TRUE,2025-04-06T08:35:23Z
+100002191,100001470,Camila,Yang,camilayang@datascripture.com,TRUE,2025-04-06T02:40:16Z
+100002192,100000290,Sophie,Xu,sophie.xu@codeinnovate.com,FALSE,2025-04-06T22:59:34Z
+100002193,100001101,Fiona,Chang,fiona.chang@advancedatasci.com,FALSE,2025-04-06T13:25:37Z
