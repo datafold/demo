@@ -2192,3 +2192,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002191,100001470,Camila,Yang,camilayang@datascripture.com,TRUE,2025-04-06T02:40:16Z
 100002192,100000290,Sophie,Xu,sophie.xu@codeinnovate.com,FALSE,2025-04-06T22:59:34Z
 100002193,100001101,Fiona,Chang,fiona.chang@advancedatasci.com,FALSE,2025-04-06T13:25:37Z
+100002197,100000583,Nicholas,Fisher,nicholas.fisher$datagroovetech.com,FALSE,2025-04-07T02:39:47Z
+100002194,100001471,Avery,Huang,avery.huang@datashifters.co,TRUE,2025-04-07T01:18:37Z
+100002195,100001472,Rachel,Lin,rachel.lin@infotrend.com,TRUE,2025-04-07T00:17:52Z
+100002196,100001473,Julian,Wagner,julianw@techflair.ai,TRUE,2025-04-07T19:18:22Z
+100002198,100000712,James,Bennett,james.bennett@innovatechub.com,FALSE,2025-04-07T10:10:28Z
