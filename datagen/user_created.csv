@@ -2203,3 +2203,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002202,100001477,Lila,Subramanian,lila.subramanian@infinitethera.com,TRUE,2025-04-08T13:28:51Z
 100002203,100000738,Stella,Garcia,stella.garcia@cybersecuritycorp.com,FALSE,2025-04-08T18:11:28Z
 100002204,100001124,Grace,Lopez,grace.lopez@dataninja.io,FALSE,2025-04-08T14:12:18Z
+100002205,100001478,Cooper,Zhang,cooper.zhang@computadatasystems.com,TRUE,2025-04-09T08:00:38Z
+100002206,100001479,Lillian,Boyd,lillian.b@datagraviton.com,TRUE,2025-04-09T02:57:04Z
+100002207,100001480,Ella,Data,ella.data@intellitronix.ai,TRUE,2025-04-09T00:41:29Z
+100002208,100001440,Luna,Kaur,luna.kaur@brainydataco.com,FALSE,2025-04-09T23:50:44Z
+100002209,100000893,Isolde,Sullivan,isolde.sullivan@techsparkle.com,FALSE,2025-04-09T19:02:46Z
