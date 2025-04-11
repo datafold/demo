@@ -2208,3 +2208,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002207,100001480,Ella,Data,ella.data@intellitronix.ai,TRUE,2025-04-09T00:41:29Z
 100002208,100001440,Luna,Kaur,luna.kaur@brainydataco.com,FALSE,2025-04-09T23:50:44Z
 100002209,100000893,Isolde,Sullivan,isolde.sullivan@techsparkle.com,FALSE,2025-04-09T19:02:46Z
+100002210,100001481,Sophia,Garcia,sophia.garcia@techmindset.biz,TRUE,2025-04-10T07:08:28Z
+100002211,100001482,Jackson,Young,jackson.young@quantumdataeng.com,TRUE,2025-04-10T15:00:44Z
+100002212,100001483,Rohan,Patel,rohan.patel@ciphercloud.co,TRUE,2025-04-10T00:01:24Z
+100002213,100001426,Zoey,Wong,zoey.wong@algoritechlab.com,FALSE,2025-04-10T04:29:21Z
+100002214,100000530,Mira,Chen,mira.chen@techmindlab.org,FALSE,2025-04-10T19:30:15Z
