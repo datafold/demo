@@ -2213,3 +2213,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002212,100001483,Rohan,Patel,rohan.patel@ciphercloud.co,TRUE,2025-04-10T00:01:24Z
 100002213,100001426,Zoey,Wong,zoey.wong@algoritechlab.com,FALSE,2025-04-10T04:29:21Z
 100002214,100000530,Mira,Chen,mira.chen@techmindlab.org,FALSE,2025-04-10T19:30:15Z
+100002215,100001484,Aurora,Velasquez,aurorav@infodexa.io,TRUE,2025-04-11T22:23:31Z
+100002216,100001485,Ellie,Yang,ellieyang@techspark.org,TRUE,2025-04-11T05:09:48Z
+100002217,100001486,Luke,Baker,luke.baker@datavanceworks.com,TRUE,2025-04-11T07:23:25Z
+100002218,100001487,Ava,Murphy,ava.murphy@cybermindtech.net,TRUE,2025-04-11T10:32:58Z
+100002219,100000999,Lincoln,Rao,lincoln.rao@analyticstride.com,FALSE,2025-04-11T13:45:08Z
+100002220,100000133,Cooper,Lopez,cooper.lopez@datamine.co,FALSE,2025-04-11T19:14:24Z
