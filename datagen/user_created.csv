@@ -2219,3 +2219,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002218,100001487,Ava,Murphy,ava.murphy@cybermindtech.net,TRUE,2025-04-11T10:32:58Z
 100002219,100000999,Lincoln,Rao,lincoln.rao@analyticstride.com,FALSE,2025-04-11T13:45:08Z
 100002220,100000133,Cooper,Lopez,cooper.lopez@datamine.co,FALSE,2025-04-11T19:14:24Z
+100002221,100001488,Alexander,Nguyen,alexander.nguyen@techdatavisionsinc.com,TRUE,2025-04-12T20:21:14Z
+100002222,100001489,Luna,Patil,l.patil@datamindsetgroup.com,TRUE,2025-04-12T05:11:41Z
+100002223,100001490,Charlie,Huang,charliehuang@datasciencesystems.co,TRUE,2025-04-12T22:43:41Z
+100002224,100001491,Lily,Xu,lily.xu@intellectech.net,TRUE,2025-04-12T13:55:30Z
+100002225,100000576,Isabella,Bailey,isabella.bailey@quantumdatainsight.com,FALSE,2025-04-12T16:19:07Z
