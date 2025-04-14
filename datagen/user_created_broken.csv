@@ -2224,3 +2224,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002222,100001489,Luna,Patil,l.patil@datamindsetgroup.com,TRUE,2025-04-12T05:11:41Z
 100002223,100001490,Charlie,Huang,charliehuang@datasciencesystems.co,TRUE,2025-04-12T22:43:41Z
 100002224,100001491,Lily,Xu,lily.xu@intellectech.net,TRUE,2025-04-12T13:55:30Z
+100002226,100001492,Sofia,Tian,sofia.tian@dataquestcorporation.com,TRUE,2025-04-13T09:01:23Z
+100002227,100001493,Layla,Ray,layla.ray@dataquestai.com,TRUE,2025-04-13T21:13:51Z
+100002228,100001494,Samantha,Chung,samanthac@datascript.net,TRUE,2025-04-13T00:10:36Z
+100002229,100000278,Zara,Chou,zara.chou@techdatascience.com,FALSE,2025-04-13T10:20:03Z
+100002230,100000266,Aria,Rao,aria.rao@smartdatafusiontech.com,FALSE,2025-04-13T03:15:36Z
