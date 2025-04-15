@@ -2229,3 +2229,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002228,100001494,Samantha,Chung,samanthac@datascript.net,TRUE,2025-04-13T00:10:36Z
 100002229,100000278,Zara,Chou,zara.chou@techdatascience.com,FALSE,2025-04-13T10:20:03Z
 100002230,100000266,Aria,Rao,aria.rao@smartdatafusiontech.com,FALSE,2025-04-13T03:15:36Z
+100002231,100001495,Isaac,Anderson,isaac.anderson@cyberguardian.com,TRUE,2025-04-14T04:12:59Z
+100002232,100001496,Avery,Nguyen,avery.nguyen@synapseinsight.com,TRUE,2025-04-14T16:02:13Z
+100002233,100001497,Sophia,Lee,sophia.lee@datasolutions4u.com,TRUE,2025-04-14T04:47:44Z
+100002234,100001498,William,Kim,wkim@mindtechsolutions.com,TRUE,2025-04-14T15:17:07Z
+100002235,100001311,Lily,Sinha,lily.sinha@analyticaflow.com,FALSE,2025-04-14T13:46:27Z
+100002236,100000505,Gabriella,Wu,gabriella.wu@analytico.com,FALSE,2025-04-14T20:08:16Z
