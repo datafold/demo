@@ -2235,3 +2235,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002234,100001498,William,Kim,wkim@mindtechsolutions.com,TRUE,2025-04-14T15:17:07Z
 100002235,100001311,Lily,Sinha,lily.sinha@analyticaflow.com,FALSE,2025-04-14T13:46:27Z
 100002236,100000505,Gabriella,Wu,gabriella.wu@analytico.com,FALSE,2025-04-14T20:08:16Z
+100002237,100001499,Nathan,Miyamoto,miyamoto.n@techbytegenius.com,TRUE,2025-04-15T21:38:48Z
+100002238,100001500,Charlotte,Patel,charlotte.patel@analyticalocity.com,TRUE,2025-04-15T14:46:15Z
+100002239,100001501,Olivia,Increments,olivia.increments@datascripts.com,TRUE,2025-04-15T02:02:40Z
+100002240,100000615,Evelyn,Jiang,evelyn.jiang@dataglobalsync.com,FALSE,2025-04-15T00:58:12Z
+100002241,100001379,Madison,Martinez,madison.martinez@datajive.co,FALSE,2025-04-15T05:51:47Z
