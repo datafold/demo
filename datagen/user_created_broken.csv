@@ -2240,3 +2240,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002239,100001501,Olivia,Increments,olivia.increments@datascripts.com,TRUE,2025-04-15T02:02:40Z
 100002240,100000615,Evelyn,Jiang,evelyn.jiang@dataglobalsync.com,FALSE,2025-04-15T00:58:12Z
 100002241,100001379,Madison,Martinez,madison.martinez@datajive.co,FALSE,2025-04-15T05:51:47Z
+100002242,100001502,Abigail,Fischer,abigailfischer@intelliconnects.com,TRUE,2025-04-16T04:57:51Z
+100002243,100001503,Lucas,Liu,lucasliu@analyticinsightsinc.com,TRUE,2025-04-16T05:28:43Z
+100002244,100001504,Noah,Lee,noah.lee@databytefusion.com,TRUE,2025-04-16T09:55:45Z
+100002245,100001505,Isabella,Tan,isabella.tan@datadynamixlabs.com,TRUE,2025-04-16T16:15:57Z
+100002246,100000155,Colin,Kim,colin.kim@datagrandtech.com,FALSE,2025-04-16T00:10:09Z
+100002247,100001428,Bryce,Wong,bryce.wong@analyticaster.com,FALSE,2025-04-16T22:07:57Z
