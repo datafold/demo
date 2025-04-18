@@ -2246,3 +2246,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002245,100001505,Isabella,Tan,isabella.tan@datadynamixlabs.com,TRUE,2025-04-16T16:15:57Z
 100002246,100000155,Colin,Kim,colin.kim@datagrandtech.com,FALSE,2025-04-16T00:10:09Z
 100002247,100001428,Bryce,Wong,bryce.wong@analyticaster.com,FALSE,2025-04-16T22:07:57Z
+100002248,100001506,Sophie,Martinez,sophie.martinez@dataprismtech.com,TRUE,2025-04-17T13:18:22Z
+100002249,100001507,Lillian,Peterson,lillian.peterson@databridgeai.com,TRUE,2025-04-17T03:22:35Z
+100002250,100001508,Theo,Li,theo.li@datavortexlab.com,TRUE,2025-04-17T02:26:44Z
+100002251,100001509,Mia,Nguyen,mia.nguyen@datascientistpros.com,TRUE,2025-04-17T20:25:38Z
+100002252,100001510,Victoria,Long,v.long@techvisionlabs.com,TRUE,2025-04-17T02:37:12Z
+100002253,100000029,Amelia,Ward,amelia.ward@datalytics.com,FALSE,2025-04-17T02:10:32Z
+100002254,100000895,William,Barnes,william.barnes@insightfultechsolutions.com,FALSE,2025-04-17T04:07:59Z
