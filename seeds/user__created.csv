@@ -2260,3 +2260,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002259,100001515,Kai,Liu,kai.liu@analytx.io,TRUE,2025-04-18T00:23:04Z
 100002260,100001260,Layla,Gibson,layla.gibson@techbytesco.com,FALSE,2025-04-18T08:40:31Z
 100002261,100001494,Ava,Reed,ava.reed@datascript.net,FALSE,2025-04-18T18:23:10Z
+100002262,100001516,Owen,Xie,owen.xie@aiaccelerate.net,TRUE,2025-04-19T17:04:12Z
+100002263,100001517,Ava,Liu,ava.liu@bigdatasquad.co,TRUE,2025-04-19T07:47:55Z
+100002264,100001518,Nora,Shah,nora.shah@moderndata.com,TRUE,2025-04-19T01:51:09Z
+100002265,100000839,Megan,Martinez,megan.martinez@visiondataconsulting.com,FALSE,2025-04-19T08:32:58Z
+100002266,100000827,Sofia,Patel,sofia.patel@predictivedatacloud.com,FALSE,2025-04-19T06:23:40Z
