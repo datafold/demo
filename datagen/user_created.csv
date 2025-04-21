@@ -2265,3 +2265,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002264,100001518,Nora,Shah,nora.shah@moderndata.com,TRUE,2025-04-19T01:51:09Z
 100002265,100000839,Megan,Martinez,megan.martinez@visiondataconsulting.com,FALSE,2025-04-19T08:32:58Z
 100002266,100000827,Sofia,Patel,sofia.patel@predictivedatacloud.com,FALSE,2025-04-19T06:23:40Z
+100002267,100001519,Mia,Nelson,mia.nelson@bigbrainco.com,TRUE,2025-04-20T02:56:52Z
+100002268,100001520,Tom,Wong,t.wong@datatechexperts.com,TRUE,2025-04-20T03:00:05Z
+100002269,100001521,Leo,Garcia,leo.garcia@techmind.co,TRUE,2025-04-20T16:52:24Z
+100002270,100000428,Andrew,Parker,andrew.parker@solvectoai.com,FALSE,2025-04-20T20:23:41Z
+100002271,100000067,Amelia,Kaur,amelia.kaur@techspark.ai,FALSE,2025-04-20T23:00:48Z
