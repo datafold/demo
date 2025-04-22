@@ -2270,3 +2270,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002269,100001521,Leo,Garcia,leo.garcia@techmind.co,TRUE,2025-04-20T16:52:24Z
 100002270,100000428,Andrew,Parker,andrew.parker@solvectoai.com,FALSE,2025-04-20T20:23:41Z
 100002271,100000067,Amelia,Kaur,amelia.kaur@techspark.ai,FALSE,2025-04-20T23:00:48Z
+100002272,100001522,Naomi,Kim,naomi.kim@datavortexsolutions.com,TRUE,2025-04-21T12:33:23Z
+100002273,100001523,Isaac,Chen,isaac.chen@datapulseai.io,TRUE,2025-04-21T11:33:15Z
+100002274,100001524,Alexander,Scott,alexander.scott@aiquest.com,TRUE,2025-04-21T03:47:29Z
+100002275,100001525,Evan,Peters,e.peters@datapulsegroup.io,TRUE,2025-04-21T21:12:24Z
+100002276,100001261,Grace,Gonzalez,grace.gonzalez@datahub.com,FALSE,2025-04-21T06:34:43Z
+100002277,100000803,Evan,Roberts,evan.roberts@datalyze.info,FALSE,2025-04-21T10:26:32Z
+100002278,100001426,Benjamin,Bhatia,benjamin.bhatia@algoritechlab.com,FALSE,2025-04-21T00:07:34Z
