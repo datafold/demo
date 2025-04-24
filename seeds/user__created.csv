@@ -2284,3 +2284,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002283,100000421,Ethan,Chen,ethan.chen@aiworldcorp.com,FALSE,2025-04-22T22:57:42Z
 100002284,100000373,James,Tran,james.tran@datablazeai.com,FALSE,2025-04-22T18:31:00Z
 100002285,100000773,Zoe,Zhang,zoe.zhang@neurocloudsys.com,FALSE,2025-04-22T04:20:20Z
+100002286,100001530,Bryce,Sharma,bryce.sharma@dataprovedinc.com,TRUE,2025-04-23T21:56:27Z
+100002287,100001531,Daisy,Ezhil,daisy.ezhil@mindsetai.com,TRUE,2025-04-23T12:00:13Z
+100002288,100001532,Noah,Tan,ntan@datadynamic.io,TRUE,2025-04-23T01:38:13Z
+100002289,100001533,Wren,Johnson,wren.johnson@intelliconflux.com,TRUE,2025-04-23T00:01:34Z
+100002290,100001534,Kieran,Tang,kieran.tang@techflow.io,TRUE,2025-04-23T18:35:15Z
+100002291,100001345,Wyatt,Tran,wyatt.tran@dataspacecorp.com,FALSE,2025-04-23T01:37:46Z
