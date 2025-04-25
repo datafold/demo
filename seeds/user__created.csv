@@ -2290,3 +2290,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002289,100001533,Wren,Johnson,wren.johnson@intelliconflux.com,TRUE,2025-04-23T00:01:34Z
 100002290,100001534,Kieran,Tang,kieran.tang@techflow.io,TRUE,2025-04-23T18:35:15Z
 100002291,100001345,Wyatt,Tran,wyatt.tran@dataspacecorp.com,FALSE,2025-04-23T01:37:46Z
+100002292,100001535,Oscar,Chen,oscar.chen@techboost.tech,TRUE,2025-04-24T01:04:15Z
+100002293,100001536,Emma,Williams,emma.williams@techsphere.com,TRUE,2025-04-24T15:43:11Z
+100002294,100001537,Jackson,Wu,jackson.wu@datasourcetechs.com,TRUE,2025-04-24T04:49:48Z
+100002295,100001538,Declan,Gomez,declan.gomez@codeinsights.co,TRUE,2025-04-24T00:49:19Z
+100002296,100001539,Oliver,Chen,oliverc@dataviewsolutions.org,TRUE,2025-04-24T17:48:07Z
+100002297,100001126,Elijah,Ward,elijah.ward@deepdatalabs.com,FALSE,2025-04-24T00:34:22Z
+100002298,100000544,Luna,Patil,luna.patil@logixinsight.com,FALSE,2025-04-24T08:50:29Z
