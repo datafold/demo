@@ -2297,3 +2297,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002296,100001539,Oliver,Chen,oliverc@dataviewsolutions.org,TRUE,2025-04-24T17:48:07Z
 100002297,100001126,Elijah,Ward,elijah.ward@deepdatalabs.com,FALSE,2025-04-24T00:34:22Z
 100002298,100000544,Luna,Patil,luna.patil@logixinsight.com,FALSE,2025-04-24T08:50:29Z
+100002299,100001540,Stella,Lam,stellalam@dataninjaforce.com,TRUE,2025-04-25T18:06:35Z
+100002300,100001541,Olivia,Brown,olivia@datasciencedept.com,TRUE,2025-04-25T06:11:14Z
+100002301,100001542,Stella,Rao,srao@datadynamicscorp.com,TRUE,2025-04-25T13:39:54Z
+100002302,100001543,Ethan,Blackwell,ethan.blackwell@techwave.com,TRUE,2025-04-25T23:04:54Z
+100002303,100001544,Mia,Hernandez,mia.hernandez@quantumai.com,TRUE,2025-04-25T02:37:51Z
+100002304,100000086,Xavier,Huang,xavier.huang@brainstormai.io,FALSE,2025-04-25T15:21:30Z
+100002305,100001231,Henry,Kumar,henry.kumar@techcruise.net,FALSE,2025-04-25T22:44:18Z
