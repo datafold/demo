@@ -1543,3 +1543,6 @@ org_id,org_name,domain,employee_range,created_at
 100001542,Data Dynamics Corp,datadynamicscorp.com,0-9,2025-04-25T13:39:54Z
 100001543,Tech Wave,techwave.com,50-99,2025-04-25T23:04:54Z
 100001544,Quantum AI,quantumai.com,250-499,2025-04-25T02:37:51Z
+100001545,Data Dive Corp,datadivecorp.com,250-499,2025-04-26T21:59:29Z
+100001546,Tech ByteScape,techbytescape.com,25-49,2025-04-26T18:52:31Z
+100001547,Algoritech,algoritech.org,250-499,2025-04-26T18:31:00Z

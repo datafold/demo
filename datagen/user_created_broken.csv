@@ -2304,3 +2304,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002303,100001544,Mia,Hernandez,mia.hernandez@quantumai.com,TRUE,2025-04-25T02:37:51Z
 100002304,100000086,Xavier,Huang,xavier.huang@brainstormai.io,FALSE,2025-04-25T15:21:30Z
 100002305,100001231,Henry,Kumar,henry.kumar@techcruise.net,FALSE,2025-04-25T22:44:18Z
+100002306,100001545,Zoe,Morris,zoe.morris@datadivecorp.com,TRUE,2025-04-26T21:59:29Z
+100002307,100001546,Ivy,Gupta,ivygupta@techbytescape.com,TRUE,2025-04-26T18:52:31Z
+100002308,100001547,Henry,Martinez,henry.martinez@algoritech.org,TRUE,2025-04-26T18:31:00Z
+100002309,100001346,Ella,Ramachandran,ella.ramachandran@cybermindworks.com,FALSE,2025-04-26T21:17:58Z
+100002310,100000705,Caleb,Harris,caleb.harris@techgeniuslabs.io,FALSE,2025-04-26T01:27:43Z
