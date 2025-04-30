@@ -2320,3 +2320,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002319,100001554,Madison,Wang,madison.wang@datamegacorp.com,TRUE,2025-04-28T20:59:09Z
 100002320,100000529,Muhammad,Chen,muhammad.chen@datadynamicssolutions.com,FALSE,2025-04-28T13:46:43Z
 100002321,100001161,Daniel,Chang,daniel.chang@datageeks.com,FALSE,2025-04-28T19:18:42Z
+100002322,100001555,Mason,Rajaram,mason.rajaram@datagrove.io,TRUE,2025-04-29T16:39:35Z
+100002323,100001556,Michael,Chung,michael.chung@datatrend.com,TRUE,2025-04-29T18:46:03Z
+100002324,100001557,Oliver,Nguyen,oliver.nguyen@techbyte.net,TRUE,2025-04-29T03:20:57Z
+100002325,100001558,Leo,Wang,leo.wang@techwaretechsolutions.net,TRUE,2025-04-29T18:08:49Z
+100002326,100001531,Daniel,Sharma,daniel.sharma@mindsetai.com,FALSE,2025-04-29T10:56:46Z
+100002327,100001530,Tristan,Lee,tristan.lee@dataprovedinc.com,FALSE,2025-04-29T03:06:05Z
