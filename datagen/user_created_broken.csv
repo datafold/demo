@@ -2326,3 +2326,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002325,100001558,Leo,Wang,leo.wang@techwaretechsolutions.net,TRUE,2025-04-29T18:08:49Z
 100002326,100001531,Daniel,Sharma,daniel.sharma@mindsetai.com,FALSE,2025-04-29T10:56:46Z
 100002327,100001530,Tristan,Lee,tristan.lee@dataprovedinc.com,FALSE,2025-04-29T03:06:05Z
+100002328,100001559,Caleb,Simmons,caleb.simmons@innovativedatasolutions.com,TRUE,2025-04-30T18:46:31Z
+100002329,100001560,Sarah,Jones,sarah.jones@analyticorp.com,TRUE,2025-04-30T22:12:14Z
+100002330,100001561,Benjamin,Ali,b_ali@insightware.io,TRUE,2025-04-30T00:08:07Z
+100002331,100001468,Ian,Ramirez,ian.ramirez@datasciencedevelopersco.com,FALSE,2025-04-30T14:32:09Z
+100002332,100000266,Caleb,Tran,caleb.tran@smartdatafusiontech.com,FALSE,2025-04-30T00:20:14Z
