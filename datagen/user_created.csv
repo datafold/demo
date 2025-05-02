@@ -2331,3 +2331,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002330,100001561,Benjamin,Ali,b_ali@insightware.io,TRUE,2025-04-30T00:08:07Z
 100002331,100001468,Ian,Ramirez,ian.ramirez@datasciencedevelopersco.com,FALSE,2025-04-30T14:32:09Z
 100002332,100000266,Caleb,Tran,caleb.tran@smartdatafusiontech.com,FALSE,2025-04-30T00:20:14Z
+100002333,100001562,Madison,Rao,madison.rao@techbeam.com,TRUE,2025-05-01T21:39:48Z
+100002334,100001563,Mia,Fletcher,mia.fletcher@techgliderinc.com,TRUE,2025-05-01T04:24:54Z
+100002335,100001564,Daniel,Ramirez,dan.ramirez@infoinsightco.com,TRUE,2025-05-01T09:20:56Z
+100002336,100001565,Carter,King,carter.king@infotechllc.com,TRUE,2025-05-01T09:49:38Z
+100002337,100001566,Noah,Jackson,noah.jackson@techinnovizi.com,TRUE,2025-05-01T13:41:35Z
+100002338,100000762,Leah,Martinez,leah.martinez@techdata.co,FALSE,2025-05-01T13:51:55Z
+100002339,100000904,Maya,Tran,maya.tran@techpulse.io,FALSE,2025-05-01T12:32:52Z
