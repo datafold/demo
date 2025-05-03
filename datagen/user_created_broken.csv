@@ -2338,3 +2338,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002337,100001566,Noah,Jackson,noah.jackson@techinnovizi.com,TRUE,2025-05-01T13:41:35Z
 100002338,100000762,Leah,Martinez,leah.martinez@techdata.co,FALSE,2025-05-01T13:51:55Z
 100002339,100000904,Maya,Tran,maya.tran@techpulse.io,FALSE,2025-05-01T12:32:52Z
+100002340,100001567,Owen,Li,owenli@techbrainwaves.org,TRUE,2025-05-02T17:26:45Z
+100002341,100001568,Jack,Wang,jack.w@dataversity.ai,TRUE,2025-05-02T14:26:44Z
+100002342,100001569,Ava,Johnson,ava.johnson@intellexia.com,TRUE,2025-05-02T20:44:37Z
+100002343,100001339,Joseph,Watson,joseph.watson@analyticstechnologiescorp.com,FALSE,2025-05-02T19:36:46Z
+100002344,100001345,Henry,Nguyen,henry.nguyen@dataspacecorp.com,FALSE,2025-05-02T14:53:52Z
