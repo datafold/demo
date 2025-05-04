@@ -2343,3 +2343,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002342,100001569,Ava,Johnson,ava.johnson@intellexia.com,TRUE,2025-05-02T20:44:37Z
 100002343,100001339,Joseph,Watson,joseph.watson@analyticstechnologiescorp.com,FALSE,2025-05-02T19:36:46Z
 100002344,100001345,Henry,Nguyen,henry.nguyen@dataspacecorp.com,FALSE,2025-05-02T14:53:52Z
+100002345,100001570,Isabella,Khan,isabella.k@machinelearninglabs.com,TRUE,2025-05-03T00:05:24Z
+100002346,100001571,Victoria,Yen,victoria.yen@datarange.ai,TRUE,2025-05-03T00:38:35Z
+100002347,100001572,Elijah,Zhou,elijah.zhou@smartdatainsights.com,TRUE,2025-05-03T01:59:32Z
+100002348,100001573,Sophia,Evans,sophia.evans@technovate.co,TRUE,2025-05-03T00:19:11Z
+100002349,100001574,Mateo,Das,mateo.das@datainnovateco.com,TRUE,2025-05-03T05:02:03Z
+100002350,100000507,Rachel,Zhang,rachel.zhang@datagraminstitute.com,FALSE,2025-05-03T05:06:37Z
+100002351,100001270,Ezra,Sharma,ezra.sharma@analytica.ai,FALSE,2025-05-03T01:41:41Z
