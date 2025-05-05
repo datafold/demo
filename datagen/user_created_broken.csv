@@ -2350,3 +2350,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002349,100001574,Mateo,Das,mateo.das@datainnovateco.com,TRUE,2025-05-03T05:02:03Z
 100002350,100000507,Rachel,Zhang,rachel.zhang@datagraminstitute.com,FALSE,2025-05-03T05:06:37Z
 100002351,100001270,Ezra,Sharma,ezra.sharma@analytica.ai,FALSE,2025-05-03T01:41:41Z
+100002352,100001575,Avery,Adams,aadams@databrainiac.com,TRUE,2025-05-04T12:56:50Z
+100002353,100001576,James,Brown,jbrown@algorithmia.io,TRUE,2025-05-04T20:52:31Z
+100002354,100001577,Maya,Trivedi,maya.trivedi@quantumdatahub.com,TRUE,2025-05-04T06:31:00Z
+100002355,100001578,Adam,Zhang,adam.zhang@bigdatalabs.com,TRUE,2025-05-04T07:12:24Z
+100002356,100001579,Ella,Ng,ella.ng@cyberwavegroup.com,TRUE,2025-05-04T05:16:29Z
+100002357,100001348,Henry,Liu,henry.liu@codemind.com,FALSE,2025-05-04T22:18:56Z
