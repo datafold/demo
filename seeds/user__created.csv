@@ -2356,3 +2356,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002355,100001578,Adam,Zhang,adam.zhang@bigdatalabs.com,TRUE,2025-05-04T07:12:24Z
 100002356,100001579,Ella,Ng,ella.ng@cyberwavegroup.com,TRUE,2025-05-04T05:16:29Z
 100002357,100001348,Henry,Liu,henry.liu@codemind.com,FALSE,2025-05-04T22:18:56Z
+100002358,100001580,William,Baker,william.baker@innoinsights.io,TRUE,2025-05-05T14:53:17Z
+100002359,100001581,Nathan,Kim,nathan.kim@datapro.net,TRUE,2025-05-05T17:18:33Z
+100002360,100001582,Lila,Mendoza,lila.mendoza@techbyte.ai,TRUE,2025-05-05T19:27:43Z
+100002361,100001583,Henry,Rodriguez,henryrodriguez@cybernetixsolutions.com,TRUE,2025-05-05T07:11:48Z
+100002362,100000190,Nova,Roberts,nova.roberts@thedatahub.org,FALSE,2025-05-05T05:17:01Z
+100002363,100000548,Leah,Chen,leah.chen@datavantage.ai,FALSE,2025-05-05T22:22:48Z
