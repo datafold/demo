@@ -2362,3 +2362,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002361,100001583,Henry,Rodriguez,henryrodriguez@cybernetixsolutions.com,TRUE,2025-05-05T07:11:48Z
 100002362,100000190,Nova,Roberts,nova.roberts@thedatahub.org,FALSE,2025-05-05T05:17:01Z
 100002363,100000548,Leah,Chen,leah.chen@datavantage.ai,FALSE,2025-05-05T22:22:48Z
+100002364,100001584,Connor,Chow,connor.chow@anovadatalytics.com,TRUE,2025-05-06T18:48:00Z
+100002365,100001585,Addison,Fowler,addison.fowler@datavizicorp.com,TRUE,2025-05-06T22:13:34Z
+100002366,100001586,Avery,Ma,avery.ma@datascapeco.com,TRUE,2025-05-06T11:36:01Z
+100002367,100001587,Nova,Chang,nova.chang@neurovueco.com,TRUE,2025-05-06T15:17:10Z
+100002368,100001588,Joseph,Reed,joseph.reed@datasciencelab.net,TRUE,2025-05-06T08:01:21Z
+100002369,100000487,Hannah,Flynn,hannah.flynn@insightanalytics.com,FALSE,2025-05-06T03:21:28Z
+100002370,100000827,Olivia,Wagner,olivia.wagner@predictivedatacloud.com,FALSE,2025-05-06T22:26:53Z
