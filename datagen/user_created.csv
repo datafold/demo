@@ -2369,3 +2369,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002368,100001588,Joseph,Reed,joseph.reed@datasciencelab.net,TRUE,2025-05-06T08:01:21Z
 100002369,100000487,Hannah,Flynn,hannah.flynn@insightanalytics.com,FALSE,2025-05-06T03:21:28Z
 100002370,100000827,Olivia,Wagner,olivia.wagner@predictivedatacloud.com,FALSE,2025-05-06T22:26:53Z
+100002371,100001589,Bella,Gupta,bella.gupta@brainwaveanalytix.com,TRUE,2025-05-07T00:48:44Z
+100002372,100001590,Leo,Mitchell,leo.mitchell@datacom.co,TRUE,2025-05-07T18:18:25Z
+100002373,100001591,Alina,Ma,alina.ma@techvizionary.com,TRUE,2025-05-07T14:21:38Z
+100002374,100001592,Aria,Das,aria.das@dataflow.com,TRUE,2025-05-07T01:37:43Z
+100002375,100000981,Harper,Chung,harper.chung@cybermindconsulting.com,FALSE,2025-05-07T09:25:07Z
