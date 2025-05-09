@@ -2374,3 +2374,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002373,100001591,Alina,Ma,alina.ma@techvizionary.com,TRUE,2025-05-07T14:21:38Z
 100002374,100001592,Aria,Das,aria.das@dataflow.com,TRUE,2025-05-07T01:37:43Z
 100002375,100000981,Harper,Chung,harper.chung@cybermindconsulting.com,FALSE,2025-05-07T09:25:07Z
+100002376,100001593,Mateo,Cook,mateo.cook@datasciencepartnerco.com,TRUE,2025-05-08T14:14:08Z
+100002377,100001594,Camila,Rodriguez,camila.rodriguez@techknowledgeaicompany.com,TRUE,2025-05-08T20:25:09Z
+100002378,100001595,Ivy,Taylor,ivy.taylor@techfusionworks.com,TRUE,2025-05-08T04:24:01Z
+100002379,100001596,Charlotte,Bailey,charlotte.bailey@advancedai.io,TRUE,2025-05-08T01:02:25Z
+100002380,100001271,Evan,Hernandez,evan.hernandez@dataviewpoint.org,FALSE,2025-05-08T06:38:55Z
