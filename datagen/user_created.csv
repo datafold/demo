@@ -2379,3 +2379,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002378,100001595,Ivy,Taylor,ivy.taylor@techfusionworks.com,TRUE,2025-05-08T04:24:01Z
 100002379,100001596,Charlotte,Bailey,charlotte.bailey@advancedai.io,TRUE,2025-05-08T01:02:25Z
 100002380,100001271,Evan,Hernandez,evan.hernandez@dataviewpoint.org,FALSE,2025-05-08T06:38:55Z
+100002381,100001597,Violet,Crawford,violet.crawford@datametrixgroup.net,TRUE,2025-05-09T03:03:59Z
+100002382,100001598,Callie,Gupta,callie.gupta@dataspirenova.com,TRUE,2025-05-09T15:01:02Z
+100002383,100001599,Sophia,Martinez,sophia.martinez@datascopeinc.com,TRUE,2025-05-09T12:01:10Z
+100002384,100001215,Gabriel,Hsu,gabriel.hsu@aiinova.com,FALSE,2025-05-09T08:34:45Z
+100002385,100001124,Ava,Adams,ava.adams@dataninja.io,FALSE,2025-05-09T19:27:28Z
+100002386,100001529,Hazel,Kapoor,hazel.kapoor@technologicalgorithmscorp.com,FALSE,2025-05-09T15:07:53Z
