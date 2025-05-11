@@ -2385,3 +2385,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002384,100001215,Gabriel,Hsu,gabriel.hsu@aiinova.com,FALSE,2025-05-09T08:34:45Z
 100002385,100001124,Ava,Adams,ava.adams@dataninja.io,FALSE,2025-05-09T19:27:28Z
 100002386,100001529,Hazel,Kapoor,hazel.kapoor@technologicalgorithmscorp.com,FALSE,2025-05-09T15:07:53Z
+100002387,100001600,Lillian,Zhou,lillian.zhou@techwise.co,TRUE,2025-05-10T00:31:39Z
+100002388,100001601,Isabella,Lewis,isabella.lewis@insightfultech.com,TRUE,2025-05-10T01:35:15Z
+100002389,100001602,Eleanor,Ford,eleanor.f@datafluxos.com,TRUE,2025-05-10T00:45:58Z
+100002390,100001603,Oliver,Lee,oliver.lee@datateknet.com,TRUE,2025-05-10T03:46:34Z
+100002391,100000127,Max,Kelly,max.kelly@dataspark.com,FALSE,2025-05-10T23:10:29Z
+100002392,100000829,Zoey,Wang,zoey.wang@quantumdatasystems.com,FALSE,2025-05-10T22:19:49Z
+100002393,100000217,Logan,Foster,logan.foster@datamind.com,FALSE,2025-05-10T15:40:45Z
