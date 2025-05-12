@@ -1602,3 +1602,7 @@ org_id,org_name,domain,employee_range,created_at
 100001601,Insightful Technologies,insightfultech.com,250-499,2025-05-10T01:35:15Z
 100001602,Data Fluxos,datafluxos.com,25-49,2025-05-10T00:45:58Z
 100001603,Data TekNet,datateknet.com,250-499,2025-05-10T03:46:34Z
+100001604,Data Co Group,datacogroup.com,10-24,2025-05-11T20:56:09Z
+100001605,Tech Genius,techgenius.com,0-9,2025-05-11T11:23:05Z
+100001606,Analogix Group,analogixgroup.com,50-99,2025-05-11T18:42:20Z
+100001607,Code Crunchers,codecrunchers.org,0-9,2025-05-11T09:29:13Z

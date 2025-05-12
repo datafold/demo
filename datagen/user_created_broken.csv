@@ -2392,3 +2392,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002391,100000127,Max,Kelly,max.kelly@dataspark.com,FALSE,2025-05-10T23:10:29Z
 100002392,100000829,Zoey,Wang,zoey.wang@quantumdatasystems.com,FALSE,2025-05-10T22:19:49Z
 100002393,100000217,Logan,Foster,logan.foster@datamind.com,FALSE,2025-05-10T15:40:45Z
+100002394,100001604,Ethan,Kim,ekim@datacogroup.com,TRUE,2025-05-11T20:56:09Z
+100002395,100001605,Aiden,Ng,aiden.ng@techgenius.com,TRUE,2025-05-11T11:23:05Z
+100002396,100001606,Oliver,Kumar,oliver.kumar@analogixgroup.com,TRUE,2025-05-11T18:42:20Z
+100002397,100001607,Noah,Taylor,noah.taylor@codecrunchers.org,TRUE,2025-05-11T09:29:13Z
+100002398,100000968,Piper,Gomez,piper.gomez@anatomixtech.com,FALSE,2025-05-11T14:28:04Z
+100002399,100000017,Mason,Kim,mason.kim@techmindinc.com,FALSE,2025-05-11T03:39:50Z
