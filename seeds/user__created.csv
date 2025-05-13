@@ -2398,3 +2398,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002397,100001607,Noah,Taylor,noah.taylor@codecrunchers.org,TRUE,2025-05-11T09:29:13Z
 100002398,100000968,Piper,Gomez,piper.gomez@anatomixtech.com,FALSE,2025-05-11T14:28:04Z
 100002399,100000017,Mason,Kim,mason.kim@techmindinc.com,FALSE,2025-05-11T03:39:50Z
+100002400,100001608,Blake,Yee,blake.yee@unifiedbyte.io,TRUE,2025-05-12T16:40:02Z
+100002401,100001609,Alexander,Jones,alexander.jones@analytixinsights.com,TRUE,2025-05-12T17:39:09Z
+100002402,100001610,Cohen,Kennedy,cohen.kennedy@infiniteaiworks.net,TRUE,2025-05-12T05:27:52Z
+100002403,100001611,Aurora,Yuan,aurora.yuan@datalyticsnet.com,TRUE,2025-05-12T09:54:58Z
+100002404,100000288,Victoria,Khan,victoria.khan@dataharvestersinc.com,FALSE,2025-05-12T22:42:23Z
+100002405,100000937,Jack,Sharma,jack.sharma@datathrustai.com,FALSE,2025-05-12T00:44:02Z
