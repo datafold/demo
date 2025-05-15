@@ -804,3 +804,5 @@ org_id,event_timestamp,activity,plan,price,deployment
 100000573,2025-05-12T04:11:52Z,subscribed,Business,399,SaaS
 100000753,2025-05-12T13:54:11Z,subscribed,Team,99,On-prem
 100001344,2025-05-13T15:44:26Z,subscribed,Team,99,SaaS
+100001584,2025-05-14T07:58:17Z,subscribed,Business,399,On-prem
+100000810,2025-05-14T01:10:30Z,subscribed,Team,99,On-prem

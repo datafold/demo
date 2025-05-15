@@ -2411,3 +2411,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002410,100001616,Nate,Leung,nate.leung@datasolvergroup.io,TRUE,2025-05-13T05:07:02Z
 100002411,100000929,Emerson,Ferguson,emerson.ferguson@techgenicsol.com,FALSE,2025-05-13T14:58:08Z
 100002412,100001329,Jack,Patel,jack.patel@aiintelligence.io,FALSE,2025-05-13T07:22:01Z
+100002413,100001617,David,Jones,d.jones@cloudcodedynamics.com,TRUE,2025-05-14T17:10:44Z
+100002414,100001618,Isabel,Chung,isabel.chung@datariseiq.com,TRUE,2025-05-14T13:20:40Z
+100002415,100001619,Ivy,Raj,ivy.raj@dataplusinsight.com,TRUE,2025-05-14T05:11:19Z
+100002416,100001620,Quentin,Zhang,quentin.zhang@cybermindware.com,TRUE,2025-05-14T12:10:14Z
+100002417,100000516,Sophie,Duong,sophie.duong@analyticalgorithm.com,FALSE,2025-05-14T03:35:29Z
+100002418,100001093,Carter,Edwards,carter.edwards@analyzer.com,FALSE,2025-05-14T22:24:51Z
