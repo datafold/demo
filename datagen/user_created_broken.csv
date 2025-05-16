@@ -2417,3 +2417,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002416,100001620,Quentin,Zhang,quentin.zhang@cybermindware.com,TRUE,2025-05-14T12:10:14Z
 100002417,100000516,Sophie,Duong,sophie.duong@analyticalgorithm.com,FALSE,2025-05-14T03:35:29Z
 100002418,100001093,Carter,Edwards,carter.edwards@analyzer.com,FALSE,2025-05-14T22:24:51Z
+100002419,100001621,Sofia,Chandra,s.chandra@dataorchardtech.com,TRUE,2025-05-15T11:59:48Z
+100002420,100001622,Zeke,Gomez,z.gomez@datascapegroup.com,TRUE,2025-05-15T21:23:24Z
+100002421,100001623,Isabella,Gupta,isabella.gupta@intellistreamsolutions.com,TRUE,2025-05-15T22:26:05Z
+100002422,100001624,Ava,Johnson,avajohnson@dataaihub.co,TRUE,2025-05-15T07:47:01Z
+100002423,100000689,Vincent,Zhang,vincent.zhang@techmindsetgroup.com,FALSE,2025-05-15T05:06:19Z
+100002424,100000424,William,Techwise,william.techwise@techdataexpress.com,FALSE,2025-05-15T13:10:21Z
