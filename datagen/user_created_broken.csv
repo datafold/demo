@@ -2423,3 +2423,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002422,100001624,Ava,Johnson,avajohnson@dataaihub.co,TRUE,2025-05-15T07:47:01Z
 100002423,100000689,Vincent,Zhang,vincent.zhang@techmindsetgroup.com,FALSE,2025-05-15T05:06:19Z
 100002424,100000424,William,Techwise,william.techwise@techdataexpress.com,FALSE,2025-05-15T13:10:21Z
+100002425,100001625,Juno,Kim,juno.kim@cybercloud.com,TRUE,2025-05-16T17:18:31Z
+100002426,100001626,Nora,Rossi,norarossi@truedatainsights.co,TRUE,2025-05-16T05:06:38Z
+100002427,100001627,Evelyn,Patel,epatel@thinksmartdata.com,TRUE,2025-05-16T23:46:34Z
+100002428,100001628,Riley,Reed,riley.reed@dataprimeco.com,TRUE,2025-05-16T05:04:45Z
+100002429,100000978,Dylan,Le,dylan.le@cloudtechworld.com,FALSE,2025-05-16T16:12:26Z
+100002430,100001563,Mia,Diaz,mia.diaz@techgliderinc.com,FALSE,2025-05-16T14:07:39Z
+100002431,100001459,Amir,Wong,amir.wong@intelligencefoundry.biz,FALSE,2025-05-16T12:32:21Z
