@@ -2430,3 +2430,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002429,100000978,Dylan,Le,dylan.le@cloudtechworld.com,FALSE,2025-05-16T16:12:26Z
 100002430,100001563,Mia,Diaz,mia.diaz@techgliderinc.com,FALSE,2025-05-16T14:07:39Z
 100002431,100001459,Amir,Wong,amir.wong@intelligencefoundry.biz,FALSE,2025-05-16T12:32:21Z
+100002432,100001629,Ethan,Campbell,ethan.campbell@thinkanalytixgroup.com,TRUE,2025-05-17T16:54:53Z
+100002433,100001630,Willow,Walsh,willow.walsh@geniusdataai.com,TRUE,2025-05-17T02:24:10Z
+100002434,100001631,Rory,Chan,rchan@quantumdatafusion.com,TRUE,2025-05-17T14:45:19Z
+100002435,100001632,Emilia,Kumar,emilia.kumar@quantatechco.com,TRUE,2025-05-17T04:22:22Z
+100002436,100001633,Charlotte,Gomez,charlotte.gomez@datalytixassociates.com,TRUE,2025-05-17T22:48:44Z
+100002437,100001250,Harrison,Chin,harrison.chin@datadynamics.com,FALSE,2025-05-17T12:30:32Z
+100002438,100001317,Ethan,Hawkins,ethan.hawkins@dataminehub.io,FALSE,2025-05-17T03:56:48Z
