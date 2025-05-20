@@ -2443,3 +2443,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002442,100001637,Jason,Ho,jasonho@cybergenius.com,TRUE,2025-05-18T18:30:09Z
 100002443,100001549,Jaxson,Cooper,jaxson.cooper@analyzifycorp.com,FALSE,2025-05-18T07:17:25Z
 100002444,100000960,Lucas,Das,lucas.das@digitalinsight.co,FALSE,2025-05-18T05:24:05Z
+100002445,100001638,Penelope,Singhal,penelope.singhal@awakedata.net,TRUE,2025-05-19T23:27:20Z
+100002446,100001639,Audrey,Tran,audrey.tran@datasparkle.io,TRUE,2025-05-19T23:50:00Z
+100002447,100001640,Grace,Carter,grace.carter@analyticalmindsinc.io,TRUE,2025-05-19T19:38:23Z
+100002448,100000952,Zara,Wu,zara.wu@cipherdata.co,FALSE,2025-05-19T22:17:46Z
+100002449,100001437,Ethan,Collins,ethan.collins@datasensegroup.com,FALSE,2025-05-19T21:23:58Z
