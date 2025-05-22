@@ -2455,3 +2455,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002454,100001645,Leo,Gomez,leo.gomez@techalphaai.com,TRUE,2025-05-20T06:28:29Z
 100002455,100000930,Nathan,Choi,nathan.choi@aiimpact.tech,FALSE,2025-05-20T16:39:49Z
 100002456,100001201,Sofia,Grant,sofia.grant@aiengineersinc.com,FALSE,2025-05-20T23:38:49Z
+100002457,100001646,Esther,Shukla,esther.shukla@neuralsearchco.com,TRUE,2025-05-21T05:05:45Z
+100002458,100001647,James,Hernandez,james.hernandez@infolyticaltech.com,TRUE,2025-05-21T06:16:10Z
+100002459,100001648,Olivia,Clark,olivia.clark@cyberneticsolutions.com,TRUE,2025-05-21T10:59:21Z
+100002460,100001649,Ethan,Ganapathy,eg@techsmart.com,TRUE,2025-05-21T17:36:21Z
+100002461,100000008,Mila,Patel,mila.patel@datadrivenlabs.com,FALSE,2025-05-21T23:05:21Z
+100002462,100000037,Ainsley,Bose,ainsley.bose@datasenseia.com,FALSE,2025-05-21T04:57:47Z
