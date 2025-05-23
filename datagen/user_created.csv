@@ -2461,3 +2461,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002460,100001649,Ethan,Ganapathy,eg@techsmart.com,TRUE,2025-05-21T17:36:21Z
 100002461,100000008,Mila,Patel,mila.patel@datadrivenlabs.com,FALSE,2025-05-21T23:05:21Z
 100002462,100000037,Ainsley,Bose,ainsley.bose@datasenseia.com,FALSE,2025-05-21T04:57:47Z
+100002463,100001650,Alex,Nguyen,alex@cleardatainc.com,TRUE,2025-05-22T01:57:29Z
+100002464,100001651,Carter,Malhotra,carter.malhotra@techcognize.com,TRUE,2025-05-22T00:40:42Z
+100002465,100001652,Ava,Singh,ava.singh@aiinsightworks.com,TRUE,2025-05-22T13:15:05Z
+100002466,100001653,Lucy,Garcia,lucy.g@logicodez.com,TRUE,2025-05-22T18:03:09Z
+100002467,100001654,Olivia,Singh,olivia.singh@quantuminsightco.com,TRUE,2025-05-22T18:22:59Z
+100002468,100000425,Victoria,Yuan,victoria.yuan@dataflux.io,FALSE,2025-05-22T07:42:44Z
