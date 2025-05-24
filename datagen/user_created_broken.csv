@@ -2467,3 +2467,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002466,100001653,Lucy,Garcia,lucy.g@logicodez.com,TRUE,2025-05-22T18:03:09Z
 100002467,100001654,Olivia,Singh,olivia.singh@quantuminsightco.com,TRUE,2025-05-22T18:22:59Z
 100002468,100000425,Victoria,Yuan,victoria.yuan@dataflux.io,FALSE,2025-05-22T07:42:44Z
+100002471,100001657,Bella,Yau,bella.yau$datasnippetinc.com,TRUE,2025-05-23T17:41:25Z
+100002469,100001655,Felix,Guo,felix.guo@innovyxco.com,TRUE,2025-05-23T21:07:58Z
+100002470,100001656,Michael,Brown,michael.brown@infradataintel.com,TRUE,2025-05-23T22:47:28Z
+100002472,100001658,Finn,Patel,finnpatel@techdataxcel.com,TRUE,2025-05-23T18:27:56Z
+100002473,100001089,Aria,Cole,aria.cole@aiinsighttech.com,FALSE,2025-05-23T18:37:16Z
+100002474,100000723,Leah,Kim,leah.kim@techmindset.co,FALSE,2025-05-23T11:00:58Z
