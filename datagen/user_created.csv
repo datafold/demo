@@ -2488,3 +2488,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002487,100001179,Caleb,Jones,caleb.jones@bytecore.com,FALSE,2025-05-25T13:39:47Z
 100002488,100000790,Grace,Lim,grace.lim@datalyticspro.com,FALSE,2025-05-25T17:51:23Z
 100002489,100000067,David,Barnes,david.barnes@techspark.ai,FALSE,2025-05-25T05:50:50Z
+100002490,100001669,Ava,Patel,ava.patel@infotrax.com,TRUE,2025-05-26T09:38:03Z
+100002491,100001670,Benjamin,Wu,benjamin.wu@datafusionary.com,TRUE,2025-05-26T11:37:24Z
+100002492,100001671,Ezra,Watson,ewatson@bigdatatechsystems.com,TRUE,2025-05-26T11:06:55Z
+100002493,100001672,Emily,Zeng,emilyz@datasynthesisgroup.com,TRUE,2025-05-26T04:52:02Z
+100002494,100000586,Grayson,Park,grayson.park@analyticspot.com,FALSE,2025-05-26T17:33:29Z
+100002495,100000547,Avery,Han,avery.han@dataunitech.com,FALSE,2025-05-26T03:43:14Z
