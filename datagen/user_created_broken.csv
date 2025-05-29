@@ -2500,3 +2500,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002499,100001676,Riley,Kim,riley.kim@techinformatica.com,TRUE,2025-05-27T08:54:35Z
 100002500,100001281,Daniel,Chakraborty,daniel.chakraborty@datametrixsolutions.com,FALSE,2025-05-27T03:12:06Z
 100002501,100000996,Benjamin,Fernandez,benjamin.fernandez@bytebrain.com,FALSE,2025-05-27T15:44:13Z
+100002502,100001677,Ruby,Gujral,r.gujral@intellipulsegroup.com,TRUE,2025-05-28T17:00:05Z
+100002503,100001678,Carter,Chen,carter.chen@analyticron.com,TRUE,2025-05-28T10:34:11Z
+100002504,100001679,Noah,Roy,noah.roy@innovidatagroup.com,TRUE,2025-05-28T00:01:39Z
+100002505,100001650,Emma,Ng,emma.ng@cleardatainc.com,FALSE,2025-05-28T06:00:51Z
+100002506,100000829,James,Wu,james.wu@quantumdatasystems.com,FALSE,2025-05-28T12:58:08Z
