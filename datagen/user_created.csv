@@ -2505,3 +2505,11 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002504,100001679,Noah,Roy,noah.roy@innovidatagroup.com,TRUE,2025-05-28T00:01:39Z
 100002505,100001650,Emma,Ng,emma.ng@cleardatainc.com,FALSE,2025-05-28T06:00:51Z
 100002506,100000829,James,Wu,james.wu@quantumdatasystems.com,FALSE,2025-05-28T12:58:08Z
+100002507,100001680,Lila,Hamilton,lila.hamilton@techdynastysolutions.tech,TRUE,2025-05-28T20:11:22Z
+100002508,100001681,Luna,Chu,luna.chu@cyberlens.com,TRUE,2025-05-29T01:53:06Z
+100002509,100001682,Henry,Le,henryle@insighttechgroup.com,TRUE,2025-05-29T01:37:01Z
+100002510,100001683,Aaron,Hsieh,ahsieh@datalyticsmart.com,TRUE,2025-05-29T15:53:59Z
+100002511,100001684,Grace,Vyas,grace.vyas@techquestco.com,TRUE,2025-05-29T16:33:46Z
+100002512,100001685,Ella,Cook,ellacook@datalens.io,TRUE,2025-05-29T03:26:24Z
+100002513,100001181,Charlotte,Hsu,charlotte.hsu@cloudanalytica.com,FALSE,2025-05-29T02:01:16Z
+100002514,100000678,Ava,Hill,ava.hill@digiforge.com,FALSE,2025-05-29T17:57:20Z
