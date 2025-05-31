@@ -2513,3 +2513,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002512,100001685,Ella,Cook,ellacook@datalens.io,TRUE,2025-05-29T03:26:24Z
 100002513,100001181,Charlotte,Hsu,charlotte.hsu@cloudanalytica.com,FALSE,2025-05-29T02:01:16Z
 100002514,100000678,Ava,Hill,ava.hill@digiforge.com,FALSE,2025-05-29T17:57:20Z
+100002515,100001686,Leo,Garcia,leo.garcia@datadrive.com,TRUE,2025-05-30T18:30:58Z
+100002516,100001687,Lincoln,Ross,lincoln.ross@datametrix.co,TRUE,2025-05-30T14:13:33Z
+100002517,100001688,Ava,Taylor,ava.taylor@aiinnovationlabs.com,TRUE,2025-05-30T00:17:30Z
+100002518,100001689,Alice,Smith,alice.smith@datalyticsinc.com,TRUE,2025-05-30T17:47:12Z
+100002519,100001387,Elijah,Bennett,elijah.bennett@insightmetrics.com,FALSE,2025-05-30T15:12:35Z
+100002520,100000771,Isaac,Hernandez,isaac.hernandez@datawave.io,FALSE,2025-05-30T08:55:02Z
+100002521,100000210,Persephone,Moore,persephone.moore@datadronix.co,FALSE,2025-05-30T18:37:21Z
