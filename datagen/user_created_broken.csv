@@ -2520,3 +2520,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002519,100001387,Elijah,Bennett,elijah.bennett@insightmetrics.com,FALSE,2025-05-30T15:12:35Z
 100002520,100000771,Isaac,Hernandez,isaac.hernandez@datawave.io,FALSE,2025-05-30T08:55:02Z
 100002521,100000210,Persephone,Moore,persephone.moore@datadronix.co,FALSE,2025-05-30T18:37:21Z
+100002522,100001690,Dominic,Porter,dominic.porter@techinnovision.com,TRUE,2025-05-31T07:29:38Z
+100002523,100001691,Dylan,Rao,dylan.rao@intellisenseai.io,TRUE,2025-05-31T13:34:19Z
+100002524,100001692,Peyton,Datatech,peyton.datatech@datatechvision.com,TRUE,2025-05-31T20:09:47Z
+100002525,100001693,Jack,Diaz,jackdiaz@nextgenaiinc.com,TRUE,2025-05-31T19:34:08Z
+100002526,100001356,Kevin,Wong,kevin.wong@intellidatabrain.com,FALSE,2025-05-31T00:04:58Z
+100002527,100000750,Hazel,Jones,hazel.jones@datavisionaries.com,FALSE,2025-05-31T05:55:37Z
+100002528,100001632,Gabriel,Barnes,gabriel.barnes@quantatechco.com,FALSE,2025-05-31T02:54:13Z
