@@ -2527,3 +2527,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002526,100001356,Kevin,Wong,kevin.wong@intellidatabrain.com,FALSE,2025-05-31T00:04:58Z
 100002527,100000750,Hazel,Jones,hazel.jones@datavisionaries.com,FALSE,2025-05-31T05:55:37Z
 100002528,100001632,Gabriel,Barnes,gabriel.barnes@quantatechco.com,FALSE,2025-05-31T02:54:13Z
+100002532,100001697,Leila,Chang,leila.chang$datamindlabs.org,TRUE,2025-06-01T11:33:27Z
+100002529,100001694,Maya,Menon,maya.menon@datarecon.io,TRUE,2025-06-01T01:47:04Z
+100002530,100001695,Ava,Lopez,ava.lopez@datasolutionsplus.com,TRUE,2025-06-01T23:22:07Z
+100002531,100001696,Derek,Menon,derek.menon@techmineddata.com,TRUE,2025-06-01T19:58:48Z
+100002533,100000053,Jaxon,Mitchell,jaxon.mitchell@datatechinsights.com,FALSE,2025-06-01T16:02:05Z
+100002534,100001124,Caleb,Sullivan,caleb.sullivan@dataninja.io,FALSE,2025-06-01T06:36:19Z
