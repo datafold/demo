@@ -2540,3 +2540,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002539,100001702,Amelia,Ng,amelia.ng@quantuminnovate.co,TRUE,2025-06-02T14:56:31Z
 100002540,100001472,Jasper,Chen,jasper.chen@infotrend.com,FALSE,2025-06-02T01:12:28Z
 100002541,100001424,Cassian,Flores,cassian.flores@teledatacorp.com,FALSE,2025-06-02T05:28:27Z
+100002542,100001703,Elena,Wang,elena.wang@cyberanalytica.com,TRUE,2025-06-03T14:30:16Z
+100002543,100001704,Phoenix,Huang,phoenix.huang@datatactix.com,TRUE,2025-06-03T22:21:07Z
+100002544,100001705,Amelia,Vuong,amelia.vuong@datasciencefusion.com,TRUE,2025-06-03T17:14:03Z
+100002545,100000755,Lisa,Garcia,lisa.garcia@safetechdata.com,FALSE,2025-06-03T01:31:50Z
+100002546,100001476,Amelia,Reyes,amelia.reyes@datametrix.com,FALSE,2025-06-03T19:15:50Z
