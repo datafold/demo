@@ -2545,3 +2545,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002544,100001705,Amelia,Vuong,amelia.vuong@datasciencefusion.com,TRUE,2025-06-03T17:14:03Z
 100002545,100000755,Lisa,Garcia,lisa.garcia@safetechdata.com,FALSE,2025-06-03T01:31:50Z
 100002546,100001476,Amelia,Reyes,amelia.reyes@datametrix.com,FALSE,2025-06-03T19:15:50Z
+100002547,100001706,Finn,West,finn.west@datatekgroup.com,TRUE,2025-06-04T02:35:27Z
+100002548,100001707,Alice,West,alice.west@datalyticsconsulting.com,TRUE,2025-06-04T07:46:22Z
+100002549,100001708,Ethan,Baker,ethan.baker@techcognitiveresearch.com,TRUE,2025-06-04T08:08:49Z
+100002550,100001709,Quinn,Barnes,quinn.barnes@bigintellidata.com,TRUE,2025-06-04T03:11:03Z
+100002551,100001710,Christian,Cole,christian.cole@techpulseai.com,TRUE,2025-06-04T20:44:20Z
+100002552,100000389,Ivy,Reign,ivy.reign@dataviewer.net,FALSE,2025-06-04T03:14:13Z
+100002553,100001419,Samuel,Cooper,samuel.cooper@imagineerdataworks.com,FALSE,2025-06-04T16:44:22Z
