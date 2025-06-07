@@ -2557,3 +2557,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002556,100001713,Samuel,Bell,samuel.bell@dataforgeinc.com,TRUE,2025-06-05T14:22:24Z
 100002557,100000797,Daniel,Iyer,daniel.iyer@techverse.tech,FALSE,2025-06-05T13:26:39Z
 100002558,100000541,Mia,Torres,mia.torres@dataglide.co,FALSE,2025-06-05T07:48:21Z
+100002559,100001714,Sophia,Nguyen,sophia.nguyen@insightechgroup.com,TRUE,2025-06-06T19:00:43Z
+100002560,100001715,Skylar,Prasad,skylar.prasad@techcloud.co,TRUE,2025-06-06T18:46:33Z
+100002561,100001716,Sophia,Nguyen,sophia.nguyen@aiworldtech.com,TRUE,2025-06-06T11:33:02Z
+100002562,100001717,Avery,Cook,avery.cook@cognitivetechsol.com,TRUE,2025-06-06T14:17:13Z
+100002563,100001055,Liam,Lim,liam.lim@datascript.com,FALSE,2025-06-06T11:06:23Z
+100002564,100000213,Ariana,Li,ariana.li@bigdatavisionary.com,FALSE,2025-06-06T13:05:10Z
