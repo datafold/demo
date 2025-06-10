@@ -2577,3 +2577,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002575,100001726,Aria,Gupta,aria.gupta@techvisionforce.com,TRUE,2025-06-08T18:15:47Z
 100002577,100000462,Nia,Murphy,nia.murphy@byteflux.com,FALSE,2025-06-08T05:11:21Z
 100002578,100001604,Tristan,Sy,tristan.sy@datacogroup.com,FALSE,2025-06-08T21:31:59Z
+100002579,100001728,Daniel,Rajan,daniel.rajan@datasync.io,TRUE,2025-06-09T21:19:14Z
+100002580,100001729,Elena,Vargas,elenavargas@neuraltechlab.com,TRUE,2025-06-09T00:16:19Z
+100002581,100001730,Alexa,Jain,alexa.jain@dataintellect.co,TRUE,2025-06-09T04:46:19Z
+100002582,100001731,Jack,Diaz,jack.diaz@datacreatives.io,TRUE,2025-06-09T07:10:41Z
+100002583,100001025,Alexander,Rivera,alexander.rivera@analyzintellects.com,FALSE,2025-06-09T22:45:36Z
+100002584,100001315,Liam,Baker,liam.baker@techtron.com,FALSE,2025-06-09T23:05:35Z
