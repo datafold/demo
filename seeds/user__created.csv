@@ -2583,3 +2583,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002582,100001731,Jack,Diaz,jack.diaz@datacreatives.io,TRUE,2025-06-09T07:10:41Z
 100002583,100001025,Alexander,Rivera,alexander.rivera@analyzintellects.com,FALSE,2025-06-09T22:45:36Z
 100002584,100001315,Liam,Baker,liam.baker@techtron.com,FALSE,2025-06-09T23:05:35Z
+100002585,100001732,Eva,Chen,eva.chen@techdatabiz.com,TRUE,2025-06-10T13:43:32Z
+100002586,100001733,Nina,Wu,ninaw@cloudlytics.io,TRUE,2025-06-10T18:15:18Z
+100002587,100001734,Michael,Flores,michael.flores@techcoreai.com,TRUE,2025-06-10T10:48:18Z
+100002588,100001735,Aiden,Bailey,aiden.bailey@techdatasystemsinc.com,TRUE,2025-06-10T05:24:08Z
+100002589,100000927,Aiden,Lam,aiden.lam@neuralnetics.com,FALSE,2025-06-10T15:36:19Z
+100002590,100001336,Daniel,Jin,daniel.jin@bytegenix.com,FALSE,2025-06-10T02:21:15Z
