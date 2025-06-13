@@ -2597,3 +2597,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002596,100001694,Eli,Morris,eli.morris@datarecon.io,FALSE,2025-06-11T06:02:43Z
 100002597,100000797,Logan,Xiong,logan.xiong@techverse.tech,FALSE,2025-06-11T11:59:01Z
 100002598,100000803,Julian,Wong,julian.wong@datalyze.info,FALSE,2025-06-11T03:14:18Z
+100002599,100001741,Elizabeth,Lam,elizabeth.lam@techsync.net,TRUE,2025-06-12T07:03:55Z
+100002600,100001742,Harper,Kelly,harper.kelly@analyticallabsco.com,TRUE,2025-06-12T07:28:36Z
+100002601,100001743,Amelia,Lopez,amelia.lopez@mindwareai.com,TRUE,2025-06-12T22:14:24Z
+100002602,100001020,Blake,Johnson,blake.johnson@datasciencesys.com,FALSE,2025-06-12T14:14:52Z
+100002603,100000659,Serenity,Mitchell,serenity.mitchell@datalytico.com,FALSE,2025-06-12T05:24:06Z
