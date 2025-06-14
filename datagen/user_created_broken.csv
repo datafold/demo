@@ -2602,3 +2602,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002601,100001743,Amelia,Lopez,amelia.lopez@mindwareai.com,TRUE,2025-06-12T22:14:24Z
 100002602,100001020,Blake,Johnson,blake.johnson@datasciencesys.com,FALSE,2025-06-12T14:14:52Z
 100002603,100000659,Serenity,Mitchell,serenity.mitchell@datalytico.com,FALSE,2025-06-12T05:24:06Z
+100002604,100001744,Lily,Chen,lily.chen@neuracloud.ai,TRUE,2025-06-13T11:39:52Z
+100002605,100001745,Caleb,Sanchez,calebsanchez@datalyticsgroup.com,TRUE,2025-06-13T23:06:57Z
+100002606,100001746,Connor,Wong,connor.wong@neurosync.com,TRUE,2025-06-13T01:11:36Z
+100002607,100000440,Hazel,Lin,hazel.lin@infotechvision.com,FALSE,2025-06-13T22:05:23Z
+100002608,100000307,Caleb,Johnson,caleb.johnson@techbytes.com,FALSE,2025-06-13T23:57:27Z
