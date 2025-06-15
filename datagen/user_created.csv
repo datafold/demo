@@ -2607,3 +2607,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002606,100001746,Connor,Wong,connor.wong@neurosync.com,TRUE,2025-06-13T01:11:36Z
 100002607,100000440,Hazel,Lin,hazel.lin@infotechvision.com,FALSE,2025-06-13T22:05:23Z
 100002608,100000307,Caleb,Johnson,caleb.johnson@techbytes.com,FALSE,2025-06-13T23:57:27Z
+100002609,100001747,Jack,Butler,jack.butler@techdatascope.biz,TRUE,2025-06-14T03:59:50Z
+100002610,100001748,Lennon,Kaur,lennon.kaur@datadreamtech.com,TRUE,2025-06-14T11:49:25Z
+100002611,100001749,Jacob,Jones,jacob.jones@cloudcomputeinc.com,TRUE,2025-06-14T17:34:20Z
+100002612,100001750,Harper,Chen,harper101@datasoftwaresol.com,TRUE,2025-06-14T12:54:13Z
+100002613,100000726,Charlotte,Lopez,charlotte.lopez@techsight.com,FALSE,2025-06-14T01:59:54Z
