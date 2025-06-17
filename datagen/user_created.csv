@@ -2619,3 +2619,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002618,100001755,Nolan,Parekh,nolan@analyz.io,TRUE,2025-06-15T10:52:18Z
 100002619,100000410,Vincent,Moon,vincent.moon@mindspectrum.tech,FALSE,2025-06-15T02:47:20Z
 100002620,100001113,Emma,Morris,emma.morris@bigdataops.com,FALSE,2025-06-15T03:34:02Z
+100002621,100001756,Julian,Tan,julian.tan@datasyncinc.com,TRUE,2025-06-16T08:32:44Z
+100002622,100001757,David,Singh,david.singh@datafuse.co,TRUE,2025-06-16T03:49:33Z
+100002623,100001758,William,Gupta,wgupta@datatechlabs.com,TRUE,2025-06-16T13:19:58Z
+100002624,100001759,Henry,Hernandez,henry.hernandez@smartdatawaves.com,TRUE,2025-06-16T05:45:16Z
+100002625,100000899,Stella,Wu,stella.wu@visionairetech.com,FALSE,2025-06-16T00:27:09Z
+100002626,100001251,Nina,Nguyen,nina.nguyen@datamastersinc.com,FALSE,2025-06-16T17:06:09Z
