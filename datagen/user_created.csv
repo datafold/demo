@@ -2625,3 +2625,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002624,100001759,Henry,Hernandez,henry.hernandez@smartdatawaves.com,TRUE,2025-06-16T05:45:16Z
 100002625,100000899,Stella,Wu,stella.wu@visionairetech.com,FALSE,2025-06-16T00:27:09Z
 100002626,100001251,Nina,Nguyen,nina.nguyen@datamastersinc.com,FALSE,2025-06-16T17:06:09Z
+100002627,100001760,Aria,Luo,arialuo@insightopia.com,TRUE,2025-06-17T08:36:30Z
+100002628,100001761,Cora,Nguyen,cora.nguyen@roboticsphere.com,TRUE,2025-06-17T11:42:17Z
+100002629,100001762,Levi,Ramirez,leviramirez@futuredatagroup.com,TRUE,2025-06-17T21:31:24Z
+100002630,100001763,Logan,Garcia,logan.garcia@technoinsights.com,TRUE,2025-06-17T13:08:13Z
+100002631,100000076,Nina,Feng,nina.feng@aihub.pro,FALSE,2025-06-17T15:34:41Z
+100002632,100000704,Sophia,Jain,sophia.jain@digitalinsightai.com,FALSE,2025-06-17T09:43:45Z
