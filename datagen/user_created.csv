@@ -2645,3 +2645,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002644,100001773,Violet,Lin,violet.lin@neuralnetics.net,TRUE,2025-06-19T21:28:45Z
 100002645,100000147,Harper,Davis,harper.davis@datafuture.co,FALSE,2025-06-19T15:26:59Z
 100002646,100000490,Aria,Kaur,aria.kaur@dataglobeinc.com,FALSE,2025-06-19T22:39:53Z
+100002647,100001774,Michael,Truong,mtruong@logiclensai.com,TRUE,2025-06-20T04:26:00Z
+100002648,100001775,Bryce,Chong,bchong@datalyticsinsights.com,TRUE,2025-06-20T01:58:12Z
+100002649,100001776,Theo,Reddy,theo.reddy@techfusioniq.com,TRUE,2025-06-20T06:51:07Z
+100002650,100001611,Maya,Lam,maya.lam@datalyticsnet.com,FALSE,2025-06-20T16:52:53Z
+100002651,100001616,Hudson,Lopez,hudson.lopez@datasolvergroup.io,FALSE,2025-06-20T16:34:41Z
