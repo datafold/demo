@@ -2656,3 +2656,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002655,100001780,Matthew,Evans,matthew.evans@aiinnovations.tech,TRUE,2025-06-21T00:02:28Z
 100002656,100001781,Amelia,Patel,amelia.patel@databursttech.com,TRUE,2025-06-21T21:35:20Z
 100002657,100000171,Levi,Dataware,levi.dataware@quantumdatacorp.com,FALSE,2025-06-21T12:03:46Z
+100002658,100001782,Alexa,Hampton,alexah@techsavvyanalytics.com,TRUE,2025-06-22T21:21:47Z
+100002659,100001783,Mateo,Lim,mateo.lim@intellidatasci.com,TRUE,2025-06-22T15:30:53Z
+100002660,100001784,Soren,Feng,soren.feng@advanceddataworks.com,TRUE,2025-06-22T20:40:00Z
+100002661,100001785,Zoe,Bennett,zoe.bennett@dataminingpros.io,TRUE,2025-06-22T17:16:20Z
+100002662,100001786,Sophia,Lopez,sophia.lopez@quantumdataai.com,TRUE,2025-06-22T00:03:19Z
+100002663,100001465,Sasha,Holland,sasha.holland@datatribeinc.com,FALSE,2025-06-22T06:34:00Z
+100002664,100001579,Juniper,Diaz,juniper.diaz@cyberwavegroup.com,FALSE,2025-06-22T23:09:20Z
