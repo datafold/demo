@@ -2687,3 +2687,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002686,100001802,Max,Roberts,max.roberts@aiworks.com,TRUE,2025-06-26T16:56:56Z
 100002687,100000619,Isabella,Wu,isabella.wu@techinsightsolution.com,FALSE,2025-06-26T12:22:13Z
 100002688,100001267,Adrian,Cooper,adrian.cooper@quantumscientists.com,FALSE,2025-06-26T10:49:49Z
+100002689,100001803,Isabella,Lopez,isabella.lopez@techgeniusgroup.com,TRUE,2025-06-27T02:56:57Z
+100002690,100001804,Aiden,Taylor,aiden@intelligidrone.com,TRUE,2025-06-27T14:39:51Z
+100002691,100001805,Madison,Phan,madison.phan@bytebeam.com,TRUE,2025-06-27T07:37:49Z
+100002692,100001806,Aria,Liu,arialiu@dataspark.tech,TRUE,2025-06-27T10:00:57Z
+100002693,100001807,Violet,Wu,violet.wu@elluminatiinc.com,TRUE,2025-06-27T09:43:35Z
+100002694,100000675,Sophia,Quasar,sophia.quasar@techdatastrat.com,FALSE,2025-06-27T04:54:41Z
+100002695,100000341,Ruby,Perez,ruby.perez@datasparklabs.io,FALSE,2025-06-27T03:42:12Z
