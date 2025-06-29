@@ -1806,3 +1806,7 @@ org_id,org_name,domain,employee_range,created_at
 100001805,Byte Beam,bytebeam.com,50-99,2025-06-27T07:37:49Z
 100001806,Data Spark,dataspark.tech,10-24,2025-06-27T10:00:57Z
 100001807,Elluminati Inc,elluminatiinc.com,100-249,2025-06-27T09:43:35Z
+100001808,TechMind,techmind.com,1000+,2025-06-28T13:50:11Z
+100001809,Innovative Data Stream,innovativedatastream.com,250-499,2025-06-28T21:04:39Z
+100001810,Data Dynamixs,datadynamixs.com,50-99,2025-06-28T04:59:57Z
+100001811,Infinode,infinode.com,0-9,2025-06-28T23:32:41Z
