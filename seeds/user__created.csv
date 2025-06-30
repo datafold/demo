@@ -2701,3 +2701,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002700,100000943,Ethan,Kumar,ethan.kumar@datadextronicsco.com,FALSE,2025-06-28T18:15:35Z
 100002701,100000315,Elena,Gupta,elena.gupta@techdatapulse.com,FALSE,2025-06-28T09:17:06Z
 100002702,100001094,Riley,Gonzalez,riley.gonzalez@datasense.com,FALSE,2025-06-28T12:46:56Z
+100002703,100001812,Logan,Sharma,logan.sharma@datafuse.net,TRUE,2025-06-29T17:28:21Z
+100002704,100001813,Gavin,Khan,gavin.khan@analytiqo.com,TRUE,2025-06-29T10:24:08Z
+100002705,100001814,Nathan,Chen,nathan.chen@analyticalert.com,TRUE,2025-06-29T05:52:46Z
+100002706,100000260,Carter,Thompson,carter.thompson@cyberhub.io,FALSE,2025-06-29T03:38:45Z
+100002707,100001807,Matthew,Wu,matthew.wu@elluminatiinc.com,FALSE,2025-06-29T20:13:04Z
