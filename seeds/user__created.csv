@@ -2706,3 +2706,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002705,100001814,Nathan,Chen,nathan.chen@analyticalert.com,TRUE,2025-06-29T05:52:46Z
 100002706,100000260,Carter,Thompson,carter.thompson@cyberhub.io,FALSE,2025-06-29T03:38:45Z
 100002707,100001807,Matthew,Wu,matthew.wu@elluminatiinc.com,FALSE,2025-06-29T20:13:04Z
+100002708,100001815,Eli,McCarthy,eli.mccarthy@insightwave.ai,TRUE,2025-06-30T03:01:45Z
+100002709,100001816,Max,Roth,maxroth@futuredatalabs.com,TRUE,2025-06-30T20:39:34Z
+100002710,100001817,Aria,Phelps,aria.phelps@digitaldatavault.com,TRUE,2025-06-30T14:46:48Z
+100002711,100001818,Zachary,Hill,zachary.hill@dataquestlabs.com,TRUE,2025-06-30T18:31:12Z
+100002712,100000045,Luna,Gupta,luna.gupta@datamagic.com,FALSE,2025-06-30T07:23:47Z
+100002713,100000883,Logan,Quan,logan.quan@brainwaretech.com,FALSE,2025-06-30T18:08:27Z
