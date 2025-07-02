@@ -2712,3 +2712,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002711,100001818,Zachary,Hill,zachary.hill@dataquestlabs.com,TRUE,2025-06-30T18:31:12Z
 100002712,100000045,Luna,Gupta,luna.gupta@datamagic.com,FALSE,2025-06-30T07:23:47Z
 100002713,100000883,Logan,Quan,logan.quan@brainwaretech.com,FALSE,2025-06-30T18:08:27Z
+100002714,100001819,Dylan,Barnes,dylan.barnes@datasystems.net,TRUE,2025-07-01T07:29:53Z
+100002715,100001820,Evelyn,Perez,evelyn@cybermindtechnologies.com,TRUE,2025-07-01T08:15:52Z
+100002716,100001821,Emma,Smith,emma.smith@voltanalytics.com,TRUE,2025-07-01T23:40:56Z
+100002717,100001822,Zoe,Khan,zoe.khan@databuzz.com,TRUE,2025-07-01T04:15:32Z
+100002718,100000042,Aiden,Singh,aiden.singh@dataquesttechs.com,FALSE,2025-07-01T19:54:26Z
+100002719,100000241,Caleb,Green,caleb.green@techsmartcode.com,FALSE,2025-07-01T07:31:09Z
