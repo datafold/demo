@@ -2725,3 +2725,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002724,100000069,Aria,Hernandez,aria.hernandez@datadiscoverysol.com,FALSE,2025-07-02T15:13:40Z
 100002725,100000153,Benjamin,Smith,benjamin.smith@techmindgroup.io,FALSE,2025-07-02T17:12:00Z
 100002726,100001724,Ariana,Khan,ariana.khan@synapticsdataforge.com,FALSE,2025-07-02T20:37:47Z
+100002727,100001827,Elena,Ramos,elena.ramos@datadive.io,TRUE,2025-07-03T09:03:45Z
+100002728,100001828,William,Lai,william.lai@datavalidatetech.com,TRUE,2025-07-03T19:17:32Z
+100002729,100001829,Zara,Wang,zara.wang@datavolt.com,TRUE,2025-07-03T14:06:17Z
+100002730,100001830,Nolan,Yap,nolan.yap@intellisenseiq.com,TRUE,2025-07-03T06:32:01Z
+100002731,100000290,Zoe,Tran,zoe.tran@codeinnovate.com,FALSE,2025-07-03T15:13:44Z
+100002732,100001757,Ethan,Graham,ethan.graham@datafuse.co,FALSE,2025-07-03T05:17:09Z
+100002733,100000628,Sofia,Jackson,sofia.jackson@datamindset.co,FALSE,2025-07-03T01:01:23Z
