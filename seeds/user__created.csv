@@ -2732,3 +2732,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002731,100000290,Zoe,Tran,zoe.tran@codeinnovate.com,FALSE,2025-07-03T15:13:44Z
 100002732,100001757,Ethan,Graham,ethan.graham@datafuse.co,FALSE,2025-07-03T05:17:09Z
 100002733,100000628,Sofia,Jackson,sofia.jackson@datamindset.co,FALSE,2025-07-03T01:01:23Z
+100002734,100001831,Lily,Ho,lily.ho@intelligentscitech.com,TRUE,2025-07-04T07:18:34Z
+100002735,100001832,Peter,Chan,peterchan@techdatalab.com,TRUE,2025-07-04T15:53:50Z
+100002736,100001833,Elena,Taylor,elena.taylor@advanceddatainsights.co,TRUE,2025-07-04T21:36:31Z
+100002737,100001834,Dylan,Adams,dadams@intellisyscorp.com,TRUE,2025-07-04T18:54:18Z
+100002738,100001506,Isabella,Rodriguez,isabella.rodriguez@dataprismtech.com,FALSE,2025-07-04T05:01:32Z
+100002739,100000806,Sophie,Rodriguez,sophie.rodriguez@cloudcomputesolutions.com,FALSE,2025-07-04T12:55:49Z
