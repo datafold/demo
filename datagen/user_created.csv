@@ -2738,3 +2738,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002737,100001834,Dylan,Adams,dadams@intellisyscorp.com,TRUE,2025-07-04T18:54:18Z
 100002738,100001506,Isabella,Rodriguez,isabella.rodriguez@dataprismtech.com,FALSE,2025-07-04T05:01:32Z
 100002739,100000806,Sophie,Rodriguez,sophie.rodriguez@cloudcomputesolutions.com,FALSE,2025-07-04T12:55:49Z
+100002740,100001835,Xavier,Hsu,xavier.hsu@quantumcloud.com,TRUE,2025-07-05T18:20:29Z
+100002741,100001836,Olivia,Brown,olivia.brown@dataviztechsolutions.com,TRUE,2025-07-05T06:55:11Z
+100002742,100001837,Liam,Malik,liammalik@dataevolutions.com,TRUE,2025-07-05T17:23:04Z
+100002743,100001838,Charlotte,Harris,charlotte.harris@infofortech.com,TRUE,2025-07-05T07:37:47Z
+100002744,100001810,Amelia,Kumar,amelia.kumar@datadynamixs.com,FALSE,2025-07-05T20:06:43Z
+100002745,100000748,Leo,Liu,leo.liu@visualtechsolutions.com,FALSE,2025-07-05T21:10:55Z
