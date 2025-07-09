@@ -2756,3 +2756,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002755,100001846,Isla,Rao,isla.rao@quantumlithos.com,TRUE,2025-07-07T22:29:52Z
 100002756,100000392,Ethan,Verma,ethan.verma@bitwisesystems.com,FALSE,2025-07-07T23:11:27Z
 100002757,100000913,Carter,Moore,carter.moore@visionarydata.com,FALSE,2025-07-07T03:40:31Z
+100002758,100001847,Xavi,Martinez,xmartinez@datascieneers.com,TRUE,2025-07-08T07:11:18Z
+100002759,100001848,Liam,Ahuja,liam.ahuja@infotechia.com,TRUE,2025-07-08T12:42:47Z
+100002760,100001849,Anya,Kapoor,anya.kapoor@dataempowerlabs.com,TRUE,2025-07-08T11:43:10Z
+100002761,100001850,Elijah,Chaturvedi,elijah.chaturvedi@infolytics.com,TRUE,2025-07-08T11:28:27Z
+100002762,100001069,Mia,Lee,mia.lee@visionarydataworks.com,FALSE,2025-07-08T21:39:57Z
+100002763,100001643,Serenity,Brewer,serenity.brewer@machinelearnai.com,FALSE,2025-07-08T19:13:14Z
