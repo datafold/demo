@@ -2768,3 +2768,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002767,100001854,Bryson,Perry,brysonp@techdatalyze.com,TRUE,2025-07-09T00:57:56Z
 100002768,100001790,Adam,Liu,adam.liu@datageniuslabs.com,FALSE,2025-07-09T09:16:51Z
 100002769,100001393,William,Lopez,william.lopez@insightdatamind.com,FALSE,2025-07-09T11:22:38Z
+100002770,100001855,Eva,Jones,eva.jones@datatech.com,TRUE,2025-07-10T03:51:29Z
+100002771,100001856,Madeline,Evans,madeline.evans@intellicoretech.com,TRUE,2025-07-10T17:53:04Z
+100002772,100001857,Sarah,Davis,sarah.davis@infraanalytix.com,TRUE,2025-07-10T00:09:32Z
+100002773,100001858,Maya,Ly,maya.ly@dynamicscope.com,TRUE,2025-07-10T11:20:24Z
+100002774,100001622,Liam,Wong,liam.wong@datascapegroup.com,FALSE,2025-07-10T23:53:48Z
+100002775,100001464,Ethan,Hamilton,ethan.hamilton@logicstridecorp.com,FALSE,2025-07-10T16:34:53Z
