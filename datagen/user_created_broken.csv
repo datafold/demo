@@ -2774,3 +2774,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002773,100001858,Maya,Ly,maya.ly@dynamicscope.com,TRUE,2025-07-10T11:20:24Z
 100002774,100001622,Liam,Wong,liam.wong@datascapegroup.com,FALSE,2025-07-10T23:53:48Z
 100002775,100001464,Ethan,Hamilton,ethan.hamilton@logicstridecorp.com,FALSE,2025-07-10T16:34:53Z
+100002776,100001859,Isabella,Khan,isabella.khan@datamindfulsolutions.com,TRUE,2025-07-11T12:59:27Z
+100002777,100001860,Olivia,Li,olivia.li@quantuminformatics.com,TRUE,2025-07-11T09:44:34Z
+100002778,100001861,Oscar,Lucas,oscar.lucas@techadvize.com,TRUE,2025-07-11T08:42:34Z
+100002779,100001862,Emilia,Chan,emilia.chan@techfuturaco.com,TRUE,2025-07-11T09:19:58Z
+100002780,100001863,Juniper,Hart,juniper.hart@techorbitlabs.co,TRUE,2025-07-11T12:21:55Z
+100002781,100000161,Violet,Thomas,violet.thomas@datalyze.io,FALSE,2025-07-11T15:00:35Z
+100002782,100000301,Ava,Yao,ava.yao@datagilityinc.com,FALSE,2025-07-11T13:07:38Z
