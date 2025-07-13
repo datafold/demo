@@ -2781,3 +2781,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002780,100001863,Juniper,Hart,juniper.hart@techorbitlabs.co,TRUE,2025-07-11T12:21:55Z
 100002781,100000161,Violet,Thomas,violet.thomas@datalyze.io,FALSE,2025-07-11T15:00:35Z
 100002782,100000301,Ava,Yao,ava.yao@datagilityinc.com,FALSE,2025-07-11T13:07:38Z
+100002783,100001864,Anthony,Ramsey,anthony.ramsey@neuralinsights.com,TRUE,2025-07-12T00:14:23Z
+100002784,100001865,Lucas,Malhotra,lucas.malhotra@datalyticscomputing.com,TRUE,2025-07-12T07:28:50Z
+100002785,100001866,Aria,Ngo,aria.n@analytechsolutions.io,TRUE,2025-07-12T17:47:07Z
+100002786,100001867,Ezra,Singh,ezrasingh@algorithmicframeworksinc.com,TRUE,2025-07-12T22:36:56Z
+100002787,100001868,Amelia,Patel,amelia@techvisionai.com,TRUE,2025-07-12T11:45:42Z
+100002788,100001282,Lily,Young,lily.young@datagenixsys.com,FALSE,2025-07-12T18:11:03Z
+100002789,100000987,Jacob,Chen,jacob.chen@datatriotinc.com,FALSE,2025-07-12T11:31:06Z
