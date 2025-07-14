@@ -2788,3 +2788,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002787,100001868,Amelia,Patel,amelia@techvisionai.com,TRUE,2025-07-12T11:45:42Z
 100002788,100001282,Lily,Young,lily.young@datagenixsys.com,FALSE,2025-07-12T18:11:03Z
 100002789,100000987,Jacob,Chen,jacob.chen@datatriotinc.com,FALSE,2025-07-12T11:31:06Z
+100002790,100001869,Oscar,Kim,oscar.kim@scanalytics.biz,TRUE,2025-07-13T20:44:31Z
+100002791,100001870,Leo,Butler,leobutler@cyberinformatic.ai,TRUE,2025-07-13T09:43:02Z
+100002792,100001871,Aria,Dixon,aria.dixon@aianalyticscorp.com,TRUE,2025-07-13T08:56:02Z
+100002793,100001872,Nina,Hsu,nina.hsu@techcortex.ai,TRUE,2025-07-13T16:08:03Z
+100002794,100001873,Fiona,Li,fiona.li@techdataflux.ai,TRUE,2025-07-13T10:49:10Z
+100002795,100000540,Grace,Wong,grace.wong@techcrunchlabs.com,FALSE,2025-07-13T22:47:20Z
+100002796,100000477,Milo,Nightshade,milo.nightshade@techdynasty.com,FALSE,2025-07-13T11:17:56Z
