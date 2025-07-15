@@ -2795,3 +2795,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002794,100001873,Fiona,Li,fiona.li@techdataflux.ai,TRUE,2025-07-13T10:49:10Z
 100002795,100000540,Grace,Wong,grace.wong@techcrunchlabs.com,FALSE,2025-07-13T22:47:20Z
 100002796,100000477,Milo,Nightshade,milo.nightshade@techdynasty.com,FALSE,2025-07-13T11:17:56Z
+100002797,100001874,Joseph,Wu,j.wu@datastormtech.com,TRUE,2025-07-14T13:29:17Z
+100002798,100001875,Nova,Singh,nova.singh@technoanalytica.com,TRUE,2025-07-14T23:17:39Z
+100002799,100001876,Ella,Liu,ella.liu@intelligentdatagroup.com,TRUE,2025-07-14T03:18:19Z
+100002800,100001877,Grace,Ingram,gingram@datainsightsgroup.com,TRUE,2025-07-14T11:27:35Z
+100002801,100001176,Andy,Gupta,andy.gupta@cloudsoftwaresolutions.com,FALSE,2025-07-14T22:51:01Z
+100002802,100000510,Grace,Chow,grace.chow@dataflux.com,FALSE,2025-07-14T19:59:44Z
+100002803,100000621,Cole,Kaur,cole.kaur@datameridian.com,FALSE,2025-07-14T09:33:42Z
