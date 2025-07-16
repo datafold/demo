@@ -2802,3 +2802,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002801,100001176,Andy,Gupta,andy.gupta@cloudsoftwaresolutions.com,FALSE,2025-07-14T22:51:01Z
 100002802,100000510,Grace,Chow,grace.chow@dataflux.com,FALSE,2025-07-14T19:59:44Z
 100002803,100000621,Cole,Kaur,cole.kaur@datameridian.com,FALSE,2025-07-14T09:33:42Z
+100002806,100001880,Madison,Torres,madisontorres$techsparklabs.com,TRUE,2025-07-15T11:31:37Z
+100002804,100001878,Nora,Wu,nora.wu@analyticalystic.ai,TRUE,2025-07-15T23:49:48Z
+100002805,100001879,Daniel,Royce,danielroyce@mindforgegroup.com,TRUE,2025-07-15T03:24:52Z
+100002807,100001881,Arthur,Sato,arthur.sato@dynamicsdataai.com,TRUE,2025-07-15T21:25:42Z
+100002808,100001474,Elliot,Yu,elliot.yu@clusterai.tech,FALSE,2025-07-15T09:36:09Z
+100002809,100001439,Harper,Ma,harper.ma@smartcitydata.com,FALSE,2025-07-15T18:55:59Z
