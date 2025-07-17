@@ -2808,3 +2808,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002807,100001881,Arthur,Sato,arthur.sato@dynamicsdataai.com,TRUE,2025-07-15T21:25:42Z
 100002808,100001474,Elliot,Yu,elliot.yu@clusterai.tech,FALSE,2025-07-15T09:36:09Z
 100002809,100001439,Harper,Ma,harper.ma@smartcitydata.com,FALSE,2025-07-15T18:55:59Z
+100002810,100001882,Caleb,Nguyen,caleb.nguyen@innovadatacorp.com,TRUE,2025-07-16T16:13:04Z
+100002811,100001883,Aurora,Banks,aurora.banks@techmachinehub.com,TRUE,2025-07-16T06:09:58Z
+100002812,100001884,David,Johnson,david.johnson@techbeaminc.com,TRUE,2025-07-16T16:24:22Z
+100002813,100001885,Maya,Singh,maya.singh@vibranalytics.co,TRUE,2025-07-16T22:48:13Z
+100002814,100001438,Zoe,Blackwell,zoe.blackwell@aiacceleratesolutions.com,FALSE,2025-07-16T07:11:57Z
+100002815,100001386,Penelope,Yee,penelope.yee@datavaultworks.com,FALSE,2025-07-16T11:50:56Z
+100002816,100000231,Amelia,Cheng,amelia.cheng@analyticube.com,FALSE,2025-07-16T11:52:45Z
