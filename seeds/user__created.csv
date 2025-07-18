@@ -2815,3 +2815,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002814,100001438,Zoe,Blackwell,zoe.blackwell@aiacceleratesolutions.com,FALSE,2025-07-16T07:11:57Z
 100002815,100001386,Penelope,Yee,penelope.yee@datavaultworks.com,FALSE,2025-07-16T11:50:56Z
 100002816,100000231,Amelia,Cheng,amelia.cheng@analyticube.com,FALSE,2025-07-16T11:52:45Z
+100002817,100001886,Julia,Das,julia.das@cloudanalysticsgroup.com,TRUE,2025-07-17T13:43:28Z
+100002818,100001887,Liam,Chen,liam.chen@datadelve.io,TRUE,2025-07-17T11:18:36Z
+100002819,100001888,Leah,Singhal,leah.singhal@integratadata.com,TRUE,2025-07-17T23:18:27Z
+100002820,100000262,James,Chung,james.chung@datadreamz.com,FALSE,2025-07-17T06:58:27Z
+100002821,100001023,Michael,Konduru,michael.konduru@algorithmicmindtechs.com,FALSE,2025-07-17T19:23:05Z
+100002822,100001179,Abigail,Huynh,abigail.huynh@bytecore.com,FALSE,2025-07-17T04:25:36Z
