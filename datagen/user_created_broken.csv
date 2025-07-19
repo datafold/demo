@@ -2821,3 +2821,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002820,100000262,James,Chung,james.chung@datadreamz.com,FALSE,2025-07-17T06:58:27Z
 100002821,100001023,Michael,Konduru,michael.konduru@algorithmicmindtechs.com,FALSE,2025-07-17T19:23:05Z
 100002822,100001179,Abigail,Huynh,abigail.huynh@bytecore.com,FALSE,2025-07-17T04:25:36Z
+100002825,100001891,Benjamin,Zhang,bzhang$techdataingroup.com,TRUE,2025-07-18T08:35:37Z
+100002823,100001889,Elijah,Taylor,elijah.taylor@datasyncsolutions.org,TRUE,2025-07-18T18:38:12Z
+100002824,100001890,Nathan,Johnson,nathan.j@smartanalyticagroup.com,TRUE,2025-07-18T01:05:21Z
+100002826,100001892,Sophia,Chang,sophiach@aiinventorscorp.com,TRUE,2025-07-18T17:06:44Z
+100002827,100001622,Benjamin,Chang,benjamin.chang@datascapegroup.com,FALSE,2025-07-18T01:24:58Z
+100002828,100000824,Alex,O'Brien,alex.o'brien@bitproanalytics.com,FALSE,2025-07-18T11:52:53Z
