@@ -2827,3 +2827,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002826,100001892,Sophia,Chang,sophiach@aiinventorscorp.com,TRUE,2025-07-18T17:06:44Z
 100002827,100001622,Benjamin,Chang,benjamin.chang@datascapegroup.com,FALSE,2025-07-18T01:24:58Z
 100002828,100000824,Alex,O'Brien,alex.o'brien@bitproanalytics.com,FALSE,2025-07-18T11:52:53Z
+100002829,100001893,David,Hu,david.hu@datascoper.co,TRUE,2025-07-19T14:54:06Z
+100002830,100001894,Ember,Vaughn,ember.vaughn@intellidatapoint.com,TRUE,2025-07-19T20:10:34Z
+100002831,100001895,Gemma,Jain,gemma.jain@analyzegroupco.com,TRUE,2025-07-19T23:47:31Z
+100002832,100000412,Brian,Patel,brian.patel@bigdataprofs.com,FALSE,2025-07-19T22:45:59Z
+100002833,100001195,Victoria,Gomez,victoria.gomez@bigdatastrategix.com,FALSE,2025-07-19T06:49:54Z
