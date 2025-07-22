@@ -2839,3 +2839,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002838,100001900,Mia,Nguyen,mian@infosystemspros.com,TRUE,2025-07-20T03:39:56Z
 100002839,100000564,Ella,Lam,ella.lam@insightize.com,FALSE,2025-07-20T11:15:49Z
 100002840,100001236,Michael,Zhang,michael.zhang@datadiscoverylab.co,FALSE,2025-07-20T14:48:48Z
+100002841,100001901,Violet,Wu,violetwu@techdataanalystsco.com,TRUE,2025-07-21T06:42:01Z
+100002842,100001902,Nina,Ramirez,nina.ramirez@quantuminsight.net,TRUE,2025-07-21T07:09:27Z
+100002843,100001903,Lily,Leung,lily.leung@datageniustech.com,TRUE,2025-07-21T16:13:08Z
+100002844,100001279,John,Evans,john.evans@datavalidatech.com,FALSE,2025-07-21T20:33:16Z
+100002845,100001573,Charlotte,Wang,charlotte.wang@technovate.co,FALSE,2025-07-21T21:32:25Z
