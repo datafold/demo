@@ -2850,3 +2850,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002849,100001768,Alexander,Rogers,alexander.rogers@databridgetech.com,FALSE,2025-07-22T15:25:45Z
 100002850,100001754,Liam,Huang,liam.huang@neodatacorp.com,FALSE,2025-07-22T01:09:53Z
 100002851,100000382,Aiden,Roberts,aiden.roberts@mindlens.tech,FALSE,2025-07-22T03:40:42Z
+100002852,100001907,Zachary,Kwan,zkwan@datavalueco.com,TRUE,2025-07-23T10:58:20Z
+100002853,100001908,Zoe,Cooper,zoe.cooper@bigdataventure.io,TRUE,2025-07-23T16:22:30Z
+100002854,100001909,Avery,Moore,a.moore@analytickitinc.com,TRUE,2025-07-23T07:37:40Z
+100002855,100000716,Amaya,Thompson,amaya.thompson@datalyticstech.io,FALSE,2025-07-23T06:59:54Z
+100002856,100001386,Titus,Lo,titus.lo@datavaultworks.com,FALSE,2025-07-23T09:05:17Z
