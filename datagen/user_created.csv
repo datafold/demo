@@ -2861,3 +2861,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002860,100001913,Nathan,Grant,n.grant@datasourceai.com,TRUE,2025-07-24T12:12:44Z
 100002861,100001871,Wilson,Sethi,wilson.sethi@aianalyticscorp.com,FALSE,2025-07-24T20:16:41Z
 100002862,100000524,Sofia,King,sofia.king@datagroveinc.com,FALSE,2025-07-24T13:46:45Z
+100002863,100001914,Isla,Sharp,islas@datauplift.io,TRUE,2025-07-25T04:55:51Z
+100002864,100001915,Delilah,Nguyen,delilah.nguyen@datawranglersai.com,TRUE,2025-07-25T16:31:40Z
+100002865,100001916,Layla,Hill,laylahill@dataviveai.com,TRUE,2025-07-25T11:18:56Z
+100002866,100001917,Leo,Martinez,leo.martinez@datasciencesol.com,TRUE,2025-07-25T15:17:32Z
+100002867,100000462,Abigail,Hernandez,abigail.hernandez@byteflux.com,FALSE,2025-07-25T17:32:15Z
+100002868,100000975,Harper,Baker,harper.baker@datascriptlabs.com,FALSE,2025-07-25T08:40:11Z
