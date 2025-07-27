@@ -2867,3 +2867,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002866,100001917,Leo,Martinez,leo.martinez@datasciencesol.com,TRUE,2025-07-25T15:17:32Z
 100002867,100000462,Abigail,Hernandez,abigail.hernandez@byteflux.com,FALSE,2025-07-25T17:32:15Z
 100002868,100000975,Harper,Baker,harper.baker@datascriptlabs.com,FALSE,2025-07-25T08:40:11Z
+100002869,100001918,Reagan,Craig,reagan.craig@techdynasty.io,TRUE,2025-07-26T10:32:12Z
+100002870,100001919,Elijah,Iyer,elijah.iyer@technovatia.com,TRUE,2025-07-26T11:48:45Z
+100002871,100001920,Troy,Datastream,troy.datastream@streamai.com,TRUE,2025-07-26T06:12:28Z
+100002872,100001921,Isabel,Tran,isabel.tran@analyzifyai.com,TRUE,2025-07-26T22:34:18Z
+100002873,100001922,Camila,Kim,c.kim@datavantagelabs.com,TRUE,2025-07-26T14:02:45Z
+100002874,100000943,Julian,Choi,julian.choi@datadextronicsco.com,FALSE,2025-07-26T05:09:41Z
+100002875,100001098,Sofia,Huang,sofia.huang@datamerge.co,FALSE,2025-07-26T05:54:17Z
