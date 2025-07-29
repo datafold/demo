@@ -2880,3 +2880,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002879,100001926,Emilia,Hansen,emilia.hansen@techforward.com,TRUE,2025-07-27T20:29:25Z
 100002880,100000203,Madison,Raj,madison.raj@databoostgenius.ai,FALSE,2025-07-27T23:01:15Z
 100002881,100000112,Brandon,White,brandon.white@datatechgroup.com,FALSE,2025-07-27T22:41:02Z
+100002882,100001927,Grace,Yang,grace.yang@technodatascope.com,TRUE,2025-07-28T15:37:28Z
+100002883,100001928,Gabriel,Abbas,gabriel.abbas@datasteer.com,TRUE,2025-07-28T14:29:12Z
+100002884,100001929,Rex,Chang,rex.chang@dataspotlabs.com,TRUE,2025-07-28T02:25:05Z
+100002885,100001930,Mateo,Gomez,mateo.gomez@dataverse.com,TRUE,2025-07-28T12:00:47Z
+100002886,100001358,Benjamin,Garcia,benjamin.garcia@insightfulai.com,FALSE,2025-07-28T00:54:57Z
+100002887,100000414,Max,Flores,max.flores@quantumscape.ai,FALSE,2025-07-28T03:23:03Z
