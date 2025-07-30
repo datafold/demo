@@ -2886,3 +2886,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002885,100001930,Mateo,Gomez,mateo.gomez@dataverse.com,TRUE,2025-07-28T12:00:47Z
 100002886,100001358,Benjamin,Garcia,benjamin.garcia@insightfulai.com,FALSE,2025-07-28T00:54:57Z
 100002887,100000414,Max,Flores,max.flores@quantumscape.ai,FALSE,2025-07-28T03:23:03Z
+100002888,100001931,John,Wang,john.wang@datavati.com,TRUE,2025-07-29T23:09:38Z
+100002889,100001932,Aaron,Nguyen,aaron.nguyen@datainnova.com,TRUE,2025-07-29T04:45:01Z
+100002890,100001933,Dexter,Kaur,dexter.kaur@analytixxinc.com,TRUE,2025-07-29T23:26:45Z
+100002891,100001934,Grayson,Rodriguez,grayson.rodriguez@datainnovationsco.com,TRUE,2025-07-29T14:53:33Z
+100002892,100000825,Logan,Perez,logan.perez@datanovasystems.com,FALSE,2025-07-29T09:29:09Z
+100002893,100000925,Avery,Cruz,avery.cruz@intellisagecorp.com,FALSE,2025-07-29T06:17:51Z
