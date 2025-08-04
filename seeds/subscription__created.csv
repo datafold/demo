@@ -973,3 +973,6 @@ org_id,event_timestamp,activity,plan,price,deployment
 100001556,2025-08-01T18:27:24Z,subscribed,Team,99,On-prem
 100001889,2025-08-02T02:35:48Z,subscribed,Team,0,SaaS
 100001265,2025-08-02T02:42:24Z,subscribed,Team,99,SaaS
+100000460,2025-08-03T07:31:42Z,subscribed,Team,99,On-prem
+100000647,2025-08-03T23:42:15Z,subscribed,Business,399,On-prem
+100001616,2025-08-03T06:15:40Z,subscribed,Business,399,SaaS
