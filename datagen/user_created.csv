@@ -2937,3 +2937,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002936,100001966,Ethan,King,ethank@machinelearningsystems.com,TRUE,2025-08-05T15:59:49Z
 100002937,100000235,Riley,Ramsey,riley.ramsey@techinsightgroup.com,FALSE,2025-08-05T23:04:01Z
 100002938,100001789,Mason,Feng,mason.feng@smartaiinsights.com,FALSE,2025-08-05T15:33:30Z
+100002939,100001967,Aurora,Yang,aurora.yang@vivadata.io,TRUE,2025-08-06T14:56:02Z
+100002940,100001968,Zoe,Chan,zoe.chan@infinia.biz,TRUE,2025-08-06T19:03:54Z
+100002941,100001969,Charlotte,Perez,charlotte.perez@datalytics.tech,TRUE,2025-08-06T09:03:25Z
+100002942,100001077,Harper,Davis,harper.davis@techdataexpertiseco.com,FALSE,2025-08-06T12:19:45Z
+100002943,100000787,Enzo,Chandra,enzo.chandra@datascope.com,FALSE,2025-08-06T21:57:13Z
