@@ -2942,3 +2942,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002941,100001969,Charlotte,Perez,charlotte.perez@datalytics.tech,TRUE,2025-08-06T09:03:25Z
 100002942,100001077,Harper,Davis,harper.davis@techdataexpertiseco.com,FALSE,2025-08-06T12:19:45Z
 100002943,100000787,Enzo,Chandra,enzo.chandra@datascope.com,FALSE,2025-08-06T21:57:13Z
+100002945,100001971,Michael,Smith,michael.smith$datatechinc.com,TRUE,2025-08-07T22:27:09Z
+100002944,100001970,Henry,Brown,henrybrown@innovatedatahub.com,TRUE,2025-08-07T05:12:22Z
+100002946,100001972,Joseph,Cook,joseph.cook@cyberbrainai.com,TRUE,2025-08-07T08:18:39Z
+100002947,100001973,Lincoln,Sharma,lincoln@infoinsights.com,TRUE,2025-08-07T07:09:23Z
+100002948,100001974,Jade,Raj,jade.raj@aerolytica.co,TRUE,2025-08-07T14:11:25Z
+100002949,100000819,Blake,Smith,blake.smith@quantumbyteinc.com,FALSE,2025-08-07T08:15:17Z
+100002950,100000678,Isaac,Chen,isaac.chen@digiforge.com,FALSE,2025-08-07T03:42:31Z
