@@ -2949,3 +2949,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002948,100001974,Jade,Raj,jade.raj@aerolytica.co,TRUE,2025-08-07T14:11:25Z
 100002949,100000819,Blake,Smith,blake.smith@quantumbyteinc.com,FALSE,2025-08-07T08:15:17Z
 100002950,100000678,Isaac,Chen,isaac.chen@digiforge.com,FALSE,2025-08-07T03:42:31Z
+100002951,100001975,Mia,Young,mia.young@techwaveinc.com,TRUE,2025-08-08T08:07:12Z
+100002952,100001976,Ava,Martinez,avam@intellicoud.com,TRUE,2025-08-08T09:16:44Z
+100002953,100001977,Ella,Tang,ella.tang@datasyncsolutions.com,TRUE,2025-08-08T09:13:31Z
+100002954,100001978,Grace,Tran,gtran@techdatafoundry.com,TRUE,2025-08-08T01:12:43Z
+100002955,100001979,Evan,Chung,evan.chung@logidatagist.com,TRUE,2025-08-08T14:59:43Z
+100002956,100001244,Kai,Tian,kai.tian@synthetixlaboratories.com,FALSE,2025-08-08T07:31:53Z
+100002957,100000119,Ethan,Wu,ethan.wu@digivision.co,FALSE,2025-08-08T05:34:28Z
