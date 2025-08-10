@@ -2956,3 +2956,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002955,100001979,Evan,Chung,evan.chung@logidatagist.com,TRUE,2025-08-08T14:59:43Z
 100002956,100001244,Kai,Tian,kai.tian@synthetixlaboratories.com,FALSE,2025-08-08T07:31:53Z
 100002957,100000119,Ethan,Wu,ethan.wu@digivision.co,FALSE,2025-08-08T05:34:28Z
+100002958,100001980,John,Doe,john.doe@analytitechcorp.com,TRUE,2025-08-09T05:04:43Z
+100002959,100001981,Julian,Wang,julian.wang@analyzera.com,TRUE,2025-08-09T08:21:44Z
+100002960,100001982,Elizabeth,Murray,elizabeth.murray@datadreamlabs.com,TRUE,2025-08-09T19:16:36Z
+100002961,100001983,Sophia,Tran,sophia.tran@neuralnetworkinsights.com,TRUE,2025-08-09T09:32:25Z
+100002962,100001202,Blake,Lee,blake.lee@datasystemsolutionsinc.com,FALSE,2025-08-09T15:34:01Z
