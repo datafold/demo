@@ -2988,3 +2988,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002987,100002001,Alice,Smith,alice.smith@datadive.com,TRUE,2025-08-13T09:46:53Z
 100002988,100001431,Adam,Wood,adam.wood@techvizionconsulting.com,FALSE,2025-08-13T23:46:05Z
 100002989,100000663,Rachel,Yang,rachel.yang@techbrainery.ai,FALSE,2025-08-13T05:19:00Z
+100002990,100002002,Nova,Wells,nova.wells@databotixco.com,TRUE,2025-08-14T00:39:54Z
+100002991,100002003,Emma,Garcia,emmag@techdatasol.com,TRUE,2025-08-14T23:57:42Z
+100002992,100002004,Henry,Wang,henry.wang@techanalysisinc.com,TRUE,2025-08-14T04:49:02Z
+100002993,100002005,Sophia,Liu,sophia.liu@neuroinsighttech.com,TRUE,2025-08-14T04:08:20Z
+100002994,100000295,Ryan,Grant,ryan.grant@neuralfusion.io,FALSE,2025-08-14T13:33:03Z
+100002995,100001417,Sofia,Vasquez,sofia.vasquez@algorithmicdataco.com,FALSE,2025-08-14T01:50:24Z
