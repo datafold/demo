@@ -2994,3 +2994,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002993,100002005,Sophia,Liu,sophia.liu@neuroinsighttech.com,TRUE,2025-08-14T04:08:20Z
 100002994,100000295,Ryan,Grant,ryan.grant@neuralfusion.io,FALSE,2025-08-14T13:33:03Z
 100002995,100001417,Sofia,Vasquez,sofia.vasquez@algorithmicdataco.com,FALSE,2025-08-14T01:50:24Z
+100003000,100001201,Jack,Ng,jack.ng$aiengineersinc.com,FALSE,2025-08-15T10:12:59Z
+100002996,100002006,Sophia,Lopez,sophia.lopez@byteflow.com,TRUE,2025-08-15T03:29:31Z
+100002997,100002007,Ethan,Sharma,ethan.sharma@quantalogic.com,TRUE,2025-08-15T23:45:27Z
+100002998,100002008,Avery,Cooper,averycooper@codefusionlabs.com,TRUE,2025-08-15T17:10:13Z
+100002999,100001940,Grace,Gupta,grace.gupta@datainsightworks.com,FALSE,2025-08-15T18:13:32Z
+100003001,100000617,Hazel,Rajan,hazel.rajan@datasciencepros.com,FALSE,2025-08-15T14:38:41Z
