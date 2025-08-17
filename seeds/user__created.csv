@@ -3000,3 +3000,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100002998,100002008,Avery,Cooper,averycooper@codefusionlabs.com,TRUE,2025-08-15T17:10:13Z
 100002999,100001940,Grace,Gupta,grace.gupta@datainsightworks.com,FALSE,2025-08-15T18:13:32Z
 100003001,100000617,Hazel,Rajan,hazel.rajan@datasciencepros.com,FALSE,2025-08-15T14:38:41Z
+100003002,100002009,Eli,Ng,eli.ng@robosyscorp.com,TRUE,2025-08-16T03:46:00Z
+100003003,100002010,Madeline,Gonzalez,madeline.gonzalez@dataharborsolutions.com,TRUE,2025-08-16T13:47:39Z
+100003004,100002011,Ryan,Griffin,ryan.griffin@datasprint.com,TRUE,2025-08-16T07:55:21Z
+100003005,100002012,Nathan,Scott,nathan.scott@datalyze.tech,TRUE,2025-08-16T22:37:48Z
+100003006,100000155,Leo,Lee,leo.lee@datagrandtech.com,FALSE,2025-08-16T10:40:16Z
+100003007,100001391,Brooklyn,Mendoza,brooklyn.mendoza@innovateinsight.com,FALSE,2025-08-16T07:09:18Z
