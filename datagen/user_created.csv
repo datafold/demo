@@ -3006,3 +3006,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003005,100002012,Nathan,Scott,nathan.scott@datalyze.tech,TRUE,2025-08-16T22:37:48Z
 100003006,100000155,Leo,Lee,leo.lee@datagrandtech.com,FALSE,2025-08-16T10:40:16Z
 100003007,100001391,Brooklyn,Mendoza,brooklyn.mendoza@innovateinsight.com,FALSE,2025-08-16T07:09:18Z
+100003008,100002013,Aaron,Vaughn,aaronvaughn@techcogent.com,TRUE,2025-08-17T16:43:57Z
+100003009,100002014,Ethan,Brown,ethan.brown@cyberbytesinc.com,TRUE,2025-08-17T11:42:59Z
+100003010,100002015,Milo,Zhang,milo.zhang@cyberinsights.io,TRUE,2025-08-17T00:12:00Z
+100003011,100002016,Michael,Patel,michaelpatel@digitalinsightsco.com,TRUE,2025-08-17T19:19:22Z
+100003012,100001357,Emily,Chen,emily.chen@aiexcellab.com,FALSE,2025-08-17T04:10:55Z
+100003013,100001641,Norah,Scott,norah.scott@cyberscreenlabs.com,FALSE,2025-08-17T18:04:06Z
