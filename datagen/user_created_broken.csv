@@ -3012,3 +3012,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003011,100002016,Michael,Patel,michaelpatel@digitalinsightsco.com,TRUE,2025-08-17T19:19:22Z
 100003012,100001357,Emily,Chen,emily.chen@aiexcellab.com,FALSE,2025-08-17T04:10:55Z
 100003013,100001641,Norah,Scott,norah.scott@cyberscreenlabs.com,FALSE,2025-08-17T18:04:06Z
+100003016,100002019,Bella,Tan,btan$datanalyticslab.com,TRUE,2025-08-18T02:04:03Z
+100003014,100002017,Sophia,Rivera,sophiarivera@datasciencesquad.com,TRUE,2025-08-18T18:20:42Z
+100003015,100002018,Lyla,Wilder,lyla.w@techsphere.ai,TRUE,2025-08-18T23:21:43Z
+100003017,100000056,Harper,Mohan,harper.mohan@techbrightai.com,FALSE,2025-08-18T09:51:34Z
+100003018,100002007,Jaxon,Jones,jaxon.jones@quantalogic.com,FALSE,2025-08-18T09:35:22Z
