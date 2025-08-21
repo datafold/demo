@@ -3024,3 +3024,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003023,100002024,Isabella,Wu,isabellawu@datasciencelink.com,TRUE,2025-08-19T12:11:16Z
 100003024,100001803,Lincoln,Brown,lincoln.brown@techgeniusgroup.com,FALSE,2025-08-19T04:30:26Z
 100003025,100000853,Alexander,Choi,alexander.choi@datavant.net,FALSE,2025-08-19T19:29:54Z
+100003026,100002025,Caleb,Roxx,croxx@algorithmix.io,TRUE,2025-08-20T12:00:00Z
+100003027,100002026,Luna,Wu,luna.wu@datalytix.net,TRUE,2025-08-20T22:50:57Z
+100003028,100002027,Julian,Hill,julian.hill@cyberbrain.net,TRUE,2025-08-20T15:42:03Z
+100003029,100002028,Gigi,Tran,gigi.tran@synaptiqsolutions.com,TRUE,2025-08-20T21:38:29Z
+100003030,100002029,Orion,Thorne,o_thorne@datasift.com,TRUE,2025-08-20T22:09:32Z
+100003031,100000501,Reagan,Wang,reagan.wang@datainsightworkshop.org,FALSE,2025-08-20T02:52:58Z
+100003032,100001318,Hazel,Nguyen,hazel.nguyen@datastreamlabs.com,FALSE,2025-08-20T14:06:26Z
