@@ -3031,3 +3031,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003030,100002029,Orion,Thorne,o_thorne@datasift.com,TRUE,2025-08-20T22:09:32Z
 100003031,100000501,Reagan,Wang,reagan.wang@datainsightworkshop.org,FALSE,2025-08-20T02:52:58Z
 100003032,100001318,Hazel,Nguyen,hazel.nguyen@datastreamlabs.com,FALSE,2025-08-20T14:06:26Z
+100003033,100002030,Mia,Hernandez,mia.hernandez@inteldata.com,TRUE,2025-08-21T14:58:05Z
+100003034,100002031,Olivia,Yu,oliviay@aibitsconsulting.com,TRUE,2025-08-21T05:43:11Z
+100003035,100002032,Leo,Tran,leo.tran@datawavecorp.com,TRUE,2025-08-21T02:45:40Z
+100003036,100002033,John,Doe,john.doe@analytica.co,TRUE,2025-08-21T12:33:50Z
+100003037,100002034,Stella,Wong,stella.wong@quantumanalytix.com,TRUE,2025-08-21T17:19:21Z
+100003038,100001371,Grace,Wang,grace.wang@analytixtech.co,FALSE,2025-08-21T11:47:32Z
+100003039,100001829,Carter,Rodriguez,carter.rodriguez@datavolt.com,FALSE,2025-08-21T12:55:11Z
