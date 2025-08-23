@@ -3038,3 +3038,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003037,100002034,Stella,Wong,stella.wong@quantumanalytix.com,TRUE,2025-08-21T17:19:21Z
 100003038,100001371,Grace,Wang,grace.wang@analytixtech.co,FALSE,2025-08-21T11:47:32Z
 100003039,100001829,Carter,Rodriguez,carter.rodriguez@datavolt.com,FALSE,2025-08-21T12:55:11Z
+100003040,100002035,Sebastian,Wang,sebastian.wang@digilabs.io,TRUE,2025-08-21T20:37:19Z
+100003041,100002036,Zoe,Cook,zoe.cook@datasciensol.com,TRUE,2025-08-22T16:29:58Z
+100003042,100002037,Harper,Singh,hsingh@insightmetrica.com,TRUE,2025-08-22T17:48:34Z
+100003043,100002038,Oscar,Chen,oscarchen@intelligentdataco.com,TRUE,2025-08-22T07:17:19Z
+100003044,100002039,Mason,Kumar,mkumar@datasolve.io,TRUE,2025-08-22T14:18:39Z
+100003045,100001554,Simon,Hughes,simon.hughes@datamegacorp.com,FALSE,2025-08-22T09:37:11Z
+100003046,100001430,Theo,Warren,theo.warren@datafusionlabs.com,FALSE,2025-08-22T01:54:42Z
