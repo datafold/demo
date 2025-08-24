@@ -3045,3 +3045,7 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003044,100002039,Mason,Kumar,mkumar@datasolve.io,TRUE,2025-08-22T14:18:39Z
 100003045,100001554,Simon,Hughes,simon.hughes@datamegacorp.com,FALSE,2025-08-22T09:37:11Z
 100003046,100001430,Theo,Warren,theo.warren@datafusionlabs.com,FALSE,2025-08-22T01:54:42Z
+100003047,100002040,Addison,Ramirez,addison.ramirez@techmindset.io,TRUE,2025-08-23T11:26:06Z
+100003048,100002041,Alice,Smith,alice.smith@datainsighttech.com,TRUE,2025-08-23T16:22:43Z
+100003049,100002042,Eli,Lin,eli.lin@techolytics.com,TRUE,2025-08-23T07:29:22Z
+100003050,100001336,Parker,Wu,parker.wu@bytegenix.com,FALSE,2025-08-23T08:14:53Z
