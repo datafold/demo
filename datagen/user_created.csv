@@ -3057,3 +3057,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003056,100000298,Grace,Yu,grace.yu@datadigmcorp.com,FALSE,2025-08-24T17:35:59Z
 100003057,100001091,William,Wong,william.wong@machinelearningsolutions.com,FALSE,2025-08-24T23:02:03Z
 100003058,100000091,Hudson,Xu,hudson.xu@datavisions.biz,FALSE,2025-08-24T22:58:47Z
+100003059,100002048,Julian,Zhao,julian@techanalyticsco.com,TRUE,2025-08-25T02:36:21Z
+100003060,100002049,Scarlett,Tran,scarlett.tran@datasonixcorp.com,TRUE,2025-08-25T21:58:45Z
+100003061,100002050,Henry,Ramirez,henryramirez@datamind.co,TRUE,2025-08-25T08:16:22Z
+100003062,100001670,Eli,Scott,eli.scott@datafusionary.com,FALSE,2025-08-25T21:57:50Z
+100003063,100001642,Connor,Rogers,connor.rogers@dataminerpros.com,FALSE,2025-08-25T16:34:33Z
