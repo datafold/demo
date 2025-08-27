@@ -3062,3 +3062,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003061,100002050,Henry,Ramirez,henryramirez@datamind.co,TRUE,2025-08-25T08:16:22Z
 100003062,100001670,Eli,Scott,eli.scott@datafusionary.com,FALSE,2025-08-25T21:57:50Z
 100003063,100001642,Connor,Rogers,connor.rogers@dataminerpros.com,FALSE,2025-08-25T16:34:33Z
+100003064,100002051,Sara,Chong,sara.chong@infolytics.co,TRUE,2025-08-26T11:16:54Z
+100003065,100002052,Dominic,Walsh,dominic.walsh@datafusionist.io,TRUE,2025-08-26T22:20:18Z
+100003066,100002053,David,Peterson,david.peterson@datadextribe.com,TRUE,2025-08-26T05:13:59Z
+100003067,100002054,Amara,Singh,a.singh@neuroseekers.ai,TRUE,2025-08-26T20:16:37Z
+100003068,100000991,Audrey,Smith,audrey.smith@metricsurge.com,FALSE,2025-08-26T12:55:36Z
