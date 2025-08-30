@@ -3082,3 +3082,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003081,100002065,Ava,Zhao,avazhao@smartalgorithms.ai,TRUE,2025-08-28T04:01:55Z
 100003082,100001190,Samantha,Zhang,samantha.zhang@solutionsphere.com,FALSE,2025-08-28T21:15:17Z
 100003083,100000802,Ella,Le,ella.le@intellidatapulse.com,FALSE,2025-08-28T14:01:40Z
+100003084,100002066,Gabriella,Tran,gabriella.tran@cybermindco.com,TRUE,2025-08-29T16:48:48Z
+100003085,100002067,Jessica,Chung,jessica.chung@techinsightlab.com,TRUE,2025-08-29T17:53:07Z
+100003086,100002068,Elara,Blaze,eblaze@syntheticscience.ai,TRUE,2025-08-29T02:22:28Z
+100003087,100002069,Amelia,Wu,amelia.wu@datametriks.com,TRUE,2025-08-29T07:00:58Z
+100003088,100001925,Aria,Lloyd,aria.lloyd@dataviewtech.com,FALSE,2025-08-29T15:54:42Z
+100003089,100000045,Madison,Phan,madison.phan@datamagic.com,FALSE,2025-08-29T04:52:16Z
