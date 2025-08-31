@@ -3088,3 +3088,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003087,100002069,Amelia,Wu,amelia.wu@datametriks.com,TRUE,2025-08-29T07:00:58Z
 100003088,100001925,Aria,Lloyd,aria.lloyd@dataviewtech.com,FALSE,2025-08-29T15:54:42Z
 100003089,100000045,Madison,Phan,madison.phan@datamagic.com,FALSE,2025-08-29T04:52:16Z
+100003090,100002070,Owen,Joshi,owen.joshi@datagenius.co,TRUE,2025-08-30T21:21:44Z
+100003091,100002071,Zoey,Gao,zoey.gao@techdatainsights.net,TRUE,2025-08-30T02:52:30Z
+100003092,100002072,Leo,Cheng,leo.cheng@dataviewpoint.com,TRUE,2025-08-30T22:31:34Z
+100003093,100002073,Ethan,Liu,ethan.liu@techfusion.biz,TRUE,2025-08-30T12:17:43Z
+100003094,100000896,Avery,Li,avery.li@smartdataiq.com,FALSE,2025-08-30T11:39:07Z
+100003095,100000941,Jaxon,Mason,jaxon.mason@intellecta.ai,FALSE,2025-08-30T04:42:45Z
