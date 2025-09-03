@@ -3109,3 +3109,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003108,100002084,Aaron,Gonzalez,aarongonzalez@techinnovationco.org,TRUE,2025-09-01T00:37:21Z
 100003109,100001263,Asher,Gomez,asher.gomez@techmindco.com,FALSE,2025-09-01T08:56:55Z
 100003110,100001946,Eli,Flores,eli.flores@analytechsolutionscorp.com,FALSE,2025-09-01T18:01:28Z
+100003111,100002085,Owen,Bennett,owenb@techfusionai.com,TRUE,2025-09-02T10:45:28Z
+100003112,100002086,Aaron,Du,aaron.du@brightdatalabs.com,TRUE,2025-09-02T09:14:30Z
+100003113,100002087,Ian,Kim,ian@modularmindtech.com,TRUE,2025-09-02T21:04:53Z
+100003114,100002088,Adam,Perry,adam.perry@techlogicai.com,TRUE,2025-09-02T04:41:30Z
+100003115,100000433,Oliver,Choi,oliver.choi@dataspark.co,FALSE,2025-09-02T03:59:13Z
+100003116,100001025,David,Garcia,david.garcia@analyzintellects.com,FALSE,2025-09-02T15:03:30Z
