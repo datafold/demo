@@ -3115,3 +3115,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003114,100002088,Adam,Perry,adam.perry@techlogicai.com,TRUE,2025-09-02T04:41:30Z
 100003115,100000433,Oliver,Choi,oliver.choi@dataspark.co,FALSE,2025-09-02T03:59:13Z
 100003116,100001025,David,Garcia,david.garcia@analyzintellects.com,FALSE,2025-09-02T15:03:30Z
+100003117,100002089,Daniel,Wu,daniel.wu@dataquest.com,TRUE,2025-09-03T10:52:04Z
+100003118,100002090,Harper,Gupta,harper.gupta@analygenius.com,TRUE,2025-09-03T04:21:21Z
+100003119,100002091,Carter,Ng,carter.ng@datasciencedevco.com,TRUE,2025-09-03T03:30:55Z
+100003120,100002092,Madeline,Chen,madeline.chen@techanalyticslab.co,TRUE,2025-09-03T14:40:30Z
+100003121,100000166,Kyrie,Morris,kyrie.morris@analytxsolutions.com,FALSE,2025-09-03T00:29:05Z
+100003122,100000988,Nathan,Gomez,nathan.gomez@digianalyze.com,FALSE,2025-09-03T20:03:05Z
