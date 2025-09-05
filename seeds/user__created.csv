@@ -3121,3 +3121,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003120,100002092,Madeline,Chen,madeline.chen@techanalyticslab.co,TRUE,2025-09-03T14:40:30Z
 100003121,100000166,Kyrie,Morris,kyrie.morris@analytxsolutions.com,FALSE,2025-09-03T00:29:05Z
 100003122,100000988,Nathan,Gomez,nathan.gomez@digianalyze.com,FALSE,2025-09-03T20:03:05Z
+100003123,100002093,Emma,Davis,emma.davis@techinsightco.com,TRUE,2025-09-04T07:59:09Z
+100003124,100002094,Lucas,Jones,lucas.jones@aiinsightech.com,TRUE,2025-09-04T00:08:53Z
+100003125,100002095,Hannah,Lam,hannah.lam@embedixgroup.com,TRUE,2025-09-04T21:13:16Z
+100003126,100002096,Natalie,Tsai,natalie.tsai@datascienceforge.com,TRUE,2025-09-04T07:12:14Z
+100003127,100000896,Logan,Peterson,logan.peterson@smartdataiq.com,FALSE,2025-09-04T17:42:17Z
+100003128,100001408,Hunter,Kang,hunter.kang@datumtechnologiesco.com,FALSE,2025-09-04T02:58:36Z
