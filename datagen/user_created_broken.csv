@@ -3127,3 +3127,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003126,100002096,Natalie,Tsai,natalie.tsai@datascienceforge.com,TRUE,2025-09-04T07:12:14Z
 100003127,100000896,Logan,Peterson,logan.peterson@smartdataiq.com,FALSE,2025-09-04T17:42:17Z
 100003128,100001408,Hunter,Kang,hunter.kang@datumtechnologiesco.com,FALSE,2025-09-04T02:58:36Z
+100003129,100002097,Chloe,Chen,chloe.chen@byteflowai.tech,TRUE,2025-09-05T08:46:46Z
+100003130,100002098,Lucy,Roberts,lucy.roberts@bigdatateam.com,TRUE,2025-09-05T23:06:02Z
+100003131,100002099,Owen,Li,owen.li@techdatasol.co,TRUE,2025-09-05T02:29:40Z
+100003132,100000797,Grace,Vyas,grace.vyas@techverse.tech,FALSE,2025-09-05T16:26:00Z
+100003133,100001532,Logan,Owens,logan.owens@datadynamic.io,FALSE,2025-09-05T17:56:31Z
