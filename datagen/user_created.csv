@@ -3132,3 +3132,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003131,100002099,Owen,Li,owen.li@techdatasol.co,TRUE,2025-09-05T02:29:40Z
 100003132,100000797,Grace,Vyas,grace.vyas@techverse.tech,FALSE,2025-09-05T16:26:00Z
 100003133,100001532,Logan,Owens,logan.owens@datadynamic.io,FALSE,2025-09-05T17:56:31Z
+100003134,100002100,Elijah,Hill,elijah.hill@machinemindworks.io,TRUE,2025-09-06T07:51:54Z
+100003135,100002101,Avery,Reed,averyr@intelligenttechco.com,TRUE,2025-09-06T02:28:11Z
+100003136,100002102,Zoe,Evans,zoe.evans@aiinnovationco.com,TRUE,2025-09-06T18:59:03Z
+100003137,100002103,Miles,Prasad,miles.prasad@datacrunchix.com,TRUE,2025-09-06T06:25:27Z
+100003138,100000803,Camila,Banks,camila.banks@datalyze.info,FALSE,2025-09-06T17:28:49Z
+100003139,100001421,Joel,Chua,joel.chua@datatrust.io,FALSE,2025-09-06T20:05:42Z
