@@ -3144,3 +3144,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003143,100002107,Nathan,Wong,nathan@datalyticsdyna.com,TRUE,2025-09-07T17:52:40Z
 100003144,100000044,Michael,Martinez,michael.martinez@datagenie.com,FALSE,2025-09-07T15:31:14Z
 100003145,100001075,Luna,Rivera,luna.rivera@techdatasurge.com,FALSE,2025-09-07T00:52:30Z
+100003146,100002108,Maya,Singh,maya_singh@insightarray.com,TRUE,2025-09-08T05:54:45Z
+100003147,100002109,Riley,Wright,rileywright@techvisioninsight.com,TRUE,2025-09-08T22:12:25Z
+100003148,100002110,Amelia,Martinez,amartinez@anadataservices.com,TRUE,2025-09-08T14:01:35Z
+100003149,100002111,Ayla,Phan,ayla.phan@datasoftedge.com,TRUE,2025-09-08T09:23:49Z
+100003150,100002112,Leo,Nguyen,leo.nguyen@datatechline.com,TRUE,2025-09-08T20:40:03Z
+100003151,100001806,Quinn,Wang,quinn.wang@dataspark.tech,FALSE,2025-09-08T10:56:51Z
+100003152,100001777,Skylar,Butler,skylar.butler@analyticalinsightsinc.io,FALSE,2025-09-08T03:33:27Z
