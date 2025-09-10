@@ -3151,3 +3151,11 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003150,100002112,Leo,Nguyen,leo.nguyen@datatechline.com,TRUE,2025-09-08T20:40:03Z
 100003151,100001806,Quinn,Wang,quinn.wang@dataspark.tech,FALSE,2025-09-08T10:56:51Z
 100003152,100001777,Skylar,Butler,skylar.butler@analyticalinsightsinc.io,FALSE,2025-09-08T03:33:27Z
+100003153,100002113,Ava,Gupta,avagupta@datamentorinc.com,TRUE,2025-09-09T14:55:20Z
+100003154,100002114,Carter,Kennedy,carter.kennedy@cloudgenic.com,TRUE,2025-09-09T11:20:53Z
+100003155,100002115,Noah,Zhang,noah.zhang@neuralnetixco.com,TRUE,2025-09-09T21:47:40Z
+100003156,100002116,Charlotte,Wright,charlotte.wright@insighttechnologies.com,TRUE,2025-09-09T22:22:05Z
+100003157,100002117,Michael,Le,michael.le@datalinkage.biz,TRUE,2025-09-09T13:24:50Z
+100003158,100001191,Henry,Chen,henry.chen@datascientifyinc.com,FALSE,2025-09-09T12:23:20Z
+100003159,100000040,Madison,Chia,madison.chia@techvistix.ai,FALSE,2025-09-09T16:46:43Z
+100003160,100001068,Ethan,Torres,ethan.torres@cognoquest.ai,FALSE,2025-09-09T22:39:28Z
