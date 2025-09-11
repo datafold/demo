@@ -3159,3 +3159,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003158,100001191,Henry,Chen,henry.chen@datascientifyinc.com,FALSE,2025-09-09T12:23:20Z
 100003159,100000040,Madison,Chia,madison.chia@techvistix.ai,FALSE,2025-09-09T16:46:43Z
 100003160,100001068,Ethan,Torres,ethan.torres@cognoquest.ai,FALSE,2025-09-09T22:39:28Z
+100003161,100002118,Madison,Wright,madison.wright@datascope.io,TRUE,2025-09-10T09:34:02Z
+100003162,100002119,Olivia,Jones,olivia.jones@datavista.com,TRUE,2025-09-10T16:40:39Z
+100003163,100002120,Luna,Sinha,luna.sinha@datasceneai.com,TRUE,2025-09-10T14:01:15Z
+100003164,100002121,Elijah,Thomas,elijah.thomas@infoanalyze.ai,TRUE,2025-09-10T18:02:59Z
+100003165,100000370,Mason,Roberts,mason.roberts@cybermind.biz,FALSE,2025-09-10T01:05:08Z
+100003166,100000037,Ethan,Barnes,ethan.barnes@datasenseia.com,FALSE,2025-09-10T02:46:47Z
