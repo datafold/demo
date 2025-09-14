@@ -3177,3 +3177,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003176,100002129,Ellie,Fisher,ellie.fisher@aimindstech.com,TRUE,2025-09-12T05:01:25Z
 100003177,100000400,Felix,Rogers,felix.rogers@clouddatapulse.com,FALSE,2025-09-12T20:52:48Z
 100003178,100001407,Ivy,Garrett,ivy.garrett@technolytix.net,FALSE,2025-09-12T22:45:32Z
+100003179,100002130,Owen,Zheng,owen.zheng@techsmartify.com,TRUE,2025-09-13T01:44:49Z
+100003180,100002131,Sophia,Chen,sophia.chen@datadrivenbiz.com,TRUE,2025-09-13T21:40:20Z
+100003181,100002132,Ethan,Larson,ethan.larson@analyticwareinc.com,TRUE,2025-09-13T17:38:10Z
+100003182,100002133,Hazel,Kim,hazelkim@neuralnetworktechlabs.org,TRUE,2025-09-13T13:51:27Z
+100003183,100001706,Lucas,Reed,lucas.reed@datatekgroup.com,FALSE,2025-09-13T14:26:05Z
+100003184,100000261,Hannah,Sanders,hannah.sanders@intellidatacorp.com,FALSE,2025-09-13T13:55:33Z
+100003185,100001074,Everly,Huang,everly.huang@analytify.net,FALSE,2025-09-13T20:29:41Z
