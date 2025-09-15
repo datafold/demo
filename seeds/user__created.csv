@@ -3184,3 +3184,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003183,100001706,Lucas,Reed,lucas.reed@datatekgroup.com,FALSE,2025-09-13T14:26:05Z
 100003184,100000261,Hannah,Sanders,hannah.sanders@intellidatacorp.com,FALSE,2025-09-13T13:55:33Z
 100003185,100001074,Everly,Huang,everly.huang@analytify.net,FALSE,2025-09-13T20:29:41Z
+100003186,100002134,Gabriel,Yuan,gyuan@intellidata.com,TRUE,2025-09-14T12:43:29Z
+100003187,100002135,Jasper,Huang,jh@datadotcom.com,TRUE,2025-09-14T07:48:10Z
+100003188,100002136,Jaxon,Barua,jaxon.barua@datapolislabs.com,TRUE,2025-09-14T10:49:54Z
+100003189,100000476,Alice,Jones,alice.jones@cloudgeniustech.com,FALSE,2025-09-14T09:54:12Z
+100003190,100002095,Madison,Vo,madison.vo@embedixgroup.com,FALSE,2025-09-14T11:25:44Z
