@@ -3189,3 +3189,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003188,100002136,Jaxon,Barua,jaxon.barua@datapolislabs.com,TRUE,2025-09-14T10:49:54Z
 100003189,100000476,Alice,Jones,alice.jones@cloudgeniustech.com,FALSE,2025-09-14T09:54:12Z
 100003190,100002095,Madison,Vo,madison.vo@embedixgroup.com,FALSE,2025-09-14T11:25:44Z
+100003191,100002137,Nathan,Lopez,nathan.lopez@techmorphics.com,TRUE,2025-09-15T20:29:57Z
+100003192,100002138,Caleb,O'Connor,caleboconnor@datainnovationworks.co,TRUE,2025-09-15T15:59:13Z
+100003193,100002139,Penelope,Bai,penelope.bai@datacogitech.com,TRUE,2025-09-15T19:45:56Z
+100003194,100002140,Benjamin,Singh,benjamin.singh@intellifusionml.com,TRUE,2025-09-15T00:21:22Z
+100003195,100000896,Aria,Deng,aria.deng@smartdataiq.com,FALSE,2025-09-15T06:51:54Z
+100003196,100002107,Caleb,Nguyen,caleb.nguyen@datalyticsdyna.com,FALSE,2025-09-15T23:16:11Z
