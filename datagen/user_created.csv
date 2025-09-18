@@ -3203,3 +3203,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003202,100001246,Aria,Nguyen,aria.nguyen@aisolutionsgroup.com,FALSE,2025-09-16T21:20:46Z
 100003203,100000872,Isabella,Chow,isabella.chow@techrainlab.net,FALSE,2025-09-16T17:10:20Z
 100003204,100000179,Zoey,Jain,zoey.jain@datasciencecorp.com,FALSE,2025-09-16T05:34:46Z
+100003205,100002146,Ian,Tang,ian.tang@technovate.com,TRUE,2025-09-17T21:58:04Z
+100003206,100002147,Austin,Nguyen,austinn@intelligentdatahub.com,TRUE,2025-09-17T17:57:56Z
+100003207,100002148,Landon,Carter,landon.carter@datavista.co,TRUE,2025-09-17T05:07:54Z
+100003208,100002149,Lucas,Liu,lucas.liu@codealgorithmic.com,TRUE,2025-09-17T22:32:26Z
+100003209,100000477,Sophie,Wang,sophie.wang@techdynasty.com,FALSE,2025-09-17T09:15:50Z
+100003210,100000201,Eva,Martinez,eva.martinez@techmeta.com,FALSE,2025-09-17T13:59:56Z
