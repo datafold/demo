@@ -3209,3 +3209,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003208,100002149,Lucas,Liu,lucas.liu@codealgorithmic.com,TRUE,2025-09-17T22:32:26Z
 100003209,100000477,Sophie,Wang,sophie.wang@techdynasty.com,FALSE,2025-09-17T09:15:50Z
 100003210,100000201,Eva,Martinez,eva.martinez@techmeta.com,FALSE,2025-09-17T13:59:56Z
+100003215,100002154,Nancy,Lau,nancy.lau$techmindblaze.com,TRUE,2025-09-18T21:22:59Z
+100003211,100002150,Noah,Harrison,noah.harrison@smartmindconsulting.com,TRUE,2025-09-18T11:51:06Z
+100003212,100002151,Connor,Fowler,connor.fowler@datamindblocks.com,TRUE,2025-09-18T18:39:48Z
+100003213,100002152,Sage,Patil,sage.patil@datagilityco.com,TRUE,2025-09-18T03:54:04Z
+100003214,100002153,Ariana,Liu,ariana.liu@datagilitycorp.com,TRUE,2025-09-18T01:43:44Z
+100003216,100001549,Landon,Johnson,landon.johnson@analyzifycorp.com,FALSE,2025-09-18T00:27:04Z
+100003217,100001540,Aria,Song,aria.song@dataninjaforce.com,FALSE,2025-09-18T22:52:51Z
