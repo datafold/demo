@@ -3216,3 +3216,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003214,100002153,Ariana,Liu,ariana.liu@datagilitycorp.com,TRUE,2025-09-18T01:43:44Z
 100003216,100001549,Landon,Johnson,landon.johnson@analyzifycorp.com,FALSE,2025-09-18T00:27:04Z
 100003217,100001540,Aria,Song,aria.song@dataninjaforce.com,FALSE,2025-09-18T22:52:51Z
+100003218,100002155,Graham,Hu,graham.hu$techalgorithmsllc.com,TRUE,2025-09-19T06:53:29Z
+100003219,100002156,Gavin,Lewis,gavin.lewis@cloudtech.co,TRUE,2025-09-19T17:37:15Z
+100003220,100002157,Liam,Wong,liamw@innovatehub.com,TRUE,2025-09-19T22:04:21Z
+100003221,100002158,Jaxon,Gupta,jaxon.gupta@infotechsol.com,TRUE,2025-09-19T22:16:16Z
+100003222,100000341,Noah,Singhal,noah.singhal@datasparklabs.io,FALSE,2025-09-19T09:21:28Z
+100003223,100000555,Grayson,Deshpande,grayson.deshpande@intellitronixai.com,FALSE,2025-09-19T01:18:34Z
