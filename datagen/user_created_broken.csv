@@ -3236,3 +3236,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003235,100001721,Sophia,Chu,sophia.chu@analyticinsightslab.com,FALSE,2025-09-21T16:03:30Z
 100003236,100000308,Ryder,Le,ryder.le@intelligencetechsys.com,FALSE,2025-09-21T07:19:21Z
 100003237,100001412,Zoey,Singh,zoey.singh@datanamics.io,FALSE,2025-09-21T15:16:01Z
+100003239,100002169,Jack,Gray,jack.gray$datasolutionworks.com,TRUE,2025-09-22T17:20:07Z
+100003238,100002168,Orion,Shadows,orion.shadows@datatech.io,TRUE,2025-09-22T09:34:37Z
+100003240,100002170,Mason,Young,mason.young@biginsightsco.com,TRUE,2025-09-22T04:00:23Z
+100003241,100002171,Emilia,Yao,emilia.yao@quantumdatagroup.com,TRUE,2025-09-22T06:49:23Z
+100003242,100000010,Carter,Zhou,carter.zhou@aialytics.io,FALSE,2025-09-22T01:31:55Z
+100003243,100001734,Camila,Li,camila.li@techcoreai.com,FALSE,2025-09-22T20:16:37Z
