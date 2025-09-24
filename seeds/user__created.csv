@@ -3242,3 +3242,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003241,100002171,Emilia,Yao,emilia.yao@quantumdatagroup.com,TRUE,2025-09-22T06:49:23Z
 100003242,100000010,Carter,Zhou,carter.zhou@aialytics.io,FALSE,2025-09-22T01:31:55Z
 100003243,100001734,Camila,Li,camila.li@techcoreai.com,FALSE,2025-09-22T20:16:37Z
+100003244,100002172,Mark,Koh,mark.koh@techsense.com,TRUE,2025-09-23T04:03:44Z
+100003245,100002173,James,Li,james.li@datagenius.com,TRUE,2025-09-23T23:52:11Z
+100003246,100002174,Caleb,Avila,c.avila@aisphereinc.com,TRUE,2025-09-23T13:57:17Z
+100003247,100002175,Juno,Ito,juno.ito@neurobyteco.com,TRUE,2025-09-23T18:36:30Z
+100003248,100002108,Claire,White,claire.white@insightarray.com,FALSE,2025-09-23T11:34:33Z
+100003249,100000226,Olivia,Wang,olivia.wang@dataspringtech.com,FALSE,2025-09-23T14:08:21Z
