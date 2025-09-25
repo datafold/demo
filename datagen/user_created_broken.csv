@@ -3248,3 +3248,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003247,100002175,Juno,Ito,juno.ito@neurobyteco.com,TRUE,2025-09-23T18:36:30Z
 100003248,100002108,Claire,White,claire.white@insightarray.com,FALSE,2025-09-23T11:34:33Z
 100003249,100000226,Olivia,Wang,olivia.wang@dataspringtech.com,FALSE,2025-09-23T14:08:21Z
+100003250,100002176,Emma,Patel,epatel@datascienceminds.com,TRUE,2025-09-24T10:18:01Z
+100003251,100002177,Violet,Vu,vvu@insightvistadata.com,TRUE,2025-09-24T09:16:49Z
+100003252,100002178,Hudson,Lau,hudson.lau@analyzerise.com,TRUE,2025-09-24T04:56:07Z
+100003253,100002179,Daniel,Cheng,daniel.cheng@watsonanalytic.com,TRUE,2025-09-24T22:18:26Z
+100003254,100002180,Mia,Thompson,mia.thompson@cybernetixinc.tech,TRUE,2025-09-24T12:47:51Z
+100003255,100002006,Quincy,Yan,quincy.yan@byteflow.com,FALSE,2025-09-24T16:44:33Z
