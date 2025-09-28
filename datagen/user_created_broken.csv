@@ -3267,3 +3267,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003266,100002189,Adam,Harvey,ad.harvey@datasenseai.io,TRUE,2025-09-26T10:09:48Z
 100003267,100001346,Andrew,Tang,andrew.tang@cybermindworks.com,FALSE,2025-09-26T04:08:46Z
 100003268,100000076,Avery,Zhou,avery.zhou@aihub.pro,FALSE,2025-09-26T13:25:42Z
+100003269,100002190,Tristan,Bowman,tristan.bowman@mindfulaiworks.com,TRUE,2025-09-27T16:02:27Z
+100003270,100002191,Matthew,Fletcher,mattfletcher@datascienceminds.tech,TRUE,2025-09-27T01:01:16Z
+100003271,100002192,Ava,Patel,ava.patel@datavizioncorp.com,TRUE,2025-09-27T18:11:04Z
+100003272,100002193,Ethan,Lee,ethan.lee@intelliscan.co,TRUE,2025-09-27T00:24:38Z
+100003273,100001538,Ella,Adams,ella.adams@codeinsights.co,FALSE,2025-09-27T21:26:44Z
+100003274,100001239,Henry,Harrison,henry.harrison@analytickedu.com,FALSE,2025-09-27T23:31:50Z
