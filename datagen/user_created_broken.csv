@@ -3280,3 +3280,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003279,100002198,Hannah,Reid,hannah.reid@dataalchemytech.com,TRUE,2025-09-28T03:03:31Z
 100003280,100002104,Mabel,Cooper,mabel.cooper@dataview.co,FALSE,2025-09-28T04:05:56Z
 100003281,100001945,Astrid,Royce,astrid.royce@techgeniustech.com,FALSE,2025-09-28T10:52:12Z
+100003282,100002199,Hannah,Singh,hannah.singh@datadigmfoundry.net,TRUE,2025-09-29T20:46:49Z
+100003283,100002200,Connor,Huang,connor.huang@innovativedata.com,TRUE,2025-09-29T04:01:11Z
+100003284,100002201,Nathan,Baker,nathanbaker@datainsightco.com,TRUE,2025-09-29T11:56:06Z
+100003285,100001826,Aria,Torres,aria.torres@analytixgenia.com,FALSE,2025-09-29T13:18:16Z
+100003286,100000564,Jasper,Brown,jasper.brown@insightize.com,FALSE,2025-09-29T18:23:50Z
