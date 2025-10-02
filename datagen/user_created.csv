@@ -3290,3 +3290,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003289,100002204,Sadie,Venkataraman,s.venkataraman@aiaccelerant.com,TRUE,2025-09-30T07:22:39Z
 100003290,100002177,Ryan,Garcia,ryan.garcia@insightvistadata.com,FALSE,2025-09-30T19:17:01Z
 100003291,100001029,Benjamin,Li,benjamin.li@datadroids.com,FALSE,2025-09-30T06:54:07Z
+100003292,100002205,Avery,Deng,avery.deng@datasciencedrive.net,TRUE,2025-10-01T23:55:48Z
+100003293,100002206,Ethan,Jones,ethan.jones@datanalytix.co,TRUE,2025-10-01T11:36:34Z
+100003294,100002207,Elijah,Chopra,elijah.chopra@neuralinsightsinc.com,TRUE,2025-10-01T19:16:51Z
+100003295,100001396,Leah,Adams,leah.adams@techanalytix.co,FALSE,2025-10-01T03:38:32Z
+100003296,100000783,Avery,Singh,avery.singh@digianalyticsgroup.com,FALSE,2025-10-01T12:57:03Z
