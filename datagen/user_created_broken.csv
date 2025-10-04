@@ -3300,3 +3300,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003299,100002210,Ivy,Kwan,ivy.kwan@datavivaconnect.com,TRUE,2025-10-02T13:54:28Z
 100003300,100000661,Harper,Rivera,harper.rivera@datamancersinc.com,FALSE,2025-10-02T19:07:48Z
 100003301,100000751,Sophia,Li,sophia.li@techdataquest.com,FALSE,2025-10-02T11:19:30Z
+100003302,100002211,Aaron,White,aaron.white@aiinnovateworks.com,TRUE,2025-10-03T10:44:47Z
+100003303,100002212,William,Xu,william.xu@bigdataanalyticsco.com,TRUE,2025-10-03T21:28:32Z
+100003304,100002213,Oliver,Garcia,olivergarcia@datasyncworks.com,TRUE,2025-10-03T06:51:55Z
+100003305,100002214,Sophie,Walsh,sophie.walsh@datalinkage.ai,TRUE,2025-10-03T13:52:39Z
+100003306,100001708,Luna,Leung,luna.leung@techcognitiveresearch.com,FALSE,2025-10-03T18:31:20Z
