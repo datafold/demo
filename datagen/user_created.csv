@@ -3312,3 +3312,10 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003311,100001244,James,Kumar,james.kumar@synthetixlaboratories.com,FALSE,2025-10-04T15:28:56Z
 100003312,100001169,Luna,Singh,luna.singh@analytitechdata.com,FALSE,2025-10-04T13:47:36Z
 100003313,100002104,Sophie,Gao,sophie.gao@dataview.co,FALSE,2025-10-04T02:03:05Z
+100003314,100002219,Ella,Avila,ella.avila@datumcrafting.com,TRUE,2025-10-05T08:24:56Z
+100003315,100002220,Penelope,Huang,penelope.huang@datalytico.co,TRUE,2025-10-05T14:19:37Z
+100003316,100002221,Esme,Liu,esme.liu@neuroinfoexchange.com,TRUE,2025-10-05T07:46:47Z
+100003317,100002222,Grant,Chen,grant.chen@datasensewave.com,TRUE,2025-10-05T23:04:11Z
+100003318,100002223,Henry,Thompson,henrythompson@uniteddatasolutions.com,TRUE,2025-10-05T07:44:11Z
+100003319,100001140,David,Tam,david.tam@datamavenlab.com,FALSE,2025-10-05T14:39:12Z
+100003320,100000944,Ian,Chen,ian.chen@analyticinsighttech.com,FALSE,2025-10-05T15:09:04Z
