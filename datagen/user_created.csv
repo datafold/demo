@@ -3319,3 +3319,9 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003318,100002223,Henry,Thompson,henrythompson@uniteddatasolutions.com,TRUE,2025-10-05T07:44:11Z
 100003319,100001140,David,Tam,david.tam@datamavenlab.com,FALSE,2025-10-05T14:39:12Z
 100003320,100000944,Ian,Chen,ian.chen@analyticinsighttech.com,FALSE,2025-10-05T15:09:04Z
+100003321,100002224,Camila,Lau,camilalau@dataspark.biz,TRUE,2025-10-06T07:05:48Z
+100003322,100002225,Brynn,Rodriguez,brynn.rodriguez@datamount.ai,TRUE,2025-10-06T13:33:30Z
+100003323,100002226,Leo,Garcia,leo.garcia@brightdataeng.com,TRUE,2025-10-06T03:59:54Z
+100003324,100002227,Carter,Grant,carter.grant@datalytics.io,TRUE,2025-10-06T07:19:33Z
+100003325,100000508,Avery,Vyas,avery.vyas@datatechworks.com,FALSE,2025-10-06T13:19:16Z
+100003326,100001995,Alice,Grey,alice.grey@algorasmartsystems.net,FALSE,2025-10-06T09:13:18Z
