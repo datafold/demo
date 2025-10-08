@@ -3325,3 +3325,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003324,100002227,Carter,Grant,carter.grant@datalytics.io,TRUE,2025-10-06T07:19:33Z
 100003325,100000508,Avery,Vyas,avery.vyas@datatechworks.com,FALSE,2025-10-06T13:19:16Z
 100003326,100001995,Alice,Grey,alice.grey@algorasmartsystems.net,FALSE,2025-10-06T09:13:18Z
+100003327,100002228,Isaac,Chu,isaac.chu@infotechwave.com,TRUE,2025-10-07T14:48:17Z
+100003328,100002229,Lola,Das,lola.das@techbytegroup.com,TRUE,2025-10-07T14:14:26Z
+100003329,100002230,Isabella,Anderson,isabella.anderson@datasculptors.org,TRUE,2025-10-07T00:25:30Z
+100003330,100001910,Samantha,Stone,samantha.stone@datalyzeai.com,FALSE,2025-10-07T20:44:08Z
+100003331,100000732,William,Gomez,william.gomez@codeintelligenceco.com,FALSE,2025-10-07T20:39:15Z
