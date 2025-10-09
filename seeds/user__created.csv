@@ -3330,3 +3330,8 @@ user_id,org_id,first_name,last_name,email,is_first_user,created_at
 100003329,100002230,Isabella,Anderson,isabella.anderson@datasculptors.org,TRUE,2025-10-07T00:25:30Z
 100003330,100001910,Samantha,Stone,samantha.stone@datalyzeai.com,FALSE,2025-10-07T20:44:08Z
 100003331,100000732,William,Gomez,william.gomez@codeintelligenceco.com,FALSE,2025-10-07T20:39:15Z
+100003332,100002231,Max,Wong,max.wong@analyticaconnect.com,TRUE,2025-10-08T02:19:26Z
+100003333,100002232,Ryan,Rogers,ryanrogers@datadriveninsight.com,TRUE,2025-10-08T17:06:38Z
+100003334,100002233,Luke,Singh,lsingh@techsynthetics.com,TRUE,2025-10-08T20:32:17Z
+100003335,100000969,Ethan,Cheng,ethan.cheng@datavantagex.com,FALSE,2025-10-08T23:47:32Z
+100003336,100000418,Liam,Zhou,liam.zhou@dataviewsolutions.com,FALSE,2025-10-08T02:13:48Z
