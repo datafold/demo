@@ -10,7 +10,7 @@ WITH org_events AS (
      , b.activity
   FROM {{ ref('dim__orgs') }} a
   LEFT JOIN {{ ref('feature__used') }} b on a.org_id = b.org_id
-  WHERE sub_plan IS NULL 
+  WHERE sub_plan IS NULL or sub_plan = 'Individual'
 )
 
 , final AS (
