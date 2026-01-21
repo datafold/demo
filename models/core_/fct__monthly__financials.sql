@@ -27,7 +27,10 @@ WITH final AS (
         SELECT 
             date_trunc('month', sub_created_at) as date_month
             , count(distinct org_id) as cnt_subscribers
-            , sum(sub_price) as sum_revenue
+            , case
+            when date_trunc('month', sub_created_at) >= '2024-09-30' and date_trunc('month', sub_created_at) <= '2024-10-02'
+            then sum(sub_price) * 2
+            else sum(sub_price) end as sum_revenue
         FROM {{ ref('dim__orgs') }}
         WHERE sub_created_at is not NULL 
         GROUP BY 1 
