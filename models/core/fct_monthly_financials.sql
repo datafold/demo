@@ -1,3 +1,4 @@
+-- Monthly subscriber and revenue rollup
 WITH final AS (
     -- SELECT 
     --     date_trunc('month', sub_created_at) as date_month
@@ -13,6 +14,7 @@ WITH final AS (
             date_trunc('month', sub_created_at) as date_month
             , count(distinct org_id) as cnt_subscribers
             , sum(sub_price) as sum_revenue
+            , 'test' as test_column
         FROM {{ ref('dim_orgs') }}
         WHERE sub_created_at is not NULL 
         GROUP BY 1 
@@ -22,6 +24,7 @@ WITH final AS (
             date_trunc('month', sub_created_at) as date_month
             , count(distinct org_id) as cnt_subscribers
             , sum(sub_price) as sum_revenue
+            , 'test' as test_column
         FROM {{ ref('dim_orgs') }}
         WHERE sub_created_at is not NULL 
         GROUP BY 1 
@@ -30,7 +33,8 @@ WITH final AS (
         SELECT
           TIMESTAMP_TRUNC(sub_created_at, month) AS date_month,
           COUNT(DISTINCT org_id) AS cnt_subscribers,
-          SUM(sub_price) AS sum_revenue
+          SUM(sub_price) AS sum_revenue,
+          'test' AS test_column
         FROM {{ ref('dim_orgs') }}
         WHERE NOT sub_created_at IS NULL
         GROUP BY 1
@@ -40,6 +44,7 @@ WITH final AS (
             date_trunc('month', sub_created_at) as date_month
             , count(distinct org_id) as cnt_subscribers
             , sum(sub_price) as sum_revenue
+            , 'test' as test_column
         FROM {{ ref('dim_orgs') }}
         WHERE sub_created_at is not NULL 
         GROUP BY 1 
